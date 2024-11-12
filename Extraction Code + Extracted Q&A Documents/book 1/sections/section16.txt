@@ -1,0 +1,58 @@
+MACHINE CONTROLS
+3-25 SW405K Wheel Loader OMMFire Extinguisher
+0004835Figure 3-53
+NOTICE!
+  • Always keep the fire extinguisher in the cab.
+  • Read the instructions on the fire extinguisher 
+carefully and know how to use it in an emergency.
+  • Inspect the condition of the fire extinguisher 
+daily. Replace it immediately if damaged.
+  • Make sure the fire extinguisher is within the 
+listed inspection period. Re place it immediately if 
+it has reached its expiration date.
+The fire extinguisher (1) is located to the right of the 
+operator seat.
+The fire extinguisher must be at least a 2.5 lb. Class ABC 
+rated fire extinguisher (National Fire Protection Association [NFPA] 10 Standard for Portable Fire Extinguishers).
+Escape Tool
+0004834Figure 3-54WARNING
+Be extremely careful of shards of glass if a window is broken. Failure to observe this warning could result in death or serious injury.
+If the cab door or windshield cannot be opened during an 
+emergency, the escape tool (1) can be used to break the rear window to provide an alternate exit.
+The escape tool can also be used to cut the seat belt if 
+the seat belt buckle cannot be released.
+Dome Light 
+0000833Figure 3-55
+The roof-mounted dome light inside the cab is controlled 
+by the slide switch (1). Slide t he switch right to turn it ON 
+or left to turn it OFF.
+Sun Shade 
+0002533Figure 3-56
+1
+1
+1
+1
+
+3-26MACHINE CONTROLS
+SW405K Wheel Loader OMMFuses 
+NOTICE!
+A fuse should be replaced if it is corroded or 
+becomes loose in the fuse block.
+Before replacing a fuse, make sure the key switch 
+is in the OFF position and the batteries are disconnected.
+Always replace a fuse with one of the same 
+amperage. Never replace a fuse with one of a higher amperage.
+Failure to observe and follow this notice can 
+damage the machine or cause it to operate improperly.
+0004853Figure 3-57
+The ePower module fuse block (2) and Vehicle Electrical 
+Center (VEC) fuse block (1) are in the electrical 
+compartment. See “Electrical Compartment Access 
+Door” on page 3-5 for access.0004860Figure 3-58
+The battery compartment fuse block (3) is inside the 
+battery compartment. See “Battery Compartment Cover” on page 3-7 for access.
+See “Inspect the Fuses” on page 5-25 for fuse locations, 
+circuits, and amperages.
+12
+3
+

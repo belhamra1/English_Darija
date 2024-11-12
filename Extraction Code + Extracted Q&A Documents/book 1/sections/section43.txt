@@ -1,0 +1,19 @@
+SPECIFICATIONS
+6-3 SW405K Wheel Loader OMMItem Description Value
+1 Height to axle centerline 1 ft. 5 in. (440 mm)
+2 Height to top of cab 11 ft. 7 in. (3527 mm)
+3 Centerline of rear axle to edge of counterweight 7 ft. 8 in. (2330 mm)
+4 Wheelbase 10 ft. 6 in. (3200 mm)5 Centerline of front axle to center pivot 5 ft. 3 in. (1600 mm)
+6 Shipping length without attachments 22 ft. 6 in. (6862 mm)
+7 Shipping length with bucket 26 ft. 8 in. (8142 mm)8 Maximum dump height 17 ft. 10 in. (5441 mm)
+9 Hinge pin height at maximum lift 13 ft. 6 in. (4133 mm)
+10 Dump clearance at maximum lift 10 ft. 3 in. (3118 mm)11 Dig depth, level bucket 2.2 in. (56 mm)
+12 Reach at maximum lift and 45º discharge 3 ft. 9 in. (1140 mm)
+13 Roll back at maximum lift 58°14 Dump angle at maximum lift and dump 45°
+15 Roll back at carry height 51°
+16 Roll back at ground 45°17 Tail angle to the rear wheel 27°
+18 Clearance circle to outside of tires 19 ft. (5800 mm)
+19 Clearance circle to counterweight 19 ft. 5 in. (5911 mm)20 Maximum circle 21 ft. 2 in. (6456 mm)
+21 Width of the bucket 9 ft. 10 in. (3000 mm)
+22 Width 7 ft. 3 in. (2200 mm)23 Articulation angle 40°
+

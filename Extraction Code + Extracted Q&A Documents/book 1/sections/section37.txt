@@ -1,0 +1,158 @@
+MAINTENANCE
+5-35 SW405K Wheel Loader OMMHydraulic System
+Check the Hydraulic Oil Level
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+0005089Figure 5-72
+1. Check the hydraulic oil level in the sight glass (1) on 
+the left side of the machine behind the cab.
+2. The sight glass has high (2) and low (3) level marks.
+NOTICE!
+Do not add hydraulic oil to a level above the high 
+level mark on the hydraulic tank sight glass. This could result in machine damage and improper machine operation.
+NOTE: Add hydraulic oil if the o il level is below the low 
+mark on the hydraulic tank sight glass.
+Add Hydraulic Oil
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Relieve the hydraulic system pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.0002515Figure 5-73
+4. Remove four fasteners (1) and the access panel (2).
+0002714Figure 5-74
+NOTE: The hydraulic tank  filler cover may move up while 
+the fasteners are loosened due to the action of an internal spring.
+5. Slowly remove the fasteners (4) while pressing on 
+the hydraulic tank filler cover (3).
+6. Remove the hydraulic  tank filler cover.
+1
+2
+3
+21
+1
+3
+4
+4
+
+5-36MAINTENANCE
+SW405K Wheel Loader OMM0002715Figure 5-75
+7. Inspect the O-ring (5). Replace if missing or 
+damaged.
+0005089Figure 5-76
+8. Add hydraulic oil until the level is between the high 
+and low level marks on the hydraulic tank sight glass (6). See “Check the Hydraulic Oil Level” on 
+page 5-35.
+9. Install the hydraulic tank filler cover and access 
+panel.
+10. Turn the battery disconnect switch to the ON 
+position. See “Battery Disconnect Switch” on page 3-8.
+11. Start the engine.12. Run the engine for 10 minutes.13. Shut down the engine and check for leaks.14. Recheck the hydraulic oil level.Check Hydraulic Connections
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Lower the work equipment to the ground.3. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+NOTE: Replace hoses if cracked, damaged, or worn.
+4. Inspect all hydraulic hoses and tubes for cracks, 
+damage, or abnormal wear.
+5. Check fittings at both ends of all flexible hoses.6. Inspect all fitting locations and replace any damaged 
+or defective fittings.
+NOTE: The fasteners at each end of these hoses may 
+loosen occasionally due to vibration. Do not use thread sealant when tightening loose fittings and installing new fittings.
+7. Tighten any loose fasteners.
+Relieve Hydraulic System Pressure
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve pressure to prevent injury.
+Failure to follow these warnings could result in 
+death or serious injury.
+1. Park the machine on a level surface and lower all 
+equipment to the ground.
+2. Shut down the engine.3. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+4. Turn the key switch to ON.5. Fully cycle all hydraulic controls two to three times 
+within 15 seconds to release pressure remaining in the hydraulic system.
+6. Turn the key switch to OFF.
+5
+6
+
+MAINTENANCE
+5-37 SW405K Wheel Loader OMM0002513Figure 5-77
+7. Remove the wing nut (1) from the breather valve.
+0002518Figure 5-78
+8. Press the vent button (2) to relieve pressure from the 
+hydraulic tank.
+9. Install the wing nut.
+Change the Hydraulic Oil
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Lower the work equipment to the ground.3. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these warnings could result in 
+death or serious injury.
+4. Relieve the hydraulic system pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.0002730Figure 5-79
+NOTE: For the hydraulic tank capacity, see “Location, 
+Capacity, and Type” on page 5-6.
+5. Place an appropriately sized container under the 
+hydraulic tank drain block (1) on the left side of the machine on the inside of the rear frame.
+NOTICE!
+Dispose of used hydraulic oil in compliance with all applicable environmental regulations. Failure to do so could damage the environment.
+6. Remove the drain plug (2). Allow the tank to 
+completely drain of all hydraulic oil.
+7. Install the drain plug.
+0005089Figure 5-80
+8. Add hydraulic oil to the system until the hydraulic oil 
+level is between the low and high level marks on the sight glass (3). See “Check the Hydraulic Oil Level” on page 5-35.
+9. Start the engine.10. Run the engine for 10 minutes.11. Shut down the engine and check for leaks.12. Recheck the hydraulic oil level.
+1
+2
+21
+3
+
+5-38MAINTENANCE
+SW405K Wheel Loader OMMReplace the Hydraulic Oil Return Filter 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Lower the work equipment to the ground.3. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+4. Relieve the hydraulic system pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.
+.
+0002721Figure 5-81
+5. Remove four fasteners (1) and both the right (2) and 
+left (3) air intake collars.0004879Figure 5-82
+6. Remove 10 fastener covers (4), fasteners (5), and 
+the top panel (6).
+0004876Figure 5-83
+NOTICE!
+Block the opening whenever the cover is removed to prevent dirt and debris from entering the hydraulic tank.
+7. Remove four fasteners (7) and the hydraulic oil 
+return filter cover (8).
+1231
+44
+4
+64
+455
+5
+5545
+8
+7
+7
+

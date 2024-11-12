@@ -1,0 +1,96 @@
+3-38MACHINE CONTROLS
+SW405K Wheel Loader OMMLanguage Change Screens 
+0004895Figure 3-104
+Press the F2 function button (1) on the Home screen to 
+access the Language Change screen options.
+0004922Figure 3-105
+NOTE: The six options on the Language Change Screen 
+are accessed by pressing the function buttons on 
+the right side of the monitor.
+1. Press the function button next to the down arrow icon 
+(2), as needed, to select the desired option. 
+2. Press the function button next to the check mark icon 
+(3) to accept the Language Change option selected.
+3. Press the function button next to the return arrow 
+icon (4) to return to the previous screen.
+0000967Figure 3-106The Language Change screen displays two languages, 
+Chinese and English. Use the f unction buttons next to the 
+up arrow icon (5) or down arrow icon (2) to select the desired language. Press the function button next to the check mark icon (3) to ac cept the selected language.
+Press the function button next to the return arrow icon (4) 
+to return to the previous screen.
+Program Version Screen
+The Program Version screen (not shown) is password protected. This screen is for use by authorized SANY technicians.
+Current Characteristic Screen
+The Current Characteristic screen (not shown) is 
+password protected. This screen is for use by authorized SANY technicians.
+Emergency Steering Screen
+The Emergency Steering screen (not shown) is password protected. This screen is for use by authorized SANY technicians.
+Boom (Arm) Height Setting Screen
+The Boom (Arm) Height Setting screen (not shown) is password protected. This screen is for use by authorized SANY technicians.
+Control Handle Select Screen
+The Control Handle Select screen (not shown) is password protected. This screen is for use by authorized SANY technicians.
+Fault Information Screens 
+0004895Figure 3-107
+Press the F3 function button (1) on the Home screen to 
+access the fault information screens.1
+2Language Change
+Program Version
+Current Characteristic
+Emergency Steering
+Arm height Setting
+Control handle select3
+4
+Chinese System
+English SystemLanguage Change 51
+
+MACHINE CONTROLS
+3-39 SW405K Wheel Loader OMM0004921Figure 3-108
+NOTE: The four options on the Fault Information screen 
+are accessed by pressing the function buttons on 
+the right side of the monitor.
+1. Press the function button next to the down (2) arrow 
+to scroll through the fault information screen options.
+2. Press the function button next to the check mark icon 
+(3) to accept the selected option.
+3. Press the function button next to the return arrow (4) 
+to return to the previous screen.
+Vehicle Fault Info (Information) Screen
+0004921Figure 3-109
+The Vehicle Fault Info (information) screen displays a list 
+of current vehicle faults. No  faults will be displayed if 
+none are present.
+Press the function button next to the return arrow icon (1) 
+to return to the previous screen.Engine Fault Code (Information) Screen
+0004920Figure 3-110
+The Engine Fault Code screen displays a list of current 
+engine faults. No faults will be displayed if none are 
+present.
+Press the function button next to the return arrow icon (1) 
+to return to the previous screen.
+Transmission Fault Info (Information) Screen
+0002461Figure 3-111
+The transmission fault info (information) screen displays 
+a list of current transmission faults. No faults will be 
+displayed if none are present.
+Press the function button next to the return arrow icon (1) 
+to return to the previous screen.
+Diagnostic Info (information) Screen
+The Diagnostic Info (information) screen (not shown) displays a password input scre en. This screen is for use 
+by authorized SANY technicians.2
+3
+4Vehicle Fault Info
+Engine Fault Info
+Transmission Fault Info
+Diagnostic Info(Password Needed)
+1Vehicle Fault Info
+Engine Fault Info
+Transmission Fault Info
+Diagnostic Info(Password Needed)1Engine Fault Code
+SPN:
+FMI:Num ltem
+ltem Total
+Transmission Fault info
+SPN:
+FMI:Num ltem
+ltem Total1
+

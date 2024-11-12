@@ -1,0 +1,137 @@
+MAINTENANCE
+5-19 SW405K Wheel Loader OMM00
+0005091Figure 5-25
+4. Remove two fasteners (1) and pull crankcase 
+breather (2) away from the engine.
+5. Use a pliers to squeeze hose clamp tabs (3) and 
+remove breather hose (4) from the crankcase breather.
+6. Install the new gasket (5) onto the new crankcase 
+breather.
+7. Install the breather hose onto the crankcase breather 
+and secure with clamp.
+8. Secure crankcase breather to the engine with two 
+fasteners.
+Engine Cooling System
+Check/Add Engine Coolant
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on 
+page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0002488Figure 5-264. Locate the coolant expansion tank on top of the 
+radiator. Check the engine coolant level in the sight glass (1).
+0004892Figure 5-27
+WARNING
+Engine coolant is toxic. Avoid inhaling or ingesting engine coolant. If eyes or skin are contaminated by engine coolant, wash the affected area with plenty of water and seek medical treatment immediately.
+Do not remove the expansi on tank filler cap while 
+the engine is hot. Engine coolant may be under pressure when the engine is hot. Avoid contact with hot engine coolant. Allow the engine to cool 
+before removing the radiator cap.
+Failure to follow these warnings could result in 
+death or serious injury.
+5. On top of the machine, ope n the expansion tank filler 
+cap door (3). If additional engine coolant is required, slowly open the expansion tank filler cap (2) to 
+release any pressure from the expansion tank.
+6. Add coolant through the ex pansion tank filler, then 
+install the expansion tank filler cap. See “Engine Coolant” on page 5-8 for recommended coolant.
+7. Start and run the engine at low idle until it reaches 
+normal operating temperature.
+8. Shut down the engine, allow it to cool, then repeat 
+these steps as needed.
+Change the Engine Coolant
+WARNING
+Engine coolant is toxic. Avoid inhaling or ingesting engine coolant. If eyes or skin are contaminated by coolant, wash the affected area with plenty of water and seek medical treatment immediately.
+1
+2
+345
+1
+2
+3
+
+5-20MAINTENANCE
+SW405K Wheel Loader OMMDo not remove the expansion tank filler cap while 
+the engine is hot. Engine coolant may be under pressure when the engine is hot. Avoid contact with hot engine coolant. Allow the engine to cool before removing the radiator cap.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+0004892Figure 5-28
+3. On top of the machine, op en the expansion tank filler 
+cap door (2). Slowly open  the expansion tank filler 
+cap (1) to release cooling system pressure from the expansion tank.
+4. Remove the expansion tank filler cap when all 
+pressure has been relieved.
+5. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+6. Open the radiator/oil cooler access door. See 
+“Radiator and Oil Cooler Access Door” on page 3-7.0004658Figure 5-29
+7. Place an appropriately sized container under the 
+radiator drain hose (2). For radiator capacity, see “Location, Capacity, and Type” on page 5-6.
+8. Open the radiator drain valve (3).9. Allow the engine coolant to completely drain into the 
+container.
+NOTICE!
+Dispose of engine coolant in accordance with all applicable environmental regulations. Failure to follow this notice could damage the environment.
+10. Close the radiator drain valve after the cooling 
+system is empty.
+11. Add new engine coolant directly into the expansion 
+tank filler neck until the coolant level reaches the 
+bottom of the filler neck.
+12. Start the engine and run it at low idle for about 
+5 minutes to allow the engine coolant to circulate.
+13. Shut down the engine.
+14. Check the engine coolant level. See “Check/Add 
+Engine Coolant” on page 5-19.
+1
+2
+3
+2
+
+MAINTENANCE
+5-21 SW405K Wheel Loader OMMClean Radiator and Oi l Cooler Fins   
+NOTE: The engine must be shut down to perform this 
+procedure.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Open the radiator and oil cooler access door. See 
+“Radiator and Oil Cooler Access Door” on page 3-7.
+WARNING
+  • Compressed air can cause serious injury or 
+death. Do not allow compressed air to come into contact with skin. Always wear goggles, gloves, and other personal prot ective equipment (PPE).
+  • Compressed air can damage the cooling fins if 
+the nozzle is too close to the fins. To prevent cooling fin damage, keep the nozzle a safe distance away while cleaning.
+  • Never direct compressed air directly into the 
+cooling fins. Damaged cooling fins may lead to coolant leaks and engine overheating. In dusty environments, inspect th e cooling fins daily 
+regardless of the maintenance schedule.
+Failure to follow these warnings could result in 
+serious injury or da mage to the machine.
+0004895Figure 5-30
+3. On the Home screen, press the function button (1) at 
+the right to access the Calibration and Operation Screens.0000956Figure 5-31
+4. Press the function button up (2) or down (3) arrow 
+icons to highlight the Operation Screen (5) option. Press the function button (4) next to the check mark icon to access the Operation Screen.
+0000970Figure 5-32
+5. Press the function button up (6) or down (7) arrow 
+icons to highlight the Change fan direction (9) option. Press the function button next to the check mark icon (8) to choose the option.
+0000903Figure 5-33
+6. Press the function button next to the up or down 
+arrow icons to select the counterclockwise (10) fan rotation direction.
+NOTE: The counterclockwise fan rotation direction should 
+only be used when cleaning the radiator.
+12
+3
+4
+5
+Change fan direction
+Standstill regeneration release
+Quick change power
+Mode P/E9
+876
+Set during maitenance, please stop
+engine first, then change fan direction!
+Clockwise
+Counter-clockwiseChange fan direction
+10
+

@@ -1,0 +1,114 @@
+MACHINE CONTROLS
+3-9 SW405K Wheel Loader OMMCab 
+0004661Figure 3-16
+1) Front control console 10) Joystick controller
+2) Steering wheel 11) Steering column tilt lock lever
+3) Lower front switch panel 12) Neutral lock lever
+4) Upper switch panel 13) Accelerator pedal5) Lower rear switch panel 14) Right brake pedal
+6) Key switch/transmission shift selector dial panel 15) Transmission control lever
+7) Climate control panel 16) Left brake pedal8) Seat 17) Differential lock switch
+9) Armrest
+128
+74
+63
+13
+14
+17910
+1511
+12
+165
+
+3-10MACHINE CONTROLS
+SW405K Wheel Loader OMMAccelerator Pedal
+1
+0004846Figure 3-17
+The accelerator pedal (1) is used to adjust engine speed.
+Press the accelerator pedal to increase engine speed, 
+and release the accelerator pedal to decrease engine speed.
+Front Differential Lock Switch 
+0004847Figure 3-18
+The front differential lock switch (1) is on the far left on the floor of the cab.
+When added traction is needed for off-road operations, 
+such as operating on gravel, mud, or snow, the front differential lock can be engaged.
+Press and hold the switch to engage the front differential 
+lock and release the switch to disengage it.Right and Left Brake Pedals 
+0004664Figure 3-19
+Press the left or right service brake pedals (1) to apply the service brakes to slow or stop the machine. The pedals are coupled, and either pedal can be used to slow or stop the machine.
+In the case of engine failure, the accumulator can provide 
+a limited supply of pressurized hydraulic oil for emergency braking.
+Front Console
+0004848Figure 3-20
+The front console houses the monitor (1), which displays 
+various machine operational parameters and the operating system menu screens.
+1
+1
+1
+
+MACHINE CONTROLS
+3-11 SW405K Wheel Loader OMMSteering Wheel 
+0004668Figure 3-21
+The steering wheel (1) controls  the machine’s direction of 
+travel. A steering knob (2) is mounted on the steering wheel to provide one-hand operation when needed. 
+NOTE: The machine is equipped with an emergency 
+steering feature that allo ws steering for a limited 
+amount of time after the engine has stopped, to safely control and stop the machine.
+Steering Column Tilt Lock
+0004618Figure 3-22
+The steering column tilt lock (1) is on the right side of the 
+steering column behind the steering wheel. Press the steering column tilt lock down to position the steering wheel for operator comfort. Release the steering column tilt lock to secure the st eering column in the desired 
+position.Transmission Control Lever 
+ 
+0004618Figure 3-23
+The transmission control lever (1) is on the left side of the 
+steering column behind the steering wheel.
+The transmission control lever can be locked in the 
+neutral position by the neutral lock (2).
+Move the transmission control lever up to select forward 
+travel, down for reverse travel , or to the middle for the 
+neutral position:
+• Forward – The machine will move forward with the 
+transmission control lever at the F (forward) position and the engine running.
+• Reverse – The machine will move backward with the 
+transmission control lever at  the R (reverse) position 
+and the engine running.
+• Neutral – The machine remains stationary with 
+transmission control lever at the N (neutral) position and the engine running.
+NOTE: The engine can be started only when both the 
+transmission control leve r and the joystick F-N-R 
+rocker switch are in the neutral position.
+1
+2
+1
+1
+2
+
+3-12MACHINE CONTROLS
+SW405K Wheel Loader OMMTransmission Gear Selection 
+0004618Figure 3-24
+Shift gears by rotating the transmission control lever (1) 
+until the arrow on the lever points to the desired gear 
+(1, 2, 3, or 4).
+Forced Downshifting 
+0004618
+Figure 3-25
+The forced downshifting function is operated by the 
+kickdown (KD) button (1), located on the end of the transmission control lever.
+When the transmission is set to either the second forward 
+(F2) or second reverse (R2) position, pressing the KD button downshifts the transmissi on to first forward (F1) or 
+first reverse (R1).
+The combined use of the KD button function and the 
+direction downshifting function makes shifting operation much easier during bucket loading operation.NOTES:
+•  As an example, with the loader approaching the 
+material pile in F2 (second forward) speed, pressing the KD button downshifts the transmission to F1.
+•With the bucket fully load ed and the control in F2, 
+moving the transmission control lever down to the R position changes the transmission to the R2 speed automatically.
+•This allows the loader to reverse at R2 speed and 
+improve operational efficiency.
+0004694
+Figure 3-26
+The KD button (2) on the joystick can also be used to 
+select forced downsh ifting, if desired.
+1
+1
+2
+

@@ -1,0 +1,782 @@
+MACHINE OPERATION
+4-3 SW405K Wheel Loader OMMWork Area
+WARNING
+Do not move the machine onto a surface or area 
+that has not been approved for the machine. The machine is heavy and could possibly break through surfaces that are not strong enough to support it. Failure to follow this warning could result in death or  serious injury.
+General Job Safety
+See “Job Safety” on page 2-7 for additional information.
+Operator Responsibilities
+WARNING
+The operator must never leave the machine while 
+a load is on the machine.  Failure to follow this 
+warning could result in death, serious injury, or equipment damage.
+The machine operator must perform the following:
+• Reject the job site if there are doubts regarding 
+safety.
+• Become familiar with the work area and 
+surroundings before beginning work.
+• Read and completely understand the instructions in 
+this manual prior to operation.
+• Know and obey all operating procedures, relevant 
+laws, regulations, and requirements for safe operation.
+• Know and use the required safety precautions and 
+protective devices.
+• Know and use the correct hand signals between the 
+machine operator and a signalman. Give warning signals when necessary.
+• Stop machine operations immediately if any defects 
+endangering safety are found.
+• Maintain complete control over the machine at all 
+times.
+• Make sure all control devices are set to the neutral 
+or idle position before supplying power to the drive components.
+• Before leaving the cab, make sure all control 
+devices are set to the neutral or low idle position and that the engine is shutdown.
+• Wear all the necessary personal protective 
+equipment (PPE).Prestart Checks
+CAUTION
+Perform all prestart checks and resolve any issues before operation. Failure to follow this precaution could result in injury or damage to the machine.
+Complete the following checks before starting the engine 
+each day:
+• Check the maintenance log to verify that all required 
+maintenance checks have  been perfor med before 
+operating the machine.
+• Check the machine for loose hardware, fluid leaks, 
+and any other signs of damage.
+• Inspect the engine compartment for combustible 
+debris that may come in contact with hot engine components. Clear all debris from the engine and engine compartment.
+• Check the engine coolant level. (See page 5-19.)• Check the engine oil level. (See page 5-12.)• Check the fuel level. (See page 3-31.)• Check the transmission oil level. (See page 5-48.)• Check the diesel exhaust fluid (DEF) level. (See 
+page 3-30.)
+• Check the hydraulic oil level. (See page 5-35.)• Inspect the air conditioner compressor belt. (See 
+page 5-15.)
+• Inspect the electrical system. (See page 5-25.)• Make sure all work lights and warning devices are 
+working. (See page 5-11.)
+• Check the tire pressure. (See page 5-44.)• Check the windshield and rear window wiper 
+operation. (See page 5-54.)
+• Check the windshield and rear window washer 
+operation. (See page 3-15.)
+• Check the fire extinguisher. (See page 5-55.)• Check the escape tool. (See page 5-54.)
+
+4-4MACHINE OPERATION
+SW405K Wheel Loader OMMKeep the Machine Clean
+0004695Figure 4-1
+1. Before operating, make sure the following items are 
+clean:
+• Mirrors (1)
+• Windows (2)• Grab handles (3)• Steps (4)
+2. Remove all trash from inside the cab to avoid 
+interference with oper ation of the machine.
+Monitor Settings
+This procedure should only have to be performed one 
+time before initial operation.
+Language Setting
+1. Turn the key switch to ON. The home screen will 
+appear in the display.
+0000955Figure 4-2
+2. Press the function button (1) to select the Language 
+Change screen.0004718Figure 4-3
+3. Press the function button next to the up arrow icon 
+(2) or down arrow icon (3) to select Language Change.
+4. Press the function button next to the check mark icon 
+(4) to accept the option selected. The Language Change screen will be disp layed on the monitor.
+0000967Figure 4-4
+5. Press the function button next to the up or down 
+arrow icons to select the desired language to be 
+displayed on the monitor.
+6. Press the function button next to the check mark icon 
+to accept the option selected.
+7. Press the function button next to the return arrow 
+icon (5) to return to the main menu.
+1
+3 31
+33442
+1
+2
+3
+4
+Chinese System
+English SystemLanguage Change
+5
+
+MACHINE OPERATION
+4-5 SW405K Wheel Loader OMMStarting the Engine
+WARNING
+  • Confirm that the surrounding area is clear of 
+personnel and obstructions, and sound the horn before starting the engine.
+  • Always start the engine from the operator seat. 
+Never start the engine by shorting the starter solenoid or starter relay.
+  • Never use ether starting fluid to start the engine. 
+Ether is highly flammable and can cause a fire or an explosion.
+  • Exhaust gas contains carbon monoxide. Carbon 
+monoxide is an invisible and odorless gas, and is toxic. Provide adequate ventilation when starting 
+the engine in a confined space.
+Failure to follow these warnings could result in 
+death or serious injury.
+NOTICE!
+Never crank the engine for more than 15 seconds. If the engine fails to start after 15 seconds, stop and allow the starter motor to cool for at least 2 minutes before attempting another start. If the engine fails to start after five attempts, contact a SANY dealer.
+Failure to follow this notice could damage the machine or 
+cause it to operate improperly. 
+0004620Figure 4-5
+1. Make sure all daily maintenance check have been 
+completed. See “Daily or Every 10 Hours” on page 5-9 for required daily maintenance check items.2. Turn the battery disconnect switch to ON. See 
+“Battery Disconnect Switch” on page 3-8.
+3. When in the operator seat, buckle the seat belt. See 
+“Seat Belt” on page 3-18.
+4. Make sure that the joystick (2) and joystick 
+Forward-Neutral-Reverse (F-N-R) rocker switch (1) are in N (neutral position).
+NOTE: The joystick should move fr eely and return to the 
+neutral position when released.
+0004618Figure 4-6
+5. Move the transmission control lever (3) to the N 
+(neutral) position.
+0000962Figure 4-7
+6. Turn the key switch (4) to ON. See “Key Switch” on 
+page 3-16.
+7. Turn the key switch to START. When the engine 
+starts, immediately release the key and it will return 
+to the ON position.
+NOTICE!
+Never crank the engine for more than 15 seconds. If the engine fails to start after 15 seconds, stop and allow the starter motor to cool for at least 2 minutes before attempting another start. If the engine fails to start after five attempts, contact a SANY dealer. Failure to follow this notice could damage the machine or cause it to operate improperly.
+21
+3
+4
+
+4-6MACHINE OPERATION
+SW405K Wheel Loader OMM8. After the engine starts, immediately check for black 
+exhaust smoke, very loud noise, or excessive vibration.
+NOTE: Shutdown the engine immediately by turning the 
+key switch to OFF or by pressing the emergency stop switch on the right control console, if any of these items are observed and contact a SANY dealer.
+9. Check the monitor for any failure codes.
+NOTE: Shutdown the engine immediat ely if a failure code 
+is shown on the display screen and contact a SANY dealer.
+Jump-Start the Engine
+WARNING
+Before proceeding with any battery maintenance procedure, observe the following precautions:
+  • Battery gases are explosive. Never smoke 
+around batteries or expose them to sparks or open flames. Work in a well-ventilated area.
+  • Wear personal protective equipment (PPE) when 
+working with batteries.
+  • When working with any live electrical power 
+circuit, make sure to remove any metal objects 
+(rings, watches, jewelry, etc.) that could come in contact with electrical circuits and cause a short-circuit.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+NOTICE!
+  • The starting system voltage and the battery 
+voltage in the boosting machine should be no more than 24V. Never use a welder or equipment with a higher voltage system to jump-start the machine. Using higher volt age to jump-start the 
+engine may damage the electrical system or cause an unexpected explosion or fire. Always jump-start the engine with equal voltages.
+  • The jumper cables and their clamps must be 
+undamaged, free of corrosion, suitable for the battery amperage, and securely attached.
+  • All machine controls mu st be set in their neutral 
+position.
+  • Use caution when disconnecting jumper cables 
+after both engines are running. Never allow the jumper cable clamps to touch each other.
+Failure to follow this notice could damage the 
+machine or cause it to operate improperly.1. Make sure the key switch is in the OFF position on 
+both machines.
+2. Clamp one end of a jumper cable to the positive (+) 
+terminal of the drained battery.
+3. Clamp the other end of the same jumper cable to the 
+positive (+) terminal of the charged battery.
+4. Clamp one end of a second jumper cable to the 
+ground (-) terminal of the charged battery.
+5. Clamp the other end of the second jumper cable to 
+the negative (-) terminal or an unpainted part of the structure of the machine with the drained battery.
+6. Start the engine of the machine with the charged 
+battery and run it at medium speed. See “Starting the Engine” on page 4-5.
+7. Attempt to start the engine of the machine with the 
+drained battery. Retry every 3 minutes if the engine will not start.
+NOTE: Contact a SANY dealer if the engine will not start 
+after five attempts.
+8. Disconnect the jumper cables from the machine that 
+had the drained battery in reverse of how they were installed.
+9. Disconnect the jumper cables from the machine with 
+the charged battery in the same way.
+Warm-Up Operation
+WARNING
+  • In case of emergency, irregular engine operation, 
+or other faults, turn the key switch to OFF or press the emergency stop switch to stop the engine.
+  • Do not operate the machine immediately after 
+starting the engine. Insufficient warm-up of the machine and hydraulic oil may cause slow control response or ab rupt movement during 
+operation, resulting in serious accidents. Warm-up is especially ne cessary in cold areas.
+Failure to follow these warnings could result in 
+death or serious injury.
+NOTICE!
+Never over-rev the engine during the warm-up period, which could result in damage to the engine bearings, pistons, and valves. Failure to follow this notice could damage the engine or cause it to operate improperly.
+1. Start the engine. See “Starting the Engine” on 
+page 4-5.
+2. Check for black exhaust smoke, very loud noise, or 
+excessive vibration.
+
+MACHINE OPERATION
+4-7 SW405K Wheel Loader OMMNOTE: If these conditions are observed, shutdown the 
+engine immediately and contact a SANY dealer.
+3. Run the engine at low idle for approximately 
+5 minutes.
+4. Operate all control levers in sequence to verify 
+proper function and operation.
+5. If the hydraulic system responds slowly, continue to 
+run the engine at low idle for a longer warm-up period.
+6. With the machine running, observe the various 
+gauges and displays. Continue the warm-up until engine temperature reaches 140°F (60°C), the coolant temperature reaches 176°F–212°F 
+(80°C–100°C), and hydraulic oil reaches normal operating temperature of 122°F–158°F 
+(50°C–70°C) before beginning operation.
+7. Proceed with normal operations.
+Idle the Engine
+Idling the engine for long periods wastes fuel, and causes 
+carbon formation, oil dilution, formation of lacquer or gummy deposits on the valves , pistons, and rings, and 
+rapid accumulation of sludge in the engine.
+Allow the engine to run at low idle until the engine coolant 
+temperature reaches 140°F (60°C) before beginning operation.
+New Machine Break-In
+NOTE: The machine has been thoroughly tested and 
+adjusted before shipme nt. However, initial 
+operation of the machine under severe conditions can adversely affect the performance of the new machine or shorten the machine life. SANY recommends a break-in period of 100 service 
+hours for a new machine. Properly breaking-in a 
+new machine is crucial fo r long service life by 
+allowing time for internal engine parts to break-in. Make sure the machine is in normal working condition before proceeding with the break-in.
+1. Start and run the engine at low idle until it reaches 
+proper operating temperatures. Do not move the controls.
+2. Avoid operating the machine under heavy loads or at 
+high speeds during the break-in period. Operate as much as possible in the 1/2 to 3/4 throttle or load range. Do not operate this machine with a full load during the break-in period.
+3. Avoid sudden starts, movements, or stops except in 
+an emergency.
+4. Monitor the instruments frequently – especially the 
+engine oil pressure and engine coolant temperature. Shutdown the machine at the first indication of an abnormal reading.5. Avoid running the engine at low idle for long periods 
+of time.
+6. Manage engine power to allow acceleration to 
+governed speed when conditions require more power. Do not over-rev the engine.
+7. Always allow the engine to cool before shutting it 
+down.
+8. After shutting down the engine, check all fluid levels.
+Engine Shutdown
+NOTICE!
+  • Stopping the engine before it cools can 
+accelerate engine component wear. Never abruptly shutdown the engine, except in an emergency.
+  • Never stop the engine suddenly when it is 
+overheated. Run the engine at low idle to allow the engine to cool down gradually before shutting down the engine.
+Failure to follow this notice could damage the 
+machine or cause it to operate improperly.
+1. Park the machine on a flat, level, and stable surface.
+2. Lower the bucket to the ground.
+0004620Figure 4-8
+3. Move the joystick (1) to the neutral position.
+NOTE: The joystick should move fr eely and return to the 
+neutral position when released.
+1
+
+4-8MACHINE OPERATION
+SW405K Wheel Loader OMM0004618Figure 4-9
+4. Move the transmission cont rol lever (2) to N (neutral 
+position). Move the neutral lock lever (3) from drive (D) to the neutral (N) position to lock the transmission control lever in neutral and prevent unintended movement.
+NOTE: The transmission control le ver must be in the 
+neutral position to move the neutral lock lever to the neutral (N) position.
+WARNING
+  • Do not only rely on the transmission control lever 
+locked in neutral to prevent unexpected machine movement.
+  • Always engage the park brake to hold the 
+machine in position and prevent unexpected machine movement.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+5. Engage the park brake. See “Park Brake Switch” on 
+page 3-14.
+6. Run the engine at low idle for about 5 minutes to 
+allow for heat dissipation.
+7. Wait for the diesel exhaust fluid (DEF) pump to stop.
+0000962Figure 4-108. Turn the key switch (4) to OFF. See “Key Switch” on 
+page 3-16.
+9. Close and lock the window s, then exit the cab.
+10. Close and lock the cab door.11. Turn the battery discon nect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+Cold Weather Operation
+The following recommendations are for operating SANY machines below freezing temperatures.
+NOTE: See “Key Switch” on page 3-16 for details on 
+using the key switch to preheat the engine for cold weather starting.
+This machine must have appropriate hydraulic oil, 
+lubricants and other auxilia ry items requ ired for below 
+freezing temperature operations. Individual machine functions should be operated to make sure they are sufficiently warmed prio r to performing work.
+The correct grade of oil for the current temperature range 
+must be used in the crankcase. See “Engine Oil Viscosity/Temperature Data” on page 5-7.
+Diesel fuel must have a pour point range of 10°F (-12°C) 
+less than the lowest anticipated temperature.
+The correct engine coolant must be used below freezing 
+temperatures. See “Engine Coolant” on page 5-8.
+NOTICE!
+To prevent damage to the hydraulic system, perform the following warm-up procedure in ambient temperatures below 32°F (0°C):
+  • Start the engine and run it at low idle for 
+7–10 minutes. Then increase the engine speed to 1000–1200 rpm and perform only no-load traveling for at least 30 minutes, or until the hydraulic oil temperature is at least 68°F (20°C).
+  • Proceed with normal operation only after 
+completing warm-up as described above, or adjust the warm-up period according to the ambient temperature. During normal operation, take care to operate the controls slowly and observe the traveling system for any signs of trouble.
+2
+3
+4
+
+MACHINE OPERATION
+4-9 SW405K Wheel Loader OMMBattery in Cold Weather
+WARNING
+Before proceeding with any battery maintenance 
+procedure, observe the following precautions:
+  • Wear personal protective equipment (PPE) when 
+servicing the batteries.
+  • The top of the battery must be kept clean to 
+prevent plugging of the battery vents. Regularly wash the top of the battery to prevent the battery vents from plugging.
+  • Battery gases are explosive. Never smoke 
+around batteries or expose them to sparks or open flames. Work in a well-ventilated area.
+  • Battery acid can cause burns or serious injury. If 
+battery acid makes contact with skin or eyes, flush the area immediately with fresh water and seek medical attention.
+Failure to follow these warnings could result in 
+death or serious injury.
+In cold climates , battery efficiency will decline. 
+Electrolytes can freeze if th e battery charge is low. Keep 
+the battery charged near 100% and in a warm area if possible.
+After Daily Operation
+NOTICE!
+Fill the fuel tank to its maximum level after operation to prevent moisture in the fuel tank from condensing at low temperatures, which could result in fuel-line freeze.  Failure to follow this 
+notice could damage the engine or cause it to operate improperly. 
+Mud and water accumulation on the undercarriage can 
+affect normal operation of the machine. Make sure to perform the following actions after daily operation:
+• Remove mud and water from the machine. Mud, 
+dirt, and water can damage the seals.
+• Park the machine on a firm, dry surface.• If possible, park the machine on boards, which can 
+prevent the machine from sinking into soft ground. Normal operation can fail if the machine becomes stuck.
+• Open the drain valve of the fuel water separator 
+daily and discharge the water in the fuel system.Park the Machine
+1. Move the machine to a solid, level surface.
+2. Lower the bucket to the ground.3. Shutdown the engine. See “Engine Shutdown” on 
+page 4-7.
+End-of-Workday Checks
+1. Collect any trash or debris from the cab and deposit it 
+into a proper disposal container.
+2. Remove all built-up mud or debris on the 
+undercarriage and machine exterior.
+3. Inspect the machine work equipment, machine 
+exterior, and undercarriage for signs of fluid leaks or damage.
+4. In oceanic (salt-air) environments, thoroughly wash 
+away any salt residue. Apply grease to hydraulic cylinder rods if rust is found and perform maintenance on the electrical  components to prevent 
+corrosion.
+NOTE: If rust is found, contact a SANY dealer for 
+additional information
+Travel Operations
+WARNING
+  • Never allow any personnel to be in the work area 
+while the machine is being operated.
+  • Be aware of all crush points on the machine and 
+make sure all personnel keep clear of these areas.
+  • Never allow passengers to ride on or inside the 
+machine.
+  • Never bring objects into the operator area that 
+could restrict movement or vision.
+  • Appoint a signalman when operating the 
+machine in a confined or restricted-view area.
+  • Make sure that all personnel involved understand 
+all industry-standard hand signals that are to be used.
+  • The operator shall respond to operating signals 
+from the signalman only, but shall obey a stop signal at any time from anyone.
+  • The operator must always be able to see the work 
+location. If this is not possible, then a signalman 
+must be used. If visibility becomes blocked for any reason, stop operation immediately.
+Failure to follow these warnings could result in 
+death or serious injury.
+
+4-10MACHINE OPERATION
+SW405K Wheel Loader OMMBefore Traveling
+1. Adjust the steering wheel for travel.
+2. Make sure all sides of the machine are clear to 
+proceed.
+3. Sound the horn to notify personnel of intended 
+machine movement.
+4. Adjust the bucket height for travel.5. Press either brake pedal.6. For travel operations, unlock the transmission control 
+lever by moving the neutral lock lever from neutral (N) to drive (D). When the neutral lock lever is in drive (D), the transmission control lever can be moved to drive, neutral, or reverse as necessary.
+7. Select a direction and speed range with the 
+transmission control lever.
+8. Disable the park brake. See “Park Brake Switch” on 
+page 3-14.
+9. Release the brake pedal and apply pressure to the 
+accelerator pedal to increase the engine speed, putting the machine into motion.
+Slopes
+The machine may become unstable and lose traction while working on an incline, ca using it to tip or roll over.
+In order to prevent tipping, loss of control, or a rollover, it 
+is important to follow these rules:
+• Always check the firmness of the inclined surface 
+before attempting to travel on it.
+• Always travel straight up or straight down an incline.• Avoid turning on an incline.• Avoid sudden stops.
+Traveling Downhill
+Operate slowly when the machine is approaching a 
+downward slope or traveling on a slope. Downward travel speed shall be lower than upward travel speed. Do not shift gears on a slope or dr ive the machine downhill with 
+the transmission in neutral.
+Engine Stalls on a Slope
+If the engine stops on a slope, lower the bucket to ground and restart the engine. See “Starting the Engine” on page 4-5.
+Cab Door
+When the machine is on a slope, do not open or close the cab door. Always secure the cab door in either the open or closed position.Operations in Water
+Observe the following when operating the machine in water:
+• Maximum allowable water depth is 2 ft. (0.6 m).• Do not operate the machine in water unless the 
+foundation of the work si te is strong enough to 
+properly support the machine.
+• If the machine has been operated in water, lubricate 
+all lubrication points below the water line.
+• Check and make sure th at no water enters the 
+transmission or the axles.
+Operating in Mud or Soft Ground
+If the loader gets stuck in mu d or soft ground, attempt to 
+free it by reversing the direction of travel.
+1. Select a low gear (1st or 2nd).
+2. Reverse the machine and turn the steering wheel 
+back and forth to its limit while the machine is reversing.
+Only the Front Wheels are Stuck
+0000961Figure 4-11
+1. Use the joystick to lower the bucket and raise the 
+front wheels, supporting the machine with the bottom of the bucket. Then attempt reverse travel.
+2. Turn the steering wheel to the left or to the right and 
+press the bucket down to the ground. Raise the front wheels and turn the steering wheel to the other side. Raise the bucket a little and reverse the machine.
+3. Raise the front wheels using the bucket. Put tree 
+branches, wood blocks, or similar objects on the ground under the front wheels. Reverse the machine.
+
+MACHINE OPERATION
+4-11 SW405K Wheel Loader OMMRestricted Operations
+WARNING
+  • Use caution when operating work equipment 
+while the machine is traveling.
+  • Do not operate the machine on any ground that 
+lacks sufficient support.
+  • Avoid any working conditions that may cause the 
+machine to tip over.
+  • Do not lift any pers on with the loader.
+Failure to follow these warnings could result in 
+death or serious injury.
+CAUTION
+  • Do not attempt work operations such as scraping 
+or digging with the hydraulic cylinder fully extended.
+  • Do not operate the machine with a fully loaded 
+bucket while the hydraulic cylinder is fully retracted or extended. This also includes not striking the ground with the bucket while the bucket cylinder is fully extended, which could shorten the service life of the bucket and/or damage the hydraulic cylinder.
+  • When the machine is traveling downhill, do not 
+stop the engine or place the transmission in neutral.
+Failure to follow these precautions could result in 
+injury or damage to the machine, or could cause the machine to operate improperly.
+Recommended Operations
+Additional operations besides those described here are possible for this machin e with various work tools.
+WARNING
+  • Contact the foreman before any digging to make 
+sure that all underground hazards have been located.
+  • Never allow any personnel within the work area 
+of the machine while it  is being operated.
+  • Avoid moving the transmission control lever to 
+abruptly change the direction of the machine without stopping the machine.
+  • Avoid sudden stops when lowering the boom. 
+Hydraulic shock could damage the hydraulic system.
+Failure to follow these warnings could result in 
+death or serious injury.NOTE: Refer to the following fo r more information. 
+“Technical Specifications ” on page 6-4, “General 
+Safety” on page 2-2, and “Machine Safety” on page 2-3 prior to operating the machine.
+Loading Operation
+General Purpose Bucket Loading
+0000954Figure 4-12
+Method for loose material:
+1. Hold the steering wheel with the left hand and use 
+the right hand to operate the joystick.
+2. Drive toward the material with the machine in 2nd 
+gear and the center of the bucket facing the material pile.
+3. Use the joystick to lower the bucket to approximately 
+20 in. (508 mm) above the ground.
+4. With the loader approximately 3 ft. (1 m) away from 
+the material pile, lower the bucket until the bucket engages the ground.
+5. Press the kickdown (KD) button on the transmission 
+control lever to downshift the machine from 2nd gear to 1st gear.
+6. Press the accelerator pedal as needed to push the 
+bucket into the material. When the material stalls the forward motion, release the accelerator pedal and move the joystick left to curl the bucket.
+7. Release the joystick to return to the neutral position 
+when the bucket is loaded.
+Multipurpose Bucket Loading
+0000954Figure 4-13
+Method for hard materials or materials with greater 
+density.
+
+4-12MACHINE OPERATION
+SW405K Wheel Loader OMM1. Hold the steering wheel with the left hand and use 
+the right hand to operate the joystick.
+2. Drive toward the material  with the center of the 
+bucket facing the material pile and the machine in 2nd gear.
+3. Use the joystick to lower the bucket to approximately 
+20 in. (508 mm) above the ground.
+4. With the loader approximately 3 ft. (1 m) away from 
+the material pile, lower the bucket until the bucket engages the ground.
+5. Press the kickdown (KD) button on the transmission 
+control lever to downshift the machine from 2nd gear to 1st gear.
+6. Press the accelerator pedal as needed to push the 
+bucket into the material. When the material stalls forward motion, release the accelerator pedal.
+7. Move the joystick left to curl the bucket and shift the 
+material into the bucket.
+8. Move the joystick right as needed to return the 
+bucket to the previous position.
+9. Press the accelerator pedal as needed to push the 
+bucket into the material. When the material stalls forward motion or the bucket is loaded, release the accelerator pedal and move the joystick left to curl 
+the bucket.
+10. Release the joystick to return to the neutral position 
+when the bucket is loaded.
+NOTE: Repeat these steps as necessary until the desired 
+amount of material is loaded within the bucket capacity.
+Backing Away from the Material Pile
+1. Move the joystick left to curl the bucket when the 
+bucket is loaded.
+2. Release the joystick to allo w it to return to neutral 
+when the stopper on the bucket contacts the boom.
+NOTE: This results in attainin g the maximum tilt angle.
+3. Move the joystick backw ard to raise the boom 
+approximately 20 in. (508  mm) so the bucket will 
+clear the material pile. Move  the transmission control 
+lever to R (reverse) and press the accelerator pedal as needed to back away from the material pile.
+4. Press the kickdown (KD) button on the transmission 
+control lever to shift the ma chine from 1st gear to 2nd 
+gear while backing away from the pile, as needed.Material Hauling
+1. Keep the bucket in the carry position, 20 in. (508 
+mm) above the ground with the bucket rolled back to allow the loader to move smoothly and avoid spillage 
+during the hauling operation.
+2. Select a speed according to the distance and road 
+condition. Slow down while passing over a ditch or bump on the road.
+3. Pass obstacles slowly to reduce the impact on the 
+loader and avoid spillage.
+4. Apply the service brake, if necessary, to slow the 
+loader down.
+Dumping
+Dumping into Trucks or Hoppers
+1. Press the kickdown (KD) button if necessary to 
+downshift the transmission when approaching the truck or hopper at a low travel speed.
+2. Move the joystick backward to raise the boom and 
+bucket high enough to clear the truck or hopper.
+3. Use the service brake pedal to slow and stop travel 
+when the bucket is above the truck or hopper.
+4. Move the joystick right to uncurl the bucket and dump 
+the load into the truck or the hopper.
+NOTES:
+•  Make sure the bucket is high enough to clear the 
+edge of the truck or hopper when backing away from the truck or hopper.
+•Dump the first bucket load into the truck, toward the 
+front of the truck body.
+•If necessary, move the joysti ck right to curl and left 
+to uncurl the bucket quickly two or three times to shake any remaining material out of the bucket.
+5. When the load in the bucket has been dumped, 
+move the joystick left to curl the bucket.
+6. Move the transmission control lever to the R (reverse 
+position) and press the accelerator pedal as needed to back away from the truck or hopper.
+7. Lower the bucket after the loader is clear from the 
+truck or hopper and position the boom until the bucket is approximately 20 in. (508 mm) above the ground.
+
+MACHINE OPERATION
+4-13 SW405K Wheel Loader OMMGrading
+0000953Figure 4-14
+1. Lower the bucket flat against the ground.2. Shift the transmission to forward and select 1st or 
+2nd gear.
+3. Press the accelerator pedal to move the loader 
+forward.
+4. Use the joystick to raise or lower the bucket  slightly if 
+obstacles are encountered during this operation.
+NOTE: Remove any obstacles that can disrupt the 
+grading operation.
+Scraping
+0000952Figure 4-15
+Move the joystick right to tilt the bucket edge at an 
+approximate 60° angle. Move the joystick forward to lower the boom and moving the bucket edge down until it engages the ground.
+On hard ground, move the joystick fully forward (“bucket 
+float position”) to allow the bucket to follow the contour of the ground surface.
+NOTE: On soft ground, place the joystick at the neutral 
+position.
+Move the transmission control lever to reverse and select 
+1st or 2nd gear. Moving ba ckward, the bucket edge will 
+scrape the ground.Lifting
+WARNING
+  • Make sure all lifting devices are in safe operating 
+condition and with sufficient capacity rating to safely support the intended load.
+  • Never lift the machine with a person inside the 
+cab.
+  • Allow no one to stand close to or under a lifted 
+machine.
+  • To prevent unexpected movement of the 
+machine, make sure the machine engine is shut down and the battery disconnect switch is set to the OFF position before beginning the lifting procedure.
+  • Keep the machine level during lifting.  • Always lift with the longitudinal centerlines of the 
+upper structure and undercarriage parallel to each other.
+Failure to follow these warnings could result in 
+death or serious injury.
+Observe the lifting capacity of devices used when using 
+this machine for lifting. Make sure that the lifting devices are not damaged or deteriorated before beginning the lifting operation.
+Machine Storage
+Long-Term Storage
+Proper preparation for long-te rm storage will reduce the 
+chances for damage or deterioration of the machine.
+NOTE: Long-term storage is defined as a storage period 
+more than 30 days.
+Preparation
+1. Clean the machine.
+2. Change the engine oil. See “Change the Engine Oil 
+and Filter” on page 5-12.
+3. Lubricate the machine. See “Recommended 
+Lubricants, Fuel, and Engine Coolant” on page 5-6.
+4. Apply grease to any exposed hydraulic cylinder rods.
+NOTICE!
+  • Never turn the battery disconnect switch to OFF 
+while the engine is running.
+  • After machine shutdown, wait at least 1 minute 
+for the Engine Control Module (ECM) to complete its shutdown before turning the battery disconnect switch to OFF.60
+
+4-14MACHINE OPERATION
+SW405K Wheel Loader OMMFailure to follow this notice could damage the 
+machine or cause it to operate improperly.
+5. Disconnect the negative (–) battery terminal or 
+remove the batteries and store them in a separate location. See “Replace a Battery” on page 5-28.
+6. Close and lock all doors.
+During Storage
+WARNING
+During indoor storage, if an anti-rusting operation 
+is performed, open the windows and doors to provide proper ventilation and avoid gas poisoning. Failure to follow this warning could result in death or serious injury.
+NOTICE!
+Wipe all dirt, oils, and grease off of cylinder pistons before operating the equipmen t. Failure to follow this 
+notice could cause damage to the machine or cause the machine to operate improperly.
+Once a month:1. Start and run the engine at low idle. See “Starting the 
+Engine” on page 4-5.
+2. Warm-up the machine to reach normal operating 
+temperatures.
+3. Drive the machine a short distance.4. Cycle each cylinder a few times.5. Lubricate all exposed hydraulic cylinder rods with 
+grease. See “Lubricating Grease/Temperature Data” on page 5-7.
+6. Turn on the air conditioner and allow it to run for 3 to 
+5 minutes to lubricate the compressor and related parts. See “Climat e Control Panel” on page 3-17.
+7. Return the machine to the proper storage location 
+and condition.
+8. Shutdown the engine. See “Engine Shutdown” on 
+page 4-7.
+Return to Operation
+1. Clean the grease from the cylinder rods.
+2. Check the fuel and engine oil for water 
+contamination.
+3. Examine the exterior of the machine for signs of rust 
+or damage and repair as necessary.
+4. Start the engine and test all operations. See “Starting 
+the Engine” on page 4-5.Transportation Information
+Applicable laws and regulations must be observed when transporting the machine:
+• When transporting the machine on a trailer, confirm 
+the length, width, height, and weight capacity of the trailer before loading.
+• Investigate the road conditions in advance (for 
+example, dimension restrictions, weight restrictions, and traffic regulations).
+WARNING
+  • To prevent the machine from tipping over, select 
+a firm and level location that is a safe distance from any road or structure.
+  • Make sure the trailer is properly chocked to 
+prevent any movement.
+  • Use an access ramp with enough length, 
+strength, and width to properly support the machine. The ramp grade should not exceed 15°. 
+  • Drive slowly at the junction of the ramp and the 
+trailer. The machine may shift suddenly due to a change in its center of gravity.
+  • Use a signalman to alert the operator to any 
+potential hazards.
+Failure to follow these warnings could result in 
+death or serious injury.
+Loading the Machine
+Choose a transport trailer suitable for the machine’s 
+weight and dimensions.
+Load the machine on firm, level ground and keep the 
+machine a safe distance away from roads.
+NOTE: Contact a SANY dealer for the proper protection 
+for the cab during transport.
+1. Chock the trailer wheels.
+2. Secure two access ramps of equal length parallel to 
+the trailer.
+NOTE: The two ramps shall be equally spaced from the 
+centerline of the trailer and the mounting angle must not exceed 15°.
+3. Clean the wheels and the access ramps of mud or 
+other debris to prevent slipping during loading.
+4. Start the engine, and posi tion the machine so the 
+centerline of the machine matches the centerline of the trailer.
+5. Raise the bucket high enough to clear the access 
+ramps and trailer during the loading process.
+6. Slowly drive the loader up the ramps and onto the 
+trailer.
+
+MACHINE OPERATION
+4-15 SW405K Wheel Loader OMM0004697Figure 4-16
+7. Set the frame lock bar (1) in the locked position.8. Set the park brake when the loader is properly 
+positioned on the trailer. See “Park Brake Switch” on page 3-14.
+9. Set the transmission to neutral.10. Place a support block on the trailer under the bucket.11. Lower the bucket onto the support block.12. Shutdown the engine. See “Engine Shutdown” on 
+page 4-7.
+13. Close the cab windows.14. Place wheel chocks at all four wheels.
+NOTICE!
+When performing a battery disconnect, wait for at 
+least 1 minute before disconnecting the battery so the machine’s electronic control module (ECM) can complete its updating procedures. Failure to follow this notice can cause damage to the machine or cause the machine to operate improperly.
+15. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+0004696Figure 4-17
+16. Position the mirrors (2) inward toward the cab.0004698Figure 4-18
+17. Make sure the following are closed and locked:
+• Electrical access door (3).
+• Right side engine access doors (4).• Fuel filler cap (5).• Diesel exhaust fluid (DEF) filler access door (6).
+0004700Figure 4-19
+• Cab door (7).
+• Left side engine access doors (8).• Battery access door (9).
+1
+22
+3
+56
+4
+7
+8
+9
+
+4-16MACHINE OPERATION
+SW405K Wheel Loader OMM0004699Figure 4-20
+18. Cover the exhaust opening (10).
+NOTICE!
+To avoid damage to the machine during 
+transportation:
+  • Lower the radio antenna and position the 
+rearview mirror inwa rd towards the cab.
+  • Secure any removed parts to the trailer.  • Put a wood block between the bucket cylinder 
+and the trailer floor to help prevent damage to the bucket cylinder.
+  • Secure chains and wire ropes to the machine 
+frame.
+  • Prevent chains and wire ropes from crossing or 
+pressing against the hydraulic lines or hoses that could result in damage and leaks.
+Failure to follow this notice could damage the 
+machine or cause it to operate improperly.
+19. Secure the machine firmly in place with chains or 
+wire ropes to prevent any movement in accordance with all applicable laws and regulations.
+Unloading the Machine
+1. Unload the machine on firm, level ground and keep 
+the machine a safe distance away from roads.
+2. Park the trailer properly and place chocks behind the 
+trailer wheels.
+3. Secure two access ramps of equal length parallel to 
+the trailer.
+NOTE: The two ramps should be equally spaced from the 
+centerline of the trailer and the mounting angle must not exceed 15°.0004699Figure 4-21
+4. Remove the cover from the exhaust opening (1).5. Remove cab protection, if installed.
+0004701Figure 4-22
+6. Position the mirrors (2) outward and adjust for normal 
+operation.
+7. Remove the machine tie downs.8. Turn the battery disconnect switch to ON. See 
+“Battery Disconnect Switch” on page 3-8.
+0004702Figure 4-23
+9. Set the frame lock bar (3) in the unlocked position.10. Start the engine.11. Raise the bucket high enough to clear the access 
+ramps and trailer during the unloading process.
+12. Release the park brake.
+13. Slowly drive the loader off the trailer and ramps until 
+it is free and clear of the ramps and trailer.
+10
+ 1
+22
+3
+
+MACHINE OPERATION
+4-17 SW405K Wheel Loader OMMLifting the Machine
+WARNING
+  • Make sure all lifting devices are in safe operating 
+condition and with sufficient capacity rating to safely support the intended load.
+  • Never lift the machine with a person inside the 
+cab.
+  • Allow no one to stand close to or under a lifted 
+machine.
+  • To prevent unexpected movement of the 
+machine, make sure the machine engine is shut down and the battery disconnect switch is set to the OFF position before beginning the lifting procedure.
+  • Keep the machine level during lifting.
+  • Always lift with the longitudinal centerlines of the 
+upper structure and undercarriage parallel to each other.
+Failure to follow these warnings could result in 
+death or serious injury.
+Use the lift/tie down points i dentified on the sides of the 
+machine as well as the center of gravity point on both sides of the machine to assi st with rigging placement. 
+Contact a SANY dealer for assistance in rigging and lifting the machine.
+

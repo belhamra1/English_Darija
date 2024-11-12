@@ -1,0 +1,58 @@
+MACHINE OPERATION
+4-3 SW405K Wheel Loader OMMWork Area
+WARNING
+Do not move the machine onto a surface or area 
+that has not been approved for the machine. The machine is heavy and could possibly break through surfaces that are not strong enough to support it. Failure to follow this warning could result in death or  serious injury.
+General Job Safety
+See “Job Safety” on page 2-7 for additional information.
+Operator Responsibilities
+WARNING
+The operator must never leave the machine while 
+a load is on the machine.  Failure to follow this 
+warning could result in death, serious injury, or equipment damage.
+The machine operator must perform the following:
+• Reject the job site if there are doubts regarding 
+safety.
+• Become familiar with the work area and 
+surroundings before beginning work.
+• Read and completely understand the instructions in 
+this manual prior to operation.
+• Know and obey all operating procedures, relevant 
+laws, regulations, and requirements for safe operation.
+• Know and use the required safety precautions and 
+protective devices.
+• Know and use the correct hand signals between the 
+machine operator and a signalman. Give warning signals when necessary.
+• Stop machine operations immediately if any defects 
+endangering safety are found.
+• Maintain complete control over the machine at all 
+times.
+• Make sure all control devices are set to the neutral 
+or idle position before supplying power to the drive components.
+• Before leaving the cab, make sure all control 
+devices are set to the neutral or low idle position and that the engine is shutdown.
+• Wear all the necessary personal protective 
+equipment (PPE).Prestart Checks
+CAUTION
+Perform all prestart checks and resolve any issues before operation. Failure to follow this precaution could result in injury or damage to the machine.
+Complete the following checks before starting the engine 
+each day:
+• Check the maintenance log to verify that all required 
+maintenance checks have  been perfor med before 
+operating the machine.
+• Check the machine for loose hardware, fluid leaks, 
+and any other signs of damage.
+• Inspect the engine compartment for combustible 
+debris that may come in contact with hot engine components. Clear all debris from the engine and engine compartment.
+• Check the engine coolant level. (See page 5-19.)• Check the engine oil level. (See page 5-12.)• Check the fuel level. (See page 3-31.)• Check the transmission oil level. (See page 5-48.)• Check the diesel exhaust fluid (DEF) level. (See 
+page 3-30.)
+• Check the hydraulic oil level. (See page 5-35.)• Inspect the air conditioner compressor belt. (See 
+page 5-15.)
+• Inspect the electrical system. (See page 5-25.)• Make sure all work lights and warning devices are 
+working. (See page 5-11.)
+• Check the tire pressure. (See page 5-44.)• Check the windshield and rear window wiper 
+operation. (See page 5-54.)
+• Check the windshield and rear window washer 
+operation. (See page 3-15.)
+• Check the fire extinguisher. (See page 5-55.)• Check the escape tool. (See page 5-54.)
+

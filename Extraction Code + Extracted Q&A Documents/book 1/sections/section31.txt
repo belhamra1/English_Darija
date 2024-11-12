@@ -1,0 +1,180 @@
+5-12MAINTENANCE
+SW405K Wheel Loader OMMEngine
+Check/Add Engine Oil
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0000910Figure 5-4
+4. Remove the engine oil dipstick (1) and wipe off the 
+end of it with a clean cloth.
+5. Insert the engine oil dipstick into the dipstick tube, 
+wait 10 seconds, and remove.
+0000924Figure 5-5
+6. Check the oil level on the engine oil dipstick. The 
+level must be between the high (2) and low (3) marks.
+7. Insert the engine oil dipstick.0002495Figure 5-6
+NOTICE!
+Do not overfill with engine oil so the oil level is 
+above the high mark on the dipstick. This could result in engine damage  and improper machine 
+operation.
+NOTE: Refer to “Engine Oil Viscosity/Temperature Data” 
+on page 5-7 for the recommended engine oil viscosity.
+8. Remove the engine oil f iller cap (4) and add engine 
+oil as needed.
+9. If engine oil has been added, wait 2 minutes before 
+rechecking the engine oil level.
+10. Install the engi ne oil filler cap.
+Change the Engine Oil and Filter
+CAUTION
+Do not perform engine maintenance when the 
+engine is hot. Hot engine oil or engine components may cause severe burns. Allow the engine to cool before performing engine maintenance. Failure to follow this caution could result in injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Start the engine and allow it to come up to normal 
+operating temperature.
+3. Turn the engine off.4. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+5. Open the left side engine compartment access door. 
+See “Engine Compartment Access Doors” on page 3-6.
+1
+32
+4
+
+MAINTENANCE
+5-13 SW405K Wheel Loader OMM0002495Figure 5-7
+NOTE: Collect an engine oil sa mple for testing. See 
+“Collect Engine Oil Sample” on page 5-50.
+6. Remove the engine oil filler cap (1).
+0000926Figure 5-8
+NOTICE!
+Dispose of engine oil in accordance with all 
+applicable environmental regulations. Failure to follow this notice could damage the environment.
+NOTE: For the engine oil capacity, see “Location, 
+Capacity, and Type” on page 5-6.
+7. Place an appropriately sized container under the 
+engine drain plug (2), then remove the drain plug.
+8. Install the drain plug when all of the engine oil has 
+drained.0000910Figure 5-9
+9. Locate the engine oil filter housing behind the 
+fuel/water separator.
+10. Remove the engine oil filter housing cap (3).11. Remove the engine oil filter element.
+NOTICE!
+Dispose of used engine oil and oil filters in 
+compliance with all applicable environmental regulations. Failure to do so could damage the environment.
+12. Place a new engine oil filter element in the engine 
+housing.
+13. Replace the O-ring mounted in the oil filter housing 
+cap and thread the engine oil filter housing cap into place.
+0002495Figure 5-10
+NOTICE!
+Do not overfill the engine with oil. Failure to observe and follow this no tice could result in 
+machine damage or improper machine operation.
+14. Add engine oil as  needed through th e engine oil filler 
+port.
+15. Remove the engine oil dipstick (4) and wipe off the 
+end of it with a clean cloth.
+16. Insert the engine oil dipstick into its holder, wait 10 
+seconds, then remove the engine oil dipstick.
+1
+2
+3
+4
+
+5-14MAINTENANCE
+SW405K Wheel Loader OMM0000924Figure 5-11
+17. Check the engine oil level on the engine oil dipstick. 
+The level must be between the high (5) and low (6) marks.
+18. Install the oil filler cap.19. Turn the battery disconnect switch to ON. See 
+“Battery Disconnect Switch” on page 3-8.
+NOTE: Be ready to shut the engine off if the oil pressure 
+does not reach normal operating pressure.
+20. Start and run the engine at low idle and check for 
+leaks.
+NOTE: If leaks are noticed, shut down the engine 
+immediately.
+21. Check the engine oil level. See “Exhaust System” on 
+page 5-31.
+Inspect the Engine Serpentine Belt
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Open the engine compartment access doors. See 
+“Engine Compartment Access Doors” on page 3-6.
+0000923Figure 5-124. Inspect the engine serpentine belt (1) for the 
+following:
+•Abrasion:  The serpentine belt appears shiny, 
+glazed, or fabric is exposed.  This is a sign that the 
+serpentine belt is in contact with an object such as a flange or fastener.
+•Chunk-out:  Chunks of rubber material have broken 
+off from the serpentine belt. At this stage, the serpentine belt can fail at any moment. Heat, age, and stress are the primary contributors.
+•Pulling:  Serpentine belt material is sheared off from 
+the ribs. Lack of tension, misalignment, worn pulleys, or a combination of these are factors.
+•Uneven rib wear:  Serpentine belt shows damage to 
+the side with the possibility of breaks in the tensile 
+cord or jagged-edged ribs. A thumping/grinding noise may also be heard when running.
+•Improper installation:  The serpentine belt ribs may 
+begin to separate, causing the belt to unravel.
+•Cracking: Small cracks develop along the length of 
+a serpentine belt rib or ribs. With continuous exposure to high temperatures, the stress of bending around the pulley leads to cracking.
+•Misalignment: Sidewalls of the belt may appear 
+glazed, or the edge-cord may become frayed. A noticeable noise may result.
+•Gravel penetration: Small pinholes are visible on 
+the back side of the belt . Bumps may be visible, and 
+fabric around the holes can be frayed, indicating damage from foreign objects such as dirt, gravel, or similar debris.
+5. Replace the belt if damaged.
+65
+1
+
+MAINTENANCE
+5-15 SW405K Wheel Loader OMMCheck Engine Serpentine Belt Tension
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Open the engine compartment access doors. See 
+“Engine Compartment Access Doors” on page 3-6.
+0000923Figure 5-13
+NOTE: The engine is equipped with an automatic belt 
+tensioner (4). If the engine serpentine belt (2) deflection is more than specified, replace the 
+serpentine belt first. If the deflection is not 
+resolved, replace the tensioner.
+4. Check the engine serpentine belt between the idler 
+(1) and the crankshaft pulley (3). The belt deflection should be between 0.28 in.–0.30 in. (7 mm–10 mm).
+Inspect the Air Cond itioner Compressor 
+Belt
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the engine compartment access doors. See 
+“Engine Compartment Access Doors” on page 3-6.0002467Figure 5-14
+4. Inspect the air conditioner compressor belt (1) for the 
+following:
+•Abrasion:  The serpentine belt appears shiny, 
+glazed, or fabric is exposed.  This is a sign that the 
+serpentine belt is in contact with an object such as a flange or fastener.
+•Chunk-out: Chunks of rubber material have broken 
+off from the serpentine belt. At this stage, the serpentine belt can fail at any moment. Heat, age, and stress are the primary contributors.
+•Pulling: Serpentine belt material is sheared off from 
+the ribs. Lack of tension, misalignment, worn pulleys, or a combination of these are factors.
+•Uneven rib wear:  Serpentine belt shows damage to 
+the side with the possibility of breaks in the tensile 
+cord or jagged-edged ribs. A thumping/grinding noise may also be heard when running.
+•Improper installation: The serpentine belt ribs may 
+begin to separate, causing the belt to unravel.
+•Cracking: Small cracks develop along the length of 
+a serpentine belt rib or ribs. With continuous exposure to high temperatures, the stress of bending around the pulley leads to cracking.
+•Misalignment: Sidewalls of the belt may appear 
+glazed, or the edge-cord may become frayed. A noticeable noise may result.
+•Gravel penetration: Small pinholes are visible on 
+the back side of the belt. Bumps may be visible and fabric around the holes can be frayed, indicating damage from foreign objects such as dirt, gravel, or similar debris.
+Replace the belt if damaged.
+2
+41
+31
+1
+

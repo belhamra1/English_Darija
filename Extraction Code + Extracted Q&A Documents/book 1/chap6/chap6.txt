@@ -1,0 +1,141 @@
+6-2SPECIFICATIONS
+SW405K Wheel Loader OMMMachine Dimensions
+004606Figure 6-11213
+2
+317
+65
+2141
+2018
+19237
+221114 8
+9
+10
+15
+16
+
+SPECIFICATIONS
+6-3 SW405K Wheel Loader OMMItem Description Value
+1 Height to axle centerline 1 ft. 5 in. (440 mm)
+2 Height to top of cab 11 ft. 7 in. (3527 mm)
+3 Centerline of rear axle to edge of counterweight 7 ft. 8 in. (2330 mm)
+4 Wheelbase 10 ft. 6 in. (3200 mm)5 Centerline of front axle to center pivot 5 ft. 3 in. (1600 mm)
+6 Shipping length without attachments 22 ft. 6 in. (6862 mm)
+7 Shipping length with bucket 26 ft. 8 in. (8142 mm)8 Maximum dump height 17 ft. 10 in. (5441 mm)
+9 Hinge pin height at maximum lift 13 ft. 6 in. (4133 mm)
+10 Dump clearance at maximum lift 10 ft. 3 in. (3118 mm)11 Dig depth, level bucket 2.2 in. (56 mm)
+12 Reach at maximum lift and 45º discharge 3 ft. 9 in. (1140 mm)
+13 Roll back at maximum lift 58°14 Dump angle at maximum lift and dump 45°
+15 Roll back at carry height 51°
+16 Roll back at ground 45°17 Tail angle to the rear wheel 27°
+18 Clearance circle to outside of tires 19 ft. (5800 mm)
+19 Clearance circle to counterweight 19 ft. 5 in. (5911 mm)20 Maximum circle 21 ft. 2 in. (6456 mm)
+21 Width of the bucket 9 ft. 10 in. (3000 mm)
+22 Width 7 ft. 3 in. (2200 mm)23 Articulation angle 40°
+
+6-4SPECIFICATIONS
+SW405K Wheel Loader OMMTechnical Specifications
+Operating
+Loader
+Engine
+1) Power data without deduction of fan power.
+2) Best point consumption refers to diesel fuel with a 
+density of 0.835 kg/dm3 at 59°F (15°C).3) Without starter/alternator, cooler and fluids, but with 
+flywheel and flywheel housing.Item Value
+Bucket capacity  4.2 cu yd (3.06 cu m)
+Breakout force 39,683 lb. (18,000 kg)
+Tipping load straight 31,967 lb. (14,500 kg)
+Tipping load at full turn 28,881 lb. (13,100 kg)Clearance (full lift 45° dump) 10 ft. 2 in. (3099 mm)
+Reach (full lift 45° dump) 3 ft. 10 in. (1168 mm)
+Item Value
+Rated bucket capacity 4.2 cu yd (3.06 cu m)
+Rated load 11,023 lb. (5000 kg)
+Boom lifting time (rate load)6.5 seconds or more
+10.2 seconds or more
+Maximum traction 7768 lb-ft (168 kN)Maximum lifting force 38,668 lb-ft (172 kN)
+Gradeability 28° or greater
+Operating weight 40,786 lb. (13,100 kg)
+Item Value
+Engine model Deutz TCD 7.8 L6
+Maximum gross power 262 hp (195 kW)
+Net engine power 252 hp (188 kW)Maximum gross torque 962 lb-ft (1304 N•m)
+Displacement 476 cu. in. (7.8 L)
+Bore/stroke4.3 in./5.4 in.
+(110 mm /136 mm)
+Minimum engine speed 790 rpm–810 rpmMaximum engine speed 2250 rpm–2350 rpm
+Specific fuel consumption
+20.32 lb/hph (192 g/kWh)
+Engine weight (per DIN 70020, Part 7A3598 lb. (725 kg)
+
+SPECIFICATIONS
+6-5 SW405K Wheel Loader OMMService Capacities
+Electrical System
+TransmissionEngine Oil Axle Oil TransmissionHydraulic 
+OilCooling 
+SystemFuel tank DEF Tank
+6 gal.
+(22.7 L)5 gal.
+(18.9 L)4.7 gal.
+(17.8 L)31 gal.
+(117.3 L)5.25 gal.
+(19.9 L)85 gal.
+(321.8 L)10.5 gal.
+(39.7 L)
+Item Value
+System voltage 24V
+Battery 2 (series connection)
+Battery voltage 12VBattery capacity 120 Ah
+Alternator 1960W/70A
+Starter motor power output 10 hp (7.5 kW)
+Item Value
+Manufacturer DanaModel TZL 18
+Type Rotary, electrically controlled shifting gear box
+Shift modes Automatic, manual, kick downForward gear 1-4 4-25 mph (7–40 km/h)
+Reverse gear 1-4 4-16 mph (7–25 km/h)
+Torque converter Single turbineNumber of gears 4 forward/3 reverse
+Shifting Semi-automatic
+Transmission Speed RangeForward 4th gear 0–25 mph (0–40 km/h)
+Forward 3rd gear 0–16 mph (0–25 km/h)
+Forward 2nd gear 0–8 mph (0–13 km/h)Forward 1st gear 0–4 mph (0–7 km/h)
+Reverse 1st gear 0–4 mph (0–7 km/h)
+Reverse 2nd gear 0–8 mph (0–13 km/h)Reverse 3rd gear 0–16 mph (0–25 km/h)
+Loaded tire pressure 75 psi (520 kPa)
+Transportation tire pressure 76 psi (524 kPa)
+
+6-6SPECIFICATIONS
+SW405K Wheel Loader OMMPower Train
+Hydraulic SystemItem Value
+Manufacturer Dana
+Front axle FixedFront axle traction aid Manual differential lock
+Front drive axle 37RF116
+Rear axle OscillatingRear axle traction aid Open differential
+Rear drive axle 37RF116
+Service brakes 4-wheel, wet-type, hydraulic brakesPark brake Electronically controlled, hydraulic caliper disc brake
+Minimum thickness of brake disc 0.39 in. (10 mm)
+Thickness of new brakes disc 0.50 in. (12.6 mm)Accumulator 2
+Accumulator capacity 0.27 gal (1.02 L)
+Item Value
+Maximum flow 81 gpm (307 Lpm)
+Maximum pressure 3916 psi (27 mPa)Raise 5.4 sec
+Dump 1.9 sec
+Float down 3.3 secTotal cycle time 10.6 sec
+
+SPECIFICATIONS
+6-7 SW405K Wheel Loader OMMWeight
+Machine Model SW405K
+Operating weight 40,786 lb. (18,500 kg)
+Engine 1599 lb. (725 kg)
+Radiator assembly 397 lb. (180 kg)
+Hydraulic oil tank assembly (without hydraulic oil) 388 lb. (176 kg)
+Fuel tank assembly (without fuel) 569 lb. (258 kg)Operator cab 1985 lb. (900 kg)
+Seat 80 lb. (36 kg)
+Counterweight (single) 1932 lb. (876 kg)Hydraulic pump (working pump) 66.5 lb. (30 kg)
+Hydraulic pump (double pumps) 99.5 lb. (45 kg)
+Damping accumulator for boom 66.5 lb. (30 kg)Tandem valve 232 lb. (105 kg)
+Boom cylinder 356.5 lb. (161.6 kg)
+Steering cylinder 377 lb. (171 kg)Bucket cylinder 78 lb. (35 kg)
+Connecting rod assembly 117 lb. (53 kg)
+Rocker arm assembly 701 lb. (318 kg)Bucket assembly 3340 lb. (1515 kg)
+Boom assembly 2448 lb. (1110 kg)
+Front axle assembly 1720 lb. (780 kg)Rear axle assembly 1852 lb. (840 kg)
+Transmission assembly 1433 lb. (650 kg)
+

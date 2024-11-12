@@ -1,0 +1,159 @@
+5-26MAINTENANCE
+SW405K Wheel Loader OMMEPower Fuse Block
+0004896Figure 5-44
+The ePower fuse block (1) is inside the electrical cabinet 
+on the right side of the cab. Remove the four fasteners and cover to access the fuses.Vehicle Electrical Center (VEC) Fuses
+0002745Figure 5-45
+The vehicle electrical center (VEC) fuse block (2) is 
+inside the electrical cabinet on the right side of the cab. Open the hinged fuse box cover to access the fuses. 
+Battery Compartment Fuse Block
+0004865Figure 5-46Fuse Locations, Circuits, and Amperages
+F1 Cigarette lighter, 10A F10 Epad, 5A
+F2 Air conditioning, 20A F11 Radio, 10AF3 Transmission control 
+unit, 15AF12 Transmission control 
+unit, 15A
+F4 Wiper, 10A F13 Dome light, 5A
+F5 ECU power signal, 10A F14 Emini, 15AF6 Control switch, 10A F15 GPS (if equipped), 5A
+F7 Not Used F16 ECU 30A
+F8 Charging circuit, 10A F17 ECU 20AF9 Emod, 30A
+1
+ Fuse Locations, Circuits, and Amperages
+F20 DEF controller, 40A F24 Reserved, 20AF21 NOx sensor, 20A F25 Reserved, 20AF22 DEF sensor, 20a F26 12V Charging Port, 20A
+F23 Exhaust circulation, 
+20A
+2
+3
+
+MAINTENANCE
+5-27 SW405K Wheel Loader OMMThe battery compartment fuse block (3) is inside the 
+battery compartment at the left rear side of the machine. Remove the fuse block co ver to access the fuses.
+Check the Alternator
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004891Figure 5-47
+NOTE: Check the alternator (1) every 1000 hours of 
+service.
+4. Check the alternator for:
+• Loose mounting bolts
+• Worn or loose drive belt• Worn alternator bearings• Case and internal corrosion• Tightness of electrical connectorsCheck the Batteries
+WARNING
+Before proceeding with any battery maintenance 
+procedure, follow and remember these points:
+  • Battery gases are explosive. Never smoke 
+around batteries or expose them to sparks or open flames.
+  • Wear personal protecti ve equipment (PPE) when 
+working with batteries.
+  • Work in a well-ventilated area.  • If battery acid contacts skin or eyes, flush the 
+area immediately with fresh water and seek medical attention.
+  • When disconnecting a battery, wait for at least 2 
+minutes after engine shutdown before disconnecting the battery so the engine control module (ECM) can complete its shutdown procedure.
+Failure to observe and follow this caution could 
+result in serious injury or death.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+NOTES:
+•  There are two 12V batteries connected in series to 
+provide 24V to the electrical system.
+•Allow several minutes for any accumulated battery 
+gases to clear before servicing the batteries.
+2. Unlock and open the battery compartment at the left 
+rear of the machine and verify that the battery disconnect switch is in the OFF position. See “Battery Disconnect Switch” on page 3-8.
+0004897Figure 5-48
+NOTE: If corrosion is found, flush the area with a battery 
+corrosion cleaning compound.Fuse Locations, Circuits, and Amperages
+F27 Battery power, 60A F29 Constant power, 20A
+F28 Spare power, 20A F30 Key switch power, 20A
+1
+1
+
+5-28MAINTENANCE
+SW405K Wheel Loader OMM3. Check the top surfaces and all the battery 
+connections under the red and black protective covers (1) for signs of corrosion or dirt buildup. Use a clean rag to wipe any dirt or other debris from the batteries.
+4. Remove any trash, tools, parts, or debris from the 
+battery compartment.
+5. Make sure all battery cable connections are tight.6. If battery replacement is required, see “Replace a 
+Battery” below.
+Replace a Battery 
+WARNING
+Before proceeding with any battery maintenance procedure, follow and remember these points:
+  • Battery gases are explosive. Never smoke 
+around batteries or expose them to sparks or open flames.
+  • Wear personal protective equipment (PPE) when 
+working with batteries.
+  • Work in a well -ventilated area.
+  • If battery acid contacts  skin or eyes, flush the 
+area immediately with fresh water and seek medical attention.
+  • When disconnecting a battery, wait for at least 2 
+minutes after engine shutdown before disconnecting the battery so the engine control module (ECM) can complete its shutdown procedure.
+Failure to observe and follow this caution could 
+result in serious injury or death.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Open the battery compartment cover. See “Battery 
+Compartment Cover” on page 3-7.
+3. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+4. Remove the fasteners and washers, then remove the 
+hold-down cover.0000974Figure 5-49
+5. Disconnect the black, ground (-) battery cables (1) 
+first, then disconnect the red, positive (+) (2) cables.
+6. Remove both batteries.
+NOTICE!
+Dispose of batteries in accordance with all 
+applicable environmental regulations. Failure to do so could damage the environment.
+7. Clean the battery tray of any trash or other debris 
+with a clean rag.
+8. Install new batteries.
+0000795Figure 5-50
+NOTE: Make sure the two 12V batteries are connected in 
+series.
+9. Connect the red, positive (+) cables (2) first.
+10. Connect the black, ground (-) cables (1).11. Install the battery hold-down cover and secure it in 
+place with the fasteners and washers.
+2
+1
+2
+1
+
+MAINTENANCE
+5-29 SW405K Wheel Loader OMMCheck the Battery Terminals
+WARNING
+Before proceeding with any battery maintenance 
+procedure, follow and remember these points:
+  • Battery gases are explosive. Never smoke 
+around batteries or expose them to sparks or open flames.
+  • Wear personal protective equipment (PPE) when 
+working with batteries.
+  • Work in a well -ventilated area.
+  • If battery acid contacts  skin or eyes, flush the 
+area immediately with fresh water and seek medical attention.
+  • When disconnecting a battery, wait for at least 2 
+minutes after engine shutdown before disconnecting the battery so the engine control module (ECM) can complete its shutdown procedure.
+Failure to observe and follow this caution could 
+result in serious injury or death.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+NOTES:
+•  There are two 12V batteries connected in series to 
+provide 24V to the electrical system.
+•Allow several minutes for any accumulated battery 
+gases to clear before servicing the batteries.
+2. Open the battery compartment cover. See “Battery 
+Compartment Cover” on page 3-7.
+3. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+0004897Figure 5-514. Check the battery connections under the red and 
+black protective covers (1) for signs of corrosion or 
+dirt buildup. Use a clean rag to wipe any dirt or other debris from the batteries.
+NOTE: If corrosion is found, clea n the area with a mix of 
+baking soda and warm water.
+5. Coat the battery terminals with battery corrosion 
+preventative to prevent corrosion.
+6. Tighten any loose connections.7. Remove any trash, tools, parts, or debris from the 
+battery compartment.
+1
+

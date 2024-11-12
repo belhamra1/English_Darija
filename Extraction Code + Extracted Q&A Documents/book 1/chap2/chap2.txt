@@ -1,0 +1,348 @@
+2-2SAFETY
+SW405K Wheel Loader OMMGeneral Safety
+This section provides detailed information on basic safety 
+precautions and preventive measures that should be followed during the operation and maintenance of this machine.
+Hazard Alerts in This Manual
+Hazard alerts in this manual are used to alert operators, job supervisors, maintenance staff, and jobsite workers to hazardous operating practices and maintenance procedures. Hazard alerts are used throughout this manual. Each hazard alert contains a hazard-alert symbol and a signal word to identify the hazard’s degree of consequence if the message is ignored.
+The following ANSI/ISO signal words are used to warn of 
+potentially hazardous situations that may lead to damage, personal injury, or even death. In this manual and on the machine decals, signal words or illustrations 
+are used to express the potential level of hazard.
+DANGER
+DANGER indicates a hazardou s situation which, if 
+not avoided, will result in death or serious injury.
+WARNING
+WARNING indicates a hazardous situation which, if not avoided, could result in death or serious injury.
+CAUTION
+CAUTION indicates a hazardous situation which, if not avoided, could result in injury.
+NOTICE!
+NOTICE is used to address practices not related to personal injury.
+This symbol is used within a graphic to alert the 
+user not to do something.Operator Safety Information
+It is impossible to compile a list of safety precautions that 
+covers every situation. However, there are basic principles that must be followed when operating this machine:
+• Only qualified personnel wh o have been specifically 
+trained on this machine are permitted to operate and/or work on this machine.
+• The seat belt must be worn by the operator at all 
+times.
+• Operator aids such as warning lights, horns, or 
+buzzers, along with displays on the monitors, are designed to alert the operator to potential problems. Sole reliance on these operator aids in place of good operating practices can lead to an accident. Inspect the operator aids of this  machine daily and make 
+sure each operator aid is in normal working condition. Any faults found shall be reported to a SANY dealer. Stop all work immediately if any operator aid is not working properly.
+• All accident prevention guidelines, operating 
+instructions, etc., are based on the intended usage of the machine.
+• Read and understand this manual and any 
+accompanying manuals before operating this machine.
+• This manual must be readily available to the 
+operator at all times and must remain in the cab while the machine is in use.
+• Make sure all personnel in the working area around 
+the machine are thoroughly  familiar with the safe 
+operating practices stated in this manual.
+• Review the local, state, and federal regulations and 
+standards regarding this machine and its operation. Work practice requirements may vary among government regulations, industry standards, and employer policies. A thorough knowledge of all such relevant work rules is requi red before operating this 
+machine or performing maintenance on it.
+• Inspect the maintenance log before the start of each 
+workday shift. Make sure routine maintenance has been performed as stated in this manual. Do not operate a damaged or improperly maintained machine.
+• Only the operator should be on the machine while it 
+is in operation.
+• Lower the bucket or work equipment to the ground 
+when not in use.
+• Be sure all under ground utilities have  been marked 
+before excavating.
+
+
+SAFETY
+2-3 SW405K Wheel Loader OMMMount and Dismount the 
+Machine
+0000635Figure 2-1
+Mounting or dismounting the machine presents hazards. 
+Observe the following:
+• Always make sure the mach ine is at a complete 
+stop, work equipment is lowered to the ground, engine is shut down, before entering or exiting the machine. Never jump on  or off the machine.
+• Never exit or enter the cab by any other means than 
+the provided grab handles and steps.
+• Always face the machin e as you mount and 
+dismount.
+• Always maintain three-point contact (both feet and 
+one hand, or one foot and both hands) with the grab handles, steps, and deck for proper support.
+• Wear safety shoes with slip-resistant soles.• Do not walk on any surface of the machine if its 
+slip-resistant material is missing or excessively 
+worn. Do not step on surfaces of the machine that are not approved for walking or working. Keep all walking and working surfaces of the machine clean, dry, and slip-resistant.
+• Always keep grab handle s, steps, and walkway 
+areas clean and clear of mud, oil, grease, or similar debris. If these areas are damaged, have them repaired or replaced immediately.Machine Safety
+Authorized Use of This Machine
+This SW405K is a multipurpose construction machine is used primarily for digging or loading. It can remove ice and snow from road surfaces, and work on slopes and ditching.
+SANY assumes no responsib ility for any consequence 
+caused by use outside this specified range.
+Unauthorized Use of This Machine
+Unauthorized uses include, but are not limited to, the 
+following:
+• Transporting people on the machine or in the cab.• Overloading the machine beyond its capacity.
+Unauthorized Machine Modifications
+Do not perform any unauthorized machine modifications.
+Escape Tool
+NOTE: Inspect the escape tool periodically. Replace the 
+escape tool if it appears damaged or unable to break the cab window for emergency exit.
+As a precaution, always keep an escape tool in the cab.
+Fire Safety
+Fuel, oil, and some engine coolants are flammable. 
+Observe the following:
+• Check the machine daily for debris buildup.• Keep open flames, airborne sparks, and burning 
+embers away from the machine.
+• Shut down the engine and do not smoke when 
+refueling or servicing the machine.
+• Add oil, fuel, or engine coolant in a well-ventilated 
+area.
+• Clean up any spilled fluids immediately.
+Electrical Fires
+Short circuits, damaged wiring, or overcharging batteries 
+can cause fires. Observe the following:
+• Check the wiring on the machine for damage when 
+doing a prestart check. Repair or replace any damaged wiring.
+• Make sure the battery is operating in its 
+recommended range.
+• Never install aftermarket electrical equipment 
+without approval from a SANY dealer.
+
+2-4SAFETY
+SW405K Wheel Loader OMMFire Extinguisher
+Always keep the fire extinguisher in the cab. The fire 
+extinguisher is located to the right of the operator seat. Read the instructions on the fire extinguisher carefully and know how to use it in an emergency.
+Inspect the condition of the fire extinguisher daily. If 
+damaged, replace the extinguisher immediately.
+Make sure the fire extinguisher is within the listed 
+inspection period. Replace the fire extinguisher immediately if it has reached its expiration date.
+The fire extinguisher must be at least a 2.5 lb. Class ABC 
+rated fire extinguisher (National Fire Protection Association [NFPA] 10 Standard for Portable Fire Extinguishers).
+In Case of Fire
+If a fire occurs on the machine:
+1. Immediately press the emergency stop to shut down 
+the machine. Never continue operating the machine.
+2. Get clear of the machine and immediately call for 
+help. Always have a list of emergency phone numbers available.
+3. Exit the area and remain clear of the machine until 
+the fire response team gi ves permission to come 
+near the machine.
+4. If using a fire extinguisher, always aim the 
+extinguisher nozzle at the base of the fire.
+Crushing Hazard
+Keep arms, hands, and body inside the windows and door during operation or travel.
+Keep all guards in place on the machine.Never remove the side windo w of the machine. If this 
+window becomes damaged or broken, replace it immediately.
+Block off the area where the machine is being operated 
+and keep all unnecessary personnel out of the work area.Diesel Engine Exhaust
+WARNING
+CALIFORNIA PROPOSITION 65 WARNING
+Diesel engine exhaust and some of its 
+constituents are known to the State of California to cause cancer, birth defects, and other reproductive harm.
+WARNING
+Engine exhaust fumes can cause sickness or death. If it is necessary to run an engine in an 
+enclosed area, use an exhaust pipe extension to vent the exhaust to the outdoors. If an exhaust pipe extension is not available, open doors and use fans to supply fresh air to the area.
+Machine Decals
+All safety and warning decals must be in place, undamaged, and visible. Become familiar with the 
+location and content of all decals on the machine. Walk around the machine and review each of them. Decals provide important instructions and warnings, and must be read and understood prior to any operational or maintenance function.
+Contact a SANY dealer for replacement decals if needed.NOTE: When replacing decals, make sure they are 
+placed in the proper locations. Contact a SANY dealer if you have any questions about their meaning and placement.
+
+SAFETY
+2-5 SW405K Wheel Loader OMMMaintenance Safety
+SANY cannot foresee every circumstance that might 
+involve a hazard in operation or maintenance. Therefore, the hazard alerts in this manual and on the machine may not include all possible safety precautions.
+Make sure all procedures and actions can be safely 
+performed without damaging the machine or causing injury. When unsure about the safety of a procedure, contact a SANY dealer.
+Before carrying out any re pair, read all the safety 
+messages on the machine associated with the procedure.
+Wear and use the proper personal protective equipment 
+(PPE), including (but not limi ted to) safety shoes, a hard 
+hat, gloves, and goggles.
+When carrying out any operation with two or more 
+workers, always agree on the operating procedure before starting.
+Park the machine on a hard, le vel surface, lower the work 
+equipment, shut down the engine, and block the wheels to prevent the machine from moving before performing any maintenance or repairs.
+Always perform the lockout/tagout procedure before 
+servicing the machine.
+Always inform fellow workers before starting any step of 
+the operation.
+Keep all tools in good condition, know how to use them, 
+and use the correct ones. Thoroughly check all tools before starting any procedure.
+Before disconnecting or re moving components of the 
+hydraulic system, relieve the system pressure to prevent 
+fluids from spraying out. See “Relieve Hydraulic System 
+Pressure” on page 5-36.
+The coolant and oil in the machine may be hot even after 
+the engine is stopped. Wait for the cooling and oil systems to cool before working on them.
+When checking the machine with the engine running 
+(e.g., measuring oil pressure, rpm, or temperature), take 
+extreme care to avoid ro tating or moving parts.
+Turn the battery disconnect switch off unless electrical 
+power is required for the procedure.
+When removing hoses or lines, close all openings using 
+caps and plugs. If any fuel, oil, or fluids leak, clean up immediately.
+When installing high-pressure hoses, make sure they are 
+not twisted. Damaged hoses are dangerous and should be replaced. Be extremely ca reful when installing hoses 
+for high-pressure circuits. Make sure fittings are correctly installed and tightened.When assembling or installing parts, always tighten them 
+to the specified torque. When installing protective parts 
+(such as guards), or parts that vibrate or rotate at high speed, make sure they are installed correctly.
+Lockout/Tagout Procedure
+Always perform the lockout/tagout procedure before 
+servicing the machine.
+Cleaning the Machine
+Always use hot water and mild, nonflammable, grease-cutting soaps or cleaning agents to clean the machine. Never use flammable or caustic cleaning agents.
+Never use high-pressure steam cleaners to clean the 
+machine.
+Always lubricate the machine thoroughly after cleaning to 
+remove any water or soap residue.
+Keep the cab, windows, mirrors, and lights clean.
+Fluid Systems
+Adding Fluids to the Machine
+When checking or adding fluids to the machine, be aware 
+that fluid systems may be under pressure and hot.
+Refueling
+When adding fuel, shut down the machine before removing the fuel tank cap.
+Fuel spills present a hazard if not cleaned up 
+immediately.
+Refuel only in a well-ventilated area. Never smoke or 
+allow open flames nearby wh ile refueling the machine.
+Do not top off fuel tank.
+
+2-6SAFETY
+SW405K Wheel Loader OMMHigh-Pressure Fluid Lines
+WARNING
+  • Never perform repairs to items while any system 
+is under pressure.
+  • Never use hands to check or feel for leaks. 
+Always wear safety glasses and leather gloves, and use a piece of wood or cardboard to check for leaks.
+  • If high-pressure fluids penetrate skin seek 
+medical attention immediately.
+Failure to follow these warnings can result in 
+death or serious injury.
+Check for cracks in the lines or hoses and for swelling in 
+the hoses.
+NOTE: If there is any leakage from a line or hose, the 
+surrounding area may be wet or have an accumulation of dust and dirt at the site of a leak.
+Replace lines and hoses immedi ately if leaks, swelling, 
+or cracking is found, or if failure occurs.
+Accumulator
+This machine is equipped with an accumulator charged with high-pressure nitrogen gas. Do not disassemble the accumulator.
+Never expose the accumulator to temperatures over 
+140°F (60°C) or to open flames.
+Never weld on the accumulator.Never strike the accumulator.If the accumulator needs ma intenance, contact a SANY 
+dealer.
+Electrical System
+Clean the electrical system using industry approved electrical cleaners. Contact a SANY dealer for more information on approved products.
+Never use caustic soaps, high-pressure water, or steam 
+cleaners to clean the electrical system. These could damage the system or cause intermittent system failures.Battery Safety
+When working with batteries, always work in a well-ventilated area. Batteries present a hazard, especially when they have been in use for a long time. The following are some basic precautions for working around batteries:
+• Always wear personal protective equipment (PPE).• Battery gases are extremely explosive. Smoking, 
+sparks, or open flames could cause an explosion. When opening a battery compartment, always allow ample time for battery gases to escape.
+• If the battery is corroded, clean it with a mixture of 
+warm water and baking soda.
+• If battery acid gets on the skin or in the eyes, flush 
+the area immediately with fresh water and seek medical attention.
+Check the battery’s condition only with proper test 
+equipment.
+Disconnect the Battery
+When disconnecting the battery, always disconnect the negative (-) cable first, then disconnect the positive (+) cable.
+NOTE: Disconnecting the jumper cable between the 
+batteries may not comp letely inte rrupt the 
+electrical system.
+
+SAFETY
+2-7 SW405K Wheel Loader OMMJob Safety
+It is the owner’s/ope rator’s responsibilit y to replace any 
+safety decals that are damaged or missing from the machine.
+Never leave the machine running while it is unattended. 
+Always park the machine in a safe, level area, lower any work equipment to the ground, lock the controls, and secure the machine to prevent tampering by unauthorized personnel. Shut down the engine before exiting the machine.
+Before starting any work operations, travel, or 
+maintenance procedures, make sure all personnel are a safe distance from all points  of the machine. Never allow 
+anyone to stand near the mach ine while it is in operation 
+or under maintenance or repair.
+It is the responsibility of th e operator’s employer to 
+conduct periodic safety trai ning and familiarize all 
+personnel with emergency procedures.
+If pedestrians are in the area, sound the horn and 
+proceed slowly.
+When working with another person on a jobsite, make 
+sure that all personnel involved understand all industry-standard hand signals that are to be used.
+The operator shall respond to operating signals from the 
+proper signal person only, but shall obey a stop signal at 
+any time from anyone.
+The operator must always be able to see the work 
+location. If this is not possible, then a signalman must be used. If visibility becomes bl ocked for any reason, stop 
+operation immediately.
+If the machine is equipped with operator aids, 
+Occupational Safety and Health Administration (OSHA) 
+requires this equipment to be used when operating the 
+machine.
+Personal Protective Equipment (PPE)
+Before using PPE, make su re it is in good working 
+condition.
+Hearing Protection
+Prolonged exposure to loud noise can cause impairment or loss of hearing. Wear suitable hearing protection to protect against loud noise.
+Travel and Operation Precautions
+Confirm the relative positions of the frame and operator before operating the machine.
+Traveling with the machine may present hazards. When 
+traveling with the machine, always travel in a safe, 
+controlled manner and remain alert at all times. Be sure the areas around the machine are clearly visible.When traveling over rough ground, travel at low speed 
+and steer carefully. Whenever possible, avoid traveling over obstacles or raised area s. Traveling over obstacles 
+or raised areas could result in loss of control or damage to the machine. When traveling over raised areas, always travel at low speed.
+During travel, always mainta in a safe distance from 
+people and surrounding objects. Always check to make sure areas such as  bridges and roadw ays will support the 
+weight of the machine before attempting to cross.
+Before traveling in public areas, always gain approval 
+from local authorities and follow their instructions.
+Raise work equipment 8 in.–12 in. (20 cm–30 cm) above 
+the ground when traveling.
+When traveling or operating in shallow water, be aware of 
+its depth and current.
+Inclined Areas
+Traveling on an incline can be dangerous. To prevent tipping, loss of control, or a rollover, it is important to 
+follow these rules:
+• Always check the firmness of the inclined surface 
+before attempting to travel on it.
+• Always travel straight up or straight down an incline.
+• Avoid turning on an incline.• Avoid sudden stops.
+Snow or Frozen Surfaces
+Be careful when traveling or operating the machine on 
+frozen or snow-covered surfaces. The ability to 
+maneuver the machine is seriously affected. The machine may not respond as expected when turning.
+Other precautions are:
+• Avoid any rapid movement, acceleration, or quick 
+stopping. Always be aware of the increased stopping distance required on these surfaces.
+• Avoid deep snow or frozen bodies of water.• Even a slight incline may cause the machine to slip. 
+Be extra carefu l when working on an inclined 
+surface covered with snow or ice.
+• When traveling or moving the machine on a 
+snow-covered incline, allow extra distance to bring the machine to a safe stop.
+
+2-8SAFETY
+SW405K Wheel Loader OMMAvoid Backover Accidents
+Keep the windows, mirrors, cameras, and lights clean 
+and in good condition.
+Before moving the machine, make sure all bystanders 
+are clear of the intended path.
+Before moving the machine, warn others with the horn.Use a signalman if the view is obstructed when backing 
+up. Keep the signalman in view at all times.
+Dust and Chemical Hazards
+Hazardous dust or chemicals present a serious danger when they are released or mishandled. All workers involved should use approv ed personal protective 
+equipment (PPE) and follow all environmental safety regulations.
+Consult the Safety Data S heet (SDS) for guidelines on 
+PPE, proper handling and clean up, and correct reporting 
+agencies if needed.
+Environmental Precautions
+0000636Figure 2-2
+Oil and coolant poured onto the ground, into bodies of 
+water, into storm drains, or tossed into trash cans (even in a sealed container) can contaminate and pollute soil, groundwater, streams, and rivers.
+Recycling used oil, coolant, and filters helps conserve 
+natural resources and is good for the environment.
+Obey all regulations when disposing of harmful items 
+such as oil, fuel, filters, batt eries, hydraulic oil, and used 
+parts.Precautions in Hi gh-Voltage Areas
+0002719Figure 2-3
+WARNING
+Overhead power lines carry high-voltage 
+electricity that can discharge to the ground through the machine, even without direct contact with the machine’s structure. Avoid direct contact with high-voltage power lines while operating. 
+High-voltage contact could result in equipment damage, death, or serious injury.
+Stay clear of overhead power lines. They are an electrical 
+hazard. Treat all overhead power lines as being energized and not insulated.
+Be sure all underground ut ilities have been marked 
+before excavating.
+

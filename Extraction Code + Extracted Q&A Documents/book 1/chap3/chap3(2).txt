@@ -1,0 +1,936 @@
+MACHINE CONTROLS
+3-25 SW405K Wheel Loader OMMFire Extinguisher
+0004835Figure 3-53
+NOTICE!
+  • Always keep the fire extinguisher in the cab.
+  • Read the instructions on the fire extinguisher 
+carefully and know how to use it in an emergency.
+  • Inspect the condition of the fire extinguisher 
+daily. Replace it immediately if damaged.
+  • Make sure the fire extinguisher is within the 
+listed inspection period. Re place it immediately if 
+it has reached its expiration date.
+The fire extinguisher (1) is located to the right of the 
+operator seat.
+The fire extinguisher must be at least a 2.5 lb. Class ABC 
+rated fire extinguisher (National Fire Protection Association [NFPA] 10 Standard for Portable Fire Extinguishers).
+Escape Tool
+0004834Figure 3-54WARNING
+Be extremely careful of shards of glass if a window is broken. Failure to observe this warning could result in death or serious injury.
+If the cab door or windshield cannot be opened during an 
+emergency, the escape tool (1) can be used to break the rear window to provide an alternate exit.
+The escape tool can also be used to cut the seat belt if 
+the seat belt buckle cannot be released.
+Dome Light 
+0000833Figure 3-55
+The roof-mounted dome light inside the cab is controlled 
+by the slide switch (1). Slide t he switch right to turn it ON 
+or left to turn it OFF.
+Sun Shade 
+0002533Figure 3-56
+1
+1
+1
+1
+
+3-26MACHINE CONTROLS
+SW405K Wheel Loader OMMFuses 
+NOTICE!
+A fuse should be replaced if it is corroded or 
+becomes loose in the fuse block.
+Before replacing a fuse, make sure the key switch 
+is in the OFF position and the batteries are disconnected.
+Always replace a fuse with one of the same 
+amperage. Never replace a fuse with one of a higher amperage.
+Failure to observe and follow this notice can 
+damage the machine or cause it to operate improperly.
+0004853Figure 3-57
+The ePower module fuse block (2) and Vehicle Electrical 
+Center (VEC) fuse block (1) are in the electrical 
+compartment. See “Electrical Compartment Access 
+Door” on page 3-5 for access.0004860Figure 3-58
+The battery compartment fuse block (3) is inside the 
+battery compartment. See “Battery Compartment Cover” on page 3-7 for access.
+See “Inspect the Fuses” on page 5-25 for fuse locations, 
+circuits, and amperages.
+12
+3
+
+MACHINE CONTROLS
+3-27 SW405K Wheel Loader OMMMonitor   
+Home Screen  
+The main menu screen is displayed during normal 
+operation.
+0004951Figure 3-59
+Cab-Mounted Front a nd Rear Work Lights
+0000886Figure 3-60
+Icon displays the on/off stat us of the work lights (1).• The icon illuminates green when all six (four back 
+and two front cab) work lights are on.
+• The icon is illuminated wh ite when the work lights 
+are off or only the front cab work lights are on.
+NOTE: Work lights are turned on and off from the right 
+console switch panel. See “Cab Mounted Front/Rear Work Light Switch” on page 3-14.1) Left turn signals (page 3-28) 12) Plus button (page 3-30)
+2) Engine tachometer (page 3-28) 13) Travel gear indicator (page 3-30)
+3) Transmission setting (page 3-29) 14) Home button (page 3-30)
+4) Park brake icon (page 3-29) 15) DEF level gauge (page 3-30)
+5) Speedometer (page 3-29) 16) Minus button (page 3-30)6) Hour meter (page 3-29) 17) Fuel level gauge (page 3-31)
+7) Function button 1 18) Work lights (page 3-27)
+8) Function button 2 19) Headlights (page 3-28)9) Function button 3 20) Right turn signals (page 3-28)
+10) Function button 4 21) Not used
+11) Engine coolant temperature (page 3-30)6
+254
+3
+11 17
+1213
+1415
+167
+8
+9
+1020
+19
+181
+21
+1
+
+3-28MACHINE CONTROLS
+SW405K Wheel Loader OMMHeadlights/Taillights
+0004605Figure 3-61
+Icon displays the on/off status of the headlights and 
+taillight:
+• Marker (park) lights (1) are on when this icon is 
+green illuminated.
+• Headlights, taillights, and ma rker (park) lights (2) are 
+on when the icon is illuminated blue.
+• High beam headlights, taillig hts, and marker (park) 
+lights (3) are on when t he icon is illuminated green.
+• When all headlights and taillig hts are off, the icon (3) 
+is illuminated white.
+NOTE: Headlights/taillight s are turned on  and off from 
+the right console switch panel. See “Headlight/Taillight Switch” on page 3-15.
+Right Turn Signal Icon
+0000888Figure 3-62
+Icon displays the on/off status of the right turn signal (1):
+• The icon flashes green when the right turn signal 
+switch is turned on.
+• The icon flashes green when the hazard light switch 
+is turned on.
+• The icon illuminates white when both the right turn 
+signal switch and hazard light switches are off.
+NOTE: The right turn signal is turned on and off from 
+the right console switch panel. See “Right Turn Signal Switch” on page 3-14.Left Turn Signal Icon
+0000889Figure 3-63
+Icon displays the on/off status of the left turn signal (1):
+• The icon flashes green when the left turn signal 
+switch is turned on.
+• The icon flashes green when the hazard light switch 
+is turned on.
+• The icon is illuminated wh ite when both the left turn 
+signal switch and hazard light switches are off.
+NOTE: The left turn signal is turned on and off from 
+the right console switch panel. See “Left Turn Signal Switch” on page 3-15.
+Engine Tachometer
+0004954Figure 3-64
+The engine tachometer (1) displays the engine rotation 
+speed in hundreds of revolutions per minute (rpm):
+• Blue section – engine speed 0 to 2300 rpm.• Yellow section – engine speed 2400 to 2500 rpm.• Red section – engine speed 2600 to 3000 rpm.
+NOTICE!
+Failure to immediately shut down the engine if the 
+rpm reaches the red area may result in engine damage.
+1 2 3
+1
+1
+1
+
+MACHINE CONTROLS
+3-29 SW405K Wheel Loader OMMTransmission Setting
+0004895
+Figure 3-65:  MANU shown
+The transmission setting (1) shows the current 
+transmission setting manual (MANU) or automatic (AUTO).
+Park Brake Icon
+0000891Figure 3-66
+CAUTION
+Operating this machine with low brake pressure can result in loss of control of the machine, 
+equipment damage, personnel injury, or death.
+The park brake i ndicator (1) illuminat es when the park 
+brake is engaged or when the brake pressure is low:
+• Icon illuminates red w hen the park brake is 
+engaged.
+• Icon illuminates and flashes  red with alarm buzzer 
+when brake pressure is low.
+• Icon is not illuminated when the park brake is not 
+engaged.Speedometer
+0000893Figure 3-67
+NOTE: The units displayed (mph or kph) can be changed 
+by accessing the Home screen. See “Home Screen” on page 3-27.
+NOTICE!
+Failure to brake if the travel speed reaches the red area may result in engine damage.
+The speedometer (1) displays the current speed in miles 
+per hour (mph) or kilometers per hour (km/h):
+• Blue section – normal rated travel speed.• Yellow section – caution, reduce travel speed.• Red – severely exceeded rated travel speed. 
+Immediately reduce travel speed.
+Hour Meter
+0000892Figure 3-68
+The hour meter (1) displays the total hours of service the 
+machine has accumulated, down to tenths of an hour.1
+P11
+h1
+
+3-30MACHINE CONTROLS
+SW405K Wheel Loader OMMEngine Coolant Temperature Gauge 
+0002518Figure 3-69
+The engine coolant temperature gauge (1) displays the 
+coolant temperature in degrees Celsius:
+• Needle in white area = normal coolant temperature 
+range.
+• Needle in yellow area = coolant temperature is 
+212°F–222°F (100°C–105°C).
+• Needle in red area = coolant temperature is 
+223°F–248°F (106°C–120°C). Icon displays in red and flashes.
+NOTICE!
+Shut down the engine immediately if the needle enters the red area of the gauge. Inspect the machine and repair the problem before returning the machine to operation. Failure to observe this 
+notice may result in unexpected and sudden shutdown of the machine engine and engine damage.
+Plus Button
+0000982Figure 3-70
+Press the plus (+) button (1) to raise the highlighted 
+setting.Travel Gear Indicator 
+0000983Figure 3-71
+The travel gear indicator (1) displays the current travel 
+gear setting. A number for the current gear appears when the transmission is set for either forward or reverse direction:
+• Icon illuminates green when the machine is 
+operating.
+• Icon is not illuminated when the machine is parked.
+NOTE: Park gear, P, is displayed.
+Home Button
+0000984Figure 3-72
+Press the home button (1) to return to the Home screen.
+DEF Level
+0004955Figure 3-73
+The DEF level indicator (1) shows the level of fluid in the 
+DEF tank and is displayed on the main menu screen.
+Minus Button
+0000986Figure 3-741
+11
+1
+1
+1
+
+MACHINE CONTROLS
+3-31 SW405K Wheel Loader OMMPress the minus (-) button (1) to lower the highlighted 
+setting.
+Fuel Level Gauge
+0000976Figure 3-75
+The fuel level gauge (1) displays the current level of fuel 
+in the tank as a percentage of the full fuel tank:
+• Needle in white area = fuel level is greater than 
+10 percent of a full tank.
+• Needle in yellow area = Icon flashes, fuel level is 
+10 percent of a full tank or less.
+System Information Screens    
+0004895Figure 3-76
+Press the F1 function button (1) on the Home screen to 
+access the System Information screens.0004950Figure 3-77
+NOTE: The six System Informati on screens are accessed 
+by pressing the function buttons on the right side of the monitor.
+1. Press the function button ne xt to the up arrow icon 
+(2) or the down arrow icon (3), as needed, to select the desired information screens.
+2. Press the function button next to the check mark icon 
+(4) to accept the selection. 
+3. Press the function button next to the return arrow 
+icon (5) to return to the previous screen.
+Engine Information Screen 
+0004950Figure 3-78
+Two screens are accessible through the Engine 
+Information option. Press the fu nction button next to the 
+check mark icon (1) to display the first screen.1
+1Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information2
+3
+4
+5
+Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information1
+
+3-32MACHINE CONTROLS
+SW405K Wheel Loader OMM0004949Figure 3-79
+The first engine information screen includes:
+• Engine Speed• Engine Speed Setpoint (Set Point)• Foot Pedal Position (accelerator pedal)• Instant Fuel Consumption•F u e l  L e v e l
+Press the function button next to the down arrow icon (2) 
+to access the second screen.
+0004948Figure 3-80
+The second engine information screen includes:
+• Torque Output• Ambient Temperature• Coolant Temp (Temperature)• Coolant Level• Oil Pressure• Charging Voltage
+Press the function button next to the return arrow icon (3) 
+to return to the previous screen.Exhaust After Treatment (EAT) Information Screens 
+0004947Figure 3-81
+The following three screens are accessible through the 
+Exhaust After Treatment (EAT) screens. Press the function button next to the ch eck mark icon (1) to accept 
+the highlighted selection.
+0004946Figure 3-82
+The first EAT information screen includes:
+• DEF Level
+• Temperature At Mixing Pipe
+• DEF Temperature
+Press the function button next to the down arrow icon (2) 
+to access the second EAT information screen.
+0004945Figure 3-83
+The second EAT information screen includes:2Engine Speed: 0 rpm
+0r p m Engine Speed Setpoint:
+0% Foot Pedal Position:
+0.0 L/h Instant Fuel Consumption:
+0% Fuel Level:Engine Information
+3Torque Output:
+Ambient Temperature:
+Coolant Temp:
+Coolant Level:
+Oil Pressure:
+Charging Voltage:Engine Information1Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information
+2DEF Level:
+Temp.At Mixing Pipe:
+DEF Temperature:EAT Information
+*Warning Tips (Warning info in the next page):
+Level 1 means requiredLevel 2 means WarningLevel 3 means machine needed shutoffLevel 4 means machine needed remove filter
+3EAT Information
+DEF Level Warning:
+DEF Quality Warning:
+Anti Tampering:
+Hardware Failure:
+Crystallization Detection:Level1 Level2 Level3
+
+MACHINE CONTROLS
+3-33 SW405K Wheel Loader OMM• DEF Level Warning
+• DEF Quality Warning• Anti Tampering• Hardware Failure• Crystallization Detection
+Press the function button next to the down arrow icon (3) 
+to access the third EA T information screen.
+0004944Figure 3-84
+The third EAT information screen includes:
+• Warning for DPF-Load• Warning for Ash-Load• Oil-Service• Standstill Service
+Press the function button next to the return arrow icon (4) 
+to return to the previous screen.
+Transmission Information Screens 
+0004943Figure 3-85
+The following two screens are accessible through the 
+Transmission Information screens. Press the function button next to the check mark icon (1) to accept the highlighted selection.0004942Figure 3-86
+The first transmission information screen includes:
+• Vehicle Speed• Engine Speed• Transmission Fluid (Oil) Temp (Temperature)• Converter Oil Outlet Temp (Temperature)
+Press the function button next to the down arrow icon (2) 
+to access the seco nd transmission information screen.
+0004941Figure 3-87
+The second Transmission Information screen includes:
+• Power Output Cut Off• FNR Information• Gear Information
+Press the function button next to the return arrow icon (3) 
+to return to the previous screen.4EAT Information
+Level1 Level2 Level3 Level4
+Warning For DPF-Load:
+Warning For Ash-Load:
+Oil-Service:
+Standstill Service:
+1Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information2Vechicle Speed:
+Engine Speed:
+Transmission Fluid Temp:
+Convertor Oil Outlet Temp:km/h
+rpmTransmission Information
+3Power Output Cut Off:
+FNR Information:
+Gear Information:Transmission Information
+N
+
+3-34MACHINE CONTROLS
+SW405K Wheel Loader OMMHydraulic Information Screens 
+0004940Figure 3-88
+The following two screens are accessible through the 
+Hydraulic Information screens. Press the function button next to the check mark icon (1) to accept the highlighted selection.
+0004937Figure 3-89
+The first hydraulic information screen includes:
+• Joystick Position Info (Information)
+• Joystick Button Info (Information)
+• Hydraulic Oil Temp (Temperature)• Fan Direction: Clockwise or Counter-Clockwise
+Press the function button next to the down arrow icon (2) 
+to access the second Hydr aulic Information screen.
+The second Hydraulic Information screen is a password 
+input screen.
+NOTE: This is provided for information only and can be 
+updated only by qualified SANY technicians.
+Press the function button next to the return arrow icon (3) 
+to return to the previous screen.Control Port Information Screens
+0004936Figure 3-90
+The following five screens are accessible through the 
+Control Port Information screens. Press the function button next to the check mark icon (1) to accept the highlighted selection.
+0004935Figure 3-91
+The first control port information screen includes:
+• Front Light (ePower 6-A)
+• Rear Light (ePower 6-B)
+• High Beam Headlight (ePower 6-C)• Low Beam Headlight (ePower 6-D)• Position Light (ePower 6-E)• Head Windscreen (Windshield) Washer (ePower 
+6-F)
+• Buzzer Hummer (ePower 6-H)• Quick Change Power (ePower 6-J)
+Press the function button next to the down arrow icon (2) 
+to access the ne xt control port information screen.1Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information
+2Hydraulic Information
+Joystick Position Info:
+Joystick Button Info:
+Hydraulic Oil Temp:
+Fan Direction:Horn KDN
+Clockwise
+Counte r-Clockwise
+31Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information
+2Control Port information (1/5)
+Front Light(ePower 6-A)
+Rear Light(ePower 6-B)
+High Beam Headlight(ePower 6-C)
+ Low Beam Headlight(ePower 6-D)
+Position Light(ePower 6-E)
+Head Windscreen Washer(ePower 6-F)
+Buzzer Hummer(ePower 6-H)
+Quick Change Power(ePower 6-J)
+
+MACHINE CONTROLS
+3-35 SW405K Wheel Loader OMM0004934Figure 3-92
+The Control Port Information screen (2/5) includes:
+• Left Turn Signal Light (ePower 6-K)• Right Turn Signal Light (ePower 6-L)• Behind Wind Screen (Windshield) Washer (ePower 
+6-M)
+• Warning Lamp (Light) (ePower 5-A)• Reversing Light (ePower 5-B)• Horn (ePower 5-D)• Braking Light (ePower 5-E)• Delay Power Off (ePower 5-F)
+Press the function button next to the down arrow icon to 
+access the next screen.
+0004933Figure 3-93
+The Control Port Information screen (3/5) includes:
+• Service Brake Output Signal (ePower 2-C)• Neutral Position Input Signal (ePower 2-E)• Emergency Steering (eMini B-2)• Steering Pressure Input Signal (eMini B-2)• Parking Brake Output Signal (eMod B-11)• The Differential Input  Signal (eMod B-12)
+• Ahead Wiper Reset Signal (eMod B-8)• Behind Wiper Reset Signal (eMod B-9)
+Press the function button next to the down arrow icon to 
+access the next screen.
+0004932Figure 3-94
+The Control Port Information screen (4/5) includes:
+• Parking Brake Output Signal (eMod B-3)• The Differential Output Signal (eMod B-4)• Driving Vibration Absorb Output Signal (eMod B-5)• The Differential Output Signal (eMod B-6)• Ahead Screen Wiper Output Signal (eMod B-1)• Behind Screen Wiper Output Signal (eMod B-2)• Start Signal (eMini B-2)
+Press the function button next to the return arrow icon (3) 
+to return to the previous screen.
+0004931Figure 3-95
+Control Port Information scr een (5/5) information is 
+unavailable at this time.
+Press the function button next to the return arrow icon to 
+return to the previous screen.Control Port Information (2/5)
+Left Turn Signal Light(ePower 6-K)
+ 
+Right Turn Signal Light(ePower 6-L)
+Behind Wind Screen Washer(ePower 6-M)
+Warning Lamp(ePower 5-A)
+Resersing Light(ePower 5-B)
+Horn(ePower 5-D)
+Braking Light(ePower 5-E)
+Delay Power Off(ePower 5-F)
+Control Port information(3/5)
+Service Brake Output Signal (ePower 2-C)
+Neutral Position Input Signal (ePower 2-E)
+Emergency Steeering (eMini B-2)
+ Steering Pressure Input Signal (eMini B-2)
+Parking Brake Output Signal(eMod B-11)
+The Differential Input Signal( eMod B-12)
+Ahead Wiper Reset Signal( eMod B-8)
+Behind Wiper Reset Signal (eMod B-9)3Control Port Information(4/5)
+Parking Brake Output Signal
+The Differential Output Signal
+Driving Vibration Absorb Output Signal
+ (eMod B-3)
+(eMod B-4)
+(eMod B-5)
+The Differential Output Signal (eMod B-6)
+Ahead Screen Wiper Output Signal (eMod B-1)
+Behind Screen Wiper Output Signal (eMod B-2 )
+Start Signal (eMini B-2)
+Control Port Information(5/5)
+
+3-36MACHINE CONTROLS
+SW405K Wheel Loader OMMMaintenance Information Screens 
+0004930Figure 3-96
+NOTE: There are seven screens accessible through the 
+Maintenance Informatio n Screens. From the 
+Maintenance Information screen, press the function button next to the check mark icon (1) to display the first of these screens.
+0004929Figure 3-97
+The first maintenance information screen includes 
+projects:
+• Oil Filter• Fuel Filter (Primary)• Fuel Prefilter (Secondary)
+Press the function button next to the down arrow icon (2) 
+to select the next screen.0004928Figure 3-98
+The second maintenance screen includes projects:
+• SCR (selective catalytic reduction) Tank Breather 
+Filter (DEF tank)
+• SCR Tank Filling (DEF tank)• SCR Pump (DEF tank)
+Press the function button next to the down arrow icon to 
+select the next screen.
+0004927Figure 3-99
+The third maintenance information screen includes 
+projects:
+• Primary (Main) Air Filter• Secondary (Safe) Air Filter• Pilot Filter
+Press the function button next to the down arrow icon to 
+select the next screen.1Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information
+2Maintenance Info(1/7)
+Project Coding Period
+Oil Filter
+Fuel Filter60342824
+60342818
+60342821500 0
+0
+0 Fuel Prefilter1000
+1000
+Please click on after maintenanceHours since
+last maintenanceMaintenance Info(2/7)
+Project Coding Period
+SCR Tank
+Breather Filter
+SCR Tank Filling
+SCR Pump60342822
+60342823
+60342825Check 0
+0
+0Check
+500
+Please click on after maintenanceHours since
+last maintenance
+Maintenance Info(3/7)
+Project Coding Period
+Main 
+Air Filter
+Safe Air60207265
+60207264
+A2221000001191000 0
+0
+03000
+500
+Please click on after maintenanceFilter
+Pilot FilterHours since
+last maintenance
+
+MACHINE CONTROLS
+3-37 SW405K Wheel Loader OMM0004926Figure 3-100
+The fourth maintenance information screen includes 
+projects:
+• Brake Filter• Oil Suction Filter• Return Oil Filter
+Press the function button next to the down arrow icon to 
+select the next screen.
+0004925Figure 3-101
+The fifth maintenance information screen includes 
+projects:
+• Crankcase Breather Filter• Transmission Oil Filter•E n g i n e  O i l
+Press the function button next to the down arrow icon to 
+select the next screen.0004924Figure 3-102
+The sixth maintenance information screen includes 
+projects:
+• Hydraulic Oil• Transmission Oil• Drive Axle Oil
+Press the function button next to the down arrow icon to 
+select the next screen.
+0004923Figure 3-103
+The seventh maintenance information screen includes 
+projects:
+• A/C (air conditioner compressor) Belt• Coolant Pump Belt
+Press the function button next to the return arrow icon (3) 
+to return to the previous screen.Maintenance Info(4/7)
+Project Coding Period
+60247816
+60200363
+60200365500 0
+0
+0Return Oil 
+Filter1000
+1000
+Please click on after maintenanceBrake Filter
+Oil Suction
+ FilterHours since
+last maintenance
+Maintenance Info(5/7)
+Project Coding Period
+Crankcase
+Breather Filter60186788
+60077980
+60072347500 0
+0
+0100
+100
+Please click on after maintenanceTransmision
+Oil Filter
+Engine OilHours since
+last maintenanceMaintenance Info(6/7)
+Project Coding Period
+Hydraulic 
+Oil60272634
+60067522
+603111524000 0
+0
+0100
+100
+Please click on after maintenanceTransmision
+Oil 
+Drive Axle OilHours since
+last maintenance
+3Maintenance Info(7/7)
+Project Coding PeriodHours since
+last maintenance
+A/C Compresor 
+V-Belt60342819
+603428201000 0
+0 1000
+Please click on after maintenanceCoolant Pump
+V-Belt 
+
+3-38MACHINE CONTROLS
+SW405K Wheel Loader OMMLanguage Change Screens 
+0004895Figure 3-104
+Press the F2 function button (1) on the Home screen to 
+access the Language Change screen options.
+0004922Figure 3-105
+NOTE: The six options on the Language Change Screen 
+are accessed by pressing the function buttons on 
+the right side of the monitor.
+1. Press the function button next to the down arrow icon 
+(2), as needed, to select the desired option. 
+2. Press the function button next to the check mark icon 
+(3) to accept the Language Change option selected.
+3. Press the function button next to the return arrow 
+icon (4) to return to the previous screen.
+0000967Figure 3-106The Language Change screen displays two languages, 
+Chinese and English. Use the f unction buttons next to the 
+up arrow icon (5) or down arrow icon (2) to select the desired language. Press the function button next to the check mark icon (3) to ac cept the selected language.
+Press the function button next to the return arrow icon (4) 
+to return to the previous screen.
+Program Version Screen
+The Program Version screen (not shown) is password protected. This screen is for use by authorized SANY technicians.
+Current Characteristic Screen
+The Current Characteristic screen (not shown) is 
+password protected. This screen is for use by authorized SANY technicians.
+Emergency Steering Screen
+The Emergency Steering screen (not shown) is password protected. This screen is for use by authorized SANY technicians.
+Boom (Arm) Height Setting Screen
+The Boom (Arm) Height Setting screen (not shown) is password protected. This screen is for use by authorized SANY technicians.
+Control Handle Select Screen
+The Control Handle Select screen (not shown) is password protected. This screen is for use by authorized SANY technicians.
+Fault Information Screens 
+0004895Figure 3-107
+Press the F3 function button (1) on the Home screen to 
+access the fault information screens.1
+2Language Change
+Program Version
+Current Characteristic
+Emergency Steering
+Arm height Setting
+Control handle select3
+4
+Chinese System
+English SystemLanguage Change 51
+
+MACHINE CONTROLS
+3-39 SW405K Wheel Loader OMM0004921Figure 3-108
+NOTE: The four options on the Fault Information screen 
+are accessed by pressing the function buttons on 
+the right side of the monitor.
+1. Press the function button next to the down (2) arrow 
+to scroll through the fault information screen options.
+2. Press the function button next to the check mark icon 
+(3) to accept the selected option.
+3. Press the function button next to the return arrow (4) 
+to return to the previous screen.
+Vehicle Fault Info (Information) Screen
+0004921Figure 3-109
+The Vehicle Fault Info (information) screen displays a list 
+of current vehicle faults. No  faults will be displayed if 
+none are present.
+Press the function button next to the return arrow icon (1) 
+to return to the previous screen.Engine Fault Code (Information) Screen
+0004920Figure 3-110
+The Engine Fault Code screen displays a list of current 
+engine faults. No faults will be displayed if none are 
+present.
+Press the function button next to the return arrow icon (1) 
+to return to the previous screen.
+Transmission Fault Info (Information) Screen
+0002461Figure 3-111
+The transmission fault info (information) screen displays 
+a list of current transmission faults. No faults will be 
+displayed if none are present.
+Press the function button next to the return arrow icon (1) 
+to return to the previous screen.
+Diagnostic Info (information) Screen
+The Diagnostic Info (information) screen (not shown) displays a password input scre en. This screen is for use 
+by authorized SANY technicians.2
+3
+4Vehicle Fault Info
+Engine Fault Info
+Transmission Fault Info
+Diagnostic Info(Password Needed)
+1Vehicle Fault Info
+Engine Fault Info
+Transmission Fault Info
+Diagnostic Info(Password Needed)1Engine Fault Code
+SPN:
+FMI:Num ltem
+ltem Total
+Transmission Fault info
+SPN:
+FMI:Num ltem
+ltem Total1
+
+3-40MACHINE CONTROLS
+SW405K Wheel Loader OMMCalibration Screens 
+0004895Figure 3-112
+Press the F4 function button (1) on the Home screen to 
+access the Calibration Screen.
+0004952Figure 3-113
+NOTE: The five options on the Calibration Screen are 
+accessed by pressing the function buttons on the right side of the monitor.
+1. Press the function button next to the down arrow icon 
+(2) to highlight the Calibration Screen option or the Operation Screen option.
+2. Press the function button next to the check mark icon 
+(3) to accept the selected screen.
+T
+0004919Figure 3-1141. Press the function button next to the up arrow icon 
+(4) or the down arrow icon (2) to scroll through the five options.
+2. Press the function button next to the check mark icon 
+(3) to display the selected option.
+3. Press the function button next to the return arrow 
+icon (5) to return to the previous screen.
+Position Limit Calibration Screen
+0004918Figure 3-115
+1. Press the function buttons next to the up arrow icon 
+(1) and down arrow icon (2), as needed, to select the Position Limit Calibration option.
+2. Press the function button next to the check mark icon 
+(3) to select the Position  Limit Calibration screen 
+option.
+0004917Figure 3-116
+3. Follow the steps on the Position Limit Calibration 
+screen to set the limits.
+Press the function button next to the return arrow icon (4) 
+to return to the previous screen.
+Accelerator Pedal (Foot Pedal) Calibration Screen
+The Accelerator Pedal (Foot Pedal) Calibration screen 
+(not shown) is password prot ected. This is provided for 
+information only and should only be updated by qualified SANY technicians.1
+Calibration Screen
+Operation Screen2
+3
+4
+2
+3
+5Position Limit Calibration
+Foot Pedel Calibration
+Bucket Down To Horizontal
+Transmission Calibration
+Ride Control System1
+2
+3Position Limit Calibration
+Foot Pedel Calibration
+Bucket Down To Horizontal
+Transmission Calibration
+Ride Control System
+4Position Limit Calibration
+Current Arm Height:
+Arm Low Limit:mm
+mm0
+302
+Arm Height Limit: mm 1760
+Arm Limit Linearity: 3600 3607
+*Reminder: Please put the boom at limit position
+when calibration, press KD key to confirm.
+
+MACHINE CONTROLS
+3-41 SW405K Wheel Loader OMMBucket Down to Horizontal Screen
+0004916Figure 3-117
+1. Press the function buttons next to the up arrow icon 
+(1) and the down arrow icon (2), as needed to select, the Bucket Down To Horizontal option.
+2. Press the function button next to the check mark icon 
+(3) to access the Bucket Level Calibration screen.
+0004915Figure 3-118
+3. Follow the steps on the Bucket Level Calibration 
+screen to set the position.
+Press the function button next to the return arrow icon (4) 
+to return to the previous screen.
+Transmission Calibration Screen
+0004914Figure 3-1191. Press the function button next to the up arrow icon 
+(1) or the down arrow icon (2), as needed, to select the Transmission Calibration option.
+2. Press the function button next to the check mark icon 
+(3) to accept the Transmission Calibration screen option.
+0004913Figure 3-120
+3. Press the function button next to the down arrow icon 
+to select the Start Calibration option.
+4. Press the function button next to the check mark icon 
+(3) to start the calibration.
+5. When the calibration is complete, press the function 
+button next to the return ar row icon (4) to return to 
+previous screen.
+Ride Control System Screen
+0004912Figure 3-121
+1. Press the F4 function button (not shown) on the 
+monitor home screen to access the Ride Control 
+System screen. See “Monitor” on page 3-27.
+2. Press the function button next to the up arrow icon 
+(1) or down arrow icon (2) arrow icons, as needed, to select the Ride Control System option.
+3. Press the function button next to the check mark icon 
+(3) to accept the Ride Control System screen option.1
+32Position Limit Calibration
+Foot Pedel Calibration
+Bucket Down To Horizontal
+Transmission Calibration
+Ride Control System
+Bucket Level Caliration
+Arm Anagle:
+Bucket Anagle:
+Arm Speed:0
+0
+15
+Step1 Step2 Step3
+Start
+Step1_Bucket 0 degree angle calibration:
+adjust to the lowest swing arm position,
+bucket at horizontal positon,
+press KD key to calibrate 4
+1
+2
+3Position Limit Calibration
+Foot Pedel
+Bucket Down To Horizontal
+Transmission Calibration
+Ride Control System4Transmission Calibration
+TM: 0
+0 CO:C
+C0
+0
+Start Calibration Cancel Calibration
+1
+2
+3Position Limit Calibration
+Foot Pedel
+Bucket Down To Horizontal
+Transmission Calibration
+Ride Control System
+
+3-42MACHINE CONTROLS
+SW405K Wheel Loader OMM0004911Figure 3-122
+4. Use the function button next to the up arrow icon or 
+down arrow icon to select  the variable to set.
+0004895Figure 3-123
+5. Press the minus (–) (4) or plus (+) (5) function button 
+below the monitor screen to change the value.
+0004911Figure 3-124
+6. Press the function button next to the up arrow icon or 
+down arrow icon to select the Start Setting option.
+7. Press the function button next to the check mark icon 
+to save the settings.
+8. Press the function button next to the return arrow 
+icon (6) to return to the previous screen.Operation Screens
+0004895Figure 3-125
+Press the F4 function button (1) on the monitor home 
+screen to access the Operation Screen options.
+0004952Figure 3-126
+NOTE: The four options on the Operation Screen are 
+accessed by pressing function buttons on the right side of the monitor.
+1. Press the function button next to the down arrow icon 
+(2) to highlight the Operation Screen.
+Press the function button next to the check mark icon (3) 
+to accept the selected screen.
+0004910Figure 3-127
+1. Press the function button next to the up arrow icon 
+(4) or down arrow icon (2), as needed, to select the desired option.Ride Control System
+Vechicle Speed High Limit:
+Vechicle Speed Low Limit:km/h
+km/h0.0
+0.0
+Start Setting
+4 5
+6Ride Control System
+Vechicle Speed High Limit:
+Vechicle Speed Low Limit:km/h
+km/h0.0
+0.0
+Start Setting1
+Calibration Screen
+Operation Screen2
+3
+4
+2
+3
+5
+Change Fan Direction
+Standstill Regeneration
+Quick Change Power
+Mode P/E
+
+MACHINE CONTROLS
+3-43 SW405K Wheel Loader OMM2. Press the function button next to the check mark icon 
+(3) to accept the selected option.
+3. Press the function button next to the return arrow (5) 
+to return to the previous screen.
+Change Fan Direction Screen
+0004909Figure 3-128
+NOTE: The engine must be stopped to perform this 
+change. See “Clean Radiator and Oil Cooler Fins” on page 5-21 for the maintenance procedure changing the fan direction.
+1. Press the function button ne xt to the up arrow icon 
+(1) or down arrow icon (2) to highlight and select the desired direction.
+2. Press the function button next to the return arrow 
+icon (3) to return to the previous screen.
+Standstill Regeneration Release Screen
+0004908Figure 3-129
+1. See “Standstill Regenerati on” on page 5-31 for the 
+maintenance procedures.
+2. Press the function button next to the return arrow 
+icon (4) to return to the previous screen.Quick Change Power Screen
+0004907Figure 3-130
+This screen is for use with the quick coupler option, if 
+equipped. Contact a SANY dealer for additional information.
+Power/Economy (Mode P/E) Screen
+0000968Figure 3-131
+Press the function button next to the check mark icon (1) 
+to toggle between modes.
+Select between Mode E (Economy) and Mode P (Power).
+NOTE: Mode E limits the maximum engine RPM.
+Press the function button next to the return arrow icon (2) 
+to return to the previous screen.1
+32Set during maitenance, please stop
+engine first, then change fan direction!
+Clockwise
+Counter-ClockwiseChange Fan Direction
+1
+2
+3
+4Stop
+ReleaseStandstill Regeneration
+2.during standstill regeneration, moving vehicle and1. Regeneration pre-conditions: transmission switch is
+on neutral position, hydraulic pilot is locked.
+2. After regeneration is released, display “regen. ongoing” .
+When regeneration succeed, “regen. ongoing” is disappeared.1
+2Quick Change Power
+Switch the power switch to “ON” , please be sure to confirm
+the shift switch is in neutral position
+ONOFF
+Mode P/E
+Mode E
+Mode P 1
+2
+

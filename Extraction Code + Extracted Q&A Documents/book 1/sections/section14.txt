@@ -1,0 +1,304 @@
+MACHINE CONTROLS
+3-13 SW405K Wheel Loader OMMJoystick  
+0005090, 0000872, 0004694Figure 3-27
+Joystick F-N-R Rocker Switch
+NOTES:
+•  Machine direction can always be controlled by the 
+transmission control lever on the left side of the steering column. The transmission control lever overrides the joystick F-N-R switch.
+•When overridden, the joystick switch must be 
+moved to neutral before selecting the required direction of operation.
+Use the joystick forward/reverse enable switch, located 
+on the lower rear switch panel (not shown), to enable or disable the joystick F-N-R rocker switch (1). See “Joystick Forward/Reverse Enable/Disable Switch” on page 3-16.
+• The Joystick F-N-R rocker switch is disabled when 
+the switch LED above F on the joystick forward/reverse enable/di sable switch illuminates.• The Joystick F-N-R rocker switch is enabled when 
+the switch LED above R on the joystick forward/reverse enable/di sable switch illuminates.
+NOTE: The adjustable armrest (4) is provided for the 
+comfort of the operator.
+Horn Button
+The horn button (2) is on top of the joystick. Press the horn button to sound the horn. 
+Kickdown (KD) Button
+The KD button (3) is on top of the joystick. Press the KD button to select the forced  downshifting function. See 
+“Forced Downshifting” on page 3-12.
+KDForward
+ReverseNeutral2
+1
+3
+4
+
+3-14MACHINE CONTROLS
+SW405K Wheel Loader OMMRight Console 
+0000874Figure 3-28
+The right console includes t he upper switch panel (1), 
+lower front switch panel (2), lower rear switch panel (3), 
+transmission shift selector dial  (4), key switch (5), and 
+climate control panel (6).
+Upper Switch Panel
+0004621Figure 3-29
+Cigarette Lighter
+NOTICE!
+The cigarette lighter socket provides 24V current. Do not use the cigarette lighter socket to run or charge 12-volt devices. Failure to follow this notice could result in equipment damage.
+Press in the cigarette lighter (1) to activate the lighter. 
+The lighter will pop out when it is ready to be used.
+Park Brake Switch 
+The park brake switch rocker switch (2) has two positions 
+to enable or disable the park brake. Press and hold the yellow unlock button down to move the park brake switch to the enable position.Quick Coupler Switch
+The quick coupler rocker switch (3) engages and disengages the quick coupler,  if equipped. Contact a 
+SANY dealer for additional information.
+Engine Diagnostic Switch
+When pressed, the engine diagnostic rocker switch (4) momentarily displays current engine faults (if any are present).
+Emergency Stop Switch
+If an emergency stop and quick shutdown is required, or the engine cannot be stopped normally, use the emergency stop rocker switch (5). Press and hold the yellow unlock button down to move the engine stop switch, shutting the engine down.
+Auxiliary Power Supply Socket (12V) 
+The auxiliary power supply socket  (6) is used to charge 
+or operate 12V electronic devices.
+Lower Front Switch Panel
+0004849Figure 3-30
+Battery Discharge Indicator Lamp
+The battery discharge indica tor lamp (1) illuminates if 
+there is a fault in the charging system.
+Right Turn Signal Switch
+Press the right turn signal swit ch (2) to activate the right 
+front and rear turn signals.  The switch LED illuminates 
+while the turn signal is activated.
+NOTE: Pressing the right turn si gnal switch automatically 
+deactivates the left turn signals if on.
+Cab Mounted Front/Rear Work Light Switch
+The front/rear work light switch (3) will operate the front 
+and rear work lights:
+1
+2 456
+3
+1 2 4 5 3 6
+1
+92 3 4 5
+8 7 6 10
+
+MACHINE CONTROLS
+3-15 SW405K Wheel Loader OMM• When the front/rear work light switch is pressed, the 
+left switch LED illuminates,  and only the front work 
+lights turn on.
+• When the front/rear work light switch is pressed 
+again, the left and right switch LEDs illuminate and 
+the front and rear work lights turn on.
+NOTE: Pressing the front/ rear work lights switch again will 
+toggle between front and rear work lights.
+• Press and hold the front/rear work light switch to turn 
+the front/rear work lights off.
+Windshield Washer Switch
+The windshield washer switch  (4) will spray windshield 
+washer fluid onto the windshield.
+• Press and hold the windshield washer fluid switch to 
+spray washer fluid onto the windshield. When the windshield washer switch is pressed, the switch LED illuminates.
+• Release the windshield wa sher switch. The switch 
+LED turns off and the windshield washer fluid spray stops.
+Rear Window Washer Switch
+The rear window was her switch (5) will spray windshield 
+washer fluid onto the rear window.
+• Press and hold the rear window washer fluid switch 
+to spray washer fluid onto the rear window. When the rear window washer switch is pressed, the switch LED illuminates.
+• Release the rear window wa sher switch. The switch 
+LED turns off and the rear window washer fluid spray stops.
+Rear Window Wiper Switch
+The rear window wiper switch  (6) will operate the rear 
+window wiper.
+• When the rear window wiper switch is pressed, the 
+left switch LED illuminate s and the rear window 
+wiper operates at slow speed.
+• When the rear window wiper switch is pressed 
+again, the center switch  LED illuminates and the 
+rear window wiper operates at high speed.
+• When the rear window wiper switch is pressed three 
+times, the left switch LE D illuminates and the rear 
+window wiper operates at low speed.
+• Press and hold the rear window wiper switch. The 
+rear window wiper stops to the right side of rear window, and the right switch LED illuminates.Windshield Wiper Switch
+The windshield wiper swit ch (7) will operate the 
+windshield wiper.
+• When the windshield wiper switch is pressed, the 
+left switch LED illuminates and the windshield wiper 
+operates at slow speed.
+• When the windshield wiper switch is pressed again, 
+the center switch LE D illuminates and the 
+windshield wiper operates at high speed.
+• When the windshield wiper switch is pressed three 
+times, the left switch LE D illuminates and the wiper 
+operates at slow speed.
+• Press and hold the windshield wiper switch. The 
+windshield wiper stops to the right side of windshield, and the righ t switch LED illuminates.
+Headlight/Taillight Switch
+The headlight/taillight switch (8 ) will operate the headlight 
+and rear taillights.
+• When the headlight /taillight switch is pressed, the 
+left switch LED illuminates and  only the fr ont marker 
+lights and taillights turn on.
+• When the headlight/taillight s witch is pressed again, 
+the left and cent er switch LEDs illuminate and the 
+headlights turn on.
+• When the headlight /taillight switch is pressed three 
+times, the left and right switch LEDs illuminate and 
+the headlights change to high-beam mode.
+• When the headlight /taillight switch is pressed four 
+times, the left and center switch LEDs illuminate and 
+the headlights change to low-beam mode.
+• Press and hold the head light/taillight switch. The 
+switch LEDs, headlights,  and taillights turn off.
+Left Turn Signal Switch
+Press the left turn signal swit ch (9) to activate the left 
+front and rear turn signals.  The switch LED illuminates 
+while the turn signal is activated.
+NOTE: Pressing the left turn sig nal switch deactivates the 
+right turn signals if on.
+Warning Indicator Light
+The warning indicator light (1 0) illuminates red when the 
+engine or transmission detects a serious condition that requires immediate attention. Shut down the engine immediately. Contact a SANY dealer for additional information.
+
+3-16MACHINE CONTROLS
+SW405K Wheel Loader OMMLower Rear Switch Panel
+0000980Figure 3-31
+Hydraulic System Lockout Switch
+The hydraulic system lockout switch (1) enables and 
+disables the boom and bucket functions controlled by the joystick.
+NOTE: The joystick F-N-R rocker switch and buttons are 
+not affected by this switch.
+Beacon Light Switch 
+The beacon light switch (2 ) will operate the flashing 
+beacon light mounted on the cab roof.
+• When the beacon light swit ch is pressed once, the 
+beacon light and s witch LED illuminate.
+• When the beacon light switch is pressed again, the 
+beacon light and switch LED turn off.
+Return-to-Dig Enable Switch
+The return-to-dig enable swit ch (3) will enable or disable 
+the loader bucket and boom back to the dig position. Enabling this switch will allo w the bucket and boom to 
+automatically return to a se t position. See “Bucket Down 
+to Horizontal Screen” on page 3-41 for return-to-dig calibration steps.
+Clutch Cutoff Switch 
+The clutch cutoff switch (4) will automatically shift the transmission to neutral when either brake pedal is pressed.
+Ride Control Enable Switch
+Press and release the ride control enable switch (5) to enable or disable ride control while traveling over rough terrain by damping boom movement. When enabled, the switch LED illuminates.
+See “Ride Control System Screen” on page 3-41 for ride 
+control system operation.Bucket Height St op Enable Switch
+Use the bucket height stop enable switch (6) to enable or 
+disable the bucket height st op. Enabling this switch will 
+limit the bucket height to a set position. See “Position 
+Limit Calibration Screen” on page 3-40 for calibration steps.
+Hazard Light Switch   
+The hazard light s witch (7) will operate the front and rear 
+flashing warning lights. The switch LED flashes while the hazard lights are on.
+Joystick Forward/Reverse Enable/Disable Switch
+NOTE: The machine direction can always be controlled 
+by the transmission control lever on the left side of the steering column. The transmission control lever overrides the jo ystick forward/reverse 
+enable/disable switch function selected.
+Use the joystick forward/reverse enable switch (8) to 
+enable or disable the joystick F-N-R rocker switch.
+• When the joystick F-N-R rocker switch is disabled, 
+the switch LED above F is on.
+• When the joystick F-N-R rocker switch is enabled, 
+the switch LED above R is on.
+Key Switch   
+0000962Figure 3-32
+The key switch (1) ha s four key positions:
+• OFF – This position shuts down the engine and the 
+electrical current. The key can be inserted or removed in this position.
+• HEAT – Hold the key in this position to preheat the 
+engine for cold-weather starting as required. The key returns to OFF when released.
+• ON – This position allo ws the engine to remain 
+running (if already started)  and provides electrical 
+current to the va rious electrical system switches.
+• START – Hold the key at th is position to start the 
+engine. Immediately release it after the engine has started. The key returns to ON.
+1 2 3 4
+5 6 7 8
+1
+2
+
+MACHINE CONTROLS
+3-17 SW405K Wheel Loader OMMTransmission Shif t Selector Dial 
+Use the transmission shift selector dial (2) to select one 
+of four transmission functions:
+• Manual• Auto (automatic shifting)•L  ( L o w )• H (High)
+Climate Control Panel 
+0000877Figure 3-33
+Fan Speed Control
+The fan speed control rotary s witch (1) controls the four 
+fan speeds:
+•O f f  –  c i r c l e• Slow – smallest white dot• Medium – medium white dot• Fast – largest white dot
+Heater On/Off Control
+The heater on/off control switch (2) is a two-position 
+rotary switch that operates the cab heater.
+•O f f  –  O• Heater on – The LED unde r the rising air icon (3) will 
+illuminate red.
+Temperature Control
+The temperature control dial (4) adjusts the air temperature inside the cab.
+•O f f  –  O• Cooled air – The LED under the snowflake icon (5) 
+will illuminate green as the dial is rotated clockwise from the O position. The incoming air gets colder as the dial indicator is moved from O to COOL.Recirculated/Fresh-Air Control
+The recirculated/fresh-air co ntrol switch (6) will control 
+airflow from outside air into the cab or recirculate the existing air inside the cab.
+• Outside air – Turn the recirculated/fresh air control 
+switch clockwise (the LED will illuminate yellow) and allow outside air to flow into the cab.
+• Cab air – Turn the recirculated/fresh-air control 
+switch counterclockwise (the LED will shut off) and recirculate air inside the cab.
+Seat
+0004667Figure 3-34
+NOTE: The armrest can be raised to allow easier access 
+to the seat.
+Adjust the seat so the operator can comfortably operate 
+all controls while seated:
+• Armrest angle adjustment: Turn the dial (1) to adjust 
+the angle of the armrest angle up or down.
+NOTE: Do not allow the backrest to rest against the cab 
+rear window.
+• Backrest angle adjustment: Pull the backrest 
+adjustment lever (2) up and move the backrest to the desired position. Release the lever to lock the backrest in position.
+• Seat and armrest cons ole forward/backward 
+adjustment: Pull the lever (3) up, then slide the seat (with armrest) forward or backward as needed and release the lever to lock it in position.
+1 2 4 63 5
+341
+2
+567
+
+3-18MACHINE CONTROLS
+SW405K Wheel Loader OMM• Suspension adjustment: Turn the suspension 
+control lever (4) until the desired level is attained.
+• Seat forward/backward adjustment: Pull the lever 
+(5) up and slide the seat (without armrest) forward or backward as needed. Release the lever to lock the seat in position.
+• Seat base forward/backward adjustment: Lift up on 
+the bottom forward and backward lever (6) to move the seat base forward or backward. Release the lever to lock the seat base in position
+• Seat bottom tilt adjustment: Lift up on the bottom tilt 
+lever (7) to adjust the angle of the seat bottom.
+Seat Belt
+WARNING
+  • Inspect the seat belt. Replace the seat belt 
+immediately if the webbing is frayed or cut, if the buckle is damaged or malfunctions, or if the mounting hardware is loose. Replace the seat belt according to the manufacturer's instructions.
+  • Make sure the seat belt is always fastened during 
+machine operation. Never twist the seat belt when fastening it.
+  • Position the seat belt as low as possible on the 
+hips for a snug fit.
+  • Avoid excess slack that could significantly 
+reduce protection in an accident.
+Failure to follow these wa rnings could result in 
+death or serious injury. 
+Seat belt assemblies are maintenance-free. However, 
+they should be inspected every 500 hours to make sure they are not damaged and are in proper operating condition, especially if they have been subjected to severe stress.Buckle the Seat Belt
+0004906Figure 3-35
+NOTE: A recoil assembly (3) is attached to the seat belt. 
+It removes slack from the seat belt and locks to 
+restrain the operator. It al so retracts the seat belt 
+when not in use.
+1. Grasp the latch plate (2), pu ll the seat belt out of the 
+recoil assembly, and insert the latch plate into the 
+buckle (1) until it locks into place. Pull on the latch plate end of the seat belt to make sure the seat belt is 
+securely fastened.
+Unbuckle the Seat Belt
+0004906Figure 3-36
+Press the red button (1) to release the latch plate from 
+the buckle (2).
+WARNING
+Contact a SANY dealer if the seat belt fails any of these checks or fails to fasten or unfasten.
+Failure to follow this warning could result in death 
+or serious injury.
+1
+23
+1
+2
+

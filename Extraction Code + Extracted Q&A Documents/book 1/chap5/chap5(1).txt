@@ -1,0 +1,996 @@
+5-4MAINTENANCE
+SW405K Wheel Loader OMMMaintenance Information
+Do not perform any maintenance and/or repairs unless 
+the procedures are covered in this manual. Always follow all safety precautions. Read and understand the Safety section of this manual before proceeding with any inspection or maintenance procedures.
+Contact a SANY dealer if you are unable to perform the 
+procedures listed in this manual or if additional procedures are required.
+See “Maintenance Safety” on page 2-5.
+Checks Before Maintenance
+Review the Maintenance Log and follow these points:
+• Avoid working on the mach ine while the engine is 
+running unless required to do so in the procedure. If the engine must remain running during a procedure, always have a person in the cab who can correctly operate the machine and who is in clear contact at all times.
+• Always use the proper tools when performing any 
+maintenance procedures.
+Checks After Maintenance or Repairs
+After starting the machine after maintenance or repairs, verify the following:
+• If necessary, have a coworker inspect the work for 
+correct and proper completion.
+• Complete the Maintenance Log.• Check for leaks in the system you have maintained.• Verify there are no abnormal sounds coming from 
+the engine or hydraulic system.
+• Check for any loose fasteners or abnormal 
+movement in the system that has been serviced.
+• Check for any overheating in the system that has 
+been serviced.
+After performing maintenance or repairs to the machine, 
+always take time to inventory tools, parts used, and fasteners to be sure none of these items were left on or inside the machine.
+Hour Meter Reading
+Record the hour meter reading daily. Confirm hour meter readings with the required main tenance intervals listed in 
+this manual. When a maintenance service is due, an umbrella symbol will ap pear on the display.
+Genuine SANY Replacement Parts
+Use genuine SANY replacement parts when repairing or 
+replacing machine components. Failure to do so may result in premature system or part failure.SANY-Approved Lubricants
+Always use SANY-approved lubricants and coolants. Never mix different lubricant brands or viscosities. The use of unapproved lubricants and coolants, or mixing different lubricant brands or viscosities, may result in shortened service life or syst em failure of the machine.
+NOTICE!
+Commercially available lubricants and additives 
+may cause harm. Use only those lubricants recommended in this  manual. Using other 
+lubricants can damage the machine and could cause it to operate improperly.
+Contact a SANY dealer for a ssistance if the machine will 
+be operated in below-freezing temperatures where the 
+aid of an auxiliary heati ng device is needed.
+Oil and Filter Inspection
+NOTICE!
+Failure to inspect mach ine oil and filters for 
+contamination may result in damage to the machine or cause improper operation.
+After changing the engine or hydraulic oil or filters, 
+inspect them for contamination.  If contamination is found, 
+send a sample of the oil for testing to help determine the cause. Consult a SANY dealer before operating the machine.
+Collect Oil Sample
+Collect and send an oil sample for testing according to the maintenance schedule. Obtain and follow the instructions within an oil ana lysis sample kit from a SANY 
+dealer.
+Weld, Drill, Cut, or Grind on the 
+Machine
+NOTICE!
+  • Contact a SANY dealer before beginning any 
+welding repairs. Any welding repairs on the machine must be performed by personnel who are qualified and certified to perform repairs that require welding. Owners are responsible for the structural integrity of any completed repair.
+  • After turning the key switch to OFF, wait 2 
+minutes before disconnecting the battery. Remove the negative battery cable from the negative (-) post of the battery.
+
+MAINTENANCE
+5-5 SW405K Wheel Loader OMM  • The welding ground cable must be connected 
+within 3.3 ft. (1 m) of  the welding area. The 
+welding cable must be connected directly to the part being welded. Do not ground to bearings, hydraulic cylinder pins, or work equipment pins.
+  • Disconnect the battery and all electrical control 
+modules prior to welding. Failure to do this could result in damage to the machine and personal property or cause the machine to operate improperly.
+Failure to follow this notice could damage the 
+machine or cause it to operate improperly.
+Cleaning the Machine
+Never clean the machine with caustic chemicals or steam 
+cleaners. Use mild soaps and a pressure washer to clean the machine. Always protect electrical parts when cleaning the machine. Never flood or pressure-wash the inside of the cab. Never us e flammable liquids to clean 
+parts or systems.
+Securing Access Covers and 
+Compartment Doors
+When servicing the machine with the covers open, make 
+sure they are properly supported in place. Also make sure the covers close tightly and latch securely in place. 
+If a lock is present, make sure the lock is properly engaged for security.
+Inspection and Ma intenance in 
+Adverse Environments
+If the machine will be ope rating under adverse 
+conditions:
+• Check and clean any electr ical components to prevent 
+any accumulated corrosion.
+• Check and clean any areas where extreme heat is 
+present, such as the exhaust system, manifold, and turbocharger.
+For heavy-load operation, grease the pins of the work 
+equipment prior to each operation. Cycle the operation of all working parts several times before operation.
+Mud, Rain, or Snow Conditions
+Before operating the machine, inspect each connector for 
+looseness.
+After operating the machine, clean the machine and 
+inspect for missing or loose fasteners. Add oil and grease as needed.
+Near Ocean (Salt Air) Environments
+Before operating the machine, inspect for any signs of corrosion. Apply grease where rust is found.After operating the machine, thoroughly wash away salt 
+residue, apply grease where ru st is found, and perform 
+maintenance carefully on the electrical components to prevent corrosion.
+Dusty Environments
+Clean the following components:
+• Engine air filter: Clean the dust evacuator frequently. 
+Immediately service the air filter and housing if an air filter restriction indicato r is displayed. See “Check 
+Air Conditioner Filters” on page 5-30. 
+• Radiator: Clean the radiator core frequently to 
+prevent blockage.
+• Fuel equipment: Drain water/sediment frequently. 
+See “Drain the Primary Fuel Filter/Water Separator” on page 5-23.
+• Fresh-air and recirculation filters: Clean the filters 
+frequently.
+Cold Environments
+In cold environments below 32°F (0°C), lubricate only with recommended oils shown in "Engine Oil 
+Viscosity/Temperature Data" on page 5-7. For cold environments, SANY recommends the use of fuels identified in “Recommended Lubricants, Fuel, and Engine Coolant” on page 5-6. Prior to starting the engine, make sure that the battery is  fully charged and that the 
+battery case and the cables have not cracked.
+Other Weather Environments
+NOTE: If there is evidence of over heating of bearings or 
+bushings, loose parts, or rust during regular inspection, increase the frequency of lubrication.
+Based on experience and suggestions by lubricating oil 
+suppliers, the lubricating inte rvals listed in maintenance 
+schedule apply only to normal operating conditions. In harsh environments, includ ing those with dusty and 
+corrosive air, abnormal external temperature, extremely heavy overload, frequent operating times, longtime duty cycles, etc., lubricating in tervals should be shortened. 
+Always follow the maintenance schedule beginning on page 5-9 until enough experience is obtained to establish a new schedule.
+
+5-6MAINTENANCE
+SW405K Wheel Loader OMMRecommended Lubricants, Fuel, 
+and Engine Coolant 
+Always use SANY-approved lubricants, coolants, and 
+filters. SANY is not responsible for damage caused by using unauthorized lubricants and coolants.NOTICE!
+Never mix fluids of different brands or viscosities (weights) and never overfill the system you are servicing. Failure to follow these standards can damage the machine or cause it to operate improperly.
+Location, Capacity, and Type 
+Fuel
+WARNING
+  • Fuel or fuel vapors that  come into contact with 
+hot surfaces or electrical components can cause a fire.
+  • Never service the fuel system near an open flame 
+or while smoking. Clean up spilled fuel immediately.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+Deutz
+® recommends the use of No. 2 ultra-low sulfur 
+diesel (ULSD) fuel for all no rmal operations. Use of No. 1 
+diesel fuel in a blend with No. 2 diesel fuel is permitted in cold weather environments when temperatures are below 32°F (0°C).NOTES:
+•  Deutz® does not recommend the use of any diesel 
+fuel with a cetane level less than 40.
+•Do not use gasoline, kerosene, or any unapproved 
+fuels in the fuel system.
+•If fuel waxing or bacteria should occur in the fuel 
+system, have the fuel system professionally serviced.
+Make sure that there is no water or any foreign material 
+in the fuel.
+Take appropriate precautions to prevent fuel 
+contamination during refueling.
+NOTICE!
+Never dilute fuels. Damage to the injection system can result, which causes the machine to operate improperly.
+ LocationApproximate 
+Capacity*Lubricant/Coolant
+Engine 6.08 gal. (23 L) “Engine Oil Viscosity/Temperature Data” on page 5-7.
+Fuel tank 85 gal. (322 L)“Fuel” on page 5-6. Use No. 2 diesel fuel or a mixture of No. 2 
+diesel and No.1 diesel fuels in cold weather conditions.
+Cooling system 5.25 gal. (20 L) “Engine Coolant” on page 5-8.
+Front axle 5 gal. (19 L) “Industrial Gear Oil/Temperature Data” on page 5-7 for 
+additional information. Rear axle 5 gal. (19 L)
+Hydraulic system (including tank) 31 gal. (117 L)“Hydraulic Oil/Ambient Temperature Data” on page 5-8 for 
+additional data.
+Transmission 4.7 gal. (18 L) ATF Dextron III.
+Diesel exhaust fluid (DEF) 10.5 gal. (40 L) Any DEF meeting ISO 22241-1.Spray lubricant NA Any lithium grease-based spray lubricant.
+*Th
+e capacities in the above table are approximations. For exact capacities, use the inspection points, inspection 
+plugs, dipsticks, and sight glasses.
+
+MAINTENANCE
+5-7 SW405K Wheel Loader OMMEngine Oil Viscosity/Temperature Data 
+Lubricating Grease /Temperature Data
+Industrial Gear Oil/Temperature DataOil TypeTemperature °F (°C) 
+-22 
+(-30)-4
+(-20)5
+(-15)32
+(0)50
+(10)68
+(20)86
+(30)104
+(40)122
+(50)
+SAE 10W-40
+SAE 10W-30
+SAE 5W-30
+SAE 5W-40
+SAE 15W-30
+SAE 15W-40
+SAE 20W-50
+NOTE: Due to its comparatively better lubric ating characteristics (including improv ed engine oil consumption, engine 
+operation in frigid climat es, and continued lubricatio n in high temperatures), SAE 5W-40 is recommended for 
+a majority of climates. In some ci rcumstances, short-term use of low-viscosity engine oil in temperatures 
+below 23°F (-5°C) is acceptable. However, long-term use can reduce engine life. 
+Grease Type Summer Winter
+NGLI No. 2 molybdenum disulfide lithium-based grease
+NGLI No.1 molybdenum disulfide lithium-based grease
+NOTE: Always use clean EP (extreme pressure) grease when  greasing the machine. Avoid using low-viscosity 
+greases.
+Oil TypeTemperature °F (°C)
+-4
+(-20)14
+(-10)32
+(0)50
+(10)68
+(20)86
+(30)104
+(40)122
+(50)
+80W-90
+NOTE: Any brand meeting AGMA standard 9005-D94, ISO 3448 grade 220 is acceptable.
+
+5-8MAINTENANCE
+SW405K Wheel Loader OMMHydraulic Oil/Ambient Temperature Data
+Diesel Exhaust Fluid (DEF)
+SANY recommends using diesel exhaust fluid (DEF) that 
+meets ISO 22241-1.
+Engine Coolant
+Engine coolants used can be any brand meeting the Deutz
+® classification TR 0199-99-1115/5 EN.
+Grease
+Always use clean EP (extreme  pressure) grease when 
+greasing the machine. Avoid us ing low-viscosity greases. 
+Use greases designed for:
+• Heavy-duty bearings and gene ral industrial lubrication.
+• Heavy-duty plain and ro lling element bearings 
+operating under severe conditions, including shock loading in wet environments.
+Windshield Washer Fluid
+Only use clean automotive windshield washer fluid. Do not mix concentrates into th e washer fluid. In cold 
+weather areas, use washer fluid with a low temperature rating.Oil TypeTemperature °F (°C)
+-22
+(-30)-4
+(-20)14
+(-10)32
+(0)50
+(10)68
+(20)86
+(30)104
+(40)122
+(50)
+ISO VG 46 anti-wear hydraulic oil
+ISO VG 32 low-temperature anti-wear hydraulic oil
+NOTE: Selection of the proper hydrau lic oil is based on local oper ating climate and conditions.
+• Use ISO VG 46 anti-wear hydraulic oil in temperate climates.• Use ISO VG 32 low-temperature anti-wear hydraulic oil (pour point is -43.6°F [-42°C]) in areas where ambient 
+temperatures can reach -22°F (-30°C) during operation.
+
+MAINTENANCE
+5-9 SW405K Wheel Loader OMMMaintenance Schedule
+NOTICE!
+Failure to perform the following procedures when 
+and as directed can damage the machine and cause it to operate improperly.
+NOTE: The lubricating interval s listed apply only to 
+normal operating conditions. In harsh environments, including those with dusty or corrosive air, extreme temperatures, heavy loads, frequent operating times, and long duty cycles, lubricating intervals should be shortened.
+Secure the Machine for Maintenance
+1. Obtain the Maintenance Log for this machine and 
+complete it at the cl ose of all maintenance 
+procedures.
+2. Read and understand all of the tasks listed in this 
+section.
+3. Perform the lockout/tagout procedure on the 
+machine in accordance with company policy.
+4. Perform procedures as follows:
+Daily or Every 10 Hours
+• Check the batteries. (See page 5-27.)
+• Check for fluid leaks. (See page 5-55.)• Check the engine exhaust system. (See page 5-31.)• Inspect the engine air f ilters. (See page 5-16.)
+• Check the engine oil level. (See page 5-12.)• Check/add engine coolant. (See page 5-19.)• Inspect the engine serpentine belt. (See page 5-14.)• Check/drain the primary fuel filter. (See page 5-23.)• Check the hydraulic oil level. (See page 5-35.)• Check hydraulic connections. (See page 5-36.)• Check the diesel exhaust fluid (DEF) level. (See 
+page 3-27.)
+• Fill the fuel tank. (See page 5-22.)• Check the tires. (See page 5-44.)• Inspect the electrical system. (See page 5-25.)• Check the transmission oil level. (See page 5-48.)• Lubricate the driveshafts, articulating joints, and work 
+equipment. (See page 5-53.)
+• Inspect the sheet metal. (See page 5-55.)• Make sure all safety decals are in place and are legible. 
+(See page 5-55.)• Make sure all work lights a nd indicators are working. 
+(See page 5-11.)
+• Check the escape tool. (See page 5-54.)• Check the fire extinguisher. (See page 5-55.)• Inspect the machine for loose or missing components.• Clean the cab.• Make sure safety equipment is in place and in 
+operating condition.
+• Check all controls for smooth operation and make sure 
+they return to the neutral position.
+• Check if a standstill regen eration is required. (See 
+page 3-32.)
+• Inspect the air conditioner compressor belt. (See 
+page 5-15.)
+• Check operation of the windshield wiper and washer. 
+(See page 5-54.)
+When Required
+• Collect oil samples every 500 hours or as required. 
+(See page 5-50.)
+• Clean the radiator and cooling fins. (See page 5-21.)• Drain the fuel tank. (See page 5-24.)• Replace the battery. (See page 5-28.)• Add hydraulic oil. (See page 5-35.)• Replace the hydraulic system breather filter. (See 
+page 5-42.)
+After the First 50 Hours
+• Initial change of the engine oil and filter. (See 
+page 5-12.)
+• Initial inspection of the park brake pads. (See 
+page 5-46.)
+Weekly or Every 50 Hours
+NOTE: Make sure all daily maintenance tasks have been 
+completed before proceeding with the 50-hour maintenance tasks.
+• Check battery terminals. (See page 5-29.)• Check the air conditioner operation. (See page 5-30.)• Check the driveshaft fasteners. (See page 5-43.)• Lubricate the machine. (See page 5-53.)
+
+5-10MAINTENANCE
+SW405K Wheel Loader OMMAfter the First 100 Hours
+NOTE: Make sure all daily and 50-hour maintenance 
+tasks have been completed before proceeding with the 100-hour maintenance tasks.
+• Initial change of the transmission oil and filter. (See 
+page 5-49.)
+• Initial change of the engine oil and filter. (See 
+page 5-12.)
+• Initial change of the front and rear axle oil. (See 
+page 5-47.)
+NOTE: Collect an oil sample for testing.
+Monthly or Every 250 Hours
+NOTE: Make sure all daily, 50-hour, and 100-hour 
+maintenance tasks have been completed before proceeding with the 250-hour maintenance tasks.
+• Check the engine serpentine belt tension. (See 
+page 5-15.)
+• Check the engine and transmission mounting 
+fasteners. (See page 5-48.)
+• Check the wheel mounting fasteners. (See page 5-44.)• Check the work equipment mounting fasteners. (See 
+page 5-55.)
+• Check the front and rear axle oil level. (See page 5-46.)• Check the service brakes. (See page 5-45.)• Check the park brake pad thickness and clearance. 
+(See page 5-46.)
+Every 3 Months or 500 Hours
+NOTE: Make sure all daily, 50-hour, 100-hour, and 
+250-hour maintenance tasks have been completed before proceeding with the 500-hour maintenance tasks.
+• Clean radiator cooling fins. (See page 5-21.)• Change engine oil and filter. (See page 5-12.)• Check transmission oil level. (See page 5-48.)• Replace the primary and secondary fuel filters. (See 
+page 5-23.)
+• Perform a standstill regene ration. (See page 5-31.)
+• Replace hydraulic system breather filter. (See 
+page 5-42.)
+• Replace the hydraulic pilot filter. (See page 5-41.)• Replace the brake line filter. (See page 5-47.)• Collect oil samples. (See page 5-50.)• Check the front and rear axle oil level. (See page 5-46.)• Replace the engine crankcase breather. (See 
+page 5-18.)
+Every 6 Months or 1000 Hours
+NOTE: Make sure all daily, 50-hour, 100-hour, 250-hour, 
+and 500-hour maintenance tasks have been completed before proceeding with the 1000-hour maintenance tasks.
+• Change the transmission oil and filter. (See page 5-49.)• Replace the primary and secondary fuel filters. (See 
+page 5-23.)
+• Check the fuel tank strainer. (See page 5-25.)• Replace the primary (main) air filter. (See page 5-17.)• Check the engine exhaust system. (See page 5-31.)• Check the alternator. (See page 5-27.)• Replace the hydraulic oil return filter. (See page 5-38.)• Replace the hydraulic suction filter. (See page 5-39.)• Change front and rear axle oil. (See page 5-47.)• Replace the air conditioner compressor belt. (Contact 
+a SANY dealer for service.)
+• Replace the engine serpentine belt. (Contact a SANY 
+dealer for service.)
+Annually or Every 2000 Hours
+NOTE: Make sure all daily, 50-hour, 100-hour, 250-hour, 
+500-hour, and 1000-hour maintenance tasks have been completed before proceeding with the 2000-hour maintenance tasks.
+• Check the alternator. (See page 5-27.)• Change the engine coolant. (See page 5-19.)
+• Check the engine valve clearance. (See page 5-18.)
+Every 3000 Hours
+NOTE: Make sure all daily, 50-hour, 100-hour, 250-hour, 
+500-hour, 1000-hour, and 2000-hour maintenance tasks have been completed before proceeding with the 3000-hour maintenance task.
+• Replace the secondary (safe) air filter. (See 
+page 5-18.)
+Every 4000 Hours
+• Change the hydraulic oil. (See page 5-37.)
+Every 4500 Hours
+• Change the diesel exhaust fluid (DEF) filter. (See 
+page 5-34.)
+
+MAINTENANCE
+5-11 SW405K Wheel Loader OMMMaintenance Procedures
+Lights and Warning Devices
+Check the Front Lights
+0004695Figure 5-1
+Check that the following items function properly at the 
+front of the machine:
+• Front work lights (1)• Headlights (2)• Turn signals/hazard lights (3)• Marker lights (4)
+NOTE: See “Right Console” on page 3-14 for switch 
+locations and functions.
+Check the Horn
+0004695Figure 5-2
+With the key switch ON, check the horn (1) for proper 
+operation.
+NOTE: See “Cab” on page 3-9 for location of horn 
+buttons.Check the Rear Lights and Beacon Light
+0004700Figure 5-3
+Check that the following items function properly at the 
+rear of the machine:
+• Rear work lights (1)• Beacon light (2)• Backup lights (3)• Brake lights/taillights (4)• Turn signals/hazard lights (5)
+NOTE: See “Right Console” on page 3-14 for switch 
+locations and functions.
+21
+23
+43
+4
+1 1
+1 12
+3
+4
+53
+4
+51
+
+5-12MAINTENANCE
+SW405K Wheel Loader OMMEngine
+Check/Add Engine Oil
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0000910Figure 5-4
+4. Remove the engine oil dipstick (1) and wipe off the 
+end of it with a clean cloth.
+5. Insert the engine oil dipstick into the dipstick tube, 
+wait 10 seconds, and remove.
+0000924Figure 5-5
+6. Check the oil level on the engine oil dipstick. The 
+level must be between the high (2) and low (3) marks.
+7. Insert the engine oil dipstick.0002495Figure 5-6
+NOTICE!
+Do not overfill with engine oil so the oil level is 
+above the high mark on the dipstick. This could result in engine damage  and improper machine 
+operation.
+NOTE: Refer to “Engine Oil Viscosity/Temperature Data” 
+on page 5-7 for the recommended engine oil viscosity.
+8. Remove the engine oil f iller cap (4) and add engine 
+oil as needed.
+9. If engine oil has been added, wait 2 minutes before 
+rechecking the engine oil level.
+10. Install the engi ne oil filler cap.
+Change the Engine Oil and Filter
+CAUTION
+Do not perform engine maintenance when the 
+engine is hot. Hot engine oil or engine components may cause severe burns. Allow the engine to cool before performing engine maintenance. Failure to follow this caution could result in injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Start the engine and allow it to come up to normal 
+operating temperature.
+3. Turn the engine off.4. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+5. Open the left side engine compartment access door. 
+See “Engine Compartment Access Doors” on page 3-6.
+1
+32
+4
+
+MAINTENANCE
+5-13 SW405K Wheel Loader OMM0002495Figure 5-7
+NOTE: Collect an engine oil sa mple for testing. See 
+“Collect Engine Oil Sample” on page 5-50.
+6. Remove the engine oil filler cap (1).
+0000926Figure 5-8
+NOTICE!
+Dispose of engine oil in accordance with all 
+applicable environmental regulations. Failure to follow this notice could damage the environment.
+NOTE: For the engine oil capacity, see “Location, 
+Capacity, and Type” on page 5-6.
+7. Place an appropriately sized container under the 
+engine drain plug (2), then remove the drain plug.
+8. Install the drain plug when all of the engine oil has 
+drained.0000910Figure 5-9
+9. Locate the engine oil filter housing behind the 
+fuel/water separator.
+10. Remove the engine oil filter housing cap (3).11. Remove the engine oil filter element.
+NOTICE!
+Dispose of used engine oil and oil filters in 
+compliance with all applicable environmental regulations. Failure to do so could damage the environment.
+12. Place a new engine oil filter element in the engine 
+housing.
+13. Replace the O-ring mounted in the oil filter housing 
+cap and thread the engine oil filter housing cap into place.
+0002495Figure 5-10
+NOTICE!
+Do not overfill the engine with oil. Failure to observe and follow this no tice could result in 
+machine damage or improper machine operation.
+14. Add engine oil as  needed through th e engine oil filler 
+port.
+15. Remove the engine oil dipstick (4) and wipe off the 
+end of it with a clean cloth.
+16. Insert the engine oil dipstick into its holder, wait 10 
+seconds, then remove the engine oil dipstick.
+1
+2
+3
+4
+
+5-14MAINTENANCE
+SW405K Wheel Loader OMM0000924Figure 5-11
+17. Check the engine oil level on the engine oil dipstick. 
+The level must be between the high (5) and low (6) marks.
+18. Install the oil filler cap.19. Turn the battery disconnect switch to ON. See 
+“Battery Disconnect Switch” on page 3-8.
+NOTE: Be ready to shut the engine off if the oil pressure 
+does not reach normal operating pressure.
+20. Start and run the engine at low idle and check for 
+leaks.
+NOTE: If leaks are noticed, shut down the engine 
+immediately.
+21. Check the engine oil level. See “Exhaust System” on 
+page 5-31.
+Inspect the Engine Serpentine Belt
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Open the engine compartment access doors. See 
+“Engine Compartment Access Doors” on page 3-6.
+0000923Figure 5-124. Inspect the engine serpentine belt (1) for the 
+following:
+•Abrasion:  The serpentine belt appears shiny, 
+glazed, or fabric is exposed.  This is a sign that the 
+serpentine belt is in contact with an object such as a flange or fastener.
+•Chunk-out:  Chunks of rubber material have broken 
+off from the serpentine belt. At this stage, the serpentine belt can fail at any moment. Heat, age, and stress are the primary contributors.
+•Pulling:  Serpentine belt material is sheared off from 
+the ribs. Lack of tension, misalignment, worn pulleys, or a combination of these are factors.
+•Uneven rib wear:  Serpentine belt shows damage to 
+the side with the possibility of breaks in the tensile 
+cord or jagged-edged ribs. A thumping/grinding noise may also be heard when running.
+•Improper installation:  The serpentine belt ribs may 
+begin to separate, causing the belt to unravel.
+•Cracking: Small cracks develop along the length of 
+a serpentine belt rib or ribs. With continuous exposure to high temperatures, the stress of bending around the pulley leads to cracking.
+•Misalignment: Sidewalls of the belt may appear 
+glazed, or the edge-cord may become frayed. A noticeable noise may result.
+•Gravel penetration: Small pinholes are visible on 
+the back side of the belt . Bumps may be visible, and 
+fabric around the holes can be frayed, indicating damage from foreign objects such as dirt, gravel, or similar debris.
+5. Replace the belt if damaged.
+65
+1
+
+MAINTENANCE
+5-15 SW405K Wheel Loader OMMCheck Engine Serpentine Belt Tension
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Open the engine compartment access doors. See 
+“Engine Compartment Access Doors” on page 3-6.
+0000923Figure 5-13
+NOTE: The engine is equipped with an automatic belt 
+tensioner (4). If the engine serpentine belt (2) deflection is more than specified, replace the 
+serpentine belt first. If the deflection is not 
+resolved, replace the tensioner.
+4. Check the engine serpentine belt between the idler 
+(1) and the crankshaft pulley (3). The belt deflection should be between 0.28 in.–0.30 in. (7 mm–10 mm).
+Inspect the Air Cond itioner Compressor 
+Belt
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the engine compartment access doors. See 
+“Engine Compartment Access Doors” on page 3-6.0002467Figure 5-14
+4. Inspect the air conditioner compressor belt (1) for the 
+following:
+•Abrasion:  The serpentine belt appears shiny, 
+glazed, or fabric is exposed.  This is a sign that the 
+serpentine belt is in contact with an object such as a flange or fastener.
+•Chunk-out: Chunks of rubber material have broken 
+off from the serpentine belt. At this stage, the serpentine belt can fail at any moment. Heat, age, and stress are the primary contributors.
+•Pulling: Serpentine belt material is sheared off from 
+the ribs. Lack of tension, misalignment, worn pulleys, or a combination of these are factors.
+•Uneven rib wear:  Serpentine belt shows damage to 
+the side with the possibility of breaks in the tensile 
+cord or jagged-edged ribs. A thumping/grinding noise may also be heard when running.
+•Improper installation: The serpentine belt ribs may 
+begin to separate, causing the belt to unravel.
+•Cracking: Small cracks develop along the length of 
+a serpentine belt rib or ribs. With continuous exposure to high temperatures, the stress of bending around the pulley leads to cracking.
+•Misalignment: Sidewalls of the belt may appear 
+glazed, or the edge-cord may become frayed. A noticeable noise may result.
+•Gravel penetration: Small pinholes are visible on 
+the back side of the belt. Bumps may be visible and fabric around the holes can be frayed, indicating damage from foreign objects such as dirt, gravel, or similar debris.
+Replace the belt if damaged.
+2
+41
+31
+1
+
+5-16MAINTENANCE
+SW405K Wheel Loader OMMCheck Air Conditioner Compressor Belt 
+Tension
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the engine compartment access doors. See 
+“Engine Compartment Access Doors” on page 3-6.
+0002467Figure 5-15
+NOTE: The air conditioner compressor belt is equipped 
+with an automatic belt tensioner (1). If the air conditioner compressor belt (3) deflection is more than specified, replace the belt first. If the deflection is not resolved, replace the tensioner.
+4. Check the air conditioner compressor belt between 
+the air conditioner compre ssor (2) and the crankshaft 
+pulley (4). The belt deflection should be between 0.28 in.–0.30 in (7 mm–10 mm).
+5. Inspect the belt for wear or damage. Replace the belt 
+if any damage is noted.
+Inspect the Engine Air Filters
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.00004843Figure 5-16
+4. Release three latches (1) and remove the engine air 
+filter housing cover (2).
+0004844Figure 5-17
+5. Remove the primary air filter (4) from the engine air 
+filter housing (5).
+6. Inspect the primary air filter for signs of damage, 
+wear, or blockage. Replace the air filter as needed.
+2
+31
+3
+4
+21
+1
+1
+3
+4
+5
+
+MAINTENANCE
+5-17 SW405K Wheel Loader OMM0004845Figure 5-18
+NOTE: Do not attempt to clean the air filter elements.
+7. Clean the inside of the air cleaner housing.
+8. Inspect the secondary air filter (6) for signs of 
+damage, wear, or blockage. Replace the air filter as needed.
+9. Install the primary air filter and air filter housing cover, 
+making sure the dust valve (3) is pointe d downward.
+Replace the Primary Engine Air Filter
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004843Figure 5-194. Release three latches (1) and remove the air filter 
+housing cover (2).
+0004844Figure 5-20
+5. Remove the primary air filter (4) from the air filter 
+housing (5).
+0004845Figure 5-21
+6. Clean the inside of the air filter housing (6).7. Install a new primary filter over the secondary filter 
+(6), making sure it seats firmly.
+8. Install the air filter housing end cover, making sure 
+that the dust valve (3 ) is pointed downward.
+6
+21
+1
+1
+3
+4
+5
+6
+
+5-18MAINTENANCE
+SW405K Wheel Loader OMMReplace the Secondary Engine Air Filter
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004843Figure 5-22
+4. Release three latches (1) and remove the air filter 
+cover (2).
+0004844Figure 5-23
+5. Remove the primary air filter (4) from the air filter 
+housing (5).0004845Figure 5-24
+6. Clean the inside of the air filter housing before 
+removing the secondary filter element (6).
+7. Remove the secondary engine air filter from the 
+housing.
+8. Install a new secondary engine air filter into the 
+engine air filter housing, making sure it is seated 
+firmly on the base.
+9. Install a new primary engine air filter, making sure it 
+seats firmly.
+10. Install the air filter housing cover, making sure that 
+the dust valve (3) is pointed downward.
+Check Engine Valve Clearance
+Contact a SANY dealer regarding this procedure.
+Replace the Engine Crankcase Breather
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+21
+1
+1
+3
+4
+5
+6
+
+MAINTENANCE
+5-19 SW405K Wheel Loader OMM00
+0005091Figure 5-25
+4. Remove two fasteners (1) and pull crankcase 
+breather (2) away from the engine.
+5. Use a pliers to squeeze hose clamp tabs (3) and 
+remove breather hose (4) from the crankcase breather.
+6. Install the new gasket (5) onto the new crankcase 
+breather.
+7. Install the breather hose onto the crankcase breather 
+and secure with clamp.
+8. Secure crankcase breather to the engine with two 
+fasteners.
+Engine Cooling System
+Check/Add Engine Coolant
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on 
+page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0002488Figure 5-264. Locate the coolant expansion tank on top of the 
+radiator. Check the engine coolant level in the sight glass (1).
+0004892Figure 5-27
+WARNING
+Engine coolant is toxic. Avoid inhaling or ingesting engine coolant. If eyes or skin are contaminated by engine coolant, wash the affected area with plenty of water and seek medical treatment immediately.
+Do not remove the expansi on tank filler cap while 
+the engine is hot. Engine coolant may be under pressure when the engine is hot. Avoid contact with hot engine coolant. Allow the engine to cool 
+before removing the radiator cap.
+Failure to follow these warnings could result in 
+death or serious injury.
+5. On top of the machine, ope n the expansion tank filler 
+cap door (3). If additional engine coolant is required, slowly open the expansion tank filler cap (2) to 
+release any pressure from the expansion tank.
+6. Add coolant through the ex pansion tank filler, then 
+install the expansion tank filler cap. See “Engine Coolant” on page 5-8 for recommended coolant.
+7. Start and run the engine at low idle until it reaches 
+normal operating temperature.
+8. Shut down the engine, allow it to cool, then repeat 
+these steps as needed.
+Change the Engine Coolant
+WARNING
+Engine coolant is toxic. Avoid inhaling or ingesting engine coolant. If eyes or skin are contaminated by coolant, wash the affected area with plenty of water and seek medical treatment immediately.
+1
+2
+345
+1
+2
+3
+
+5-20MAINTENANCE
+SW405K Wheel Loader OMMDo not remove the expansion tank filler cap while 
+the engine is hot. Engine coolant may be under pressure when the engine is hot. Avoid contact with hot engine coolant. Allow the engine to cool before removing the radiator cap.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+0004892Figure 5-28
+3. On top of the machine, op en the expansion tank filler 
+cap door (2). Slowly open  the expansion tank filler 
+cap (1) to release cooling system pressure from the expansion tank.
+4. Remove the expansion tank filler cap when all 
+pressure has been relieved.
+5. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+6. Open the radiator/oil cooler access door. See 
+“Radiator and Oil Cooler Access Door” on page 3-7.0004658Figure 5-29
+7. Place an appropriately sized container under the 
+radiator drain hose (2). For radiator capacity, see “Location, Capacity, and Type” on page 5-6.
+8. Open the radiator drain valve (3).9. Allow the engine coolant to completely drain into the 
+container.
+NOTICE!
+Dispose of engine coolant in accordance with all applicable environmental regulations. Failure to follow this notice could damage the environment.
+10. Close the radiator drain valve after the cooling 
+system is empty.
+11. Add new engine coolant directly into the expansion 
+tank filler neck until the coolant level reaches the 
+bottom of the filler neck.
+12. Start the engine and run it at low idle for about 
+5 minutes to allow the engine coolant to circulate.
+13. Shut down the engine.
+14. Check the engine coolant level. See “Check/Add 
+Engine Coolant” on page 5-19.
+1
+2
+3
+2
+
+MAINTENANCE
+5-21 SW405K Wheel Loader OMMClean Radiator and Oi l Cooler Fins   
+NOTE: The engine must be shut down to perform this 
+procedure.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Open the radiator and oil cooler access door. See 
+“Radiator and Oil Cooler Access Door” on page 3-7.
+WARNING
+  • Compressed air can cause serious injury or 
+death. Do not allow compressed air to come into contact with skin. Always wear goggles, gloves, and other personal prot ective equipment (PPE).
+  • Compressed air can damage the cooling fins if 
+the nozzle is too close to the fins. To prevent cooling fin damage, keep the nozzle a safe distance away while cleaning.
+  • Never direct compressed air directly into the 
+cooling fins. Damaged cooling fins may lead to coolant leaks and engine overheating. In dusty environments, inspect th e cooling fins daily 
+regardless of the maintenance schedule.
+Failure to follow these warnings could result in 
+serious injury or da mage to the machine.
+0004895Figure 5-30
+3. On the Home screen, press the function button (1) at 
+the right to access the Calibration and Operation Screens.0000956Figure 5-31
+4. Press the function button up (2) or down (3) arrow 
+icons to highlight the Operation Screen (5) option. Press the function button (4) next to the check mark icon to access the Operation Screen.
+0000970Figure 5-32
+5. Press the function button up (6) or down (7) arrow 
+icons to highlight the Change fan direction (9) option. Press the function button next to the check mark icon (8) to choose the option.
+0000903Figure 5-33
+6. Press the function button next to the up or down 
+arrow icons to select the counterclockwise (10) fan rotation direction.
+NOTE: The counterclockwise fan rotation direction should 
+only be used when cleaning the radiator.
+12
+3
+4
+5
+Change fan direction
+Standstill regeneration release
+Quick change power
+Mode P/E9
+876
+Set during maitenance, please stop
+engine first, then change fan direction!
+Clockwise
+Counter-clockwiseChange fan direction
+10
+
+5-22MAINTENANCE
+SW405K Wheel Loader OMMNOTICE!
+Use low-pressure compressed air and do not 
+point the nozzle directly at the radiator fins to avoid damaging the fins or causing other engine damage.
+7. Start the engine and blow or  wash dirt and debris out 
+of the cooler fins using low-pressure air or water.
+0004658Figure 5-34
+8. Allow the engine to run until the air flowing out of the 
+intake air cooler (10), air conditioner condenser (11), hydraulic oil cooler (12), transmission oil cooler (13), and the coolant radiator (14) is clear of dust or debris.
+9. Shut down the engine and blow remaining dirt or 
+debris away using low-pressure air.
+NOTE: The machine automatically returns the fan 
+direction to clockwise once the engine is shut off.Fuel System
+Fill the Fuel Tank
+WARNING
+  • Fuel or fuel vapors that come into contact with 
+hot surfaces or electrical components can cause a fire.
+  • Never service the fuel system near an open flame 
+or while smoking. Clean up spilled fuel immediately.
+  • Do not top off when filling the fuel tank.
+Failure to follow these warnings could result in 
+death or serious injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+0002463Figure 5-35
+NOTE: Cover the fuel tank filler tube whenever the cap is 
+removed to prevent dirt and debris from entering the fuel tank.
+NOTE: For the fuel tank capacity, see “Location, Capacity, 
+and Type” on page 5-6.
+3. Unlock and remove the fuel  tank filler cap (1) from 
+the fuel tank filler tube on  the right rear of the 
+machine.
+0000894Figure 5-36
+1211 10
+14
+13
+1
+23
+
+MAINTENANCE
+5-23 SW405K Wheel Loader OMM4. Inspect the vent hole (2) in  the filler cap. Pressure in 
+the fuel tank may drop if the vent hole in the cap is blocked. This may hinder the flow of fuel. Clean the vent as needed.
+5. Inspect the O-ring seal (3) in  the fuel filler cap. Debris 
+could damage the seal and prevent it from functioning correctly. Replace the seal as needed.
+6. Add fuel as needed.7. Install and lock the fuel ta nk filler cap after refueling.
+Drain the Primary Fuel Filter/Water 
+Separator
+WARNING
+Never maintain the fuel  system near an open 
+flame or while smoking. Failure to follow this warning could result in death or serious injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004901Figure 5-37
+4. Locate the primary fuel filter (1).5. Place an appropriately sized container under the 
+primary fuel filter/water separator.
+6. Open the drain valve (2) to drain water.7. Close the drain valve.
+NOTICE!
+Dispose of contaminated fuel in compliance with 
+all applicable environmental regulations. Failure to do so could damage the environment.
+NOTE: SANY recommends fully draining and refilling the 
+fuel tank if an excessive amount of water or contaminants is found while draining the 
+fuel/water separator
+Replace the Primary and Secondary Fuel 
+Filters 
+WARNING
+Never maintain the fuel system near an open 
+flame or while smoking. Failure to follow this rule will result in deat h or serious injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004901Figure 5-38
+4. Disconnect the water sensor wiring harness 
+connector (1).
+5. Place an appropriately sized container under the 
+primary fuel filter/water separator.
+6. Open the drain valve (2).7. Turn the primary fuel filter/water separator 
+counterclockwise to remove.
+NOTICE!
+Dispose of contaminated fuel in compliance with all applicable environmental regulations. Failure to do so could damage the environment.
+8. Apply a thin film of clean engine oil to the O-ring on 
+the new primary fuel filter/water separator.
+9. To install, turn the prim ary fuel filter clockwise.
+10. Connect the water sensor wiring harness connector.
+21
+1
+2
+
+5-24MAINTENANCE
+SW405K Wheel Loader OMM0000904Figure 5-39
+11. Remove the secondary fuel filter cover (3) from the 
+secondary fuel filter housing (4).
+12. Remove the secondary fuel filter element.13. Clean the secondary fuel filter mounting surface.14. Install a new secondary fuel filter element.15. Replace the O-ring seal between the secondary fuel 
+filter cover and secondary fuel filter housing.
+16. Install the secondary fuel filter cover and tighten 
+securely.
+17. Turn the battery disconnect switch to ON. See 
+“Battery Disconnect Switch” on page 3-8.
+18. Turn the key switch to ON to prime each filter with 
+fuel before starting the engine.
+Drain the Fuel Tank
+WARNING
+  • Fuel or fuel vapors that  come into contact with 
+hot surfaces or electrical components can cause a fire.
+  • Never service the fuel system near an open flame 
+or while smoking. Clean up spilled fuel immediately.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+NOTE: Perform this procedure only if an excessive 
+amount of water or cont aminants is found while 
+draining the fuel/water separator.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.0002463Figure 5-40
+3. Unlock and remove the fuel tank filler cap (1).
+0002496Figure 5-41
+NOTE: For the capacity of the fuel tank, see “Location, 
+Capacity, and Type” on page 5-6.
+4. Place a suitable container under the fuel tank drain 
+plug (2).
+NOTICE!
+Dispose of the drained fuel in accordance with local environmental regulations. Failure to do so could damage the environment.
+5. Remove the drain plug to completely drain sediment, 
+water, and fuel from the fuel tank.
+6. Install the drain plug when the tank is empty.7. Add fuel through the fuel tank filler as  needed. See 
+“Fill the Fuel Tank” on page 5-22.
+8. Install and lock the fuel ta nk filler cap after refueling.
+43
+1
+2
+
+MAINTENANCE
+5-25 SW405K Wheel Loader OMMCheck the Fuel Tank Strainer
+WARNING
+  • Fuel or fuel vapors that  come into contact with 
+hot surfaces or electrical components can cause a fire.
+  • Never service the fuel system near an open flame 
+or while smoking. Clean up spilled fuel immediately.
+Failure to follow these warnings could result in 
+death or serious injury.
+0002463Figure 5-42
+1. Unlock and remove the fuel tank filler cap (1).
+0002465Figure 5-43
+2. Inspect the fuel tank strainer (2) for debris or 
+damage. Clean or replace the screen as needed.
+3. Install and lock the fuel ta nk filler cap after refueling.Electrical System
+Inspect the Fuses
+NOTICE!
+Before replacing a fuse, make sure the key switch 
+is in the OFF position and the batteries are disconnected.
+Always replace a fuse with one of the same 
+capacity. Never replace a fuse with one of a higher capacity.
+Replace corroded or loose fuses in the fuse block.Failure to observe and follow these notices can 
+damage the machine or cause it to operate improperly.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the electrical compartment access door. See 
+“Electrical Compartment Access Door” on page 3-5.
+NOTE: Inspect the condition of the seal on the fuse 
+block. If moisture is present, replace the seal.
+4. Inspect the electrical system, beginning with the 
+fuses.
+NOTE: If a fuse is corroded, or if a white powder can 
+be seen on it, treat the area for corrosion and replace the fuse.
+1
+2
+

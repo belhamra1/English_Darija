@@ -1,0 +1,152 @@
+MAINTENANCE
+5-39 SW405K Wheel Loader OMM0004877Figure 5-84
+8. Remove the spring (9).9. Remove the hydraulic oil filter cover (10).
+0004878Figure 5-85
+10. Remove the hydraulic oil return filter (11).11. Replace the O-ring (12).
+NOTICE!
+Dispose of used hydraulic oil and filters in 
+compliance with all a pplicable environmental 
+regulations. Failure to do so could damage the environment.
+12. Install a new hydraulic oil return filter and filter cover 
+(10).
+13. Position the spring on top of the hydraulic oil return 
+filter cover.0005089Figure 5-86
+14. Add hydraulic oil to the system until the hydraulic oil 
+level is between the low and high level marks on the sight glass (13). See “Check the Hydraulic Oil Level” on page 5-35.
+15. Install the hydraulic oil return filter cover, top panel, 
+fasteners, and fastener covers.
+16. Install the air intake collars.17. Start the engine.18. Run the engine for 10 minutes.19. Shut down the engine and check for leaks.
+Replace the Hydraulic Suction Filter 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Lower the work equipment to the ground.3. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these warnings could result in 
+death or serious injury.
+4. Relieve the hydraulic system  pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.
+9
+10
+11
+12
+13
+
+5-40MAINTENANCE
+SW405K Wheel Loader OMM0002515Figure 5-87
+5. Remove four fasteners (1) and the access panel (2).
+0002714Figure 5-88
+NOTE: The hydraulic tank filler cover may move up while 
+the fasteners are loosened due to the action of an internal spring.
+6. Press down on the hydraulic  tank filler cover (3) while 
+removing the four fasteners (4).
+7. Remove the hydraulic  tank filler cover.0002715Figure 5-89
+8. Remove the suction filter spring (5) and pull out the 
+filter assembly by the top of the filter rod (6).
+0004875Figure 5-90
+NOTICE!
+Dispose of hydraulic oil and filters in accordance with all applicable environmental regulations. Failure to follow this notice could damage the environment.
+9. Loosen fasteners (7) and unscrew the hydraulic 
+suction filter element (8) from the filter rod (9).
+10. Install a new hydraulic suction filter element on the 
+filter rod. When properly installed, the end of the filter rod is flush with the inside of the hydraulic suction filter element.
+11. Tighten the fasteners (7) securing the hydraulic 
+suction filter element to the filter rod.
+21
+1
+34
+4
+5
+6
+7
+896
+
+MAINTENANCE
+5-41 SW405K Wheel Loader OMM0002715Figure 5-91
+12. Replace the O-ring (10).13. Install the hydraulic tank filler cover and access 
+panel.
+14. Start the engine.15. Run the engine for 10 minutes.16. Shut down the engine and check for leaks.
+Replace the Hydraulic Pilot Filter 
+WARNING
+Use an appropriate supporting device to support 
+the boom. Failure to follow  this warning will result 
+in death or serious injury.
+1. Raise and support the boom for access to the 
+hydraulic pilot filter. 
+2. Shut down the engine.
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these warnings could result in 
+death or serious injury.
+3. Relieve the hydraulic system pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.
+4. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+5. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.0002732Figure 5-92
+6. Remove the fasteners (1) and the front frame access 
+panel (2).
+0002731Figure 5-93
+7. The hydraulic pilot filter (3) is inside the front frame. 
+10
+2
+11
+3
+
+5-42MAINTENANCE
+SW405K Wheel Loader OMM0004871Figure 5-94
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the hydraulic tank filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+NOTICE!
+Dispose of hydraulic oil and filters in accordance with all applicable en vironmental regulations. 
+Failure to follow this notice could damage the environment.
+8. Place an appropriately sized container under the 
+filter housing to catch any hydraulic oil that may leak out.9. Remove the pilot filter bottom housing (9). 
+NOTE: There is a wrench fitting on  the bottom of the filter 
+housing to assist in removal.
+10. Remove the hydraulic pilot filter element (5) from the 
+filter head (4).
+11. Clean the inside of the filter head and bottom 
+housing.
+12. Install a new gasket (8) and O-rings (6 and 7).13. Install a new hydraulic pilot filter element inside the 
+housing.
+14. Install the pilot filter bottom housing.
+Replace the Hydraulic System Breather 
+Filter 
+NOTE: Depending on the work environment and the 
+degree of contamination, the filter may need to be replaced more frequently than every 500 hours.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these warnings could result in 
+death or serious injury.
+3. Relieve the hydraulic system  pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.
+0002513Figure 5-95
+4. Remove the wing nut (1) from the breather valve.
+4
+5
+6
+7
+8
+9
+1
+

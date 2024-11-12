@@ -1,0 +1,117 @@
+5-4MAINTENANCE
+SW405K Wheel Loader OMMMaintenance Information
+Do not perform any maintenance and/or repairs unless 
+the procedures are covered in this manual. Always follow all safety precautions. Read and understand the Safety section of this manual before proceeding with any inspection or maintenance procedures.
+Contact a SANY dealer if you are unable to perform the 
+procedures listed in this manual or if additional procedures are required.
+See “Maintenance Safety” on page 2-5.
+Checks Before Maintenance
+Review the Maintenance Log and follow these points:
+• Avoid working on the mach ine while the engine is 
+running unless required to do so in the procedure. If the engine must remain running during a procedure, always have a person in the cab who can correctly operate the machine and who is in clear contact at all times.
+• Always use the proper tools when performing any 
+maintenance procedures.
+Checks After Maintenance or Repairs
+After starting the machine after maintenance or repairs, verify the following:
+• If necessary, have a coworker inspect the work for 
+correct and proper completion.
+• Complete the Maintenance Log.• Check for leaks in the system you have maintained.• Verify there are no abnormal sounds coming from 
+the engine or hydraulic system.
+• Check for any loose fasteners or abnormal 
+movement in the system that has been serviced.
+• Check for any overheating in the system that has 
+been serviced.
+After performing maintenance or repairs to the machine, 
+always take time to inventory tools, parts used, and fasteners to be sure none of these items were left on or inside the machine.
+Hour Meter Reading
+Record the hour meter reading daily. Confirm hour meter readings with the required main tenance intervals listed in 
+this manual. When a maintenance service is due, an umbrella symbol will ap pear on the display.
+Genuine SANY Replacement Parts
+Use genuine SANY replacement parts when repairing or 
+replacing machine components. Failure to do so may result in premature system or part failure.SANY-Approved Lubricants
+Always use SANY-approved lubricants and coolants. Never mix different lubricant brands or viscosities. The use of unapproved lubricants and coolants, or mixing different lubricant brands or viscosities, may result in shortened service life or syst em failure of the machine.
+NOTICE!
+Commercially available lubricants and additives 
+may cause harm. Use only those lubricants recommended in this  manual. Using other 
+lubricants can damage the machine and could cause it to operate improperly.
+Contact a SANY dealer for a ssistance if the machine will 
+be operated in below-freezing temperatures where the 
+aid of an auxiliary heati ng device is needed.
+Oil and Filter Inspection
+NOTICE!
+Failure to inspect mach ine oil and filters for 
+contamination may result in damage to the machine or cause improper operation.
+After changing the engine or hydraulic oil or filters, 
+inspect them for contamination.  If contamination is found, 
+send a sample of the oil for testing to help determine the cause. Consult a SANY dealer before operating the machine.
+Collect Oil Sample
+Collect and send an oil sample for testing according to the maintenance schedule. Obtain and follow the instructions within an oil ana lysis sample kit from a SANY 
+dealer.
+Weld, Drill, Cut, or Grind on the 
+Machine
+NOTICE!
+  • Contact a SANY dealer before beginning any 
+welding repairs. Any welding repairs on the machine must be performed by personnel who are qualified and certified to perform repairs that require welding. Owners are responsible for the structural integrity of any completed repair.
+  • After turning the key switch to OFF, wait 2 
+minutes before disconnecting the battery. Remove the negative battery cable from the negative (-) post of the battery.
+
+MAINTENANCE
+5-5 SW405K Wheel Loader OMM  • The welding ground cable must be connected 
+within 3.3 ft. (1 m) of  the welding area. The 
+welding cable must be connected directly to the part being welded. Do not ground to bearings, hydraulic cylinder pins, or work equipment pins.
+  • Disconnect the battery and all electrical control 
+modules prior to welding. Failure to do this could result in damage to the machine and personal property or cause the machine to operate improperly.
+Failure to follow this notice could damage the 
+machine or cause it to operate improperly.
+Cleaning the Machine
+Never clean the machine with caustic chemicals or steam 
+cleaners. Use mild soaps and a pressure washer to clean the machine. Always protect electrical parts when cleaning the machine. Never flood or pressure-wash the inside of the cab. Never us e flammable liquids to clean 
+parts or systems.
+Securing Access Covers and 
+Compartment Doors
+When servicing the machine with the covers open, make 
+sure they are properly supported in place. Also make sure the covers close tightly and latch securely in place. 
+If a lock is present, make sure the lock is properly engaged for security.
+Inspection and Ma intenance in 
+Adverse Environments
+If the machine will be ope rating under adverse 
+conditions:
+• Check and clean any electr ical components to prevent 
+any accumulated corrosion.
+• Check and clean any areas where extreme heat is 
+present, such as the exhaust system, manifold, and turbocharger.
+For heavy-load operation, grease the pins of the work 
+equipment prior to each operation. Cycle the operation of all working parts several times before operation.
+Mud, Rain, or Snow Conditions
+Before operating the machine, inspect each connector for 
+looseness.
+After operating the machine, clean the machine and 
+inspect for missing or loose fasteners. Add oil and grease as needed.
+Near Ocean (Salt Air) Environments
+Before operating the machine, inspect for any signs of corrosion. Apply grease where rust is found.After operating the machine, thoroughly wash away salt 
+residue, apply grease where ru st is found, and perform 
+maintenance carefully on the electrical components to prevent corrosion.
+Dusty Environments
+Clean the following components:
+• Engine air filter: Clean the dust evacuator frequently. 
+Immediately service the air filter and housing if an air filter restriction indicato r is displayed. See “Check 
+Air Conditioner Filters” on page 5-30. 
+• Radiator: Clean the radiator core frequently to 
+prevent blockage.
+• Fuel equipment: Drain water/sediment frequently. 
+See “Drain the Primary Fuel Filter/Water Separator” on page 5-23.
+• Fresh-air and recirculation filters: Clean the filters 
+frequently.
+Cold Environments
+In cold environments below 32°F (0°C), lubricate only with recommended oils shown in "Engine Oil 
+Viscosity/Temperature Data" on page 5-7. For cold environments, SANY recommends the use of fuels identified in “Recommended Lubricants, Fuel, and Engine Coolant” on page 5-6. Prior to starting the engine, make sure that the battery is  fully charged and that the 
+battery case and the cables have not cracked.
+Other Weather Environments
+NOTE: If there is evidence of over heating of bearings or 
+bushings, loose parts, or rust during regular inspection, increase the frequency of lubrication.
+Based on experience and suggestions by lubricating oil 
+suppliers, the lubricating inte rvals listed in maintenance 
+schedule apply only to normal operating conditions. In harsh environments, includ ing those with dusty and 
+corrosive air, abnormal external temperature, extremely heavy overload, frequent operating times, longtime duty cycles, etc., lubricating in tervals should be shortened. 
+Always follow the maintenance schedule beginning on page 5-9 until enough experience is obtained to establish a new schedule.
+

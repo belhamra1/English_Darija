@@ -1,0 +1,60 @@
+Q: What should I do before performing any maintenance procedures?
+A: Always read and understand the Safety section of the manual and follow all safety precautions.
+
+Q: Why is it important to use SANY-approved lubricants and coolants?
+A: Failure to use SANY-approved lubricants and coolants may result in premature system or part failure.
+
+Q: How often should I collect an oil sample?
+A: Collect an oil sample every 500 hours or as required.
+
+Q: What type of grease should I use to grease the machine?
+A: Use clean EP (extreme pressure) grease when greasing the machine. Avoid using low-viscosity greases.
+
+Q: How should I dispose of used engine oil and filters?
+A: Dispose of used engine oil and filters in compliance with all applicable environmental regulations.
+
+Q: What type of fuel is recommended for the engine?
+A: Use No. 2 ultra-low sulfur diesel (ULSD) fuel for all normal operations.
+
+Q: Can I use gasoline, kerosene, or other unapproved fuels in the fuel system?
+A: No, do not use gasoline, kerosene, or any unapproved fuels in the fuel system.
+
+Q: What should I do before cleaning the machine?
+A: Never clean the machine with caustic chemicals or steam cleaners. Use mild soaps and a pressure washer.
+
+Q: How often should I check the tire pressure?
+A: Check the tire pressure daily.
+
+Q: What should I do after operating the machine in dusty environments?
+A: Clean the engine air filter, radiator, and fuel equipment, and check for loose or missing fasteners.
+
+Q: Can I use diesel fuel with a cetane level less than 40?
+A: No, do not use diesel fuel with a cetane level less than 40.
+
+Q: What type of oil should I use for the front and rear axles?
+A: Use 80W-90 oil that meets AGMA standard 9005-D94, ISO 3448 grade 220.
+
+Q: How often should I lubricate the driveshafts, articulating joints, and work equipment?
+A: Lubricate the driveshafts, articulating joints, and work equipment daily or every 10 hours.
+
+Q: Can I top off the fuel tank when filling?
+A: No, do not top off when filling the fuel tank.
+
+Q: How should I inspect the air conditioner compressor belt?
+A: Inspect the belt for abrasion, chunk-out, pulling, uneven rib wear, improper installation, cracking, misalignment, and gravel penetration.
+
+Q: How should I check the engine valve clearance?
+A: Contact a SANY dealer for assistance with checking the engine valve clearance.
+
+Q: Can I dispose of fuel in the environment?
+A: No, dispose of fuel in accordance with local environmental regulations.
+
+Q: What should I do before servicing the fuel system?
+A: Turn the battery disconnect switch to OFF and open the electrical compartment access door.
+
+Q: Can I service the fuel system near an open flame or while smoking?
+A: No, never service the fuel system near an open flame or while smoking.
+
+Q: What should I do after cleaning the machine?
+A: Inspect the machine for loose or missing components, clean the cab, and make sure all safety decals are in place and legible.
+

@@ -1,0 +1,166 @@
+4-8MACHINE OPERATION
+SW405K Wheel Loader OMM0004618Figure 4-9
+4. Move the transmission cont rol lever (2) to N (neutral 
+position). Move the neutral lock lever (3) from drive (D) to the neutral (N) position to lock the transmission control lever in neutral and prevent unintended movement.
+NOTE: The transmission control le ver must be in the 
+neutral position to move the neutral lock lever to the neutral (N) position.
+WARNING
+  • Do not only rely on the transmission control lever 
+locked in neutral to prevent unexpected machine movement.
+  • Always engage the park brake to hold the 
+machine in position and prevent unexpected machine movement.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+5. Engage the park brake. See “Park Brake Switch” on 
+page 3-14.
+6. Run the engine at low idle for about 5 minutes to 
+allow for heat dissipation.
+7. Wait for the diesel exhaust fluid (DEF) pump to stop.
+0000962Figure 4-108. Turn the key switch (4) to OFF. See “Key Switch” on 
+page 3-16.
+9. Close and lock the window s, then exit the cab.
+10. Close and lock the cab door.11. Turn the battery discon nect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+Cold Weather Operation
+The following recommendations are for operating SANY machines below freezing temperatures.
+NOTE: See “Key Switch” on page 3-16 for details on 
+using the key switch to preheat the engine for cold weather starting.
+This machine must have appropriate hydraulic oil, 
+lubricants and other auxilia ry items requ ired for below 
+freezing temperature operations. Individual machine functions should be operated to make sure they are sufficiently warmed prio r to performing work.
+The correct grade of oil for the current temperature range 
+must be used in the crankcase. See “Engine Oil Viscosity/Temperature Data” on page 5-7.
+Diesel fuel must have a pour point range of 10°F (-12°C) 
+less than the lowest anticipated temperature.
+The correct engine coolant must be used below freezing 
+temperatures. See “Engine Coolant” on page 5-8.
+NOTICE!
+To prevent damage to the hydraulic system, perform the following warm-up procedure in ambient temperatures below 32°F (0°C):
+  • Start the engine and run it at low idle for 
+7–10 minutes. Then increase the engine speed to 1000–1200 rpm and perform only no-load traveling for at least 30 minutes, or until the hydraulic oil temperature is at least 68°F (20°C).
+  • Proceed with normal operation only after 
+completing warm-up as described above, or adjust the warm-up period according to the ambient temperature. During normal operation, take care to operate the controls slowly and observe the traveling system for any signs of trouble.
+2
+3
+4
+
+MACHINE OPERATION
+4-9 SW405K Wheel Loader OMMBattery in Cold Weather
+WARNING
+Before proceeding with any battery maintenance 
+procedure, observe the following precautions:
+  • Wear personal protective equipment (PPE) when 
+servicing the batteries.
+  • The top of the battery must be kept clean to 
+prevent plugging of the battery vents. Regularly wash the top of the battery to prevent the battery vents from plugging.
+  • Battery gases are explosive. Never smoke 
+around batteries or expose them to sparks or open flames. Work in a well-ventilated area.
+  • Battery acid can cause burns or serious injury. If 
+battery acid makes contact with skin or eyes, flush the area immediately with fresh water and seek medical attention.
+Failure to follow these warnings could result in 
+death or serious injury.
+In cold climates , battery efficiency will decline. 
+Electrolytes can freeze if th e battery charge is low. Keep 
+the battery charged near 100% and in a warm area if possible.
+After Daily Operation
+NOTICE!
+Fill the fuel tank to its maximum level after operation to prevent moisture in the fuel tank from condensing at low temperatures, which could result in fuel-line freeze.  Failure to follow this 
+notice could damage the engine or cause it to operate improperly. 
+Mud and water accumulation on the undercarriage can 
+affect normal operation of the machine. Make sure to perform the following actions after daily operation:
+• Remove mud and water from the machine. Mud, 
+dirt, and water can damage the seals.
+• Park the machine on a firm, dry surface.• If possible, park the machine on boards, which can 
+prevent the machine from sinking into soft ground. Normal operation can fail if the machine becomes stuck.
+• Open the drain valve of the fuel water separator 
+daily and discharge the water in the fuel system.Park the Machine
+1. Move the machine to a solid, level surface.
+2. Lower the bucket to the ground.3. Shutdown the engine. See “Engine Shutdown” on 
+page 4-7.
+End-of-Workday Checks
+1. Collect any trash or debris from the cab and deposit it 
+into a proper disposal container.
+2. Remove all built-up mud or debris on the 
+undercarriage and machine exterior.
+3. Inspect the machine work equipment, machine 
+exterior, and undercarriage for signs of fluid leaks or damage.
+4. In oceanic (salt-air) environments, thoroughly wash 
+away any salt residue. Apply grease to hydraulic cylinder rods if rust is found and perform maintenance on the electrical  components to prevent 
+corrosion.
+NOTE: If rust is found, contact a SANY dealer for 
+additional information
+Travel Operations
+WARNING
+  • Never allow any personnel to be in the work area 
+while the machine is being operated.
+  • Be aware of all crush points on the machine and 
+make sure all personnel keep clear of these areas.
+  • Never allow passengers to ride on or inside the 
+machine.
+  • Never bring objects into the operator area that 
+could restrict movement or vision.
+  • Appoint a signalman when operating the 
+machine in a confined or restricted-view area.
+  • Make sure that all personnel involved understand 
+all industry-standard hand signals that are to be used.
+  • The operator shall respond to operating signals 
+from the signalman only, but shall obey a stop signal at any time from anyone.
+  • The operator must always be able to see the work 
+location. If this is not possible, then a signalman 
+must be used. If visibility becomes blocked for any reason, stop operation immediately.
+Failure to follow these warnings could result in 
+death or serious injury.
+
+4-10MACHINE OPERATION
+SW405K Wheel Loader OMMBefore Traveling
+1. Adjust the steering wheel for travel.
+2. Make sure all sides of the machine are clear to 
+proceed.
+3. Sound the horn to notify personnel of intended 
+machine movement.
+4. Adjust the bucket height for travel.5. Press either brake pedal.6. For travel operations, unlock the transmission control 
+lever by moving the neutral lock lever from neutral (N) to drive (D). When the neutral lock lever is in drive (D), the transmission control lever can be moved to drive, neutral, or reverse as necessary.
+7. Select a direction and speed range with the 
+transmission control lever.
+8. Disable the park brake. See “Park Brake Switch” on 
+page 3-14.
+9. Release the brake pedal and apply pressure to the 
+accelerator pedal to increase the engine speed, putting the machine into motion.
+Slopes
+The machine may become unstable and lose traction while working on an incline, ca using it to tip or roll over.
+In order to prevent tipping, loss of control, or a rollover, it 
+is important to follow these rules:
+• Always check the firmness of the inclined surface 
+before attempting to travel on it.
+• Always travel straight up or straight down an incline.• Avoid turning on an incline.• Avoid sudden stops.
+Traveling Downhill
+Operate slowly when the machine is approaching a 
+downward slope or traveling on a slope. Downward travel speed shall be lower than upward travel speed. Do not shift gears on a slope or dr ive the machine downhill with 
+the transmission in neutral.
+Engine Stalls on a Slope
+If the engine stops on a slope, lower the bucket to ground and restart the engine. See “Starting the Engine” on page 4-5.
+Cab Door
+When the machine is on a slope, do not open or close the cab door. Always secure the cab door in either the open or closed position.Operations in Water
+Observe the following when operating the machine in water:
+• Maximum allowable water depth is 2 ft. (0.6 m).• Do not operate the machine in water unless the 
+foundation of the work si te is strong enough to 
+properly support the machine.
+• If the machine has been operated in water, lubricate 
+all lubrication points below the water line.
+• Check and make sure th at no water enters the 
+transmission or the axles.
+Operating in Mud or Soft Ground
+If the loader gets stuck in mu d or soft ground, attempt to 
+free it by reversing the direction of travel.
+1. Select a low gear (1st or 2nd).
+2. Reverse the machine and turn the steering wheel 
+back and forth to its limit while the machine is reversing.
+Only the Front Wheels are Stuck
+0000961Figure 4-11
+1. Use the joystick to lower the bucket and raise the 
+front wheels, supporting the machine with the bottom of the bucket. Then attempt reverse travel.
+2. Turn the steering wheel to the left or to the right and 
+press the bucket down to the ground. Raise the front wheels and turn the steering wheel to the other side. Raise the bucket a little and reverse the machine.
+3. Raise the front wheels using the bucket. Put tree 
+branches, wood blocks, or similar objects on the ground under the front wheels. Reverse the machine.
+

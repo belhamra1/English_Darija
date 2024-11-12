@@ -1,0 +1,683 @@
+5-26MAINTENANCE
+SW405K Wheel Loader OMMEPower Fuse Block
+0004896Figure 5-44
+The ePower fuse block (1) is inside the electrical cabinet 
+on the right side of the cab. Remove the four fasteners and cover to access the fuses.Vehicle Electrical Center (VEC) Fuses
+0002745Figure 5-45
+The vehicle electrical center (VEC) fuse block (2) is 
+inside the electrical cabinet on the right side of the cab. Open the hinged fuse box cover to access the fuses. 
+Battery Compartment Fuse Block
+0004865Figure 5-46Fuse Locations, Circuits, and Amperages
+F1 Cigarette lighter, 10A F10 Epad, 5A
+F2 Air conditioning, 20A F11 Radio, 10AF3 Transmission control 
+unit, 15AF12 Transmission control 
+unit, 15A
+F4 Wiper, 10A F13 Dome light, 5A
+F5 ECU power signal, 10A F14 Emini, 15AF6 Control switch, 10A F15 GPS (if equipped), 5A
+F7 Not Used F16 ECU 30A
+F8 Charging circuit, 10A F17 ECU 20AF9 Emod, 30A
+1
+ Fuse Locations, Circuits, and Amperages
+F20 DEF controller, 40A F24 Reserved, 20AF21 NOx sensor, 20A F25 Reserved, 20AF22 DEF sensor, 20a F26 12V Charging Port, 20A
+F23 Exhaust circulation, 
+20A
+2
+3
+
+MAINTENANCE
+5-27 SW405K Wheel Loader OMMThe battery compartment fuse block (3) is inside the 
+battery compartment at the left rear side of the machine. Remove the fuse block co ver to access the fuses.
+Check the Alternator
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004891Figure 5-47
+NOTE: Check the alternator (1) every 1000 hours of 
+service.
+4. Check the alternator for:
+• Loose mounting bolts
+• Worn or loose drive belt• Worn alternator bearings• Case and internal corrosion• Tightness of electrical connectorsCheck the Batteries
+WARNING
+Before proceeding with any battery maintenance 
+procedure, follow and remember these points:
+  • Battery gases are explosive. Never smoke 
+around batteries or expose them to sparks or open flames.
+  • Wear personal protecti ve equipment (PPE) when 
+working with batteries.
+  • Work in a well-ventilated area.  • If battery acid contacts skin or eyes, flush the 
+area immediately with fresh water and seek medical attention.
+  • When disconnecting a battery, wait for at least 2 
+minutes after engine shutdown before disconnecting the battery so the engine control module (ECM) can complete its shutdown procedure.
+Failure to observe and follow this caution could 
+result in serious injury or death.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+NOTES:
+•  There are two 12V batteries connected in series to 
+provide 24V to the electrical system.
+•Allow several minutes for any accumulated battery 
+gases to clear before servicing the batteries.
+2. Unlock and open the battery compartment at the left 
+rear of the machine and verify that the battery disconnect switch is in the OFF position. See “Battery Disconnect Switch” on page 3-8.
+0004897Figure 5-48
+NOTE: If corrosion is found, flush the area with a battery 
+corrosion cleaning compound.Fuse Locations, Circuits, and Amperages
+F27 Battery power, 60A F29 Constant power, 20A
+F28 Spare power, 20A F30 Key switch power, 20A
+1
+1
+
+5-28MAINTENANCE
+SW405K Wheel Loader OMM3. Check the top surfaces and all the battery 
+connections under the red and black protective covers (1) for signs of corrosion or dirt buildup. Use a clean rag to wipe any dirt or other debris from the batteries.
+4. Remove any trash, tools, parts, or debris from the 
+battery compartment.
+5. Make sure all battery cable connections are tight.6. If battery replacement is required, see “Replace a 
+Battery” below.
+Replace a Battery 
+WARNING
+Before proceeding with any battery maintenance procedure, follow and remember these points:
+  • Battery gases are explosive. Never smoke 
+around batteries or expose them to sparks or open flames.
+  • Wear personal protective equipment (PPE) when 
+working with batteries.
+  • Work in a well -ventilated area.
+  • If battery acid contacts  skin or eyes, flush the 
+area immediately with fresh water and seek medical attention.
+  • When disconnecting a battery, wait for at least 2 
+minutes after engine shutdown before disconnecting the battery so the engine control module (ECM) can complete its shutdown procedure.
+Failure to observe and follow this caution could 
+result in serious injury or death.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Open the battery compartment cover. See “Battery 
+Compartment Cover” on page 3-7.
+3. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+4. Remove the fasteners and washers, then remove the 
+hold-down cover.0000974Figure 5-49
+5. Disconnect the black, ground (-) battery cables (1) 
+first, then disconnect the red, positive (+) (2) cables.
+6. Remove both batteries.
+NOTICE!
+Dispose of batteries in accordance with all 
+applicable environmental regulations. Failure to do so could damage the environment.
+7. Clean the battery tray of any trash or other debris 
+with a clean rag.
+8. Install new batteries.
+0000795Figure 5-50
+NOTE: Make sure the two 12V batteries are connected in 
+series.
+9. Connect the red, positive (+) cables (2) first.
+10. Connect the black, ground (-) cables (1).11. Install the battery hold-down cover and secure it in 
+place with the fasteners and washers.
+2
+1
+2
+1
+
+MAINTENANCE
+5-29 SW405K Wheel Loader OMMCheck the Battery Terminals
+WARNING
+Before proceeding with any battery maintenance 
+procedure, follow and remember these points:
+  • Battery gases are explosive. Never smoke 
+around batteries or expose them to sparks or open flames.
+  • Wear personal protective equipment (PPE) when 
+working with batteries.
+  • Work in a well -ventilated area.
+  • If battery acid contacts  skin or eyes, flush the 
+area immediately with fresh water and seek medical attention.
+  • When disconnecting a battery, wait for at least 2 
+minutes after engine shutdown before disconnecting the battery so the engine control module (ECM) can complete its shutdown procedure.
+Failure to observe and follow this caution could 
+result in serious injury or death.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+NOTES:
+•  There are two 12V batteries connected in series to 
+provide 24V to the electrical system.
+•Allow several minutes for any accumulated battery 
+gases to clear before servicing the batteries.
+2. Open the battery compartment cover. See “Battery 
+Compartment Cover” on page 3-7.
+3. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+0004897Figure 5-514. Check the battery connections under the red and 
+black protective covers (1) for signs of corrosion or 
+dirt buildup. Use a clean rag to wipe any dirt or other debris from the batteries.
+NOTE: If corrosion is found, clea n the area with a mix of 
+baking soda and warm water.
+5. Coat the battery terminals with battery corrosion 
+preventative to prevent corrosion.
+6. Tighten any loose connections.7. Remove any trash, tools, parts, or debris from the 
+battery compartment.
+1
+
+5-30MAINTENANCE
+SW405K Wheel Loader OMMClimate Control System
+Check Air Conditioner Filters 
+Cab Filter
+0004862Figure 5-52
+1. Release latches (1) and remove the panel (2) from 
+behind the cab seat.
+0004863Figure 5-53
+2. Remove wing nuts (3), bracket (4).
+3. Remove the cab filter (5) from the bracket and clean 
+or replace as necessary.
+4. Install in reverse order of removal.
+Fresh-Air Filter
+0002746Figure 5-541. Remove screws (1) and the fresh-air exchanger 
+panel (2).
+0002747Figure 5-55
+2. Remove and replace the fresh-air filter (3).3. Install in reverse order of removal.
+Check Air Conditioning Operation
+0000877Figure 5-56
+With the engine running, adjust the fan speed control dial 
+(1) to each setting, checking the fan speed control and airflow.
+Turn the heater on/off control switch (2) to the right and 
+check if heat is present.
+Turn the temperature control dial (3) to the right and 
+check if the air temperature changes from warm to cool.
+Check the recirculated-air/fresh-air control switch (4) 
+function.
+See “Climate Control Panel”  on page 3-17 for climate 
+control panel operational information.
+1
+2
+3
+4
+53
+21
+3
+1 2 3 4
+
+MAINTENANCE
+5-31 SW405K Wheel Loader OMMExhaust System
+Check the Engine Exhaust System
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Open the engine compartment access doors. See 
+“Engine Compartment Access Doors” on page 3-6.
+0002510Figure 5-57
+CAUTION
+Make sure that the engine is shut down and that the exhaust has cooled to a point where it can be touched without burning. Failure to follow this caution could result in injury.
+NOTE: Contact a SANY dealer to replace damaged or 
+missing clamps.
+4. Inspect the exhaust system for loose, missing, or 
+damaged hardware (1).Standstill Regeneration
+WARNING
+The engine exhaust will be very hot. Make sure the machine is not in a highly combustible area. Failure to follow this warning could cause a fire or explosion, resulting in death or serious injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Start and run the engine at idle.
+0004895Figure 5-58
+3. On the Home screen, press the function button (1) at 
+the bottom right to a ccess the Calibration and 
+Operation screens.
+0000956Figure 5-59
+4. Press the function button up (2) or down (3) arrow 
+icons to highlight the Operation Screen (5) option. Press the function button (4) next to the check mark icon to access the Operation Screen.
+1
+1
+ 1
+2
+3
+4
+5
+
+5-32MAINTENANCE
+SW405K Wheel Loader OMM0000970Figure 5-60
+5. Press the up or down arrow icons to highlight the 
+Standstill regeneration rel ease (6) option. Press the 
+function button next  to the check mark  icon to choose 
+the option.
+0000901Figure 5-61
+6. Place the transmission control lever in the neutral 
+position. See “Transmission Control Lever” on page 3-11.
+7. Lock out the hydraulic system. See “Hydraulic 
+System Lockout Switch” on page 3-16.
+8. Use the function button next to the down arrow icon 
+to highlight the Release option.
+9. Press the function button next to the check mark icon 
+to confirm the selection an d activate the standstill 
+regeneration.
+10. Do not operate any contro ls. The monitor will display: 
+“regen. ongoing.”
+11. When the regen. ongoing message is no longer 
+displayed, standstill regene ration is complete and the 
+machine can be operated normally.Add Diesel Exhaust Fluid (DEF)
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Unlock and open the DEF tank compartment door. 
+See “Diesel Exhaust Fluid (DEF) Tank Access Door” on page 3-6.
+0000941Figure 5-62
+3. Remove the DEF tank filler cap (1) and add DEF as 
+needed. Install the DEF tank filler cap.
+4. Close and lock the DEF tank compartment door.
+Replace the Diesel Exhaust Fluid (DEF) 
+Suction Filter 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+0002497Figure 5-63
+3. Remove the fasteners (1) and remove the DEF 
+compartment cover (2).
+Change fan direction
+Standstill regeneration release
+Quick change power
+Mode P/E 6
+Stop
+ReleaseStandstill regeneration release
+2.during standstill regeneration, moving vehicle and1. Regeneration pre-conditions: transmission switch is
+on neutral position, hydraulic pilot is locked.
+2. After regeneration is released, display “regen. ongoing” .
+When regeneration succeed, “regen. ongoing” is disappeared.
+1
+12
+
+MAINTENANCE
+5-33 SW405K Wheel Loader OMM0004836Figure 5-64
+NOTE: For proper installation, label all hoses and note 
+their positions before disconnecting.
+4. Press the buttons (3) and disconnect the two coolant 
+hoses (4 and 5).
+NOTE: Place a suitable container under the coolant hoses 
+as they are removed to catch any coolant. Clamp or plug the coolant inlet hose (4) to prevent excess leakage from the coolant hoses.
+0004837Figure 5-65
+5. Press the tabs (6) on both sides of the connector and 
+disconnect the backflow hose (8).
+6. Press the tabs on both sides of the connector and 
+disconnect the DEF hose (7).0004838Figure 5-66
+7. Loosen the hose clamp (9).8. Remove the DEF unit (10) from the tank.
+0000762Figure 5-67
+9. Replace the DEF suction filter (11).10. Install the DEF suction filter by reversing steps 
+1 through 8.
+4
+5
+3
+78
+6
+10
+9
+11
+
+5-34MAINTENANCE
+SW405K Wheel Loader OMMReplace the Diesel Ex haust Fluid (DEF) 
+Pump Filter 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+0002497Figure 5-68
+3. Remove four fasteners (1) and remove the DEF 
+compartment cover (2).
+0004840Figure 5-69
+4. Remove the fasteners (3 ) and remove the access 
+panel (4).0004841Figure 5-70
+5. Remove the fastener (5) and pivot the brace (6) clear 
+of the DEF pump filter cover (7).
+6. Remove the DEF pump filter cover from the bottom 
+of the pump.
+0004842Figure 5-71
+7. Remove the filter seal (9) and filter element (8).8. Install a new filter element and install the seal and 
+DEF pump filter cover.
+9. Swing the brace back into position and install the 
+screw and washer.
+10. Install the access panel and the DEF compartment 
+cover.
+12
+3 34
+7
+65
+98
+
+MAINTENANCE
+5-35 SW405K Wheel Loader OMMHydraulic System
+Check the Hydraulic Oil Level
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+0005089Figure 5-72
+1. Check the hydraulic oil level in the sight glass (1) on 
+the left side of the machine behind the cab.
+2. The sight glass has high (2) and low (3) level marks.
+NOTICE!
+Do not add hydraulic oil to a level above the high 
+level mark on the hydraulic tank sight glass. This could result in machine damage and improper machine operation.
+NOTE: Add hydraulic oil if the o il level is below the low 
+mark on the hydraulic tank sight glass.
+Add Hydraulic Oil
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Relieve the hydraulic system pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.0002515Figure 5-73
+4. Remove four fasteners (1) and the access panel (2).
+0002714Figure 5-74
+NOTE: The hydraulic tank  filler cover may move up while 
+the fasteners are loosened due to the action of an internal spring.
+5. Slowly remove the fasteners (4) while pressing on 
+the hydraulic tank filler cover (3).
+6. Remove the hydraulic  tank filler cover.
+1
+2
+3
+21
+1
+3
+4
+4
+
+5-36MAINTENANCE
+SW405K Wheel Loader OMM0002715Figure 5-75
+7. Inspect the O-ring (5). Replace if missing or 
+damaged.
+0005089Figure 5-76
+8. Add hydraulic oil until the level is between the high 
+and low level marks on the hydraulic tank sight glass (6). See “Check the Hydraulic Oil Level” on 
+page 5-35.
+9. Install the hydraulic tank filler cover and access 
+panel.
+10. Turn the battery disconnect switch to the ON 
+position. See “Battery Disconnect Switch” on page 3-8.
+11. Start the engine.12. Run the engine for 10 minutes.13. Shut down the engine and check for leaks.14. Recheck the hydraulic oil level.Check Hydraulic Connections
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Lower the work equipment to the ground.3. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+NOTE: Replace hoses if cracked, damaged, or worn.
+4. Inspect all hydraulic hoses and tubes for cracks, 
+damage, or abnormal wear.
+5. Check fittings at both ends of all flexible hoses.6. Inspect all fitting locations and replace any damaged 
+or defective fittings.
+NOTE: The fasteners at each end of these hoses may 
+loosen occasionally due to vibration. Do not use thread sealant when tightening loose fittings and installing new fittings.
+7. Tighten any loose fasteners.
+Relieve Hydraulic System Pressure
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve pressure to prevent injury.
+Failure to follow these warnings could result in 
+death or serious injury.
+1. Park the machine on a level surface and lower all 
+equipment to the ground.
+2. Shut down the engine.3. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+4. Turn the key switch to ON.5. Fully cycle all hydraulic controls two to three times 
+within 15 seconds to release pressure remaining in the hydraulic system.
+6. Turn the key switch to OFF.
+5
+6
+
+MAINTENANCE
+5-37 SW405K Wheel Loader OMM0002513Figure 5-77
+7. Remove the wing nut (1) from the breather valve.
+0002518Figure 5-78
+8. Press the vent button (2) to relieve pressure from the 
+hydraulic tank.
+9. Install the wing nut.
+Change the Hydraulic Oil
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Lower the work equipment to the ground.3. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these warnings could result in 
+death or serious injury.
+4. Relieve the hydraulic system pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.0002730Figure 5-79
+NOTE: For the hydraulic tank capacity, see “Location, 
+Capacity, and Type” on page 5-6.
+5. Place an appropriately sized container under the 
+hydraulic tank drain block (1) on the left side of the machine on the inside of the rear frame.
+NOTICE!
+Dispose of used hydraulic oil in compliance with all applicable environmental regulations. Failure to do so could damage the environment.
+6. Remove the drain plug (2). Allow the tank to 
+completely drain of all hydraulic oil.
+7. Install the drain plug.
+0005089Figure 5-80
+8. Add hydraulic oil to the system until the hydraulic oil 
+level is between the low and high level marks on the sight glass (3). See “Check the Hydraulic Oil Level” on page 5-35.
+9. Start the engine.10. Run the engine for 10 minutes.11. Shut down the engine and check for leaks.12. Recheck the hydraulic oil level.
+1
+2
+21
+3
+
+5-38MAINTENANCE
+SW405K Wheel Loader OMMReplace the Hydraulic Oil Return Filter 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Lower the work equipment to the ground.3. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+4. Relieve the hydraulic system pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.
+.
+0002721Figure 5-81
+5. Remove four fasteners (1) and both the right (2) and 
+left (3) air intake collars.0004879Figure 5-82
+6. Remove 10 fastener covers (4), fasteners (5), and 
+the top panel (6).
+0004876Figure 5-83
+NOTICE!
+Block the opening whenever the cover is removed to prevent dirt and debris from entering the hydraulic tank.
+7. Remove four fasteners (7) and the hydraulic oil 
+return filter cover (8).
+1231
+44
+4
+64
+455
+5
+5545
+8
+7
+7
+
+MAINTENANCE
+5-39 SW405K Wheel Loader OMM0004877Figure 5-84
+8. Remove the spring (9).9. Remove the hydraulic oil filter cover (10).
+0004878Figure 5-85
+10. Remove the hydraulic oil return filter (11).11. Replace the O-ring (12).
+NOTICE!
+Dispose of used hydraulic oil and filters in 
+compliance with all a pplicable environmental 
+regulations. Failure to do so could damage the environment.
+12. Install a new hydraulic oil return filter and filter cover 
+(10).
+13. Position the spring on top of the hydraulic oil return 
+filter cover.0005089Figure 5-86
+14. Add hydraulic oil to the system until the hydraulic oil 
+level is between the low and high level marks on the sight glass (13). See “Check the Hydraulic Oil Level” on page 5-35.
+15. Install the hydraulic oil return filter cover, top panel, 
+fasteners, and fastener covers.
+16. Install the air intake collars.17. Start the engine.18. Run the engine for 10 minutes.19. Shut down the engine and check for leaks.
+Replace the Hydraulic Suction Filter 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Lower the work equipment to the ground.3. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these warnings could result in 
+death or serious injury.
+4. Relieve the hydraulic system  pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.
+9
+10
+11
+12
+13
+
+5-40MAINTENANCE
+SW405K Wheel Loader OMM0002515Figure 5-87
+5. Remove four fasteners (1) and the access panel (2).
+0002714Figure 5-88
+NOTE: The hydraulic tank filler cover may move up while 
+the fasteners are loosened due to the action of an internal spring.
+6. Press down on the hydraulic  tank filler cover (3) while 
+removing the four fasteners (4).
+7. Remove the hydraulic  tank filler cover.0002715Figure 5-89
+8. Remove the suction filter spring (5) and pull out the 
+filter assembly by the top of the filter rod (6).
+0004875Figure 5-90
+NOTICE!
+Dispose of hydraulic oil and filters in accordance with all applicable environmental regulations. Failure to follow this notice could damage the environment.
+9. Loosen fasteners (7) and unscrew the hydraulic 
+suction filter element (8) from the filter rod (9).
+10. Install a new hydraulic suction filter element on the 
+filter rod. When properly installed, the end of the filter rod is flush with the inside of the hydraulic suction filter element.
+11. Tighten the fasteners (7) securing the hydraulic 
+suction filter element to the filter rod.
+21
+1
+34
+4
+5
+6
+7
+896
+
+MAINTENANCE
+5-41 SW405K Wheel Loader OMM0002715Figure 5-91
+12. Replace the O-ring (10).13. Install the hydraulic tank filler cover and access 
+panel.
+14. Start the engine.15. Run the engine for 10 minutes.16. Shut down the engine and check for leaks.
+Replace the Hydraulic Pilot Filter 
+WARNING
+Use an appropriate supporting device to support 
+the boom. Failure to follow  this warning will result 
+in death or serious injury.
+1. Raise and support the boom for access to the 
+hydraulic pilot filter. 
+2. Shut down the engine.
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these warnings could result in 
+death or serious injury.
+3. Relieve the hydraulic system pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.
+4. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+5. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.0002732Figure 5-92
+6. Remove the fasteners (1) and the front frame access 
+panel (2).
+0002731Figure 5-93
+7. The hydraulic pilot filter (3) is inside the front frame. 
+10
+2
+11
+3
+
+5-42MAINTENANCE
+SW405K Wheel Loader OMM0004871Figure 5-94
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the hydraulic tank filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+NOTICE!
+Dispose of hydraulic oil and filters in accordance with all applicable en vironmental regulations. 
+Failure to follow this notice could damage the environment.
+8. Place an appropriately sized container under the 
+filter housing to catch any hydraulic oil that may leak out.9. Remove the pilot filter bottom housing (9). 
+NOTE: There is a wrench fitting on  the bottom of the filter 
+housing to assist in removal.
+10. Remove the hydraulic pilot filter element (5) from the 
+filter head (4).
+11. Clean the inside of the filter head and bottom 
+housing.
+12. Install a new gasket (8) and O-rings (6 and 7).13. Install a new hydraulic pilot filter element inside the 
+housing.
+14. Install the pilot filter bottom housing.
+Replace the Hydraulic System Breather 
+Filter 
+NOTE: Depending on the work environment and the 
+degree of contamination, the filter may need to be replaced more frequently than every 500 hours.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+WARNING
+  • Allow the hydraulic system to cool before 
+servicing. Hot hydraulic oil may cause burns or other serious injury.
+  • The hydraulic tank may be under pressure, and 
+hydraulic oil may be present at the filler cap. Relieve hydraulic system pressure to prevent injury.
+Failure to follow these warnings could result in 
+death or serious injury.
+3. Relieve the hydraulic system  pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.
+0002513Figure 5-95
+4. Remove the wing nut (1) from the breather valve.
+4
+5
+6
+7
+8
+9
+1
+
+MAINTENANCE
+5-43 SW405K Wheel Loader OMM0004873Figure 5-96
+5. Press the vent button (2) to release pressure in the 
+hydraulic system.
+6. Unscrew and remove the hydraulic system breather 
+filter element cover (3).
+0002514Figure 5-97
+NOTICE!
+Dispose of hydraulic oil and filters in accordance with all applicable environmental regulations. Failure to follow this notice could damage the environment.
+7. Pull up to remove the hydraulic system breather filter 
+(4) from the valve body.
+8. Replace the hydraulic system breather filter.9. Install the hydraulic system breather filter element 
+cover.
+10. Secure the hydraulic system  breather filter element 
+cover with the wing nut.Drivetrain
+Check the Driveshaft Fasteners
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Chock the wheels.
+0004890Figure 5-98
+CAUTION
+Make sure that the engine is off, the park brake is 
+applied, wheels are chocked, and hot surfaces have cooled to a point where they can be touched without burning. Failure to do so could result in injury.
+4. Inspect the front and back driveshafts (1) for loose, 
+missing, or damaged fasteners. Tighten or replace fasteners (2) as needed.
+2
+3
+4
+1
+2
+

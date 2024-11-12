@@ -1,0 +1,172 @@
+MAINTENANCE
+5-43 SW405K Wheel Loader OMM0004873Figure 5-96
+5. Press the vent button (2) to release pressure in the 
+hydraulic system.
+6. Unscrew and remove the hydraulic system breather 
+filter element cover (3).
+0002514Figure 5-97
+NOTICE!
+Dispose of hydraulic oil and filters in accordance with all applicable environmental regulations. Failure to follow this notice could damage the environment.
+7. Pull up to remove the hydraulic system breather filter 
+(4) from the valve body.
+8. Replace the hydraulic system breather filter.9. Install the hydraulic system breather filter element 
+cover.
+10. Secure the hydraulic system  breather filter element 
+cover with the wing nut.Drivetrain
+Check the Driveshaft Fasteners
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Chock the wheels.
+0004890Figure 5-98
+CAUTION
+Make sure that the engine is off, the park brake is 
+applied, wheels are chocked, and hot surfaces have cooled to a point where they can be touched without burning. Failure to do so could result in injury.
+4. Inspect the front and back driveshafts (1) for loose, 
+missing, or damaged fasteners. Tighten or replace fasteners (2) as needed.
+2
+3
+4
+1
+2
+
+5-44MAINTENANCE
+SW405K Wheel Loader OMMCheck the Wheel Mounting Fasteners 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+0004864Figure 5-99
+NOTE: The wheel mounting fastener torque value is 
+553 lb-ft–590 lb-ft (750 N•m–800 N•m).
+3. Check for loose or damaged wheel mounting 
+fasteners (1).
+Check Tires 
+WARNING
+Replace a tire when it reaches its maximum wear limit. Use the same size and type as the original tire. An unmatched tire and wheel rim could cause damage to the tire or rim, or an explosion that could result in death or serious injury.
+As an important component of wheeled vehicles, tire 
+technologies improve traction, transition, smoothness, safety, comfort, and economy.
+Tires are the point of contact between the machine and 
+the ground. They smooth the transition on uneven ground, provide suspension, and provide traction for machine movement.
+Tires on the same axle should be the same brand, type, 
+structure, and wear. The wear of the tires should be the same to make an identical outer radius. Tires should be replaced when the tread at 1/4 in. from the tire edge is worn to a depth of 0.08 in.–0.19 in. (2 mm–5 mm).Check Tire Condition
+Before starting the machine:
+• Inspect the tires for uneven or accelerated tire wear 
+caused by mechanical problems, such as uneven brake action. Correct the problem immediately. Replace tires that are seriously worn.
+• Inspect the wheel rims for cracks, corrosion, or 
+damage. Contact a SANY dealer as necessary.
+• Check and remove debris such as glass, wood pieces, 
+metal scraps, nails, or stones from the tires.
+Check the Tire Pressure
+NOTICE!
+Contact a SANY dealer for the recommended tire inflation pressure.
+Check tire air pressure and inflate the tire when the 
+pressure is low. Consult a SANY dealer or refer to tire manufacturer information for proper tire pressure. Low pressure reduces stability a nd load capacity of the 
+machine.
+Inflate the Tires
+WARNING
+Overinflating a tire to exceed its maximum pressure, inflating a tire with improper equipment, inflating a damaged or otherwise faulty tire, or not using care during the inflation process may result in the tire exploding, causing death or serious injury.
+Obey the following guidelines for inflating tires to avoid 
+accidents:
+• The tires must be cool and the machine must be 
+unloaded when the tire pressure is being checked.
+• Do not inflate the tires if the machine has been working 
+while tire pressure wa s lower than 80% of the 
+recommended pressure, or if evident or suspected tire damage or rim damage is found, as this could prevent the tire from seating properly.
+• Use only approved wheel rim components.• If a tire has deflated, the tire must be dismounted and 
+the wheel rim inspected for damage.
+• Never strike a tire or any component during inflation.• Never partially infl ate installed tires.
+1
+
+MAINTENANCE
+5-45 SW405K Wheel Loader OMM• The tire must be inflated on a machine or in a protective 
+device that is designed and dimensioned so it can absorb or dissipate a shock wave from a tire explosion as well as catch ejected parts.
+WARNING
+Never stand in front of any tire being inflated or deflated. The lock ring and retaining ring may release and be ejected with explosive force, resulting in death or serious injury.
+• Make sure no person is ei ther standing close to or 
+passing nearby the wheels during the inflation operation.
+• Always inflate the tires to  the recommended pressure. 
+Do not exceed the recommended pressures.
+When inflating a tire:1. Make sure the lock ring and retaining ring are in the 
+correct position before inflating.
+0000900Figure 5-100
+2. Connect a self-locking pneumatic chuck with a long 
+hose (1) to the air valve of the tire.
+3. Stand to the side of the tire while inflating.4. Inflate tires to:   • Front tire 34 psi (2.37 bar)  • Rear tire 40 psi (2.75 bar)5. Tighten all wheel mounting fasteners after checking 
+and adjusting tire pressures, or if the wheel had been removed for any reason. The correct wheel mounting fastener torque specification is 553 lb-ft–590 lb-ft 
+(750 N•m–800 N•m).Inspect Service Brakes 
+The service brakes are internal to the front and rear axle assemblies.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+WARNING
+  • Risk of high pressure injection of oil through 
+skin.
+  • Residual pressure in the brake system may 
+cause oil to be released under high pressure, even if the engine has stopped running for a period of time.
+  • Before performing any type of service on the 
+brake system, make sure to relieve the brake hydraulic pressure.
+Failure to follow this warn ing can result in serious 
+injury.
+3. Press and release the brake pedal 30 to 40 times to 
+relieve the pressure in the brake accumulator.
+0005073Figure 5-101
+4. Remove the inspection port plugs (1). Each axle has 
+two inspection ports. One port is on the front side of the axle and the other is on the back side.1
+1
+
+5-46MAINTENANCE
+SW405K Wheel Loader OMM0005072Figure 5-102
+5. With the brakes in a braking state (friction plates tight 
+together), measure the clearance between the outer flanges of the two friction plates (2) using a plug or 
+feeler gauge.
+6. If the clearance between the outer flanges of the two 
+friction plates is less than 0.157 in. (4 mm), contact a SANY dealer for service.
+Check the Park Brake Pad Thickness and 
+Clearance
+The park brake is spring-applied and hydraulically 
+released when the machine is operating.
+0005077Figure 5-103
+Check park brake pad thickness:
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Measure the thickness of the park brake pads (1) on 
+both sides of the disc (2). Park brake pads worn to less than 0.125 in. (3.2 mm) must be replaced
+Check the park brake pad to disc clearance.4. With engine running, disengage the park brake. The 
+brake pad will move off the brake disc.
+5. Inspect the clearance between the park brake disc 
+and the brake pad after the first week or 50 service hours, then monthly or every 250 service hours.
+6. The park brake pad to disc clearance must be 0.020 
+in. (0.5 mm) to 0.100 in. (2.54 mm). 
+7. If the park brake pad to disc clearance is not within 
+the acceptable range, brake adjustment is required. Contact a SANY dealer for additional information.
+Check the Front and Re ar Axle Oil Level 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Chock the wheels.
+WARNING
+  • Risk of high pressure injection of oil through 
+skin.
+  • Residual pressure in the brake system may 
+cause oil to be released under high pressure, even if the engine has stopped running for a period of time.
+  • Before performing any type of service on the 
+brake system, make sure to relieve the brake hydraulic pressure.
+Failure to follow this warn ing can result in serious 
+injury.
+0004893Figure 5-104
+4. Press and release the brake pedal 30 to 40 times to 
+relieve the pressure in the brake accumulator.
+5. Remove the fill/check plug (1 ) from the fr ont (or rear) 
+axle.
+6. Check the axle oil level.
+2
+1
+2
+1
+

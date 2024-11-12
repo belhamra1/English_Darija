@@ -1,0 +1,1150 @@
+question,answer
+What is the guidebook for?,The guidebook is for confirming the whole load and maximum working radius of the SCC3000A crawler crane.
+What should be done before lifting to prevent the crane from turning over or damaging the attachments?,"Three steps should be carried out before lifting: reading the lifting icon to identify the whole load, calculating the whole lifting load, and not extending the range of maximum working radius."
+What are the rated loads in the Load Tables based on?,The rated loads in the Load Tables are based on the boom strength and the boom stability.
+What should be considered when using the Load Chart?,Two things should be considered when using the Load Chart: the ground conditions and the calculation of actual lifting capacity.
+What should be the condition of the ground for the rated loads to be applicable?,The rated loads are calculated assuming that the crane is evenly supported on level hard ground and the gradient is less than 1%.
+What should be deducted when calculating the actual lifting load?,"When calculating the actual lifting load, the weight of hooks, lifting devices, and wire ropes wound on the hooks and connected to the boom tip should be deducted from the rated load."
+What is the weight of the wire ropes wound on the hooks calculated by?,The weight of the wire ropes wound on the hooks is calculated by 3.92kg/m.
+What should be excluded from the actual weight in the load chart?,"In the load chart, the weight of the main hook, hoist devices, and the wire on the boom head should be excluded from the actual weight."
+What is the working range of the crane?,The working range of the crane can be applied while the crane swings within 360º.
+What is the traveling load capacity of the crane?,"The traveling load capacity of the crane is the load while traveling. If the crane travels with a load, the load should be reduced because the capacity under different duty is different."
+What should be considered when traveling with a load?,"When traveling with a load, it is suggested to move the load within a very small range and close to the earth, and to use the low-speed gear while traveling."
+What optional rated table is provided in the guidebook?,"An optional rated table is provided in the guidebook, with the tonnage of hooks and the rated capacity for each part of the line."
+What is the rated load value calculated based on in the context of SCC3000A crawler crane?,The rated load value is calculated considering the allowable working wind speed for different working conditions in the context of SCC3000A crawler crane.
+What should be the status of the SCC3000A crawler crane when the wind speed is greater than the maximum allowable wind speed for working condition and less than the maximum allowable wind speed for non-working condition?,"When the wind speed is greater than the maximum allowable wind speed for working condition and less than the maximum allowable wind speed for non-working condition, the crane is not allowed to work, but the boom can be kept in an upright position."
+When should the boom of the SCC3000A crawler crane be lowered to the ground when the wind speed is greater than the maximum allowable wind speed for non-working condition?,"When the wind speed is greater than the maximum allowable wind speed for non-working condition, the boom must be lowered to the ground."
+What is the allowable wind speed for boom length less than or equal to 50 meters and wind speed less than or equal to 14.1 m/s for the SCC3000A crawler crane?,The allowable wind speed for boom length less than or equal to 50 meters and wind speed less than or equal to 14.1 m/s is operation for the SCC3000A crawler crane.
+What is the allowable wind speed for any boom length and wind speed less than or equal to 9.8 m/s for the SCC3000A crawler crane?,The allowable wind speed for any boom length and wind speed less than or equal to 9.8 m/s is operation for the SCC3000A crawler crane.
+What is the allowable wind speed for any boom length and wind speed greater than or equal to 15 m/s for the SCC3000A crawler crane?,The allowable wind speed for any boom length and wind speed greater than or equal to 15 m/s is lower down the boom to the ground for the SCC3000A crawler crane.
+What should be the ground roughness while operating the SCC3000A crawler crane?,The ground roughness should be no more than 0.57° while operating the SCC3000A crawler crane.
+What should be the condition of the ground while operating the SCC3000A crawler crane within 13.8 m/s with dynamic wind power 120 N/m2 and there is no obstacle within the working radius?,The ground should be hard enough while operating the SCC3000A crawler crane within 13.8 m/s with dynamic wind power 120 N/m2 and there is no obstacle within the working radius.
+What is the title of the document referred to in the text?,The title of the document is not mentioned in the provided text.
+What is a crawler crane referred to in the text?,A SCC3000A crawler crane is referred to in the text.
+What is the topic of Chapter 2 discussed in the text?,The duty code is the topic of Chapter 2 discussed in the text.
+How many duty modes does the main boom have?,"The main boom has one duty mode, which is H."
+What is the duty mode code for fixed jib duty?,The duty mode code for fixed jib duty is FJ.
+What is the duty mode code for luffing jib duty?,The duty mode code for luffing jib duty is LJ.
+What is the duty mode code for shield duty?,The duty mode code for shield duty is FJh.
+How many duty modes are there in total?,There are four duty modes in total.
+What is the chapter about on page 6 of the SCC3000A crawler crane load charts?,Chapter 3 Working Range Diagram for H duty.
+What is the subject of section 3.1.1 in the load charts?,H Duty Combination for different boom lengths.
+"What is the rated load capacity when the boom length is 12m, and the working radius is 20m, under H duty?","The load capacity can be found in the table in section 3.1.1, but it's not provided for this specific combination of boom length and working radius."
+What is the next chapter after page 6 in the load charts?,Page 7 is about the Working Radius Diagram under H Duty.
+What is the note about on page 8 in the H Duty Load Chart?,"Note 1 states that the actual lifting capacity is the rated lifting capacity minus the weight of hooks, riggings, and rope winding on the boom head. Note 2 states that when the extension boom is installed, the rated load of the main hook is the load in the chart minus the boom head weighting 0.42 t."
+Where can the reader find the details of the H Duty Load Chart?,The details of the chart are in the attachment of section 3.1.3.
+What is the model of the crawler crane mentioned in the text?,SCC3000A
+What is the section of the document about?,Load charts for the SCC3000A crawler crane
+Which page of the document is section 3.2.1 located on?,Page 9
+What is the subsection 3.2.1 about?,FJ Duty Combination
+What is the jib length in the first row of the table in subsection 3.2.1?,6m
+What is the boom insert length in the first row of the table in subsection 3.2.1?,11.5m
+What is the boom to jib angle in the first row of the table in subsection 3.2.1?,10°
+What is the longest boom combination length in the note below the table in subsection 3.2.1?,62m
+What is the section located on page 10 of the document?,3.2.2 Working Radius Diagram under FJ Duty
+What is the section located on page 11 of the document?,3.2.3 FJ Duty Load Chart
+What is the first note in section 3.2.3 about?,The actual lifting capacity
+What should be subtracted from the rated lifting capacity according to the first note in section 3.2.3?,"The weight of hooks, riggings, and rope winding on the boom head."
+What is the second note in section 3.2.3 about?,The rated lifting capacity
+What conditions should be met according to the second note in section 3.2.3 for the rated lifting capacity to be valid?,It should be tested on a flat and hard ground at an even and stable speed.
+What is the document about?,The document is about the load charts for the SCC3000A crawler crane.
+Where can the length of the jib be found in the document?,"The length of the jib can be found in section 3.3.1 of the document, under the header ""LJ Duty Combination""."
+What is the longest boom combination for the SCC3000A crawler crane?,"The longest boom combination for the SCC3000A crawler crane is 62m, and it includes a 10m boom base, 3m boom insert*1, 6m boom insert*1, 12m boom insert *3, 6m transitional boom*1, and 1m boom head*1."
+Where can the working radius diagram for the SCC3000A crawler crane be found in the document?,"The working radius diagram for the SCC3000A crawler crane can be found in section 3.3.2 of the document, under the header ""LJ Working Radius Diagram""."
+"According to the document, what should be subtracted from the rated lifting capacity to get the actual lifting capacity?","According to the document, the actual lifting capacity should be the one that rated lifting capacity subtracts the weight of hooks, riggings and rope winding on the boom head."
+What is noted regarding the rated lifting capacity in the chart in section 3.3.3?,It is noted in section 3.3.3 that the rated lifting capacity in the chart should be tested on a flat and hard ground at an even and stable speed.
+Where can one find more details about LJ Duty Load Chart in the document?,It is noted in section 3.3.3 that one should read the details in the attachment of L J Duty Load Chart.
+What is the first combination of shield duty in the SCC3000A crawler crane load charts?,The first combination of shield duty is FJh 20m+12m.
+What is the jib length and luffing jib tip of the first shield duty combination?,The jib length is 12m and the luffing jib tip is 1m.
+What is the angle between the boom and jib for the first shield duty combination?,The angle between the boom and jib for the first shield duty combination is 20 degrees.
+On which page can we find the working radius diagram under FJh duty for the first shield duty combination?,The working radius diagram under FJh duty for the first shield duty combination can be found on page 17.
+What is the second combination of shield duty in the SCC3000A crawler crane load charts?,The second combination of shield duty is FJh 20m+7m.
+On which page can we find the working radius diagram under FJh duty for the second shield duty combination?,The working radius diagram under FJh duty for the second shield duty combination can be found on page 18.
+Where can the actual lifting capacity be found in the FJh Duty Load Chart according to the note in the SCC3000A crawler crane load charts?,"The actual lifting capacity can be found by subtracting the weight of hooks, riggings, and rope winding on the boom head from the rated lifting capacity. The details can be read in the attachment of FJh Duty Load Chart."
+What should the operator consider while traveling without load?,The operator should not only take the given gradient into consideration but also the cross slope while traveling without load.
+Why is it necessary to prevent the crane from tipping while traveling without load?,It’s necessary to prevent the crane from tipping because in this case the gravity will change suddenly so that the crane may turn over or the hook and boom may crash especially while the boom is up high in the air.
+How should the crane be operated while traveling without load?,The crane should be operated stably without emergency stop or emergency start.
+Can the crane travel with full boom while traveling with load?,"Yes, the crane can travel with full boom but it should be complied with the load chart."
+How should the load be operated while traveling with load?,The load should be operated in radius as small as possible and be close to the earth. It’s only allowed to travel at slow speed.
+What should be the condition of the ground while traveling with load?,The ground should be flat and hard enough to support the load. Load swinging should be avoided. The load can be bond on a proper position if necessary.
+How should the crane be operated while traveling with load?,The crane should be operated stably without emergency stop or emergency start.
+In what condition are the rated load values in the Load Chart calculated?,"The rated load values in the Load Chart are calculated on the condition that the machine is parking on firm and level ground, with load lifted up slowly and steadily."
+What does level ground mean?,Level ground means ground within 1% grade.
+What should be considered as part of the rated load when calculating the weight that can be lifted?,"The weight of hook block, riggings, slings and wire ropes from boom point to the load should be considered as part of the rated load."
+What does the rated load indicated in the table refer to?,The rated load indicated in the table refers to the value obtained from calculation by 75% tipping load when the wind speed is below 9.8 m/s.
+"What should be taken into account when operating the crane, in addition to the ratings provided in the Load Chart?","The operator should judge the site condition, reduce the load and slow down the speed accordingly, taking into account the effect of excessive wind load, ground condition, levelness, operation speed or any other negative effect on safety operation."
+What is the load radius in the Load Chart?,Load radius is the horizontal distance from axis of swing to center of gravity of the freely suspended load.
+What is the boom angle in the Load Chart?,"Boom angle is the angle between horizontal and centerline of boom base and inserts, and is an indication of radius."
+Which radius should govern capacity in all cases?,Operating radius shall govern capacity in all cases.
+Where is the least stable position for the machine?,The least stable position is over the side of the machine.
+Do the lifting capacities listed apply to modified machines or those using equipment other than that specified?,"No, the lifting capacities listed apply only to the machine as originally manufactured and designed."
+What should be done with pendant bars that are not used on the crane?,All the pendant bars that are not used on the crane should be removed.
+What should be confirmed before lifting?,The crane operator should confirm the lifting conditions and configurations required in the Load Chart are totally fulfilled before lifting. The crane is not allowed to work out the load chart provided by the manufacturer.
+What is the boom length of the SCC3000A Crawler Crane?,The boom length of the SCC3000A Crawler Crane is 20-86m.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the rated value for a boom length of 5m?,The rated value for a boom length of 5m is 300t.
+What is the rated value for a boom length of 30m?,The rated value for a boom length of 30m is 173t.
+What is the rated value for a boom length of 50m?,The rated value for a boom length of 50m is 156t.
+What is the rated value for a boom length of 74m?,The rated value for a boom length of 74m is 3.4t.
+What is the rated value for a boom length of 86m?,The rated value for a boom length of 86m is 1.18t.
+"What is the rated value for a boom length of 40m, not mentioned in the table but calculated based on the pattern?",The rated value for a boom length of 40m is 20.7t.
+"As per note 1, what should be deducted from the rated values to get actual lifting capacity?","The weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get actual lifting capacity."
+"As per note 2, what are the ground conditions when the rated values are calculated?",The rated values are calculated when the crane is parking on firm and level ground with the load being lifted slowly and steadily.
+What are the different hook capacities mentioned in the text?,"The hook capacities mentioned in the text are 260t, 160t, 100t, 50t, and 16t ball hook."
+What is the main hook weight of the 16t ball hook?,The main hook weight of the 16t ball hook is 0.91t.
+What is the boom extension weight for the 50t hook?,The boom extension weight for the 50t hook is 0.38t.
+What is the formula to calculate the rated load value (P') on the corresponding auxiliary hook?,"If P - G0 - g >= 30t, then P' = 30t. If P - G0 - g < 30t, then P' = P - G0 - g."
+What is the minimum value of P' if P - G0 - g < 16t?,"If P - G0 - g < 16t, then P' = P - G0 - g, with a minimum value of 0 (assuming G0 and g are both non-negative)."
+What is the value of G0 for the main hook?,"The value of G0 for the main hook is mentioned to be 5.13t, 3.18t, 2.25t, 1.7t, or 0.91t, but it's unclear which value corresponds to which hook capacity."
+What are the listed radii for this crane in meters?,"The listed radii for this crane are: 13, 19, 24.5, 30.5, 36, 42."
+What are the listed jib lengths for this crane in meters?,"The listed jib lengths for this crane are: 13, 19, 24.5, 30.5, 36, 42."
+What is the boom length of the crane when the jib is at 13 meters?,The boom length of the crane when the jib is at 13 meters is 29 meters.
+What is the rear counterweight of the crane?,The rear counterweight of the crane is 112 tons.
+What is the carbody counterweight of the crane?,The carbody counterweight of the crane is 40 tons.
+What is the fixed jib offset angle of the crane?,The fixed jib offset angle of the crane is 10 degrees.
+What is the rating capacity of the crane at a radius of 13 meters and a jib length of 19 meters?,The rating capacity of the crane at a radius of 13 meters and a jib length of 19 meters is not provided in the table.
+What is the rating capacity of the crane at a radius of 30.5 meters and a jib length of 30.5 meters?,The rating capacity of the crane at a radius of 30.5 meters and a jib length of 30.5 meters is 5446 tons.
+What is the rating capacity of the crane at a radius of 42 meters and a jib length of 36 meters?,The rating capacity of the crane at a radius of 42 meters and a jib length of 36 meters is 5044 tons.
+What is the rating capacity of the crane at a radius of 24.5 meters and a jib length of 24 meters?,The rating capacity of the crane at a radius of 24.5 meters and a jib length of 24 meters is not provided in the table.
+What is the rating capacity of the crane at a radius of 30.5 meters and a jib length of 42 meters?,The rating capacity of the crane at a radius of 30.5 meters and a jib length of 42 meters is 6838 tons.
+What is the rating capacity of the crane at a radius of 42 meters and a jib length of 48 meters?,The rating capacity of the crane at a radius of 42 meters and a jib length of 48 meters is 7854 tons.
+What are the listed boom lengths for this crane in meters when the jib is not attached?,"The listed boom lengths for this crane in meters when the jib is not attached are: 12, 14, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78."
+What is the note 1 about?,"Note 1 states that the weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get actual lifting capacity."
+What is note 2 about?,Note 2 states that all rated values are calculated when the crane is parked on firm and level ground with the load being lifted slowly and steadily.
+What are the possible radius values given in the text?,"The possible radius values are 13, 19, 24.5, 30.5, 36, 42 meters."
+What are the possible jib lengths given in the text?,"The possible jib lengths are 14, 19, 24.5, 30.5, 36, 42 meters."
+What is the boom length for the SCC3000A Crawler Crane - FJ?,The boom length for the SCC3000A Crawler Crane - FJ is 35 or 38 meters.
+What is the rear counterweight of the crane?,The rear counterweight of the crane is 112 tons.
+What is the carbody counterweight of the crane?,The carbody counterweight of the crane is 40 tons.
+What is the fixed jib offset angle for the crane?,The fixed jib offset angle for the crane is 10 degrees.
+What is the unit of measurement for the rated values?,The unit of measurement for the rated values is tons.
+"What is the note regarding the weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip?","The note states that the weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get actual lifting capacity."
+What are the conditions for the rated values?,The rated values are calculated when the crane is parked on firm and level ground with the load being lifted slowly and steadily.
+What is the minimum radius value in the table?,The minimum radius value in the table is 10 meters.
+What is the maximum jib length in the table?,The maximum jib length in the table is 42 meters.
+What is the minimum rated capacity value in the table?,The minimum rated capacity value in the table is 10 tons.
+What is the maximum rated capacity value in the table?,The maximum rated capacity value in the table is 78 tons.
+What are the given jib lengths in meters?,"The given jib lengths are 13, 19, 24.5, 30.5, 36, 42 meters."
+What are the corresponding radius values for each jib length in the first set?,"The corresponding radius values for jib lengths 13, 19, 24.5, 30.5, 36, 42 meters in the first set are 84.4, 70.6, 86.2, 76.4, 63.6, 56.7, 78.5, 64.8, 57.4; 70.1, 58.3, 51.3, 40.7, 69.4, 59.2, 52.2, 41.8."
+What are the corresponding radius values for each jib length in the second set?,"The corresponding radius values for jib lengths 13, 19, 24.5, 30.5, 36, 42 meters in the second set are 61.8, 53.9, 47.3, 39.6, 29.5, 60.6, 55.1, 48.4, 40.8, 29.3; 54.6, 50.4, 43.9, 37.1, 28.7, 21.3, 53.5, 51.4, 44.9, 38.3, 28.5, 21.2."
+What are the corresponding radius values for each jib length in the third set?,"The corresponding radius values for jib lengths 13, 19, 24.5, 30.5, 36, 42 meters in the third set are 48.6, 46.9, 41.1, 33.8, 27.8, 20.6, 47.7, 47.5, 41.8, 35.1, 27.7, 20.6; 43.7, 43.6, 38.6, 31.1, 26.7, 20, 42.7, 42.7, 39.6, 32.2, 26.9, 20."
+What is the rear counterweight of the given Crawler Crane?,The rear counterweight of the given Crawler Crane is 112 tons.
+What is the carbody counterweight of the given Crawler Crane?,The carbody counterweight of the given Crawler Crane is 40 tons.
+What is the fixed jib offset angle of the given Crawler Crane?,The fixed jib offset angle of the given Crawler Crane is 10°.
+What are the available boom lengths of the given Crawler Crane?,The available boom lengths of the given Crawler Crane are 41 meters and 44 meters.
+What is the unit of the given boom length and radius values?,The unit of the given boom length and radius values is meters.
+What is the rated capacity of the Crawler Crane when the boom length is 41 meters and the jib length is 13 meters?,"The rated capacity of the Crawler Crane cannot be determined from the given text, as it only provides the radius values for different jib length and boom length configurations."
+What are the radius options for this crane?,"The radius options are 13 m, 19 m, 24.5 m, 30.5 m, 36 m, 42 m."
+What are the jib options for this crane?,The jib options are 85.5 m and 85.8 m.
+What is the boom length for the 47 m boom option?,The boom length for the 47 m boom option is 47 m.
+What is the boom length for the 50 m boom option?,The boom length for the 50 m boom option is 50 m.
+What is the rear counterweight of the crane?,The rear counterweight of the crane is 112 t.
+What is the carbody counterweight of the crane?,The carbody counterweight of the crane is 40 t.
+What is the fixed jib offset angle of the crane?,The fixed jib offset angle of the crane is 10 degrees.
+What is the unit of the rated values?,The unit of the rated values is t (tonnes).
+What are the rated values for the 13 m radius and 47 m boom option?,"78 t, 74 t"
+What are the rated values for the 19 m radius and 47 m boom option?,"76 t, 70 t"
+What are the rated values for the 24.5 m radius and 47 m boom option?,"72 t, 66 t"
+What are the rated values for the 30.5 m radius and 47 m boom option?,"68 t, 62 t"
+What are the rated values for the 36 m radius and 47 m boom option?,"64 t, 58 t"
+What are the rated values for the 42 m radius and 47 m boom option?,"60 t, 54 t"
+What are the rated values for the 13 m radius and 50 m boom option?,"56 t, 50 t"
+What are the rated values for the 19 m radius and 50 m boom option?,"52 t, 46 t"
+What are the rated values for the 24.5 m radius and 50 m boom option?,"48 t, 42 t"
+What are the rated values for the 30.5 m radius and 50 m boom option?,"44 t, 38 t"
+What are the rated values for the 36 m radius and 50 m boom option?,"40 t, 34 t"
+What are the rated values for the 42 m radius and 50 m boom option?,"36 t, 30 t"
+What are the rated values for the 13 m radius and 85.5 m jib option?,"28 t, 22 t"
+What are the rated values for the 19 m radius and 85.5 m jib option?,"24 t, 18 t"
+What are the rated values for the 24.5 m radius and 85.5 m jib option?,"20 t, 14 t"
+What are the rated values for the 13 m radius and 85.8 m jib option?,"16 t, 10 t"
+What are the rated values for the 19 m radius and 85.8 m jib option?,"12 t, 2 t (Note: last value might be a typo, it should be 12 t or above)"
+What is the radius in meters for the first data point in the first set of radius and jib measurements?,The radius for the first data point in the first set of radius and jib measurements is 13 meters.
+What is the jib length in meters for the first data point in the second set of radius and jib measurements?,The jib length for the first data point in the second set of radius and jib measurements is 78.4 meters.
+What is the radius in meters for the last data point in the first set of radius and jib measurements?,The radius for the last data point in the first set of radius and jib measurements is 3.2 meters.
+What is the jib length in meters for the last data point in the second set of radius and jib measurements?,The jib length for the last data point in the second set of radius and jib measurements is 3.2 meters.
+What is the longest jib length in meters in the second set of radius and jib measurements?,The longest jib length in meters in the second set of radius and jib measurements is 80 meters.
+What is the shortest jib length in meters in the second set of radius and jib measurements?,The shortest jib length in meters in the second set of radius and jib measurements is 3.2 meters.
+What is the offset angle of the fixed jib?,The offset angle of the fixed jib is 10°.
+What is the rear counterweight of the crawler crane?,The rear counterweight of the crawler crane is 112 tons.
+What is the carbody counterweight of the crawler crane?,The carbody counterweight of the crawler crane is 40 tons.
+What is the unit of measurement for the boom length and jib length in the table?,The unit of measurement for the boom length and jib length in the table is meters.
+"What is the weight of the hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip that should be deducted from the rated values to get actual lifting capacity?","The weight of the hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip that should be deducted from the rated values to get actual lifting capacity is not specified in the text."
+What is the rated capacity of the crane at the first set of radius and jib measurements?,"The rated capacity of the crane is not specified in the text, only the radius and jib measurements are provided."
+What is the maximum rated capacity of the crane?,The maximum rated capacity of the crane is not specified in the text.
+What is the model of the crawler crane?,The model of the crawler crane is SCC3000A.
+What are the radius options for this crawler crane?,"The radius options for this crawler crane are 72.9m, 62m, 71.4m, 63m, 61.3m, 48.7m, 61.8m, 58m, 46.7m, 55.2m, 54.8m, 48.1m, 36.4m, 54m, 53.7m, 46.2m, 35.5m, 48.7m, 48.5m, 47.5m, 35.9m, 27.6m, 47.7m, 47.5m, 45.6m, 35m, 27.1m, 43.4m, 43.3m, 43.2m, 35.3m, 27.1m, 20.4m, 42.4m, 42.4m, 42.3m, 34.4m, 26.6m, 20.2m, 38.8m, 38.8m, 38.8m, 34.7m, 26.5m, 20m, 38m, 38m, 38m, 33.9m, 26.1m, 19.8m, 34.9m, 35m, 35.1m, 33.6m, 26m, 19.5m, 34.1m, 34.2m, 34.4m, 33.3m, 25.7m, 19.4m, 31.5m, 31.7m, 31.9m, 31.4m, 25.5m, 19.1m, 30.8m, 31m, 31.1m, 31.1m, 25.2m, 18.9m, 28.6m, 28.8m, 29m, 28.3m, 24.7m, 18.6m, 26m, 26.3m, 26.5m, 26.5m, 23m, 18.4m, 25.3m, 25.6m, 25.8m, 25.9m, 23.6m, 18.2m, 23.7m, 24m, 24.2m, 24.3m, 24.3m, 21.7m, 17.9m, 23m, 23.3m, 23.6m, 23.7m, 22.3m, 17.8m, 19.7m, 20.1m, 20.4m, 20.5m, 19.4m, 16.5m, 19.1m, 19.4m, 19.8m, 19.9m, 19.9m, 16.9m, 18m, 18.4m, 18.7m, 18.9m, 18.5m, 15.6m, 17.4m, 17.8m, 18.1m, 18.3m, 18.4m, 15.9m, 16.5m, 16.9m, 17.2m, 17.4m, 17.5m, 14.9m, 15.9m, 16.3m, 16.6m, 16.8m, 17m, 15.2m, 15.1m, 15.5m, 15.8m, 16m, 16.2m, 14m, 14.5m, 14.9m, 15.3m, 15.4m, 15.6m, 14.3m, 13.8m, 14.2m, 14.6m, 14.8m, 14.9m, 13.3m, 13.2m, 13.6m, 14m, 14.2m, 14.4m, 13.7m, 12.6m, 13m, 13.4m, 13.6m, 13.8m, 12.7m, 12m, 12.4m, 12.8m, 13m, 13.3m, 13m, 11.4m, 11.9m, 12.3m, 12.5m, 12.7m, 12.2m, 10.9m, 11.3m, 11.8m, 12m, 12.2m, 12.3m, 10.4m, 10.9m, 11.3m, 11.5m, 11.7m, 11.6m, 9.9m, 10.3m, 10.8m, 11m, 11.2m, 11.3m, 9m, 9.4m, 9.8m, 10.1m, 10.3m, 10.4m, 8.5m, 9.1m, 9.5m, 9.7m, 10m, 10m, 8.1m, 8.5m, 9m, 8.4m, 8.6m, 8.7m, 7.7m, 8.3m, 8.7m, 8.9m, 9.2m, 9.2m, 7.3m, 7.7m, 8.1m, 8.4m, 8.6m, 8.7m, 7.2m, 7.4m, 7.7m, 7.8m, 7m, 6.5m, 6.7m, 6.9m, 7.2m, 7.3m, 6.2m, 6.7m, 6.9m, 7.2m, 7.3m, 6.1m, 6.5m, 6.8m, 7m, 7.1m, 5.5m, 6m, 6.2m, 6.5m, 6.6m, 5.9m, 6.1m, 6.4m, 6.5m, 4.9m, 5.3m, 5.6m, 5.9m, 6m, 5.5m, 5.9m, 6.1m, 6.4m, 6.5m, 4.7m, 4.9m, 5.2m, 5.3m, 4.2m, 4.4m, 4.7m, 4.8m, 4.4m, 4.7m, 4.8m, 3.9m, 4.2m, 4.3m, 3.4m, 3.7m, 3.8m, 3.2m, 3.3m, 2.9m, 2.8m, 2.5m, 2m, 2.1m, 1.68m."
+What are the jib lengths for this crawler crane?,The jib lengths for this crawler crane are 59m and 62m.
+What is the fixed jib offset angle for this crawler crane?,The fixed jib offset angle for this crawler crane is 10 degrees.
+What are the rear counterweight and carbody counterweight values for this crawler crane?,The rear counterweight for this crawler crane is 112t and the carbody counterweight is 40t.
+"What is the note regarding hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip?","The note states that the weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get actual lifting capacity."
+What is the other note regarding the rated values of the crane?,The other note states that all rated values are calculated when the crane is parking on firm and level ground with the load being lifted slowly and steadily.
+What are the jib lengths available for this crawler crane?,"The jib lengths available for this crawler crane are 13m, 19m, 24.5m, 30.5m, 36m, and 42m."
+What are the radius options available for the 13m jib length?,"The radius options available for the 13m jib length are 13m, 19m, 24.5m, 30.5m, 36m, and 42m."
+What is the first radius option for the 19m jib length?,The first radius option for the 19m jib length is 27.8m.
+What is the corresponding radius option for the 24.5m jib length to the 26.2m radius option for the 19m jib length?,The corresponding radius option for the 24.5m jib length to the 26.2m radius option for the 19m jib length is 26.5m.
+What is the maximum radius available for the 30.5m jib length?,The maximum radius available for the 30.5m jib length is 34m.
+What is the minimum radius available for the 36m jib length?,The minimum radius available for the 36m jib length is 30m.
+What is the last radius option for the 42m jib length?,The last radius option for the 42m jib length is 14m.
+Which jib length has a radius option of 22.3m?,The 22.3m radius option is for the 25.1m jib length.
+What is the corresponding radius option for the 18.4m jib length when the 19.4m radius option is selected for the 19m jib length?,The corresponding radius option for the 18.4m jib length when the 19.4m radius option is selected for the 19m jib length is 17.5m.
+Which jib length has a radius option of 14m?,The 14m radius option is available for both the 13m and 36m jib lengths.
+What is the minimum radius available for the 44m jib length?,The minimum radius available for the 44m jib length is 34m.
+Which jib length has a fixed jib offset angle of 30 degrees?,The name of the crawler crane is SCC3000ACrawler Crane - FJ and it has a fixed jib offset angle of 30 degrees for the boom.
+What is the first jib measurement provided in the text?,The first jib measurement provided in the text is 13 meters.
+What is the first radius measurement provided in the text?,The first radius measurement provided in the text is 28.4 meters.
+What is the rated capacity of the SCC3000A crawler crane when the boom is at 35 meters and the jib is at 13 meters?,The text does not provide the rated capacity for these specific measurements.
+What is the fixed jib offset angle for the SCC3000A crawler crane?,The fixed jib offset angle for the SCC3000A crawler crane is 30°.
+What is the unit of measurement for the counterweight?,The unit of measurement for the counterweight is in tons (t).
+What is the rear counterweight of the SCC3000A crawler crane?,The rear counterweight of the SCC3000A crawler crane is 112 tons.
+What is the carbody counterweight of the SCC3000A crawler crane?,The carbody counterweight of the SCC3000A crawler crane is 40 tons.
+"What is the weight of hook blocks, lifting devices, and wire ropes that should be deducted from the rated values of the SCC3000A crawler crane?","The weight of hook blocks, lifting devices, and wire ropes that should be deducted from the rated values of the SCC3000A crawler crane is not provided in the text."
+What are the rated values calculated for in the SCC3000A crawler crane?,"The rated values are calculated when the crane is parked on firm and level ground with the load being lifted slowly and steadily, as mentioned in the text."
+What is the boom length limit of the SCC3000A crawler crane as mentioned in the text?,The boom length limits mentioned in the text are 35 meters and 38 meters.
+What is the smallest radius measurement provided in the text?,The smallest radius measurement provided in the text is 5.1 meters.
+What is the largest jib measurement provided in the text?,The largest jib measurement provided in the text is 42 meters.
+What is the largest radius measurement provided in the text?,The largest radius measurement provided in the text is 38 meters.
+How many combinations of boom and jib measurements are provided in the text?,There are 25 combinations of boom and jib measurements provided in the text.
+What is the second jib measurement provided in the text?,The second jib measurement provided in the text is 19 meters.
+What is the second radius measurement provided in the text?,The second radius measurement provided in the text is 28.1 meters.
+What is the last boom measurement provided in the text?,The last boom measurement provided in the text is 10 meters.
+What is the last jib measurement provided in the text?,The last jib measurement provided in the text is also 10 meters.
+What is the relationship between the measurements provided in the text and the actual lifting capacity of the SCC3000A crawler crane?,"The measurements provided in the text are the rated values, and the actual lifting capacity should be calculated by deducting the weight of hook blocks, lifting devices, and wire ropes from these rated values."
+What are the jib lengths available for the FJ crane in meters?,"The jib lengths available for the FJ crane are 13m, 19m, 24.5m, 30.5m, 36m, and 42m."
+What is the radius for a 13m jib length?,The radius for a 13m jib length is 26.9m.
+What is the radius for a 19m jib length?,The radius for a 19m jib length is 27.2m.
+What is the boom length for a 20.1m radius?,The boom length for a 20.1m radius is 24.6m.
+What is the radius for a 24.9m jib length?,The radius for a 24.9m jib length is 20.1m.
+What is the minimum radius for the FJ crane?,The minimum radius for the FJ crane is 10.1m.
+What is the radius for a 42m jib length?,The radius for a 42m jib length is 12.4m.
+What is the maximum jib length for the FJ crane?,The maximum jib length for the FJ crane is 42m.
+What is the radius for a 15.7m jib length?,The radius for a 15.7m jib length is 19.8m.
+What is the minimum jib length for the FJ crane?,The minimum jib length for the FJ crane is 13m.
+What is the boom length for a 14.4m radius?,The boom length for a 14.4m radius is 20.8m.
+What is the radius for a 30.5m jib length?,The radius for a 30.5m jib length is 19.2m.
+What is the counterweight for the FJ crane?,The counterweight for the FJ crane is 112t for the rear and 40t for the carbody.
+What is the fixed jib offset angle for the FJ crane?,The fixed jib offset angle for the FJ crane is 30°.
+What is the rated value calculated for the FJ crane?,"The rated value for the FJ crane is calculated when the crane is parked on firm and level ground with the load being lifted slowly and steadily. The weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get actual lifting capacity."
+What is the radius range for this crane?,The radius for this crane ranges from 2.0m to 42.0m.
+What are the jib lengths available for this crane?,"The jib lengths available for this crane are 13m, 19m, 24.5m, 30.5m, 36m, and 42m."
+What is the maximum lifting capacity of this crane at a radius of 2.0m with a jib length of 13m?,The maximum lifting capacity of this crane at a radius of 2.0m with a jib length of 13m is 82.0t.
+What is the lifting capacity of this crane at a radius of 20m with a jib length of 30.5m?,The lifting capacity of this crane at a radius of 20m with a jib length of 30.5m is 20.8t.
+What is the lifting capacity of this crane at a radius of 42m with a jib length of 42m?,The lifting capacity of this crane at a radius of 42m with a jib length of 42m is 14.0t.
+What is the fixed jib offset angle for this crane?,The fixed jib offset angle for this crane is 30°.
+What is the rear counterweight of this crane?,The rear counterweight of this crane is 112t.
+What is the carbody counterweight of this crane?,The carbody counterweight of this crane is 40t.
+What is the model of this crane?,The model of this crane is SCC3000A Crawler Crane - FJ (with aux. hook only).
+What should be done before getting the actual lifting capacity of the crane?,"Before getting the actual lifting capacity of the crane, the weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values."
+What is the radius (m) for a Jib (m) of 13 with a Boom (m) of 53?,28.3
+What is the radius (m) for a Jib (m) of 19 with a Boom (m) of 53?,28.5
+What is the radius (m) for a Jib (m) of 24.5 with a Boom (m) of 56?,27.2
+What is the radius (m) for a Jib (m) of 30.5 with a Boom (m) of 56?,27.4
+What is the radius (m) for a Jib (m) of 36 with a Boom (m) of 56?,26.2
+What is the radius (m) for a Jib (m) of 42 with a Boom (m) of 56?,21
+What is the Boom (m) for a radius (m) of 24.4 and a Jib (m) of 21?,16.9
+What is the Boom (m) for a radius (m) of 23.6 and a Jib (m) of 18.8?,16.3
+What is the Boom (m) for a radius (m) of 22.2 and a Jib (m) of 17.6?,15.2
+What is the Boom (m) for a radius (m) of 21.6 and a Jib (m) of 17.1?,14.7
+What is the Boom (m) for a radius (m) of 21 and a Jib (m) of 16.6?,13.5
+What is the Jib (m) for a radius (m) of 16.4 and a Boom (m) of 14.6?,12.4
+What is the Jib (m) for a radius (m) of 15 and a Boom (m) of 14.3?,12.2
+What is the maximum Jib (m) for a Boom (m) of 56?,42
+What is the radius (m) for a Jib (m) of 38 with a Boom (m) of 56?,28
+What is the weight of the rear counterweight in the crawler crane?,112 t
+What is the fixed jib offset angle for the crawler crane?,30°
+What is the unit of rated values in the crawler crane?,t (Tonnes)
+What should be deducted from the rated values to get the actual lifting capacity?,"The weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip."
+What is the condition for calculating all rated values for the crawler crane?,When the crane is parking on firm and level ground with the load being lifted slowly and steadily.
+What is the first jib length for the crane?,The first jib length for the crane is 13 meters.
+What is the corresponding radius for the first jib length?,The corresponding radius for the first jib length of 13 meters is 27.6 meters.
+What is the maximum jib length for the crane?,The maximum jib length for the crane is 42 meters.
+What is the corresponding radius for the maximum jib length?,The corresponding radius for the maximum jib length of 42 meters is 11.8 meters.
+What is the fixed jib offset angle for the crane?,The fixed jib offset angle for the crane is 30 degrees.
+What is the unit of measurement for the boom length and radius?,The unit of measurement for the boom length and radius is meters (m).
+What is the weight of the rear counterweight for the crane?,The weight of the rear counterweight for the crane is 112 tons.
+What is the weight of the carbody counterweight for the crane?,The weight of the carbody counterweight for the crane is 40 tons.
+What should be deducted from the rated values to get the actual lifting capacity of the crane?,"The weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get the actual lifting capacity of the crane."
+When are all the rated values of the crane calculated?,All the rated values of the crane are calculated when the crane is parked on firm and level ground with the load being lifted slowly and steadily.
+What is the radius of the jib when the jib length is 13 meters?,The radius of the jib when the jib length is 13 meters is 81 meters.
+What is the boom length when the boom length is 29 meters?,The boom length when the boom length is 29 meters is 50 tons.
+What is the rear counterweight of the crane?,The rear counterweight of the crane is 112 tons.
+What is the carbody counterweight of the crane?,The carbody counterweight of the crane is 40 tons.
+What is the fixed jib offset angle of the crane?,The fixed jib offset angle of the crane is 10 degrees.
+What is the unit for the rated values of the crane?,The unit for the rated values of the crane is tons.
+What is the radius of the jib when the jib length is 19 meters?,The radius of the jib when the jib length is 19 meters is 81.3 meters.
+What is the radius of the jib when the jib length is 24.5 meters?,The radius of the jib when the jib length is 24.5 meters is 81.1 meters.
+What is the boom length when the boom length is 32 meters?,The boom length when the boom length is 32 meters is 60 tons.
+"What is the rear counterweight, carbody counterweight, and fixed jib offset angle of the SCC3000A Crawler Crane - FJ?","The rear counterweight of the SCC3000A Crawler Crane - FJ is 112 tons, carbody counterweight is 40 tons, and the fixed jib offset angle is 10 degrees."
+What are the jib radius options for the SCC3000A Crawler Crane?,"The jib radius options for the SCC3000A Crawler Crane are 13m, 19m, 24.5m, 30.5m, 36m, and 42m."
+What are the boom radius options for the SCC3000A Crawler Crane?,The boom radius options for the SCC3000A Crawler Crane are 14m and 14m.
+What is the rated value for the jib radius of 13m and the boom radius of 14m?,The rated value is 81.3t.
+What is the rated value for the jib radius of 19m and the boom radius of 14m?,The rated value is 81.6t.
+What is the rated value for the jib radius of 24.5m and the boom radius of 14m?,The rated value is 79.1t.
+What is the rated value for the jib radius of 30.5m and the boom radius of 14m?,The rated value is 67.7t.
+What is the rated value for the jib radius of 36m and the boom radius of 14m?,The rated value is 78.2t.
+What is the rated value for the jib radius of 42m and the boom radius of 14m?,The rated value is 64.9t.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the fixed jib offset angle of the SCC3000A Crawler Crane?,The fixed jib offset angle of the SCC3000A Crawler Crane is 10°.
+How many hooks does the SCC3000A Crawler Crane have?,The SCC3000A Crawler Crane has double hooks.
+What is the reeving on the hooks and boom tip of the SCC3000A Crawler Crane?,The reeving on the hooks and boom tip of the SCC3000A Crawler Crane is wire ropes.
+"What is the weight of hook blocks, lifting devices and wire ropes of the SCC3000A Crawler Crane?","The weight of hook blocks, lifting devices and wire ropes of the SCC3000A Crawler Crane shall be deducted from the rated values to get actual lifting capacity."
+When are the rated values for the SCC3000A Crawler Crane calculated?,The rated values for the SCC3000A Crawler Crane are calculated when the crane is parking on firm and level ground with the load being lifted slowly and steadily.
+What unit are the rated values for the SCC3000A Crawler Crane in?,The rated values for the SCC3000A Crawler Crane are in tones (t).
+What are the lift capacity of the SCC3000A Crawler Crane for 12m jib radius and 14m boom radius?,The lift capacity of the SCC3000A Crawler Crane for 12m jib radius and 14m boom radius is 12t.
+What are the weight of the rear counterweight and carbody counterweight of the SCC3000A Crawler Crane?,"The weight of the rear counterweight of the SCC3000A Crawler Crane is 112t, and the carbody counterweight of the SCC3000A Crawler Crane is 40t."
+What is the fixed jib offset angle of the SCC3000A Crawler Crane?,The fixed jib offset angle of the SCC3000A Crawler Crane is 10 degrees.
+"What are the radii (m) for the Jib (m) 13, 19, 24.5, 30.5, 36, 42?","79.9, 66.1, 81.7, 71.9, 59.1, 52.2, 74, 60.3, 52.9"
+"What are the radii (m) for the Jib (m) 13, 19, 24.5, 30.5, 36, 42, for the second set of values?","65.6, 53.8, 46.8, 36.2, 64.9, 54.7, 47.7, 37.3"
+"What are the radii (m) for the Jib (m) 24.5, 30.5, 36, 42 for the third set of values?","57.3, 49.4, 42.8, 35.1"
+What is the first boom length (m) for the 112t rear counterweight and 40t carbody counterweight with a fixed jib offset angle of 10°?,41 (m)
+What is the second boom length (m) for the same configuration as the previous question?,44 (m)
+What are the radius options for the Jib (m) of the crawler crane?,"The radius options for the Jib (m) of the crawler crane are 13, 19, 24.5, 30.5, 36, 42."
+What are the radius options for the Boom (m) of the crawler crane?,The radius options for the Boom (m) of the crawler crane are 47 and 50.
+What is the rear counterweight of the crawler crane?,The rear counterweight of the crawler crane is 112 t.
+What is the carbody counterweight of the crawler crane?,The carbody counterweight of the crawler crane is 40 t.
+What is the fixed jib offset angle of the crawler crane?,The fixed jib offset angle of the crawler crane is 10°.
+What is the unit of the boom and jib options in the text?,The units of the boom and jib options in the text are in meters (m).
+"What are the rated values that are calculated for the crane, according to note 2?","The rated values are calculated when the crane is parked on firm and level ground, with the load being lifted slowly and steadily."
+What is the radius (m) for the first jib (m) measurement?,The radius for the first jib (m) measurement is 13.
+What is the radius (m) for the second jib (m) measurement?,The radius for the second jib (m) measurement is 19.
+What is the radius (m) for the third jib (m) measurement?,The radius for the third jib (m) measurement is 24.5.
+What is the radius (m) for the fourth jib (m) measurement?,The radius for the fourth jib (m) measurement is 30.5.
+What is the radius (m) for the fifth jib (m) measurement?,The radius for the fifth jib (m) measurement is 36.
+What is the radius (m) for the sixth jib (m) measurement?,The radius for the sixth jib (m) measurement is 42.
+What is the jib (m) length for the radius (m) measurement of 73.9?,The jib (m) length for the radius (m) measurement of 73.9 is 56.
+What is the jib (m) length for the radius (m) measurement of 71.3?,The jib (m) length for the radius (m) measurement of 71.3 is 53.
+What is the jib (m) length for the radius (m) measurement of 69.8?,The jib (m) length for the radius (m) measurement of 69.8 is 56.
+What is the jib (m) length for the radius (m) measurement of 61.5?,The jib (m) length for the radius (m) measurement of 61.5 is 53.
+What is the jib (m) length for the radius (m) measurement of 59.7?,The jib (m) length for the radius (m) measurement of 59.7 is 56.
+What is the jib (m) length for the radius (m) measurement of 48.5?,The jib (m) length for the radius (m) measurement of 48.5 is 53.
+What is the jib (m) length for the radius (m) measurement of 59?,The jib (m) length for the radius (m) measurement of 59 is 56.
+What are the jib radii (m) available for the SCC3000A Crawler Crane?,"The jib radii available are: 13, 19, 24.5, 30.5, 36, 42."
+What are the boom lengths (m) available for the SCC3000A Crawler Crane?,The boom lengths available are: 59 and 62.
+What is the fixed jib offset angle for the SCC3000A Crawler Crane?,The fixed jib offset angle is 10°.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight is 40t.
+"What are the rated values for the SCC3000A Crawler Crane when using the auxiliary hook and double hooks, and the jib radius is 13m?",The rated values are not provided in the text for a specific jib radius and hook configuration.
+What are the conditions for which the rated values for the SCC3000A Crawler Crane are calculated?,The rated values are calculated when the crane is parked on firm and level ground with the load being lifted slowly and steadily.
+What should be deducted from the rated values of the SCC3000A Crawler Crane to get the actual lifting capacity?,"The weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get the actual lifting capacity."
+How many hook options are available for the SCC3000A Crawler Crane?,"Two hook options are available for the SCC3000A Crawler Crane: single and double hooks. Additionally, an auxiliary hook is also available."
+What is the radius (m) for the first jib (m) size listed?,"The first jib (m) size listed is 13, and the corresponding radius (m) is 23.3."
+What is the radius (m) for a jib (m) size of 19?,There are two radius (m) values listed for a jib (m) size of 19: 23.6 and 19.4.
+What is the radius (m) for the third jib (m) size listed?,"The third jib (m) size listed is 24.5, and the corresponding radius (m) is 20.2."
+What is the jib (m) size that has a radius (m) of 15.2?,There are two jib (m) sizes that have a radius (m) of 15.2: 15.2 and 11.5.
+What is the jib (m) size that corresponds to the smallest radius (m) of 1.2?,The jib (m) size that corresponds to the smallest radius (m) of 1.2 is 14.
+What is the largest jib (m) size listed?,The largest jib (m) size listed is 42.
+What is the smallest radius (m) listed for any jib (m) size?,"The smallest radius (m) listed is 0.8, which corresponds to a jib (m) size of 1."
+How many different jib (m) sizes are listed in total?,"There are 12 different jib (m) sizes listed in total, ranging from 13 to 42."
+What is the largest radius (m) listed for any jib (m) size?,"The largest radius (m) listed is 30.5, which corresponds to a jib (m) size of 30.5."
+What is the radius (m) for a jib (m) size of 36?,There are two radius (m) values listed for a jib (m) size of 36: 20.6 and 14.2.
+What is the radius (m) of the jib for the first data point in the first table?,13 m
+What is the length of the boom (m) for the second data point in the second table?,38 m
+What is the rear counterweight (t) of the SCC3000A Crawler Crane?,112 t
+What is the carbody counterweight (t) of the SCC3000A Crawler Crane?,40 t
+What is the fixed jib offset angle of the SCC3000A Crawler Crane?,30°
+What is the lifting capacity (t) at a radius (m) of 22.4 for the jib?,72 t
+What is the length of the boom (m) for the data point with a rated value of 58 t in the first table?,56 m
+What is the radius (m) of the jib for the last data point in the first table?,1 m
+What is the lifting capacity (t) at a radius (m) of 14.3 for the auxiliary hook?,5 t
+What is the minimum radius (m) for which the lifting capacity (t) is provided for the jib in the first table?,1 m
+What is the maximum radius (m) for which the lifting capacity (t) is provided for the jib in the first table?,42 m
+What is the minimum radius (m) for which the lifting capacity (t) is provided for the auxiliary hook in the first table?,1 m
+What is the maximum radius (m) for which the lifting capacity (t) is provided for the auxiliary hook in the first table?,14.4 m
+What is the total counterweight (t) of the SCC3000A Crawler Crane?,112 t (rear) + 40 t (carbody) = 152 t
+At what radius (m) is the lifting capacity (t) of the auxiliary hook equal to that of the jib for the SCC3000A Crawler Crane?,"At a radius (m) of 14.4 for both hook, the lifting capacity (t) is equal which is 5 t."
+What is the radius of the jib when the boom is 13 meters and 19 meters?,"The radius of the jib is 19 meters when the boom is 13 meters, and 24.5 meters when the boom is 19 meters."
+What is the boom length when the radius of the jib is 22.4 meters and 22.7 meters?,"The boom length is 41 meters when the radius of the jib is 22.4 meters, and 44 meters when the radius of the jib is 22.7 meters."
+What is the weight of the rear counterweight?,The weight of the rear counterweight is 112 tons.
+What is the weight of the carbody counterweight?,The weight of the carbody counterweight is 40 tons.
+What is the fixed jib offset angle?,The fixed jib offset angle is 30°.
+What is the crane model?,The crane model is SCC3000A Crawler Crane - FJ.
+How many hooks does this crane have?,This crane has double hooks.
+Is auxiliary hook used in this crane?,"Yes, auxiliary hook is used in this crane."
+"What should be done with the weight of hook blocks, lifting devices, and wire ropes when calculating the actual lifting capacity?","The weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get actual lifting capacity."
+Under what conditions are all rated values calculated?,All rated values are calculated when the crane is parking on firm and level ground with the load being lifted slowly and steadily.
+What is the radius (m) of the first jib (m) for the SCC3000A Crawler Crane?,The radius (m) of the first jib (m) for the SCC3000A Crawler Crane is 13.
+What is the radius (m) of the last jib (m) for the SCC3000A Crawler Crane?,The radius (m) of the last jib (m) for the SCC3000A Crawler Crane is 42.
+How many jib (m) options are available for the SCC3000A Crawler Crane?,There are 13 jib (m) options available for the SCC3000A Crawler Crane.
+What is the boom length (m) of the first boom (m) option for the SCC3000A Crawler Crane?,The boom length (m) of the first boom (m) option for the SCC3000A Crawler Crane is 47.
+What is the boom length (m) of the last boom (m) option for the SCC3000A Crawler Crane?,The boom length (m) of the last boom (m) option for the SCC3000A Crawler Crane is 50.
+How many boom (m) options are available for the SCC3000A Crawler Crane?,There are 2 boom (m) options available for the SCC3000A Crawler Crane.
+What is the fixed jib offset angle of the SCC3000A Crawler Crane?,The fixed jib offset angle of the SCC3000A Crawler Crane is 30°.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+"What should be deducted from the rated values of the hook blocks, lifting devices, and wire ropes in order to get the actual lifting capacity of the SCC3000A Crawler Crane?","The weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get the actual lifting capacity of the SCC3000A Crawler Crane."
+At what condition are all the rated values of the SCC3000A Crawler Crane calculated?,All the rated values of the SCC3000A Crawler Crane are calculated when the crane is parked on firm and level ground with the load being lifted slowly and steadily.
+What is the radius (m) of the jib for the first row of values in the table?,"The radius (m) of the jib for the first row of values in the table is 13, 19, 24.5, 30.5, 36, 42."
+What is the corresponding jib radius (m) for the second row of values in the table?,"The corresponding jib radius (m) for the second row of values in the table is 13, 19, 24.5, 30.5, 36, 42."
+What is the jib radius (m) for the first value in the third row of the table?,The jib radius (m) for the first value in the third row of the table is 23.8.
+What is the corresponding boom length (m) for the first value in the third row of the table?,The corresponding boom length (m) for the first value in the third row of the table is 53.
+What is the rear counterweight for the SCC3000A Crawler Crane (t)?,The rear counterweight for the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight for the SCC3000A Crawler Crane (t)?,The carbody counterweight for the SCC3000A Crawler Crane is 40t.
+What is the fixed jib offset angle for the SCC3000A Crawler Crane?,The fixed jib offset angle for the SCC3000A Crawler Crane is 30 degrees.
+What should be deducted from the rated values of the crane's lifting capacity?,"The weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get the actual lifting capacity."
+When are the rated values calculated for the crane's lifting capacity?,The rated values are calculated when the crane is parked on firm and level ground with the load being lifted slowly and steadily.
+What is the smallest jib radius (m) listed in the table?,The smallest jib radius (m) listed in the table is 1.1.
+What is the largest jib radius (m) listed in the table?,The largest jib radius (m) listed in the table is 42.
+What is the smallest boom length (m) listed for the table?,The smallest boom length (m) listed for the table is 12.
+What is the largest boom length (m) listed for the table?,The largest boom length (m) listed for the table is 62.
+What is the first value of the auxiliary hook listed in the table?,The first value of the auxiliary hook listed in the table is 82.
+What is the corresponding jib radius (m) for the first auxiliary hook value listed in the table?,The corresponding jib radius (m) for the first auxiliary hook value listed in the table is 13.
+What is the radius of the jib when the boom length is 59m?,"The radius of the jib for a boom length of 59m can be found in the first row of the first table, and it is 13m."
+What is the maximum boom length for this crawler crane?,The maximum boom length for this crawler crane is 62m.
+What is the radius of the jib when the boom length is 62m?,"The radius of the jib for a boom length of 62m can be found in the first row of the second table, and it is 23.1m."
+What is the counterweight of the rear and carbody when using the auxiliary hook?,"The counterweight of the rear is 112t, and the carbody counterweight is 40t when using the auxiliary hook."
+What is the fixed jib offset angle for this crawler crane?,The fixed jib offset angle for this crawler crane is 30°.
+What is the note regarding the rated values of lifting capacity for this crawler crane?,"The first note states that the weight of hook blocks, lifting devices, and wire ropes must be deducted from the rated values to get the actual lifting capacity. The second note states that all rated values are calculated when the crane is parked on firm and level ground with the load being lifted slowly and steadily."
+What is the minimum radius of the jib for any boom length?,"The minimum radius of the jib is 1.1m, which can be found in the last row of the second table."
+What is the maximum jib radius for any boom length?,"The maximum jib radius is 30.5m, which can be found in the fourth row of the first table."
+Which boom length has a jib radius of 17.7m?,A jib radius of 17.7m can be found for a boom length of 54m in the second table.
+Which jib radius can be found for a boom length of 60m and the auxiliary hook?,A jib radius of 22.3m can be found for a boom length of 60m and the auxiliary hook in the seventh row of the first table.
+What are the listed radii (m) for the jib in the first table?,"The radii (m) for the jib in the first table are: 13, 19, 24.5, 30.5, 36, 42."
+What are the corresponding jib radii (m) for the second table?,"The corresponding jib radii (m) for the second table are: 221, 219, 217, 216, 214, 212, 209, 207, 205, 204, 202, 200, 204, 202, 200, 199, 197, 195, 201, 199, 197, 196, 194, 192, 180, 178, 176, 175, 173, 171, 177, 175, 173, 172, 170, 168, 160, 158, 156, 155, 153, 151, 157, 155, 153, 152, 150, 148, 144, 142, 140, 139, 137, 135, 141, 139, 137, 136, 134, 132, 130, 128, 126, 125, 123, 121, 127, 125, 123, 122, 120, 118, 119, 117, 115, 114, 112, 110, 116, 114, 112, 111, 109, 107, 98, 96, 94, 93, 91, 89, 95, 93, 91, 90, 88, 86, 79.6, 77.6, 75.6, 74.6, 72.6, 70.6, 76.7, 74.7, 72.7, 71.7, 69.7, 67.7, 65.8, 63.8, 61.8, 60.8, 58.8, 56.8, 55.9, 53.9, 55.3, 53.3, 51.3, 50.3, 48.3, 46.3, 47, 45, 43, 42, 40, 38, 44.1, 42.1, 40.1, 39.1, 37.1, 35.1, 40.3, 38.3, 36.3, 35.3, 33.3, 31.3, 37.4, 35.4, 33.4, 32.4, 30.4, 28.4, 34.8, 32.8, 30.8, 29.8, 27.8, 25.8, 31.9, 29.9, 27.9, 26.9, 24.9, 22.9."
+"What is the weight of the hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip for the SCC3000A Crawler Crane?","The weight of the hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip for the SCC3000A Crawler Crane is not provided in the given text."
+What are the different boom lengths (m) for the SCC3000A Crawler Crane?,"The different boom lengths (m) for the SCC3000A Crawler Crane are: 29, 32, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60."
+What is the rear counterweight (t) for the SCC3000A Crawler Crane?,The rear counterweight (t) for the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight (t) for the SCC3000A Crawler Crane?,The carbody counterweight (t) for the SCC3000A Crawler Crane is 40t.
+What are the jib radius options for the SCC3000A Crawler Crane?,"The jib radius options for the SCC3000A Crawler Crane are 13m, 19m, 24.5m, 30.5m, 36m, and 42m."
+What are the corresponding boom radius options for the jib radius of 13m?,"The corresponding boom radius options for the jib radius of 13m are 194m, 192m, 190m, 189m, 187m, and 185m."
+What are the corresponding boom radius options for the jib radius of 19m?,"The corresponding boom radius options for the jib radius of 19m are 184m, 182m, 180m, 179m, 177m, and 175m."
+What are the corresponding boom radius options for the jib radius of 24.5m?,"The corresponding boom radius options for the jib radius of 24.5m are 177m, 175m, 173m, 172m, 170m, and 168m."
+What are the corresponding boom radius options for the jib radius of 30.5m?,"The corresponding boom radius options for the jib radius of 30.5m are 176m, 174m, 172m, 171m, 169m, and 167m."
+What are the corresponding boom radius options for the jib radius of 36m?,"The corresponding boom radius options for the jib radius of 36m are 158m, 156m, 154m, 153m, 151m, and 149m."
+What are the corresponding boom radius options for the jib radius of 42m?,"The corresponding boom radius options for the jib radius of 42m are 142m, 140m, 138m, 137m, 135m, and 133m."
+What is the maximum rated capacity of the SCC3000A Crawler Crane when using the main hook and the jib radius is at 42m?,The maximum rated capacity of the SCC3000A Crawler Crane when using the main hook and the jib radius is at 42m is 36t.
+"What is the weight of the hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip that should be deducted from the rated values to get the actual lifting capacity?","The weight of the hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get the actual lifting capacity."
+At what ground condition are the rated values calculated for the SCC3000A Crawler Crane?,The rated values are calculated for the SCC3000A Crawler Crane when the crane is parked on firm and level ground with the load being lifted slowly and steadily.
+What are the listed radii for the jib in meters?,"The listed radii for the jib are 13m, 19m, 24.5m, 30.5m, 36m, 42m, 13m, 19m, 24.5m, 30.5m, 36m, 42m, 175m, 173m, 171m, 170m, 168m, 166m, 166m, 164m, 162m, 161m, 159m, 157m, 171m, 169m, 167m, 166m, 164m, 162m, 162m, 160m, 158m, 157m, 155m, 153m, 156m, 154m, 152m, 151m, 149m, 147m, 154m, 152m, 150m, 149m, 147m, 145m, 140m, 138m, 136m, 135m, 133m, 131m, 139m, 137m, 135m, 134m, 132m, 130m, 127m, 125m, 123m, 122m, 120m, 118m, 126m, 124m, 122m, 121m, 119m, 117m, 116m, 114m, 112m, 111m, 109m, 107m, 115m, 113m, 111m, 110m, 108m, 106m, 96m, 94m, 92m, 91m, 89m, 87m, 94m, 92m, 90m, 89m, 87m, 85m, 79.7m, 77.7m, 75.7m, 74.7m, 72.7m, 70.7m, 79.4m, 77.4m, 75.4m, 74.4m, 72.4m, 70.4m, 65.9m, 63.9m, 61.9m, 60.9m, 58.9m, 56.9m, 65.7m, 63.7m, 61.7m, 60.7m, 58.7m, 56.7m, 55.4m, 53.4m, 51.4m, 50.4m, 48.4m, 46.4m, 55.2m, 53.2m, 51.2m, 50.2m, 48.2m, 46.2m, 47.1m, 45.1m, 43.1m, 42.1m, 40.1m, 38.1m, 46.9m, 44.9m, 42.9m, 41.9m, 39.9m, 37.9m, 40.4m, 38.4m, 36.4m, 35.4m, 33.4m, 31.4m, 40.2m, 38.2m, 36.2m, 35.2m, 33.2m, 31.2m, 34.9m, 32.9m, 30.9m, 29.9m, 27.9m, 25.9m, 34.7m, 32.7m, 30.7m, 29.7m, 27.7m, 25.7m, 30.3m, 28.3m, 26.3m, 25.3m, 23.3m, 21.3m, 30.1m, 28.1m, 26.1m, 25.1m, 23.1m, 21.1m, 26.4m, 24.4m, 22.4m, 21.4m, 19.4m, 17.4m, 26.2m, 24.2m, 22.2m, 21.2m, 19.2m, 17.2m, 23m, 21m, 19m, 18m, 16m, 14m, 22.8m, 20.8m, 18.8m, 17.8m, 15.8m, 13.8m, 20m, 18m, 16m, 15m, 13m, 11m, 19.8m, 17.8m, 15.8m, 14.8m, 12.8m, 10.8m, 17.4m, 15.4m, 13.4m, 12.4m, 10.4m, 8.4m, 12.8m, 10.8m, 8.8m, 7.8m, 5.8m, 3.8m."
+What is the booms' length (m) for the crawler crane?,"The booms' length for the crawler crane are 29m, 41m, 44m, 46m, 48m, 50m, 52m, 54m, 56m, 58m, 60m."
+What is the rear counterweight (t) for the crawler crane?,The rear counterweight for the crawler crane is 112t.
+What is the carbody counterweight (t) for the crawler crane?,The carbody counterweight for the crawler crane is 40t.
+"What is mentioned in the note 1 about the weight of hook blocks, lifting devices and wire ropes?","Note 1 mentions that the weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get actual lifting capacity."
+What are the listed radii (m) for the jib in the first set of numbers?,"The radii (m) for the jib in the first set of numbers are: 13, 19, 24.5, 30.5, 36, 42, 13, 19, 24.5, 30.5, 36, 42."
+What are the corresponding jib (m) values for the first set of radii (m)?,"The corresponding jib (m) values for the first set of radii (m) are: 154, 152, 150, 149, 147, 145, 146, 144, 142, 141, 139, 137."
+What are the listed radii (m) for the jib in the second set of numbers?,"The radii (m) for the jib in the second set of numbers are: 150, 148, 146, 145, 143, 141, 142, 140, 138, 137, 135, 133, 138, 136, 134, 133, 131, 129, 137, 135, 133, 132, 130, 128, 125, 123, 121, 120, 118, 116, 124, 122, 120, 119, 117, 115, 113, 111, 109, 108, 106, 104, 111, 109, 107, 106, 104, 102, 93, 91, 89, 88, 86, 84, 91, 89, 87, 86, 84, 82, 78, 76, 74, 73, 71, 69, 76.6, 74.6, 72.6, 71.6, 69.6, 67.6, 65.6, 63.6, 61.6, 60.6, 58.6, 56.6, 65.2, 63.2, 61.2, 60.2, 58.2, 56.2, 55, 53, 51, 50, 48, 46, 54.8, 52.8, 50.8, 49.8, 47.8, 45.8, 46.8, 44.8, 42.8, 41.8, 39.8, 37.8, 46.5, 44.5, 42.5, 41.5, 39.5, 37.5, 40.1, 38.1, 36.1, 35.1, 33.1, 31.1, 39.8, 37.8, 35.8, 34.8, 32.8, 30.8, 34.6, 32.6, 30.6, 29.6, 27.6, 25.6, 34.3, 32.3, 30.3, 29.3, 27.3, 25.3, 30, 28, 26, 25, 23, 21, 29.7, 27.7, 25.7, 24.7, 22.7, 20.7, 26, 24, 22, 21, 19, 17, 25.8, 23.8, 21.8, 20.8, 18.8, 16.8, 22.4, 20.4, 18.4, 17.4, 15.4, 13.4, 19.7, 17.7, 15.7, 14.7, 12.7, 10.7, 19.4, 17.4, 15.4, 14.4, 12.4, 10.4, 17.1, 15.1, 13.1, 12.1, 10.1, 8.1, 16.8, 14.8, 12.8, 11.8, 9.8, 7.8, 14.8, 12.8, 10.8, 9.8, 7.8, 5.8, 14.5, 12.5, 10.5, 9.5, 7.5, 5.5, 12.7, 10.7, 8.7, 7.7, 5.7, 3.7, 12.5, 10.5, 8.5, 7.5, 5.5, 3.5, 10.9, 8.9, 6.9, 5.9, 3.9, 1.9."
+What are the corresponding jib (m) values for the second set of radii (m)?,The corresponding jib (m) values for the second set of radii (m) are not listed.
+What is the boom length range for the SCC3000A Crawler Crane?,The boom length range for the SCC3000A Crawler Crane is 29-62m.
+What is the rear counterweight for the SCC3000A Crawler Crane?,The rear counterweight for the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight for the SCC3000A Crawler Crane?,The carbody counterweight for the SCC3000A Crawler Crane is 40t.
+What are the listed boom (m) values for the SCC3000A Crawler Crane?,The listed boom (m) values for the SCC3000A Crawler Crane are: 47 and 50.
+What are the units for the listed weights for the SCC3000A Crawler Crane?,The units for the listed weights for the SCC3000A Crawler Crane are t (tonnes).
+What is the radius of the jib when the main hook of the SCC3000A Crawler Crane is at 13 meters?,The radius of the jib at 13 meters is 138 meters.
+What is the boom length when the radius of the jib is 19 meters?,The boom length when the radius of the jib is 19 meters is 53 meters.
+What is the radius of the jib when the boom length is 24.5 meters?,The radius of the jib at 24.5 meters is 126 meters.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length is 62 meters.
+What is the minimum radius of the jib when the boom length is 30.5 meters?,The minimum radius of the jib at 30.5 meters is 125 meters.
+What is the maximum radius of the jib with the main hook of the SCC3000A Crawler Crane?,The maximum radius of the jib is 19 meters.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112 tons.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40 tons.
+"What is the weight of the hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip that should be deducted from the rated values to get the actual lifting capacity?","The weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get the actual lifting capacity."
+When are all rated values calculated?,All rated values are calculated when the crane is parked on firm and level ground with the load being lifted slowly and steadily.
+What are the listed jib radii for the crane?,"The jib radii listed for the crane are 13 m, 19 m, 24.5 m, 30.5 m, 36 m, and 42 m."
+What are the corresponding jib radius values for the first set of boom lengths?,"The corresponding jib radius values for the first set of boom lengths are 114 m, 112 m, 110 m, 109 m, 107 m, and 105 m."
+What are the corresponding jib radius values for the second set of boom lengths?,"The corresponding jib radius values for the second set of boom lengths are 118 m, 116 m, 114 m, 113 m, 111 m, and 109 m."
+What are the corresponding jib radius values for the third set of boom lengths?,"The corresponding jib radius values for the third set of boom lengths are 116 m, 114 m, 112 m, 111 m, 109 m, and 107 m."
+What are the corresponding jib radius values for the fourth set of boom lengths?,"The corresponding jib radius values for the fourth set of boom lengths are 105 m, 103 m, 101 m, 100 m, 98 m, and 96 m."
+What is the shortest jib radius?,The shortest jib radius is 86.7 m.
+What is the longest jib radius?,The longest jib radius is 39.4 m.
+What are the maximum and minimum boom lengths for the crane?,The maximum boom length is 62 m and the minimum boom length is 29 m.
+What is the rear counterweight of the crane?,The rear counterweight of the crane is 112 t.
+What is the carbody counterweight of the crane?,The carbody counterweight of the crane is 40 t.
+What is the unit of measurement for the rated values in the table?,The unit of measurement for the rated values in the table is t.
+What does the first note in the table mean?,"The first note means that the weight of hook blocks, lifting devices, and wire ropes reeving on the hooks and boom tip should be deducted from the rated values to get actual lifting capacity."
+What does the second note in the table mean?,The second note means that all rated values are calculated when the crane is parked on firm and level ground with the load being lifted slowly and steadily.
+What is the maximum rated capacity of the crane?,The maximum rated capacity of the crane is 60 t.
+What are the corresponding boom lengths for the maximum rated capacity?,The corresponding boom lengths for the maximum rated capacity are 60 m and 54 m.
+What is the minimum rated capacity of the crane?,The minimum rated capacity of the crane is 1.85 t.
+What are the corresponding boom lengths for the minimum rated capacity?,The corresponding boom lengths for the minimum rated capacity are 11.7 m and 9.7 m.
+What is the maximum rated capacity with a jib radius of 30.5 m?,The maximum rated capacity with a jib radius of 30.5 m is 40 t for a boom length of 30 m.
+What is the model of the crawler crane?,SCC3000A
+What is the boom length of the crawler crane?,The boom length is 26m.
+What is the boom angle of the crawler crane?,The boom angle is 65°.
+What is the range of the jib length?,The jib length is between 21m and 63m.
+What is the weight of the rear counterweight?,The rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The carbody counterweight is 40t.
+What is the radius of the jib when it is 21m long?,The radius of the jib when it is 21m long is 28m.
+What is the radius of the jib when it is 30m long and the boom angle is 65°?,The radius of the jib when it is 30m long and the boom angle is 65° is 38.9m.
+What is the radius of the jib when it is 36m long and the boom angle is 65°?,The radius of the jib when it is 36m long and the boom angle is 65° is 30.4m.
+What is the radius of the jib when it is 44m long and the boom angle is 65°?,The radius of the jib when it is 44m long and the boom angle is 65° is 23m.
+What is the radius of the jib when it is 60m long and the boom angle is 65°?,The radius of the jib when it is 60m long and the boom angle is 65° is 13.2m.
+What is the radius of the jib when it is 68m long and the boom angle is 65°?,The radius of the jib when it is 68m long and the boom angle is 65° is 10.3m.
+What is the radius of the jib when it is 72m long and the boom angle is 65°?,The radius of the jib when it is 72m long and the boom angle is 65° is 8.7m.
+What is the model of the crawler crane?,SCC3000A
+How long is the maximum boom length?,The maximum boom length is 29m.
+What is the angle of the boom?,The boom angle is 65°.
+What is the range of the jib length?,The jib length is between 21m and 63m.
+What is the weight of the rear counterweight?,The weight of the rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The weight of the carbody counterweight is 40t.
+What is the radius of the jib when the boom length is 30m and the jib length is 21m?,The radius of the jib is 38.2m.
+What is the radius of the jib when the boom length is 32m and the jib length is 27m?,The radius of the jib is 32.6m.
+What is the radius of the jib when the boom length is 36m and the jib length is 30m?,The radius of the jib is 29.2m.
+What is the radius of the jib when the boom length is 40m and the jib length is 38m?,The radius of the jib is 24.9m.
+What is the radius of the jib when the boom length is 48m and the jib length is 44m?,The radius of the jib is 18.2m.
+What is the radius of the jib when the boom length is 52m and the jib length is 51m?,The radius of the jib is 15.6m.
+What is the radius of the jib when the boom length is 60m and the jib length is 57m?,The radius of the jib is 13.3m.
+What is the radius of the jib when the boom length is 64m and the jib length is 63m?,The radius of the jib is 10.5m.
+What is the radius of the jib when the boom length is 72m and the jib length is 68m?,The radius of the jib is 8.4m.
+What is the radius of the jib when the boom length is 74m and the jib length is 72m?,The radius of the jib is 7.4m.
+What is the model of the crawler crane in the text?,SCC3000A Crawler Crane
+What is the maximum length of the boom of this crane?,The maximum length of the boom is 32m.
+What is the angle of the boom when it is at its maximum length?,The boom angle is 65 degrees.
+What is the range of the jib's length?,The jib's length ranges from 21m to 63m.
+What is the weight of the rear counterweight?,The rear counterweight weighs 112t.
+What is the weight of the carbody counterweight?,The carbody counterweight weighs 40t.
+"What is the radius of the jib when it is 21m long, and the boom is at 30 degrees?",The radius of the jib is 37.4m.
+"What is the radius of the jib when it is 32m long, and the boom is at 34.2 degrees?",The radius of the jib is 34.2m.
+"What is the radius of the jib when it is 34m long, and the boom is at 31.7 degrees?",The radius of the jib is 31.7m.
+"What is the radius of the jib when it is 40m long, and the boom is at 24.6 degrees?",The radius of the jib is 24.6m.
+"What is the radius of the jib when it is 44m long, and the boom is at 21.1 degrees?",The radius of the jib is 21.1m.
+"What is the radius of the jib when it is 52m long, and the boom is at 15.4 degrees?",The radius of the jib is 15.4m.
+"What is the radius of the jib when it is 56m long, and the boom is at 14 degrees?",The radius of the jib is 14.6m.
+"What is the radius of the jib when it is 60m long, and the boom is at 12.3 degrees?",The radius of the jib is 12.3m.
+"What is the radius of the jib when it is 64m long, and the boom is at 10.4 degrees?",The radius of the jib is 10.4m.
+"What is the radius of the jib when it is 72m long, and the boom is at 8 degrees?",The radius of the jib is 8.3m.
+"What is the radius of the jib when it is 76m long, and the boom is at 7 degrees?",The radius of the jib is 7.1m.
+What is the model of the crawler crane?,SCC3000A
+What is the maximum length of the boom?,The boom is 35m long.
+What is the angle of the boom?,The boom angle is 65°.
+What is the range of the jib?,The jib ranges from 21m to 63m.
+What is the weight of the rear counterweight?,The rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The carbody counterweight is 40t.
+What is the radius of the jib when it is at 21m?,The radius of the jib at 21m is 32m.
+What is the radius of the jib when it is at 24m?,The radius of the jib at 24m is 33.8m.
+What is the radius of the jib when it is at 27m?,The radius of the jib at 27m is 31.3m.
+What is the radius of the jib when it is at 30m?,The radius of the jib at 30m is 31m.
+What is the radius of the jib when it is at 33m?,The radius of the jib at 33m is 29.1m.
+What is the radius of the jib when it is at 36m?,The radius of the jib at 36m is 28.8m.
+What is the radius of the jib when it is at 39m?,The radius of the jib at 39m is 28.4m.
+What is the radius of the jib when it is at 42m?,The radius of the jib at 42m is 26.9m.
+What is the radius of the jib when it is at 45m?,The radius of the jib at 45m is 26.5m.
+What is the radius of the jib when it is at 48m?,The radius of the jib at 48m is 26.4m.
+What is the radius of the jib when it is at 51m?,The radius of the jib at 51m is 26m.
+What is the radius of the jib when it is at 54m?,The radius of the jib at 54m is 24.8m.
+What is the radius of the jib when it is at 57m?,The radius of the jib at 57m is 24.7m.
+What is the radius of the jib when it is at 60m?,The radius of the jib at 60m is 24.3m.
+What is the radius of the jib when it is at 63m?,The radius of the jib at 63m is 24m.
+What is the radius of the jib when it is at 64m?,The radius of the jib at 64m is 21.7m.
+What is the radius of the jib when it is at 68m?,The radius of the jib at 68m is 9.5m.
+What is the radius of the jib when it is at 72m?,The radius of the jib at 72m is 8.2m.
+What is the radius of the jib when it is at 76m?,The radius of the jib at 76m is 6.7m.
+What is the radius of the jib when it is at 78m?,The radius of the jib at 78m is 6.3m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 38m.
+What is the range of the jib length of the SCC3000A Crawler Crane?,The jib length of the SCC3000A Crawler Crane can be adjusted from 21m to 63m.
+What is the weight of the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the weight of the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius of the jib when it is at 21m and the boom is at 38m?,The radius of the jib when it is at 21m and the boom is at 38m is 25.6m.
+What is the radius of the jib when it is at 63m and the boom is at 38m?,The radius of the jib when it is at 63m and the boom is at 38m is 12.1m.
+What is the radius of the jib when it is at 44m and the boom is at 21m?,The radius of the jib when it is at 44m and the boom is at 21m is 20.1m.
+What is the radius of the jib when it is at 21m and the boom is at 36m?,The radius of the jib when it is at 21m and the boom is at 36m is 32m.
+What is the radius of the jib when it is at 60m and the boom is at 38m?,The radius of the jib when it is at 60m and the boom is at 38m is 10.3m.
+What is the radius of the jib when it is at 56m and the boom is at 21m?,The radius of the jib when it is at 56m and the boom is at 21m is 14.1m.
+What is the model of the crawler crane in the text?,SCC3000A Crawler Crane
+What is the boom length of the crane?,The boom length of the crane is 41m.
+What is the boom angle of the crane?,The boom angle of the crane is 65°.
+What is the range of the jib length?,The jib length of the crane is between 21m and 63m.
+What is the weight of the rear counterweight?,The weight of the rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The weight of the carbody counterweight is 40t.
+What is the radius of the jib when it is at 21m length and what is the corresponding radius of the crane?,"When the jib length is 21m, the radius of the jib is 34m and the radius of the crane is 29.7m."
+What is the radius of the jib when it is at 63m length and what is the corresponding radius of the crane?,"When the jib length is 63m, the radius of the jib is 63m and the radius of the crane is not given in the table."
+What is the radius of the crane when the jib is at 36m length and what is the corresponding radius of the jib?,"When the jib length is 36m, the radius of the crane is 27.4m and the radius of the jib is not given in the table."
+What is the crane radius for a jib length of 48m?,"For a jib length of 48m, the crane radius is 17.9m, 17.6m, 17.2m, 17m, 16.6m."
+What is the model of the crawler crane?,The model of the crawler crane is SCC3000A.
+How long is the boom of the crane?,The boom of the crane is 44m long.
+What is the boom angle of the crane?,The boom angle of the crane is 65 degrees.
+What is the range of the jib length?,The jib length of the crane is between 21m and 63m.
+What is the rear counterweight of the crane?,The rear counterweight of the crane is 112t.
+What is the carbody counterweight of the crane?,The carbody counterweight of the crane is 40t.
+What is the radius of the crane when the jib length is 21m and the boom angle is 65 degrees?,The radius of the crane is 26.8m.
+What is the radius of the crane when the jib length is 38m and the boom angle is 65 degrees?,The radius of the crane is 24.7m.
+What is the radius of the crane when the jib length is 40m and the boom angle is 65 degrees?,The radius of the crane is 22.5m.
+What is the radius of the crane when the jib length is 44m and the boom angle is 65 degrees?,The radius of the crane is 19.1m.
+What is the radius of the crane when the jib length is 48m and the boom angle is 65 degrees?,The radius of the crane is 16.3m.
+What is the radius of the crane when the jib length is 52m and the boom angle is 65 degrees?,The radius of the crane is 14.1m.
+What is the radius of the crane when the jib length is 56m and the boom angle is 65 degrees?,The radius of the crane is 12.6m.
+What is the radius of the crane when the jib length is 60m and the boom angle is 65 degrees?,The radius of the crane is 11.6m.
+What is the radius of the crane when the jib length is 64m and the boom angle is 65 degrees?,The radius of the crane is 9.4m.
+What is the radius of the crane when the jib length is 68m and the boom angle is 65 degrees?,The radius of the crane is 8.2m.
+What is the radius of the crane when the jib length is 72m and the boom angle is 65 degrees?,The radius of the crane is 6.9m.
+What is the radius of the crane when the jib length is 76m and the boom angle is 65 degrees?,The radius of the crane is 5.5m.
+What is the radius of the crane when the jib length is 80m and the boom angle is 65 degrees?,The radius of the crane is 4.8m.
+What is the model of the crawler crane?,SCC3000A Crawler Crane
+What is the maximum length of the boom?,The boom is 47m long.
+What is the maximum angle of the boom?,The boom angle is 65°.
+What is the range of the jib?,The jib ranges from 21m to 63m.
+What is the weight of the rear counterweight?,The rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The carbody counterweight is 40t.
+What is the radius of the jib when it is at 21m?,The radius is 26.1m.
+What is the radius of the jib when it is at 38m?,The radius is 24.4m.
+What is the radius of the jib when it is at 40m?,The radius is 22.8m.
+What is the radius of the jib when it is at 44m?,The radius is 19.8m.
+What is the radius of the jib when it is at 48m?,The radius is 17.2m.
+What is the radius of the jib when it is at 52m?,The radius is 14.8m.
+What is the radius of the jib when it is at 56m?,The radius is 13m.
+What is the radius of the jib when it is at 60m?,The radius is 11.3m.
+What is the radius of the jib when it is at 64m?,The radius is 9.6m.
+What is the radius of the jib when it is at 68m?,The radius is 8.3m.
+What is the radius of the jib when it is at 72m?,The radius is 6.9m.
+What is the radius of the jib when it is at 76m?,The radius is 5.8m.
+What is the radius of the jib when it is at 80m?,The radius is 4.8m.
+What is the radius of the jib when it is at 82m?,The radius is 4.1m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 50m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the maximum jib length of the SCC3000A Crawler Crane?,The maximum jib length of the SCC3000A Crawler Crane is 63m.
+What is the weight of the rear counterweight of the SCC3000A Crawler Crane?,The weight of the rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the weight of the carbody counterweight of the SCC3000A Crawler Crane?,The weight of the carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius (jib 21m) of the SCC3000A Crawler Crane?,The radius (jib 21m) of the SCC3000A Crawler Crane is 38m.
+What is the radius (jib 63m) of the SCC3000A Crawler Crane?,The radius (jib 63m) of the SCC3000A Crawler Crane is 63m.
+What is the radius at jib length of 24m for the SCC3000A Crawler Crane?,The radius at jib length of 24m for the SCC3000A Crawler Crane is 38m.
+What is the radius at jib length of 40m for the SCC3000A Crawler Crane?,The radius at jib length of 40m for the SCC3000A Crawler Crane is 40m.
+What is the radius at jib length of 52m for the SCC3000A Crawler Crane?,The radius at jib length of 52m for the SCC3000A Crawler Crane is 52m.
+What is the radius at jib length of 60m for the SCC3000A Crawler Crane?,The radius at jib length of 60m for the SCC3000A Crawler Crane is 60m.
+What is the radius at jib length of 64m for the SCC3000A Crawler Crane?,The radius at jib length of 64m for the SCC3000A Crawler Crane is 64m.
+What is the radius at jib length of 72m for the SCC3000A Crawler Crane?,The radius at jib length of 72m for the SCC3000A Crawler Crane is 72m.
+What is the radius at jib length of 80m for the SCC3000A Crawler Crane?,The radius at jib length of 80m for the SCC3000A Crawler Crane is 80m.
+What is the radius at jib length of 84m for the SCC3000A Crawler Crane?,The radius at jib length of 84m for the SCC3000A Crawler Crane is 84m.
+What is the radius at jib length of 27m for the SCC3000A Crawler Crane?,The radius at jib length of 27m for the SCC3000A Crawler Crane is 38m.
+What is the radius at jib length of 30m for the SCC3000A Crawler Crane?,The radius at jib length of 30m for the SCC3000A Crawler Crane is 38m.
+What is the radius at jib length of 33m for the SCC3000A Crawler Crane?,The radius at jib length of 33m for the SCC3000A Crawler Crane is 38m.
+What is the radius at jib length of 36m for the SCC3000A Crawler Crane?,The radius at jib length of 36m for the SCC3000A Crawler Crane is 38m.
+What is the radius at jib length of 39m for the SCC3000A Crawler Crane?,The radius at jib length of 39m for the SCC3000A Crawler Crane is 38m.
+What is the radius at jib length of 42m for the SCC3000A Crawler Crane?,The radius at jib length of 42m for
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 53m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the maximum jib length of the SCC3000A Crawler Crane?,The maximum jib length of the SCC3000A Crawler Crane is 63m.
+What is the weight of the rear counterweight of the SCC3000A Crawler Crane?,The weight of the rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the weight of the carbody counterweight of the SCC3000A Crawler Crane?,The weight of the carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius of the jib when it is 21m long and the boom angle is 65 degrees?,The radius of the jib when it is 21m long and the boom angle is 65 degrees is 21.2m.
+What is the radius of the jib when it is 44m long and the boom angle is 65 degrees?,The radius of the jib when it is 44m long and the boom angle is 65 degrees is 18.7m.
+What is the radius of the jib when it is 56m long and the boom angle is 65 degrees?,The radius of the jib when it is 56m long and the boom angle is 65 degrees is 11.9m.
+What is the radius of the jib when it is 68m long and the boom angle is 65 degrees?,The radius of the jib when it is 68m long and the boom angle is 65 degrees is 7.6m.
+What is the radius of the jib when it is 80m long and the boom angle is 65 degrees?,The radius of the jib when it is 80m long and the boom angle is 65 degrees is 3.9m.
+What is the radius of the jib when it is 60m long and the boom angle is 65 degrees?,The radius of the jib when it is 60m long and the boom angle is 65 degrees is 9.6m.
+What is the radius of the jib when it is 44m long and the boom angle is 65 degrees and the jib length is 24m?,"The radius of the jib when it is 44m long, the boom angle is 65 degrees, and the jib length is 24m is 18.4m."
+What is the radius of the jib when it is 52m long and the boom angle is 65 degrees and the jib length is 57m?,"The radius of the jib when it is 52m long, the boom angle is 65 degrees, and the jib length is 57m is 11.5m."
+What is the radius of the jib when it is 56m long and the boom angle is 65 degrees and the jib length is 30m?,"The radius of the jib when it is 56m long, the boom angle is 65 degrees, and the jib length is 30m is 12.7m."
+What is the radius of the jib when it is 64m long and the boom angle is 65 degrees and the jib length is 42m?,"The radius of the jib when it is 64m long, the boom angle is 65 degrees, and the jib length is 42m is 8.6m."
+What is the radius of the jib when it is 68m long and the boom angle is 65 degrees and the jib length is 51m?,"The radius of the jib when it is 68m long, the boom angle is 65 degrees, and the jib length is 51m is 5.5m."
+What is the radius of the jib when it is 76m long and the boom angle is 65 degrees and the jib length is 36m?,"The radius of the jib when it is 76m long, the boom angle is 65 degrees, and the jib length is 36m is 4.9m."
+How many different jib lengths does the crane have?,"The crane has 13 different jib lengths, ranging from 21m to 63m in 3m intervals."
+"What is the maximum radius the jib can reach, ignoring the boom length and the boom angle?","The maximum radius the jib can reach, ignoring the boom length and the boom angle, is 68m (when the jib is fully extended)"
+"What is the minimum radius the jib can reach, ignoring the boom length and the boom angle?","The minimum radius the jib can reach, ignoring the boom length and the boom angle, is 40m (when the jib is at its shortest length)"
+What is the largest counterweight?,The largest counterweight is the rear counterweight with 112t.
+What is the total of all counterweights?,"The total of all counterweights is 152t (112t for the rear counterweight, 40t for the carbody counterweight)"
+What is the model of the crawler crane?,The model of the crawler crane is SCC3000A.
+What is the maximum length of the boom?,The maximum length of the boom is 56m.
+What is the range of the jib's length?,The jib's length ranges from 21m to 63m.
+What is the weight of the rear counterweight?,The weight of the rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The weight of the carbody counterweight is 40t.
+What is the radius of the jib when it is at 21m and the total radius is 40m?,The radius of the jib is 20.4m in this case.
+What is the radius of the jib when it is at 63m and the total radius is 60m?,The radius of the jib is 7.9m in this case.
+What is the radius of the jib when it is at 44m and the total radius is 52m?,The radius of the jib is 13.4m in this case.
+What is the radius of the jib when it is at 52m and the total radius is 68m?,The radius of the jib is 4.7m in this case.
+What is the radius of the jib when it is at 27m and the total radius is 48m?,The radius of the jib is 15m in this case.
+What is the radius of the jib when it is at 56m and the total radius is 80m?,The radius of the jib is 3.4m in this case.
+What is the radius of the jib when it is at 64m and the total radius is 84m?,The radius of the jib is 2.4m in this case.
+What is the radius of the jib when it is at 86m and the total radius is 86m?,The radius of the jib is 2.1m in this case.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 59m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the maximum rear counterweight of the SCC3000A Crawler Crane?,The maximum rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius (m) when the jib length is 21m and the boom angle is 65°?,The radius is 17.3m.
+What is the radius (m) when the jib length is 24m and the boom angle is 65°?,The radius is 16.9m.
+What is the radius (m) when the jib length is 52m and the boom angle is 65°?,"The radius is 12.9m, 12.8m and 12.3m."
+What is the radius (m) when the jib length is 56m and the boom angle is 65°?,"The radius is 11.4m, 11m, 10.7m, 10.3m and 10m."
+What is the radius (m) when the jib length is 60m and the boom angle is 65°?,"The radius is 9.5m, 9.1m, 8.9m, 8.5m and 8.1m."
+What is the radius (m) when the jib length is 64m and the boom angle is 65°?,"The radius is 8.1m, 7.9m, 7.5m, 7.2m, 6.7m and 6.4m."
+What is the radius (m) when the jib length is 68m and the boom angle is 65°?,"The radius is 7m, 6.7m, 6.3m, 5.9m, 5.6m, 5.1m, 4.7m and 4.1m."
+What is the radius (m) when the jib length is 72m and the boom angle is 65°?,"The radius is 5.6m, 5.2m, 4.9m, 4.4m, 4m and 3.5m."
+What is the radius (m) when the jib length is 76m and the boom angle is 65°?,"The radius is 4.5m, 4.3m and 3.8m."
+What is the radius (m) when the jib length is 80m and the boom angle is 65°?,"The radius is 3.2m, 2.8m and 2.4m."
+What is the radius (m) when the jib length is 84m and the boom angle is 65°?,The radius is 2.3m and 1.9m.
+What is the radius (m) when the jib length is 88m and the boom angle is 65°?,The radius is 1.4m.
+What is the model of the crawler crane?,The model of the crawler crane is SCC3000A.
+What is the boom length of the crawler crane?,The boom length of the crawler crane is 62m.
+What is the maximum jib length of the crawler crane?,The maximum jib length of the crawler crane is 63m.
+What is the weight of the rear counterweight of the crawler crane?,The weight of the rear counterweight of the crawler crane is 112t.
+What is the weight of the carbody counterweight of the crawler crane?,The weight of the carbody counterweight of the crawler crane is 40t.
+What is the radius of the jib when it is 21m long and the radius of the circle it forms?,The radius of the jib when it is 21m long is 44m and the radius of the circle it forms is 16.4m.
+What is the radius of the jib when it is 48m long and the radius of the circle it forms at two different angles?,The radius of the jib when it is 48m long is 48m and the radius of the circle it forms at 14.5 degrees is 14.5m and at 14.2 degrees is 14.2m.
+What is the radius of the jib when it is 52m long and the radius of the circle it forms at three different angles?,"The radius of the jib when it is 52m long is 52m and the radius of the circle it forms at 12.2 degrees is 12.2m, at 12.1 degrees is 12.1m, and at 11.6 degrees is 11.6m."
+What is the radius of the jib when it is 56m long and the radius of the circle it forms at four different angles?,"The radius of the jib when it is 56m long is 56m and the radius of the circle it forms at 10.7 degrees is 10.7m, at 10.3 degrees is 10.3m, at 10 degrees is 10m, and at 9.6 degrees is 9.6m."
+What is the radius of the jib when it is 60m long and the radius of the circle it forms at five different angles?,"The radius of the jib when it is 60m long is 60m and the radius of the circle it forms at 9.2 degrees is 9.2m, at 8.9 degrees is 8.9m, at 8.5 degrees is 8.5m, at 8.3 degrees is 8.3m, and at 7.7 degrees is 7.7m."
+What is the radius of the jib when it is 64m long and the radius of the circle it forms at six different angles?,"The radius of the jib when it is 64m long is 64m and the radius of the circle it forms at 7.5 degrees is 7.5m, at 7.3 degrees is 7.3m, at 6.9 degrees is 6.9m, at 6.4 degrees is 6.4m, at 5.9 degrees is 5.9m, and at 5.6 degrees is 5.6m."
+What is the radius of the jib when it is 68m long and the radius of the circle it forms at seven different angles?,"The radius of the jib when it is 68m long is 68m and the radius of the circle it forms at 6.5 degrees is 6.5m, at 6.1 degrees is 6.1m, at 5.7 degrees is 5.7m, at 5.2 degrees is 5.2m, at 4.8 degrees is 4.8m, at 4.3 degrees is 4.3m, and at 3.9 degrees is 3.9m."
+What is the radius of the jib when it is 72m long and the radius of the circle it forms at six different angles?,"The radius of the jib when it is 72m long is 72m and the radius of the circle it forms at 5.3 degrees is 5.3m, at 5 degrees is 5m, at 4.5 degrees is 4.5m, at 4.2 degrees is 4.2m, at 3.7 degrees is 3.7m, and at 3.3 degrees is 3.3m."
+What is the radius of the jib when it is 76m long and the radius of the circle it forms at five different angles?,"The radius of the jib when it is 76m long is 76m and the radius of the circle it forms at 3.9 degrees is 3.9m, at 3.6 degrees is 3.6m, at 3.1 degrees is 3.1m, at 2.7 degrees is 2.7m, and at 2.2 degrees is 2.2m."
+What is the radius of the jib when it is 80m long and the radius of the circle it forms at three different angles?,"The radius of the jib when it is 80m long is 80m and the radius of the circle it forms at 3.1 degrees is 3.1m, at 2.6 degrees is 2.6m, and at 2.2 degrees is 2.2m."
+What is the radius of the circle formed by the jib when it is 84m long at two different angles?,The radius of the circle formed by the jib when it is 84m long is 84m and the radius of the circle it forms at 1.7 degrees is 1.7m and at 1.2 degrees is 1.2m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 26m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the maximum jib length of the SCC3000A Crawler Crane?,The maximum jib length of the SCC3000A Crawler Crane is 63m.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius of the jib when the boom is at 26m and jib is at 48.5m?,The radius of the jib when the boom is at 26m and jib is at 48.5m is 26m.
+What is the radius of the jib when the boom is at 24m and jib is at 44.5m?,The radius of the jib when the boom is at 24m and jib is at 44.5m is 24m.
+What is the radius of the jib when the boom is at 22m and jib is at 40.5m?,The radius of the jib when the boom is at 22m and jib is at 40.5m is 22m.
+What is the radius of the jib when the boom is at 20m and jib is at 68.9m?,The radius of the jib when the boom is at 20m and jib is at 68.9m is 20m.
+What is the radius of the jib when the boom is at 28m and jib is at 39.6m?,The radius of the jib when the boom is at 28m and jib is at 39.6m is 28m.
+What is the model of the crawler crane?,The model of the crawler crane is SCC3000A.
+What is the maximum length of the boom?,The maximum length of the boom is 29m.
+What is the range of the jib length?,The jib length ranges from 21m to 63m.
+What is the weight of the rear counterweight?,The weight of the rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The weight of the carbody counterweight is 40t.
+At what boom angle is the information provided?,The boom angle is 75°.
+What is the radius of the jib when its length is 21m and the boom length is 29m?,The radius of the jib is approximately 60.5m.
+What is the radius of the jib when its length is 24m and the boom length is 29m?,The radius of the jib is approximately 54.2m.
+What is the radius of the jib when its length is 26m and the boom length is 29m?,The radius of the jib is approximately 48.8m.
+What is the radius of the jib when its length is 28m and the boom length is 29m?,The radius of the jib is approximately 44.5m.
+What is the radius of the jib when its length is 30m and the boom length is 29m?,The radius of the jib is approximately 40.8m.
+What is the radius of the jib when its length is 32m and the boom length is 29m?,The radius of the jib is approximately 37.4m.
+What is the radius of the jib when its length is 34m and the boom length is 29m?,The radius of the jib is approximately 34.5m.
+What is the radius of the jib when its length is 36m and the boom length is 29m?,The radius of the jib is approximately 32.1m.
+What is the radius of the jib when its length is 38m and the boom length is 29m?,The radius of the jib is approximately 29.7m.
+What is the radius of the jib when its length is 40m and the boom length is 29m?,The radius of the jib is approximately 27.5m.
+What is the radius of the jib when its length is 44m and the boom length is 29m?,The radius of the jib is approximately 24m.
+What is the radius of the jib when its length is 48m and the boom length is 29m?,The radius of the jib is approximately 21.1m.
+What is the radius of the jib when its length is 52m and the boom length is 29m?,The radius of the jib is approximately 18.4m.
+What is the radius of the jib when its length is 60m and the boom length is 29m?,The radius of the jib is approximately 14.4m.
+What is the radius of the jib when its length is 64m and the boom length is 29m?,The radius of the jib is approximately 12.7m.
+What is the radius of the jib when its length is 68m and the boom length is 29m?,The radius of the jib is approximately 10.9m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 32m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the radius of the jib when the boom is at 22m and the jib is at 21m?,The radius of the jib when the boom is at 22m and the jib is at 21m is 59.8m.
+What is the radius of the jib when the boom is at 24m and the jib is at 24m?,The radius of the jib when the boom is at 24m and the jib is at 24m is 53.6m.
+What is the maximum radius of the jib for a boom length of 26m?,The maximum radius of the jib for a boom length of 26m is 48.3m.
+What is the minimum radius of the jib for a boom length of 30m?,The minimum radius of the jib for a boom length of 30m is 40.4m.
+What is the radius of the jib when the boom is at 32m and the jib is at 36m?,The radius of the jib when the boom is at 32m and the jib is at 36m is 35.9m.
+What is the radius of the jib when the boom is at 34m and the jib is at 32.3m?,The radius of the jib when the boom is at 34m and the jib is at 32.3m is 32.3m.
+What is the radius of the jib when the boom is at 36m and the jib is at 29.6m?,The radius of the jib when the boom is at 36m and the jib is at 29.6m is 29.6m.
+What is the radius of the jib when the boom is at 38m and the jib is at 27.3m?,The radius of the jib when the boom is at 38m and the jib is at 27.3m is 27.3m.
+What is the radius of the jib when the boom is at 40m and the jib is at 24.9m?,The radius of the jib when the boom is at 40m and the jib is at 24.9m is 24.9m.
+What is the radius of the jib when the boom is at 44m and the jib is at 21.4m?,The radius of the jib when the boom is at 44m and the jib is at 21.4m is 21.4m.
+What is the radius of the jib when the boom is at 48m and the jib is at 18.8m?,The radius of the jib when the boom is at 48m and the jib is at 18.8m is 18.8m.
+What is the radius of the jib when the boom is at 52m and the jib is at 16.7m?,The radius of the jib when the boom is at 52m and the jib is at 16.7m is 16.7m.
+What is the radius of the jib when the boom is at 56m and the jib is at 15.4m?,The radius of the jib when the boom is at 56m and the jib is at 15.4m is 15.4m.
+What is the radius of the jib when the boom is at 60m and the jib is at 13.6m?,The radius of the jib when the boom is at 60m and the jib is at 13.6m is 13.6m.
+What is the radius of the jib when the boom is at 64m and the jib is at 12.2m?,The radius of the jib when the boom is at 64m and the jib is at 12.2m is 12.2m.
+What is the radius of the jib when the boom is at 68m and the jib is at 10.6m?,The radius of the jib when the boom is at 68m and the jib is at 10.6m is 10.6m.
+What is the radius of the jib when the boom is at 70m and the jib is at its minimum length of 21m?,The radius of the jib when the boom is at 70m and the jib is at its minimum length of 21m is 10.1m.
+What is the model of the crawler crane?,SCC3000A Crawler Crane
+What is the length of the boom?,The boom is 35m long.
+What is the angle of the boom?,The boom angle is 75°.
+What is the range of the jib?,The jib ranges from 21m to 63m.
+What is the weight of the rear counterweight?,The rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The carbody counterweight is 40t.
+What is the radius of the jib when it is at 22m?,The radius of the jib when it is at 22m is 59.2m.
+What is the radius of the jib when it is at 26m and the boom angle is 75°?,The radius of the jib when it is at 26m and the boom angle is 75° is 47.4m.
+What is the maximum radius of the jib?,The maximum radius of the jib is 63m.
+What is the radius of the jib when it is at 32m and the boom angle is 75°?,The radius of the jib when it is at 32m and the boom angle is 75° is 35.2m.
+What is the radius of the jib when it is at 40m and the boom angle is 75°?,The radius of the jib when it is at 40m and the boom angle is 75° is 25.1m.
+What is the radius of the jib when it is at 48m and the boom angle is 75°?,The radius of the jib when it is at 48m and the boom angle is 75° is 19.1m.
+What is the radius of the jib when it is at 56m and the boom angle is 75°?,The radius of the jib when it is at 56m and the boom angle is 75° is 14.5m.
+What is the radius of the jib when it is at 68m and the boom angle is 75°?,The radius of the jib when it is at 68m and the boom angle is 75° is 10.4m.
+What is the radius of the jib when it is at 72m and the boom angle is 75°?,The radius of the jib when it is at 72m and the boom angle is 75° is 9.3m.
+What is the model of the crawler crane?,SCC3000A
+What is the length of the boom?,The boom length is 38m.
+What is the angle of the boom?,The boom angle is 75 degrees.
+What is the range of the jib length?,The jib length is between 21m and 63m.
+What is the weight of the rear counterweight?,The rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The carbody counterweight is 40t.
+What is the radius of the jib when it is at 21m and the boom angle is 75 degrees?,The radius of the jib is 52.4m.
+What is the radius of the jib when it is at 30m and the boom angle is 75 degrees?,The radius of the jib is 38.3m.
+What is the radius of the jib when it is at 40m and the boom angle is 75 degrees?,The radius of the jib is 24.3m.
+What is the radius of the jib when it is at 44m and the boom angle is 75 degrees?,The radius of the jib is 20.6m.
+What is the radius of the jib when it is at 56m and the boom angle is 75 degrees?,The radius of the jib is 14.2m.
+What is the radius of the jib when it is at 60m and the boom angle is 75 degrees?,The radius of the jib is 12.7m.
+What is the radius of the jib when it is at 68m and the boom angle is 75 degrees?,The radius of the jib is 10.2m.
+What is the radius of the jib when it is at 72m and the boom angle is 75 degrees?,The radius of the jib is 9.1m.
+What is the brand and model of the crane?,SCC3000A Crawler Crane
+What is the length of the boom?,The boom length is 41m.
+What is the range of the jib length?,The jib length ranges from 21m to 63m.
+What is the weight of the rear counterweight?,The rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The carbody counterweight is 40t.
+What is the radius of the jib when the boom angle is 75° and the jib length is 21m?,The radius is 51.8m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 26m, and the jib length is 46.5m?",The radius is 26m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 30m, and the jib length is 38m?",The radius can be any value from 38.4m to 38.6m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 32m, and the jib length is 35.4m?",The radius is 35m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 36m, and the jib length is 31.5m?",The radius is 28.9m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 40m, and the jib length is 24.2m?",The radius is 24.2m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 44m, and the jib length is 20.1m?",The radius can be any value from 20.1m to 20.5m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 48m, and the jib length is 18.1m?",The radius is 18.1m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 52m, and the jib length is 15.7m?",The radius can be any value from 15.7m to 17.4m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 56m, and the jib length is 14.2m?",The radius is 14.2m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 60m, and the jib length is 12.4m?",The radius is 12.4m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 64m, and the jib length is 11.1m?",The radius is 11.1m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 68m, and the jib length is 9.9m?",The radius is 9.9m.
+"What is the radius of the jib when the boom angle is 75°, the boom length is 72m, and the jib length is 7.2m?",The radius is 7.2m.
+What is the model of the crawler crane?,The model of the crawler crane is SCC3000A.
+What is the maximum length of the boom?,The maximum length of the boom is 44m.
+What is the range of the jib's length?,The jib's length ranges from 21m to 63m.
+What is the weight of the rear counterweight?,The weight of the rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The weight of the carbody counterweight is 40t.
+What is the radius of the jib when its length is 26m and the boom angle is 75°?,The radius of the jib is 46.1m.
+What is the radius of the jib when its length is 32m and the boom angle is 75°?,The radius of the jib ranges from 35.6m to 34.1m.
+What is the radius of the jib when its length is 38m and the boom angle is 75°?,The radius of the jib ranges from 28.1m to 26.1m.
+What is the radius of the jib when its length is 40m and the boom angle is 75°?,The radius of the jib ranges from 26.2m to 19.9m.
+What is the radius of the jib when its length is 44m and the boom angle is 75°?,The radius of the jib ranges from 22.8m to 19.4m.
+What is the radius of the jib when its length is 48m and the boom angle is 75°?,The radius of the jib ranges from 20m to 17.2m.
+What is the maximum radius of the jib for the given boom angle?,The maximum radius of the jib is 46.1m.
+What is the minimum radius of the jib for the given boom angle?,The minimum radius of the jib is 19.4m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 47m.
+What is the range of the jib length of the SCC3000A Crawler Crane?,The jib length of the SCC3000A Crawler Crane ranges from 21m to 63m.
+What is the weight of the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the weight of the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius of the crane when the boom length is 26m and the jib length is 45.5m?,The radius of the crane in this configuration is 26m.
+What is the radius of the crane when the boom length is 34m and the jib length is 31.4m?,The radius of the crane in this configuration is 34m.
+What is the radius of the crane when the boom length is 40m and the jib length is 23.9m?,The radius of the crane in this configuration is 40m.
+What is the radius of the crane when the boom length is 48m and the jib length is 16.7m?,The radius of the crane in this configuration is 48m.
+What is the radius of the crane when the boom length is 52m and the jib length is 15.3m?,The radius of the crane in this configuration is 52m.
+What is the radius of the crane when the boom length is 56m and the jib length is 13.6m?,The radius of the crane in this configuration is 56m.
+What is the radius of the crane when the boom length is 60m and the jib length is 11.8m?,The radius of the crane in this configuration is 60m.
+What is the radius of the crane when the boom length is 64m and the jib length is 11.1m?,The radius of the crane in this configuration is 64m.
+What is the radius of the crane when the boom length is 68m and the jib length is 9.9m?,The radius of the crane in this configuration is 68m.
+What is the radius of the crane when the boom length is 72m and the jib length is 8.6m?,The radius of the crane in this configuration is 72m.
+What is the radius of the crane when the boom length is 74m and the jib length is 7.9m?,The radius of the crane in this configuration is 74m.
+What is the model of the crawler crane?,SCC3000A Crawler Crane
+What is the length of the boom?,The boom length is 50m.
+What is the maximum angle of the boom?,The maximum boom angle is 75 degrees.
+What is the range of the jib?,The jib range is from 21m to 63m.
+What is the weight of the rear counterweight?,The rear counterweight weighs 112t.
+What is the weight of the carbody counterweight?,The carbody counterweight weighs 40t.
+What is the radius of the jib when it is 21m long and the boom angle is 75 degrees?,The radius of the jib when it is 21m long and the boom angle is 75 degrees is 44.2m.
+What is the radius of the jib when it is 32m long and the boom angle is 75 degrees?,The radius of the jib when it is 32m long and the boom angle is 75 degrees is 33.7m.
+What is the radius of the jib when it is 44m long and the boom angle is 75 degrees?,The radius of the jib when it is 44m long and the boom angle is 75 degrees is 20.5m.
+What is the radius of the jib when it is 52m long and the boom angle is 75 degrees?,The radius of the jib when it is 52m long and the boom angle is 75 degrees is 15.5m.
+What is the radius of the jib when it is 64m long and the boom angle is 75 degrees?,The radius of the jib when it is 64m long and the boom angle is 75 degrees is 11.1m.
+What is the radius of the jib when it is 68m long and the boom angle is 75 degrees?,The radius of the jib when it is 68m long and the boom angle is 75 degrees is 9.4m.
+What is the radius of the jib when it is 72m long and the boom angle is 75 degrees?,The radius of the jib when it is 72m long and the boom angle is 75 degrees is 8m.
+What is the radius of the jib when it is 76m long and the boom angle is 75 degrees?,The radius of the jib when it is 76m long and the boom angle is 75 degrees is 7.1m.
+What is the maximum boom length of the SCC3000A crawler crane?,The maximum boom length of the SCC3000A crawler crane is 53m.
+What is the minimum jib length of the SCC3000A crawler crane?,The minimum jib length of the SCC3000A crawler crane is 21m.
+What is the maximum jib length of the SCC3000A crawler crane?,The maximum jib length of the SCC3000A crawler crane is 63m.
+What is the weight of the rear counterweight of the SCC3000A crawler crane?,The weight of the rear counterweight of the SCC3000A crawler crane is 112t.
+What is the weight of the carbody counterweight of the SCC3000A crawler crane?,The weight of the carbody counterweight of the SCC3000A crawler crane is 40t.
+What is the radius (jib 21m) of the SCC3000A crawler crane?,The radius of the SCC3000A crawler crane with a jib length of 21m is 28m.
+What is the radius (jib 30m) of the SCC3000A crawler crane?,The radius of the SCC3000A crawler crane with a jib length of 30m is 30m.
+What is the radius (jib 36m) of the SCC3000A crawler crane?,The radius of the SCC3000A crawler crane with a jib length of 36m is 28.1m.
+What is the radius (jib 44m) of the SCC3000A crawler crane?,The radius of the SCC3000A crawler crane with a jib length of 44m is 21.3m.
+What is the radius (jib 52m) of the SCC3000A crawler crane?,The radius of the SCC3000A crawler crane with a jib length of 52m is 16.4m.
+What is the radius (jib 64m) of the SCC3000A crawler crane?,The radius of the SCC3000A crawler crane with a jib length of 64m is 11m.
+What is the radius (jib 68m) of the SCC3000A crawler crane?,The radius of the SCC3000A crawler crane with a jib length of 68m is 9.7m.
+What is the radius (jib 76m) of the SCC3000A crawler crane?,The radius of the SCC3000A crawler crane with a jib length of 76m is 6.9m.
+What is the boom angle of the SCC3000A crawler crane?,The boom angle of the SCC3000A crawler crane is 75°.
+What is the model of the crawler crane?,SCC3000A
+What is the maximum length of the boom?,The boom can extend up to 56m.
+What is the angle of the boom when it is fully extended?,The boom angle is 75°.
+What is the range of the jib's length?,The jib can extend from 21m to 63m.
+What is the weight of the rear counterweight?,The rear counterweight weighs 112t.
+What is the weight of the carbody counterweight?,The carbody counterweight weighs 40t.
+What is the radius of the jib when it is at 21m?,The radius of the jib at 21m is 28m.
+What is the radius of the jib when it is at 30m?,The radius of the jib at 30m is 35.2m.
+What is the radius of the jib when it is at 34m?,The radius of the jib at 34m is 30.1m.
+What is the radius of the jib when it is at 36m?,The radius of the jib at 36m is 27.9m.
+What is the radius of the jib when it is at 60m?,The radius of the jib at 60m is 12.1m.
+What is the radius of the jib when it is at 63m?,The radius of the jib at 63m is 12.6m.
+What is the radius of the jib when it is at 64m?,The radius of the jib at 64m is 10.6m.
+What is the radius of the jib when it is at 68m?,The radius of the jib at 68m is 8.7m.
+What is the model of the crawler crane?,The model of the crawler crane is SCC3000A.
+What is the maximum length of the boom?,The maximum length of the boom is 59m.
+What is the range of the jib length?,The jib length can be adjusted from 21m to 63m.
+What is the weight of the rear counterweight?,The weight of the rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The weight of the carbody counterweight is 40t.
+What is the radius of the jib when it is 21m long?,The radius of the jib when it is 21m long is 30m.
+What is the radius of the jib when it is 32m long and the boom angle is 75 degrees?,The radius of the jib when it is 32m long and the boom angle is 75 degrees is 32m.
+What is the radius of the jib when it is 38m long and the boom angle is 75 degrees?,The radius of the jib when it is 38m long and the boom angle is 75 degrees is 26.3m.
+What is the radius of the jib when it is 63m long and the boom angle is 75 degrees?,The radius of the jib when it is 63m long and the boom angle is 75 degrees is 23.7m.
+What is the radius of the jib when it is 48m long and the boom angle is 75 degrees?,The radius of the jib when it is 48m long and the boom angle is 75 degrees can be any value from 18.5m to 14m.
+What is the radius of the jib when it is 56m long and the boom angle is 75 degrees?,The radius of the jib when it is 56m long and the boom angle is 75 degrees can be any value from 13.4m to 9.3m.
+What is the model of the crawler crane?,The model of the crawler crane is SCC3000A.
+What is the maximum length of the boom?,The maximum length of the boom is 62m.
+What is the range of the jib?,The jib ranges from 21m to 63m.
+What is the weight of the rear counterweight?,The weight of the rear counterweight is 112t.
+What is the weight of the carbody counterweight?,The weight of the carbody counterweight is 40t.
+What is the radius of the jib when it is at 21m and the boom angle is 75°?,The radius of the jib in this configuration is 30m.
+What is the radius of the jib when it is at 30m and the boom angle is 75°?,The radius of the jib in this configuration is approximately 33.7m.
+What is the radius of the jib when it is at 34m and the boom angle is 75°?,The radius of the jib in this configuration is 27.8m.
+What is the radius of the jib when it is at 38m and the boom angle is 75°?,The radius of the jib in this configuration is 22.8m.
+What is the radius of the jib when it is at 44m and the boom angle is 75°?,The radius of the jib in this configuration is 17.1m.
+What is the radius of the jib when it is at 52m and the boom angle is 75°?,The radius of the jib in this configuration is 11.8m.
+What is the radius of the jib when it is at 60m and the boom angle is 75°?,The radius of the jib in this configuration is 9.3m.
+What is the radius of the jib when it is at 64m and the boom angle is 75°?,The radius of the jib in this configuration is 8.3m.
+What is the radius of the jib when it is at 68m and the boom angle is 75°?,The radius of the jib in this configuration is 7.4m.
+What is the radius of the jib when it is at 72m and the boom angle is 75°?,The radius of the jib in this configuration is 6.6m.
+What is the radius of the jib when it is at 76m and the boom angle is 75°?,The radius of the jib in this configuration is 5.8m.
+What is the radius of the jib when it is at 78m and the boom angle is 75°?,The radius of the jib in this configuration is 5.5m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 26m.
+What is the maximum jib length of the SCC3000A Crawler Crane?,The maximum jib length of the SCC3000A Crawler Crane is 63m.
+What is the weight of the rear counterweight of the SCC3000A Crawler Crane?,The weight of the rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the weight of the carbody counterweight of the SCC3000A Crawler Crane?,The weight of the carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius (m) and corresponding maximum lifting capacity (t) when the jib length is 21m?,"At a jib length of 21m, the radius is 12m and the maximum lifting capacity is 103t."
+At what radius and jib length does the SCC3000A Crawler Crane have a maximum lifting capacity of 52t?,"At a jib length of 52m, the radius is 12.1m."
+What is the maximum lifting capacity (t) of the SCC3000A Crawler Crane when the radius is 24m and jib length is 44m?,The maximum lifting capacity at a radius of 24m and jib length of 44m is 44t.
+What is the maximum lifting capacity (t) of the SCC3000A Crawler Crane when the radius is 38m and jib length is 27.9m?,The maximum lifting capacity at a radius of 38m and jib length of 27.9m is 27.9t.
+What is the maximum lifting capacity (t) of the SCC3000A Crawler Crane when the radius is 64m and jib length is 9.7m?,The maximum lifting capacity at a radius of 64m and jib length of 9.7m is 9.7t.
+What is the maximum lifting capacity (t) of the SCC3000A Crawler Crane when the radius is 60m and jib length is 11.7m?,The maximum lifting capacity at a radius of 60m and jib length of 11.7m is 11.7t.
+What is the maximum lifting capacity (t) of the SCC3000A Crawler Crane when the radius is 56m and jib length is 14.3m?,The maximum lifting capacity at a radius of 56m and jib length of 14.3m is 14.3t.
+At what jib length does the maximum lifting capacity of the SCC3000A Crawler Crane decrease as radius increases from 36m to 38m?,At a jib length of 37.9m the maximum lifting capacity decreases from 30.4t to 27.9t as radius increases from 36m to 38m.
+At what jib length does the maximum lifting capacity of the SCC3000A Crawler Crane decrease as radius increases from 52m to 56m?,At a jib length of 53.4m the maximum lifting capacity decreases from 52t to 36t as radius increases from 52m to 56m.
+What is the maximum lifting capacity (t) of the SCC3000A Crawler Crane when the radius is 12m and jib length is 21m?,The maximum lifting capacity at a radius of 12m and jib length of 21m is 103t.
+What is the maximum lifting capacity (t) of the SCC3000A Crawler Crane when the radius is 30m and jib length is 36.7m?,The maximum lifting capacity at a radius of 30m and jib length of 36.7m is 30t.
+What is the maximum lifting capacity (t) of the SCC3000A Crawler Crane when the radius is 44m and jib length is 22.2m?,The maximum lifting capacity at a radius of 44m and jib length of 22.2m is 22.2t.
+What is the maximum lifting capacity (t) of the SCC3000A Crawler Crane when the radius is 30m and jib length is 38.2m?,The maximum lifting capacity at a radius of 30m and jib length of 38.2m is 32t.
+At which jib lengths does the maximum lifting capacity of the SCC3000A Crawler Crane stay the same as radius increases from 24m to 28m?,"The maximum lifting capacity stays the same at 45.2t for jib lengths 28m, 24m and 44m when the radius increases from 24m to 28m."
+At which jib lengths does the maximum lifting capacity of the SCC3000A Crawler Crane stay the same as radius increases from 40m to 44m?,"The maximum lifting capacity stays the same at 50t for jib length 44m, 40m, and 49m when the radius increases from 40m to 44m."
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 29m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the maximum jib length of the SCC3000A Crawler Crane?,The maximum jib length of the SCC3000A Crawler Crane is 63m.
+What is the weight of the rear counterweight of the SCC3000A Crawler Crane?,The weight of the rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the weight of the carbody counterweight of the SCC3000A Crawler Crane?,The weight of the carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius of the jib when the boom is at 12m and the jib is at 21m?,The radius of the jib when the boom is at 12m and the jib is at 21m is 102m.
+What is the radius of the jib when the boom is at 14m and the jib is at 42m?,The radius of the jib when the boom is at 14m and the jib is at 42m is 58.5m.
+What is the radius of the jib when the boom is at 18m and the jib is at 36m?,The radius of the jib when the boom is at 18m and the jib is at 36m is 64.5m.
+What is the radius of the jib when the boom is at 24m and the jib is at 57m?,The radius of the jib when the boom is at 24m and the jib is at 57m is 47.9m.
+What is the radius of the jib when the boom is at 26m and the jib is at 26m?,The radius of the jib when the boom is at 26m and the jib is at 26m is 49.3m.
+What is the radius of the jib when the boom is at 32m and the jib is at 34m?,The radius of the jib when the boom is at 32m and the jib is at 34m is 37m.
+What is the radius of the jib when the boom is at 38m and the jib is at 28m?,The radius of the jib when the boom is at 38m and the jib is at 28m is 28.3m.
+What is the radius of the jib when the boom is at 40m and the jib is at 40m?,The radius of the jib when the boom is at 40m and the jib is at 40m is 40m.
+What is the radius of the jib when the boom is at 44m and the jib is at 44m?,The radius of the jib when the boom is at 44m and the jib is at 44m is 44m.
+What is the radius of the jib when the boom is at 48m and the jib is at 19m?,The radius of the jib when the boom is at 48m and the jib is at 19m is 19.6m.
+What is the radius of the jib when the boom is at 52m and the jib is at 16.7m?,The radius of the jib when the boom is at 52m and the jib is at 16.7m is 17.1m.
+What is the radius of the jib when the boom is at 56m and the jib is at 14.2m?,The radius of the jib when the boom is at 56m and the jib is at 14.2m is 14.6m.
+What is the radius of the jib when the boom is at 60m and the jib is at 12.4m?,The radius of the jib when the boom is at 60m and the jib is at 12.4m is 12.4m.
+What is the radius of the jib when the boom is at 64m and the jib is at 10m?,The radius of the jib when the boom is at 64m and the jib is at 10m is 10m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 32 meters.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21 meters.
+What is the maximum jib length of the SCC3000A Crawler Crane?,The maximum jib length of the SCC3000A Crawler Crane is 63 meters.
+What is the maximum rear counterweight of the SCC3000A Crawler Crane?,The maximum rear counterweight of the SCC3000A Crawler Crane is 112 tons.
+What is the maximum carbody counterweight of the SCC3000A Crawler Crane?,The maximum carbody counterweight of the SCC3000A Crawler Crane is 40 tons.
+What is the radius of the jib when the boom is at 21 meters and the jib is at 24 meters?,The radius of the jib when the boom is at 21 meters and the jib is at 24 meters is 95.7 meters.
+What is the radius of the jib when the boom is at 26 meters and the jib is at 51 meters?,The radius of the jib when the boom is at 26 meters and the jib is at 51 meters is 41.4 meters.
+What is the radius of the jib when the boom is at 30 meters and the jib is at 42 meters?,The radius of the jib when the boom is at 30 meters and the jib is at 42 meters is 63.4 meters.
+What is the radius of the jib when the boom is at 36 meters and the jib is at 60 meters?,The radius of the jib when the boom is at 36 meters and the jib is at 60 meters is 33.6 meters.
+What is the radius of the jib when the boom is at 44 meters and the jib is at 44 meters?,The radius of the jib when the boom is at 44 meters and the jib is at 44 meters is 44 meters.
+What is the radius of the jib when the boom is at 52 meters and the jib is at 52 meters?,The radius of the jib when the boom is at 52 meters and the jib is at 52 meters is 52 meters.
+What is the radius of the jib when the boom is at 56 meters and the jib is at 56 meters?,The radius of the jib when the boom is at 56 meters and the jib is at 56 meters is 56 meters.
+What is the radius of the jib when the boom is at 60 meters and the jib is at 60 meters?,The radius of the jib when the boom is at 60 meters and the jib is at 60 meters is 60 meters.
+What is the radius of the jib when the boom is at 64 meters and the jib is at 64 meters?,The radius of the jib when the boom is at 64 meters and the jib is at 64 meters is 64 meters.
+What is the radius of the jib when the boom is at 66 meters and the jib is at 66 meters?,The radius of the jib when the boom is at 66 meters and the jib is at 66 meters is 66 meters.
+What is the radius of the jib when the boom is at 34 meters and the jib is at 34 meters?,The radius of the jib when the boom is at 34 meters and the jib is at 34 meters is 34 meters.
+What is the radius of the jib when the boom is at 38 meters and the jib is at 38 meters?,The radius of the jib when the boom is at 38 meters and the jib is at 38 meters is 38 meters.
+What is the radius of the jib when the boom is at 40 meters and the jib is at 40 meters?,The radius of the jib when the boom is at 40 meters and the jib is at 40 meters is 40 meters.
+What is the radius of the jib when the boom is at 28 meters and the jib is at 28 meters?,The radius of the jib when the boom is at 28 meters and the jib is at 28 meters is 28 meters.
+What is the radius of the jib when the boom is at 24 meters and the jib is at 24 meters?,The radius of the jib when the boom is at 24 meters and the jib is at 24 meters is 24 meters.
+What is the radius of the jib when the boom is at 22 meters and the jib is at 22 meters?,The radius of the jib when the boom is at 22 meters and the jib is at 22 meters is 22 meters.
+What is the radius of the jib when the boom is at 20 meters and the jib is at 20 meters?,The radius of the jib when the boom is at 20 meters and the jib is at 20 meters is 20 meters.
+What is the radius of the jib when the boom is at 18 meters and the jib is at 18 meters?,The radius of the jib when the boom is at 18 meters and the jib is at 18 meters is 18 meters.
+What is the radius of the jib when the boom is at 16 meters and the jib is at 16 meters?,The radius of the jib when the boom is at 16 meters and the jib is at 16 meters is 16 meters.
+What is the radius of the jib when the boom is at 14 meters and the jib is at 14 meters?,The radius of the jib when the boom is at 14 meters and the jib is at 14 meters is 14 meters.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 35m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius at a jib length of 21m and a boom angle of 85°?,The radius at a jib length of 21m and a boom angle of 85° is 97.4m.
+What is the radius at a jib length of 26m and a boom angle of 85°?,The radius at a jib length of 26m and a boom angle of 85° is 50.6m.
+What is the radius at a jib length of 40m and a boom angle of 85°?,The radius at a jib length of 40m and a boom angle of 85° is 20.1m.
+What is the radius at a jib length of 52m and a boom angle of 85°?,The radius at a jib length of 52m and a boom angle of 85° is 14.2m.
+What is the radius at a jib length of 66m and a boom angle of 85°?,The radius at a jib length of 66m and a boom angle of 85° is 10.3m.
+What is the radius at a jib length of 34m and a boom angle of 85°?,The radius at a jib length of 34m and a boom angle of 85° is 34.6m.
+What is the radius at a jib length of 38m and a boom angle of 85°?,The radius at a jib length of 38m and a boom angle of 85° is 28.1m.
+What is the radius at a jib length of 36m and a boom angle of 85°?,The radius at a jib length of 36m and a boom angle of 85° is 31.8m.
+What is the radius at a jib length of 28m and a boom angle of 85°?,The radius at a jib length of 28m and a boom angle of 85° is 45.4m.
+What is the radius at a jib length of 20m and a boom angle of 85°?,The radius at a jib length of 20m and a boom angle of 85° is 72.5m.
+What is the radius at a jib length of 22m and a boom angle of 85°?,The radius at a jib length of 22m and a boom angle of 85° is 64.5m.
+What is the radius at a jib length of 18m and a boom angle of 85°?,The radius at a jib length of 18m and a boom angle of 85° is 80.9m.
+What is the radius at a jib length of 16m and a boom angle of 85°?,The radius at a jib length of 16m and a boom angle of 85° is 88.2m.
+What is the radius at a jib length of 14m and a boom angle of 85°?,The radius at a jib length of 14m and a boom angle of 85° is 95.2m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 38m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the maximum radius of the jib at an angle of 85 degrees and a jib length of 38m?,The maximum radius of the jib at an angle of 85 degrees and a jib length of 38m is 64.2m.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius of the jib at a length of 21m and an angle of 24 degrees?,The radius of the jib at a length of 21m and an angle of 24 degrees is 96m.
+What is the radius of the jib at a length of 26m and an angle of 48 degrees?,The radius of the jib at a length of 26m and an angle of 48 degrees is 50.5m.
+What is the maximum jib length that can be used at a radius of 44m and an angle of 85 degrees?,The maximum jib length that can be used at a radius of 44m and an angle of 85 degrees is 30m.
+What is the radius of the jib at a length of 38m and an angle of 85 degrees?,The radius of the jib at a length of 38m and an angle of 85 degrees is 39.9m.
+What is the radius of the jib at a length of 40m and an angle of 85 degrees?,The radius of the jib at a length of 40m and an angle of 85 degrees is 41.7m.
+What is the maximum radius that can be achieved at a jib length of 66m and an angle of 85 degrees?,The maximum radius that can be achieved at a jib length of 66m and an angle of 85 degrees is 10m.
+What is the radius of the jib at a length of 52m and an angle of 85 degrees?,The radius of the jib at a length of 52m and an angle of 85 degrees is not provided in the table.
+What is the minimum boom angle for which the radius of the jib at a length of 24m is provided?,The minimum boom angle for which the radius of the jib at a length of 24m is provided is 24 degrees.
+What is the maximum jib length for which the radius of the jib at an angle of 85 degrees is provided?,The maximum jib length for which the radius of the jib at an angle of 85 degrees is provided is 63m.
+What is the radius of the jib at a length of 18m and an angle of 42 degrees?,The radius of the jib at a length of 18m and an angle of 42 degrees is not provided in the table.
+What is the boom length of the SCC3000A crawler crane?,The boom length of the SCC3000A crawler crane is 41m.
+What is the maximum jib length of the SCC3000A crawler crane?,The maximum jib length of the SCC3000A crawler crane is 63m.
+What is the weight of the rear counterweight of the SCC3000A crawler crane?,The weight of the rear counterweight of the SCC3000A crawler crane is 112t.
+What is the weight of the carbody counterweight of the SCC3000A crawler crane?,The weight of the carbody counterweight of the SCC3000A crawler crane is 40t.
+What is the radius and corresponding jib length when the jib length is 21m and the radius is 14m?,"When the jib length is 21m and the radius is 14m, the corresponding jib length in the table is also 21m."
+What is the radius when the jib length is 54m and the radius is not 14m or 16m?,"When the jib length is 54m, the radius is 30.4m."
+What is the jib length when the radius is 28m and it is not the case that the jib length is 28m and the radius is 30m?,"When the radius is 28m, the jib length is 30.4m."
+What is the maximum radius of the SCC3000A crawler crane when the jib length is 63m?,"When the jib length is 63m, the maximum radius of the SCC3000A crawler crane is 42m."
+What is the minimum radius of the SCC3000A crawler crane when the jib length is 21m?,"When the jib length is 21m, the minimum radius of the SCC3000A crawler crane is 14m."
+"What is the radius of the SCC3000A crawler crane when the jib length is 36m and the radius is not 14m, 16m, 18m, or 20m?","When the jib length is 36m and the radius is not 14m, 16m, 18m, or 20m, the radius of the SCC3000A crawler crane is 45m."
+"What is the radius of the SCC3000A crawler crane when the jib length is 26m and the radius is not 14m, 16m, 18m, 20m, or 22m?","When the jib length is 26m and the radius is not 14m, 16m, 18m, 20m, or 22m, the radius of the SCC3000A crawler crane is 48.6m."
+"What is the radius of the SCC3000A crawler crane when the jib length is 24m and the radius is not 14m, 16m, 18m, 20m, 22m, or 24m?","When the jib length is 24m and the radius is not 14m, 16m, 18m, 20m, 22m, or 24m, the radius of the SCC3000A crawler crane is 56.7m."
+"What is the radius of the SCC3000A crawler crane when the jib length is 57m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, 34m, 36m, or 38m?","When the jib length is 57m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, 34m, 36m, or 38m, the radius of the SCC3000A crawler crane is 33.6m."
+"What is the radius of the SCC3000A crawler crane when the jib length is 60m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, 34m, 36m, 38m, or 40m?","When the jib length is 60m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, 34m, 36m, 38m, or 40m, the radius of the SCC3000A crawler crane is 30.1m."
+"What is the radius of the SCC3000A crawler crane when the jib length is 34m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, or 36m?","When the jib length is 34m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, or 36m, the radius of the SCC3000A crawler crane is 34.3m."
+"What is the radius of the SCC3000A crawler crane when the jib length is 40m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, 34m, 36m, or 38m?","When the jib length is 40m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, 34m, 36m, or 38m, the radius of the SCC3000A crawler crane is 29.7m."
+What is the radius of the SCC3000A crawler crane when the jib length is 44m and it is not the case that the jib length is 44m and the radius is 44m?,"When the jib length is 44m and it is not the case that the jib length is 44m and the radius is 44m, the radius of the SCC3000A crawler crane is 22.9m."
+What is the radius of the SCC3000A crawler crane when the jib length is 48m and it is not the case that the jib length is 48m and the radius is 48m?,"When the jib length is 48m and it is not the case that the jib length is 48m and the radius is 48m, the radius of the SCC3000A crawler crane is 19.5m."
+"What is the radius of the SCC3000A crawler crane when the jib length is 52m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, 34m, 36m, 38m, 40m, or 44m?","When the jib length is 52m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, 34m, 36m, 38m, 40m, or 44m, the radius of the SCC3000A crawler crane is 14.8m."
+"What is the radius of the SCC3000A crawler crane when the jib length is 56m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, 34m, 36m, 38m, 40m, 44m, or 48m?","When the jib length is 56m and the radius is not 14m, 16m, 18m, 20m, 22m, 24m, 26m, 28m, 30m, 32m, 34m, 36m, 38m, 40m, 44m, or 48m, the radius of the SCC3000A crawler crane is 12.8m."
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 44m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 21m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 21m and the boom angle is 85° is 14m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 26m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 26m and the boom angle is 85° is 28m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 44m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 44m and the boom angle is 85° is 48m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 63m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 63m and the boom angle is 85° is 63m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 30m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 30m and the boom angle is 85° is 40m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 60m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 60m and the boom angle is 85° is not provided in the text as the maximum jib length is 63m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 47m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the maximum jib length of the SCC3000A Crawler Crane?,The maximum jib length of the SCC3000A Crawler Crane is 63m.
+What is the weight of the rear counterweight of the SCC3000A Crawler Crane?,The weight of the rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the weight of the carbody counterweight of the SCC3000A Crawler Crane?,The weight of the carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius of the jib when its length is 21m and the boom angle is 85°?,The radius of the jib when its length is 21m and the boom angle is 85° is 14m.
+What is the radius of the jib when its length is 30m and the boom angle is 85°?,The radius of the jib when its length is 30m and the boom angle is 85° is 71.2m.
+What is the radius of the jib when its length is 42m and the boom angle is 85°?,The radius of the jib when its length is 42m and the boom angle is 85° is 53.5m.
+What is the radius of the jib when its length is 54m and the boom angle is 85°?,The radius of the jib when its length is 54m and the boom angle is 85° is 34m.
+What is the radius of the jib when its length is 63m and the boom angle is 85°?,The radius of the jib when its length is 63m and the boom angle is 85° is 31m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 50m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius (jib = 21m) of the SCC3000A Crawler Crane when the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the boom angle is 85° and jib is 21m is 14m.
+What is the radius (jib = 63m) of the SCC3000A Crawler Crane when the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the boom angle is 85° and jib is 63m is 63m.
+What is the radius (jib = 30m) of the SCC3000A Crawler Crane when the boom angle is 85° and the radius is 65.2m?,30m
+What is the radius (jib = 45m) of the SCC3000A Crawler Crane when the boom angle is 85° and the radius is 49.1m?,45m
+What is the radius (jib = 51m) of the SCC3000A Crawler Crane when the boom angle is 85° and the radius is 38.8m?,51m
+What is the radius (jib = 21m) of the SCC3000A Crawler Crane when the boom angle is not 85° and the radius is 85.8m?,"This information cannot be determined with the provided text, since the radius for jib = 21m and boom angle not equal to 85° is not provided."
+What is the radius (jib = 26m) of the SCC3000A Crawler Crane when the boom angle is not 85° but the radius is 52.6m?,26m
+What is the radius (jib = 54m) of the SCC3000A Crawler Crane when the boom angle is not 85° but the radius is 36m?,54m
+What is the radius (jib = 42m) of the SCC3000A Crawler Crane when the boom angle is not 85° but the radius is 47.5m?,42m
+What is the radius (jib = 57m) of the SCC3000A Crawler Crane when the boom angle is not 85° but the radius is 32.6m?,57m
+What is the radius (jib = 60m) of the SCC3000A Crawler Crane when the boom angle is not 85° but the radius is 29.7m?,60m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 53m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius of the jib at 14m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 14m with a boom angle of 85° for the SCC3000A Crawler Crane is 85.8m.
+What is the radius of the jib at 16m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 16m with a boom angle of 85° for the SCC3000A Crawler Crane is 79.6m.
+What is the radius of the jib at 18m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 18m with a boom angle of 85° for the SCC3000A Crawler Crane is 73.5m.
+What is the radius of the jib at 20m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 20m with a boom angle of 85° for the SCC3000A Crawler Crane is 66.2m.
+What is the radius of the jib at 22m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 22m with a boom angle of 85° for the SCC3000A Crawler Crane is 60.2m.
+What is the radius of the jib at 24m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 24m with a boom angle of 85° for the SCC3000A Crawler Crane is 55.2m.
+What is the radius of the jib at 26m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 26m with a boom angle of 85° for the SCC3000A Crawler Crane is 51m.
+What is the radius of the jib at 28m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 28m with a boom angle of 85° for the SCC3000A Crawler Crane is 46.6m.
+What is the radius of the jib at 30m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 30m with a boom angle of 85° for the SCC3000A Crawler Crane is 42.8m.
+What is the radius of the jib at 32m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 32m with a boom angle of 85° for the SCC3000A Crawler Crane is 39.4m.
+What is the radius of the jib at 34m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 34m with a boom angle of 85° for the SCC3000A Crawler Crane is 36.4m.
+What is the radius of the jib at 36m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 36m with a boom angle of 85° for the SCC3000A Crawler Crane is 32.7m.
+What is the radius of the jib at 38m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 38m with a boom angle of 85° for the SCC3000A Crawler Crane is 30.4m.
+What is the radius of the jib at 40m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 40m with a boom angle of 85° for the SCC3000A Crawler Crane is 28.9m.
+What is the radius of the jib at 44m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 44m with a boom angle of 85° for the SCC3000A Crawler Crane is 24m.
+What is the radius of the jib at 48m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 48m with a boom angle of 85° for the SCC3000A Crawler Crane is 21.8m.
+What is the radius of the jib at 52m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 52m with a boom angle of 85° for the SCC3000A Crawler Crane is 18.4m.
+What is the radius of the jib at 56m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 56m with a boom angle of 85° for the SCC3000A Crawler Crane is 15.5m.
+What is the radius of the jib at 60m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 60m with a boom angle of 85° for the SCC3000A Crawler Crane is 14.1m.
+What is the radius of the jib at 64m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 64m with a boom angle of 85° for the SCC3000A Crawler Crane is 11.9m.
+What is the radius of the jib at 66m with a boom angle of 85° for the SCC3000A Crawler Crane?,The radius of the jib at 66m with a boom angle of 85° for the SCC3000A Crawler Crane is 11.2m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 56m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the rear counterweight of the SCC3000A Crawler Crane?,The rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the carbody counterweight of the SCC3000A Crawler Crane?,The carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius (jib = 21m) of the SCC3000A Crawler Crane?,The radius of the SCC3000A Crawler Crane when the jib length is 21m is 77.9m.
+What is the radius (jib = 63m) of the SCC3000A Crawler Crane?,The radius of the SCC3000A Crawler Crane when the jib length is 63m is 24.2m.
+"What is the radius (jib = 22m, boom angle = 85°) of the SCC3000A Crawler Crane?",The radius of the SCC3000A Crawler Crane when the jib length is 22m and the boom angle is 85° is 58.4m.
+"What is the radius (jib = 28m, boom angle = 85°) of the SCC3000A Crawler Crane?",The radius of the SCC3000A Crawler Crane when the jib length is 28m and the boom angle is 85° is 44.5m.
+"What is the radius (jib = 36m, boom angle = 85°) of the SCC3000A Crawler Crane?",The radius of the SCC3000A Crawler Crane when the jib length is 36m and the boom angle is 85° is 38.6m.
+"What is the radius (jib = 40m, boom angle = 85°) of the SCC3000A Crawler Crane?",The radius of the SCC3000A Crawler Crane when the jib length is 40m and the boom angle is 85° is 37.5m.
+What is the model of the crawler crane?,SCC3000A
+What is the maximum boom length of the crawler crane?,The maximum boom length is 59m.
+What is the angle of the boom for this crawler crane?,The boom angle is 85 degrees.
+What is the range of the jib length for this crawler crane?,The jib length ranges from 21m to 63m.
+What is the weight of the rear counterweight for this crawler crane?,The weight of the rear counterweight is 112t.
+What is the weight of the carbody counterweight for this crawler crane?,The weight of the carbody counterweight is 40t.
+What is the radius of the jib when it is at 21m and the angle of the boom is 85 degrees for this crawler crane?,The radius of the jib at 21m is 72.2m.
+What is the radius of the jib when it is at 30m and the angle of the boom is 85 degrees for this crawler crane?,The radius of the jib at 30m is 54.8m.
+What is the radius of the jib when it is at 48m and the angle of the boom is 85 degrees for this crawler crane?,The radius of the jib at 48m is 37.3m.
+What is the radius of the jib when it is at 60m and the angle of the boom is 85 degrees for this crawler crane?,The radius of the jib at 60m is 27.4m.
+"When the radius of the jib is 42m and the angle of the boom is 85 degrees, what is the length of the jib for this crawler crane?",The length of the jib at 42m radius is 30m.
+"When the radius of the jib is 51m and the angle of the boom is 85 degrees, what is the length of the jib for this crawler crane?",The length of the jib at 51m radius is 26m.
+"When the radius of the jib is 64m and the angle of the boom is 85 degrees, what is the length of the jib for this crawler crane?",The length of the jib at 64m radius is 11.6m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 62m.
+What is the minimum jib length of the SCC3000A Crawler Crane?,The minimum jib length of the SCC3000A Crawler Crane is 21m.
+What is the maximum jib length of the SCC3000A Crawler Crane?,The maximum jib length of the SCC3000A Crawler Crane is 63m.
+What is the weight of the rear counterweight of the SCC3000A Crawler Crane?,The weight of the rear counterweight of the SCC3000A Crawler Crane is 112t.
+What is the weight of the carbody counterweight of the SCC3000A Crawler Crane?,The weight of the carbody counterweight of the SCC3000A Crawler Crane is 40t.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 21m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 21m and the boom angle is 85° is 67.8m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 24m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 24m and the boom angle is 85° is 52.7m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 30m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 30m and the boom angle is 85° is 41.6m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 36m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 36m and the boom angle is 85° is 31.9m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 44m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 44m and the boom angle is 85° is 22.7m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 48m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 48m and the boom angle is 85° is 19.7m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 52m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 52m and the boom angle is 85° is 16.8m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 56m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 56m and the boom angle is 85° is 14.7m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 60m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 60m and the boom angle is 85° is 12.7m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 64m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 64m and the boom angle is 85° is 11.2m.
+What is the radius of the SCC3000A Crawler Crane when the jib length is 68m and the boom angle is 85°?,The radius of the SCC3000A Crawler Crane when the jib length is 68m and the boom angle is 85° is 9.9m.
+What are the boom angle and jib length of the SCC3000A Crawler Crane when the radius is 57m?,The boom angle of the SCC3000A Crawler Crane when the radius is 57m is 85° and the jib length is 26m.
+What are the boom angle and jib length of the SCC3000A Crawler Crane when the radius is 36m?,The boom angle of the SCC3000A Crawler Crane when the radius is 36m is 85° and the jib length is 36m.
+What are the boom angle and jib length of the SCC3000A Crawler Crane when the radius is 23.6m?,The boom angle of the SCC3000A Crawler Crane when the radius is 23.6m is 85° and the jib length is 34m.
+What are the boom angle and jib length of the SCC3000A Crawler Crane when the radius is 15.4m?,The boom angle of the SCC3000A Crawler Crane when the radius is 15.4m is 85° and the jib length is 40m.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 20m.
+What is the maximum jib length of the SCC3000A Crawler Crane?,The maximum jib length of the SCC3000A Crawler Crane is 7m.
+What is the boom-to-jib angle of the SCC3000A Crawler Crane?,The boom-to-jib angle of the SCC3000A Crawler Crane is 22°.
+What is the maximum main hook radius of the SCC3000A Crawler Crane when the main hook load is empty?,The maximum main hook radius of the SCC3000A Crawler Crane when the main hook load is empty is 10.6m.
+What is the maximum auxiliary hook radius of the SCC3000A Crawler Crane when the auxiliary hook load is empty?,The maximum auxiliary hook radius of the SCC3000A Crawler Crane when the auxiliary hook load is empty is 19.6m.
+What is the maximum load on the main hook of the SCC3000A Crawler Crane at a radius of 5m?,The maximum load on the main hook of the SCC3000A Crawler Crane at a radius of 5m is 250t.
+What is the maximum load on the auxiliary hook of the SCC3000A Crawler Crane at a radius of 14m?,The maximum load on the auxiliary hook of the SCC3000A Crawler Crane at a radius of 14m is 80.0t.
+What is the maximum load on both hooks of the SCC3000A Crawler Crane at a radius of 6m for the main hook and 9.3m for the auxiliary hook?,The maximum load on both hooks of the SCC3000A Crawler Crane at a radius of 6m for the main hook and 9.3m for the auxiliary hook is 171.2t.
+What is the minimum main hook radius of the SCC3000A Crawler Crane when the main hook load is empty?,The minimum main hook radius of the SCC3000A Crawler Crane when the main hook load is empty is 2.7m.
+What is the minimum auxiliary hook radius of the SCC3000A Crawler Crane when the auxiliary hook load is empty?,The minimum auxiliary hook radius of the SCC3000A Crawler Crane when the auxiliary hook load is empty is 5.8m.
+What is the maximum load on the auxiliary hook of the SCC3000A Crawler Crane at a radius of 5.8m (minimum auxiliary hook radius)?,The maximum load on the auxiliary hook of the SCC3000A Crawler Crane at a radius of 5.8m is 105.0t.
+What is the maximum load on both hooks of the SCC3000A Crawler Crane at a radius of 2.7m for the main hook and 5.8m for the auxiliary hook (minimum auxiliary hook radius)?,The maximum load on both hooks of the SCC3000A Crawler Crane at a radius of 2.7m for the main hook and 5.8m for the auxiliary hook is 177.5t.
+What is the boom length of the SCC3000A Crawler Crane?,The boom length of the SCC3000A Crawler Crane is 23m.
+What is the jib length of the SCC3000A Crawler Crane?,The jib length of the SCC3000A Crawler Crane is 7m.
+What is the boom to jib angle of the SCC3000A Crawler Crane?,The boom to jib angle of the SCC3000A Crawler Crane is 22 degrees.
+What is the main hook radius of the SCC3000A Crawler Crane at the first data point?,The main hook radius of the SCC3000A Crawler Crane at the first data point is 6m.
+What is the main hook load of the SCC3000A Crawler Crane when the main hook radius is empty?,The main hook load of the SCC3000A Crawler Crane when the main hook radius is empty is 244t.
+What is the auxiliary hook radius of the SCC3000A Crawler Crane at the first data point?,The auxiliary hook radius of the SCC3000A Crawler Crane at the first data point is 9.2m.
+What is the auxiliary hook load of the SCC3000A Crawler Crane when the auxiliary hook radius is empty?,The auxiliary hook load of the SCC3000A Crawler Crane when the auxiliary hook radius is empty is 95.4t.
+What is the load on both hooks of the SCC3000A Crawler Crane at the first data point?,The load on both hooks of the SCC3000A Crawler Crane at the first data point is 169.7t.
+What is the main hook radius of the SCC3000A Crawler Crane at the second data point?,The main hook radius of the SCC3000A Crawler Crane at the second data point is 7m.
+What is the main hook load of the SCC3000A Crawler Crane when the main hook radius is empty at the second data point?,The main hook load of the SCC3000A Crawler Crane when the main hook radius is empty at the second data point is 213.5t.
+What is the maximum boom length of the SCC3000A Crawler Crane?,The maximum boom length of the SCC3000A Crawler Crane is 20m.
+What is the maximum jib length of the SCC3000A Crawler Crane?,The maximum jib length of the SCC3000A Crawler Crane is 12m.
+What is the boom to jib angle of the SCC3000A Crawler Crane?,The boom to jib angle of the SCC3000A Crawler Crane is 20°.
+What is the main hook load of the SCC3000A Crawler Crane when the radius is 5m and the auxiliary hook is empty?,The main hook load of the SCC3000A Crawler Crane when the radius is 5m and the auxiliary hook is empty is 249t.
+What is the auxiliary hook load of the SCC3000A Crawler Crane when the radius is 10m and the main hook is empty?,The auxiliary hook load of the SCC3000A Crawler Crane when the radius is 10m and the main hook is empty is 96.0t.
+What is the load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 5m and the auxiliary hook radius is 10m?,The load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 5m and the auxiliary hook radius is 10m is 172.5t.
+What is the main hook load of the SCC3000A Crawler Crane when the radius is 6m and the auxiliary hook is empty?,The main hook load of the SCC3000A Crawler Crane when the radius is 6m and the auxiliary hook is empty is 227t.
+What is the auxiliary hook load of the SCC3000A Crawler Crane when the radius is 11.5m and the main hook is empty?,The auxiliary hook load of the SCC3000A Crawler Crane when the radius is 11.5m and the main hook is empty is 90.0t.
+What is the load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 6m and the auxiliary hook radius is 11.5m?,The load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 6m and the auxiliary hook radius is 11.5m is 158.5t.
+What is the main hook load of the SCC3000A Crawler Crane when the radius is 7m and the auxiliary hook is empty?,The main hook load of the SCC3000A Crawler Crane when the radius is 7m and the auxiliary hook is empty is 190t.
+What is the auxiliary hook load of the SCC3000A Crawler Crane when the radius is 13m and the main hook is empty?,The auxiliary hook load of the SCC3000A Crawler Crane when the radius is 13m and the main hook is empty is 81.0t.
+What is the load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 7m and the auxiliary hook radius is 13m?,The load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 7m and the auxiliary hook radius is 13m is 135.5t.
+What is the main hook load of the SCC3000A Crawler Crane when the radius is 8m and the auxiliary hook is empty?,The main hook load of the SCC3000A Crawler Crane when the radius is 8m and the auxiliary hook is empty is 150t.
+What is the auxiliary hook load of the SCC3000A Crawler Crane when the radius is 14.6m and the main hook is empty?,The auxiliary hook load of the SCC3000A Crawler Crane when the radius is 14.6m and the main hook is empty is 70.6t.
+What is the load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 8m and the auxiliary hook radius is 14.6m?,The load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 8m and the auxiliary hook radius is 14.6m is 122.3t.
+What is the main hook load of the SCC3000A Crawler Crane when the radius is 9m and the auxiliary hook is empty?,The main hook load of the SCC3000A Crawler Crane when the radius is 9m and the auxiliary hook is empty is 140t.
+What is the auxiliary hook load of the SCC3000A Crawler Crane when the radius is 16m and the main hook is empty?,The auxiliary hook load of the SCC3000A Crawler Crane when the radius is 16m and the main hook is empty is 55.3t.
+What is the load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 9m and the auxiliary hook radius is 16m?,The load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 9m and the auxiliary hook radius is 16m is 97.7t.
+What is the main hook load of the SCC3000A Crawler Crane when the radius is 12m and the auxiliary hook is empty?,The main hook load of the SCC3000A Crawler Crane when the radius is 12m and the auxiliary hook is empty is 106t.
+What is the auxiliary hook load of the SCC3000A Crawler Crane when the radius is 20.6m and the main hook is empty?,The auxiliary hook load of the SCC3000A Crawler Crane when the radius is 20.6m and the main hook is empty is 44.5t.
+What is the load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 12m and the auxiliary hook radius is 20.6m?,The load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 12m and the auxiliary hook radius is 20.6m is 75.2t.
+What is the main hook load of the SCC3000A Crawler Crane when the radius is 14m and the auxiliary hook is empty?,The main hook load of the SCC3000A Crawler Crane when the radius is 14m and the auxiliary hook is empty is 82t.
+What is the auxiliary hook load of the SCC3000A Crawler Crane when the radius is 23.5m and the main hook is empty?,The auxiliary hook load of the SCC3000A Crawler Crane when the radius is 23.5m and the main hook is empty is 37.0t.
+What is the load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 14m and the auxiliary hook radius is 23.5m?,The load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 14m and the auxiliary hook radius is 23.5m is 59.5t.
+What is the main hook load of the SCC3000A Crawler Crane when the radius is 16m and the auxiliary hook is empty?,The main hook load of the SCC3000A Crawler Crane when the radius is 16m and the auxiliary hook is empty is 66t.
+What is the auxiliary hook load of the SCC3000A Crawler Crane when the radius is 26.4m and the main hook is empty?,The auxiliary hook load of the SCC3000A Crawler Crane when the radius is 26.4m and the main hook is empty is 31.2t.
+What is the load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 16m and the auxiliary hook radius is 26.4m?,The load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 16m and the auxiliary hook radius is 26.4m is 48.6t.
+What is the main hook load of the SCC3000A Crawler Crane when the radius is 18m and the auxiliary hook is empty?,The main hook load of the SCC3000A Crawler Crane when the radius is 18m and the auxiliary hook is empty is 52.5t.
+What is the auxiliary hook load of the SCC3000A Crawler Crane when the radius is 29.2m and the main hook is empty?,The auxiliary hook load of the SCC3000A Crawler Crane when the radius is 29.2m and the main hook is empty is 26.9t.
+What is the load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 18m and the auxiliary hook radius is 29.2m?,The load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 18m and the auxiliary hook radius is 29.2m is 39.7t.
+What is the main hook load of the SCC3000A Crawler Crane when the radius is 20m and the auxiliary hook is empty?,The main hook load of the SCC3000A Crawler Crane when the radius is 20m and the auxiliary hook is empty is 19/49t.
+What is the auxiliary hook load of the SCC3000A Crawler Crane when the radius is 31.9m and the main hook is empty?,The auxiliary hook load of the SCC3000A Crawler Crane when the radius is 31.9m and the main hook is empty is 24.0t.
+What is the load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 20m and the auxiliary hook radius is 31.9m?,The load on both hooks of the SCC3000A Crawler Crane when the main hook radius is 20m and the auxiliary hook radius is 31.9m is 36.5t.

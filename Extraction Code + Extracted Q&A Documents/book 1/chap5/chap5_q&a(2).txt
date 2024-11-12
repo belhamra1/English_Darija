@@ -1,0 +1,81 @@
+Q: Where is the ePower fuse block located?
+A: Inside the electrical cabinet on the right side of the cab.
+
+Q: How do you access the fuses in the ePower fuse block?
+A: Remove the four fasteners and cover.
+
+Q: What is the location of the Vehicle Electrical Center (VEC) fuse block?
+A: Inside the electrical cabinet on the right side of the cab.
+
+Q: How do you access the fuses in the VEC fuse block?
+A: Open the hinged fuse box cover.
+
+Q: Where is the Battery Compartment Fuse Block located?
+A: Inside the battery compartment at the left rear side of the machine.
+
+Q: What is the purpose of the Battery Compartment Fuse Block?
+A: To provide fuses for the battery compartment.
+
+Q: How often should the alternator be checked?
+A: Every 1000 hours of service.
+
+Q: What should be checked on the alternator?
+A: Loose mounting bolts, worn or loose drive belt, worn alternator bearings, case and internal corrosion, and tightness of electrical connectors.
+
+Q: What are the safety precautions when working with batteries?
+A: Wear personal protective equipment, work in a well-ventilated area, and avoid smoking or sparks near batteries.
+
+Q: How many batteries are in the machine?
+A: Two 12V batteries connected in series to provide 24V to the electrical system.
+
+Q: What should be done before servicing the batteries?
+A: Allow several minutes for any accumulated battery gases to clear.
+
+Q: How do you check the battery connections?
+A: Check the top surfaces and all the battery connections under the red and black protective covers for signs of corrosion or dirt buildup.
+
+Q: How do you check the air conditioner filters?
+A: Release latches and remove the panel to access the filters.
+
+Q: What should be done with the cab filter?
+A: Clean or replace as necessary.
+
+Q: How do you check the air conditioning operation?
+A: Turn the heater on/off control switch to the right and check if heat is present, turn the temperature control dial to the right and check if the air temperature changes from warm to cool.
+
+Q: How do you check the engine exhaust system?
+A: Prepare the machine for service, turn the battery disconnect switch to OFF, open the engine compartment access doors, and inspect the exhaust system for loose, missing, or damaged hardware.
+
+Q: What should be done before inspecting the exhaust system?
+A: Make sure the engine is shut down and the exhaust has cooled to a point where it can be touched without burning.
+
+Q: What is Standstill Regeneration?
+A: A process that regenerates the exhaust system.
+
+Q: How do you perform Standstill Regeneration?
+A: Prepare the machine for service, start and run the engine at idle, access the Calibration and Operation screens, and select the Standstill regeneration release option.
+
+Q: How do you check the hydraulic oil level?
+A: Check the hydraulic oil level in the sight glass on the left side of the machine behind the cab.
+
+Q: What should be done if the hydraulic oil level is below the low mark?
+A: Add hydraulic oil.
+
+Q: How do you add hydraulic oil?
+A: Relieve the hydraulic system pressure, remove the hydraulic tank filler cover, and add hydraulic oil until the level is between the high and low level marks.
+
+Q: What should be done before servicing the hydraulic system?
+A: Allow the hydraulic system to cool before servicing, and relieve the hydraulic system pressure.
+
+Q: How do you relieve the hydraulic system pressure?
+A: Park the machine on a level surface, lower all equipment to the ground, shut down the engine, turn the key switch to ON, fully cycle all hydraulic controls two to three times within 15 seconds, and turn the key switch to OFF.
+
+Q: What should be done with used hydraulic oil?
+A: Dispose of it in compliance with all applicable environmental regulations.
+
+Q: How do you check the driveshaft fasteners?
+A: Prepare the machine for service, turn the battery disconnect switch to OFF, chock the wheels, and inspect the front and back driveshafts for loose, missing, or damaged fasteners.
+
+Q: What should be done before inspecting the driveshaft fasteners?
+A: Make sure the engine is off, the park brake is applied, wheels are chocked, and hot surfaces have cooled to a point where they can be touched without burning.
+

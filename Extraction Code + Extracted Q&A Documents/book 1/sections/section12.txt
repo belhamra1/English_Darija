@@ -1,0 +1,101 @@
+MACHINE CONTROLS
+3-5 SW405K Wheel Loader OMMDoors and Access Covers
+NOTE: Inspect all door seals for signs of wear or damage. 
+Replace door seals as needed.
+Cab Door   
+0002501Figure 3-2
+NOTE: The cab door can be secured in the open position.
+To secure the door in the open position, press the door handle button (1), swing the door open, and firmly seat the door catch (2) into the door latch (3).
+0004850Figure 3-3
+Inspect the cab door seal (4) for signs of wear or damage. Replace the seal as needed. To close the door, 
+push the latch (5) down to release the door, and swing the door until it engages the door latch.0004851Figure 3-4
+To open the door from inside the cab, pull the door latch handle (6) back.
+Electrical Compartm ent Access Door 
+1
+0004852Figure 3-5
+1. Unlock and press the door handle button (1) to swing 
+the door open.
+0004853Figure 3-6
+2
+13
+54
+6
+2
+
+3-6MACHINE CONTROLS
+SW405K Wheel Loader OMM2. Place the support rod (2) into the bracket to prevent 
+the door from closing unexpectedly.
+0004853Figure 3-7
+3. Inspect the electrical compartment door seal (3) for 
+signs of wear or damage. Replace the seal as needed.
+4. Release the support rod. Close and lock the handle 
+before operating the machine.
+Engine Compartment Access Doors 
+0004854
+Figure 3-8:  Right side shown
+NOTE: The upper engine compartment door is supported 
+by pneumatic cylinders (not shown). The right side is shown, the left side is the same.
+1. Unlock and pull the latch (1) to open the upper 
+engine compartment door.0004855
+Figure 3-9:  Right side shown
+NOTE: The upper engine compartment door must be 
+opened, as shown, before opening the lower engine compartment door. The right side is shown, the left side is the same.
+2. Inspect the electrical compartment door seal (2) for 
+signs of wear or damage. Replace the seal as needed. Unlock and pull the latch (3) to open the lower engine compartment door.
+Diesel Exhaust Fluid (DEF) Tank 
+Access Door 
+)
+0004856Figure 3-10
+Unlock and lift the handle to open the DEF tank access 
+door (1).
+3
+1
+3
+2
+1
+
+MACHINE CONTROLS
+3-7 SW405K Wheel Loader OMMRadiator and Oil Cooler Access Door
+0004657Figure 3-11
+1. Unlock and pull the latch (1) to open the radiator and 
+oil cooler access door.
+0004857Figure 3-12
+NOTE: The radiator and oil cooler access door is 
+supported by two pneumatic cylinders (2).
+2. To access the radiator, oil cooler, and intake air 
+cooler, release the latch (4) and swing the air conditioning condenser (3) open.Battery Compartment Cover 
+0004858Figure 3-13
+1. Lift the battery compartment cover (1). NOTE: To secure the battery compartment cover, install a 
+lock through the brackets (2).
+0004859Figure 3-14
+2. Lift the battery compartment cover until the support 
+rod (3) is seated in the locked position in the bracket (4).
+1
+422
+3
+21
+34
+
+3-8MACHINE CONTROLS
+SW405K Wheel Loader OMMBattery Disconnect Switch 
+The machine is equipped with a battery disconnect 
+switch. When the switch is placed in the OFF position, 
+electrical power is disconne cted from the electrical 
+systems. Turn the power off when securing the machine 
+for the day, or as needed when performing service.
+NOTICE!
+Do not turn the battery disconnect switch off while the engine is running. This can damage the electrical system or cause the machine to operate improperly.
+To disconnect battery power from the machine:
+1. Turn the key switch to OFF.
+2. Open the battery compartment door. See “Battery 
+Compartment Cover” on page 3-7.
+0004860Figure 3-15
+3. Turn the battery disconnect switch (1) to the OFF 
+position.
+NOTE: If needed, the battery switch can be locked in the 
+OFF position by insta lling a lock through the 
+switch tab and bracket (2).
+4. Close the battery compartment door.
+1
+2
+

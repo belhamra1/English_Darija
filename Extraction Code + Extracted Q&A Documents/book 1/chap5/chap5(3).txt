@@ -1,0 +1,468 @@
+5-44MAINTENANCE
+SW405K Wheel Loader OMMCheck the Wheel Mounting Fasteners 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+0004864Figure 5-99
+NOTE: The wheel mounting fastener torque value is 
+553 lb-ft–590 lb-ft (750 N•m–800 N•m).
+3. Check for loose or damaged wheel mounting 
+fasteners (1).
+Check Tires 
+WARNING
+Replace a tire when it reaches its maximum wear limit. Use the same size and type as the original tire. An unmatched tire and wheel rim could cause damage to the tire or rim, or an explosion that could result in death or serious injury.
+As an important component of wheeled vehicles, tire 
+technologies improve traction, transition, smoothness, safety, comfort, and economy.
+Tires are the point of contact between the machine and 
+the ground. They smooth the transition on uneven ground, provide suspension, and provide traction for machine movement.
+Tires on the same axle should be the same brand, type, 
+structure, and wear. The wear of the tires should be the same to make an identical outer radius. Tires should be replaced when the tread at 1/4 in. from the tire edge is worn to a depth of 0.08 in.–0.19 in. (2 mm–5 mm).Check Tire Condition
+Before starting the machine:
+• Inspect the tires for uneven or accelerated tire wear 
+caused by mechanical problems, such as uneven brake action. Correct the problem immediately. Replace tires that are seriously worn.
+• Inspect the wheel rims for cracks, corrosion, or 
+damage. Contact a SANY dealer as necessary.
+• Check and remove debris such as glass, wood pieces, 
+metal scraps, nails, or stones from the tires.
+Check the Tire Pressure
+NOTICE!
+Contact a SANY dealer for the recommended tire inflation pressure.
+Check tire air pressure and inflate the tire when the 
+pressure is low. Consult a SANY dealer or refer to tire manufacturer information for proper tire pressure. Low pressure reduces stability a nd load capacity of the 
+machine.
+Inflate the Tires
+WARNING
+Overinflating a tire to exceed its maximum pressure, inflating a tire with improper equipment, inflating a damaged or otherwise faulty tire, or not using care during the inflation process may result in the tire exploding, causing death or serious injury.
+Obey the following guidelines for inflating tires to avoid 
+accidents:
+• The tires must be cool and the machine must be 
+unloaded when the tire pressure is being checked.
+• Do not inflate the tires if the machine has been working 
+while tire pressure wa s lower than 80% of the 
+recommended pressure, or if evident or suspected tire damage or rim damage is found, as this could prevent the tire from seating properly.
+• Use only approved wheel rim components.• If a tire has deflated, the tire must be dismounted and 
+the wheel rim inspected for damage.
+• Never strike a tire or any component during inflation.• Never partially infl ate installed tires.
+1
+
+MAINTENANCE
+5-45 SW405K Wheel Loader OMM• The tire must be inflated on a machine or in a protective 
+device that is designed and dimensioned so it can absorb or dissipate a shock wave from a tire explosion as well as catch ejected parts.
+WARNING
+Never stand in front of any tire being inflated or deflated. The lock ring and retaining ring may release and be ejected with explosive force, resulting in death or serious injury.
+• Make sure no person is ei ther standing close to or 
+passing nearby the wheels during the inflation operation.
+• Always inflate the tires to  the recommended pressure. 
+Do not exceed the recommended pressures.
+When inflating a tire:1. Make sure the lock ring and retaining ring are in the 
+correct position before inflating.
+0000900Figure 5-100
+2. Connect a self-locking pneumatic chuck with a long 
+hose (1) to the air valve of the tire.
+3. Stand to the side of the tire while inflating.4. Inflate tires to:   • Front tire 34 psi (2.37 bar)  • Rear tire 40 psi (2.75 bar)5. Tighten all wheel mounting fasteners after checking 
+and adjusting tire pressures, or if the wheel had been removed for any reason. The correct wheel mounting fastener torque specification is 553 lb-ft–590 lb-ft 
+(750 N•m–800 N•m).Inspect Service Brakes 
+The service brakes are internal to the front and rear axle assemblies.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+WARNING
+  • Risk of high pressure injection of oil through 
+skin.
+  • Residual pressure in the brake system may 
+cause oil to be released under high pressure, even if the engine has stopped running for a period of time.
+  • Before performing any type of service on the 
+brake system, make sure to relieve the brake hydraulic pressure.
+Failure to follow this warn ing can result in serious 
+injury.
+3. Press and release the brake pedal 30 to 40 times to 
+relieve the pressure in the brake accumulator.
+0005073Figure 5-101
+4. Remove the inspection port plugs (1). Each axle has 
+two inspection ports. One port is on the front side of the axle and the other is on the back side.1
+1
+
+5-46MAINTENANCE
+SW405K Wheel Loader OMM0005072Figure 5-102
+5. With the brakes in a braking state (friction plates tight 
+together), measure the clearance between the outer flanges of the two friction plates (2) using a plug or 
+feeler gauge.
+6. If the clearance between the outer flanges of the two 
+friction plates is less than 0.157 in. (4 mm), contact a SANY dealer for service.
+Check the Park Brake Pad Thickness and 
+Clearance
+The park brake is spring-applied and hydraulically 
+released when the machine is operating.
+0005077Figure 5-103
+Check park brake pad thickness:
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Measure the thickness of the park brake pads (1) on 
+both sides of the disc (2). Park brake pads worn to less than 0.125 in. (3.2 mm) must be replaced
+Check the park brake pad to disc clearance.4. With engine running, disengage the park brake. The 
+brake pad will move off the brake disc.
+5. Inspect the clearance between the park brake disc 
+and the brake pad after the first week or 50 service hours, then monthly or every 250 service hours.
+6. The park brake pad to disc clearance must be 0.020 
+in. (0.5 mm) to 0.100 in. (2.54 mm). 
+7. If the park brake pad to disc clearance is not within 
+the acceptable range, brake adjustment is required. Contact a SANY dealer for additional information.
+Check the Front and Re ar Axle Oil Level 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Chock the wheels.
+WARNING
+  • Risk of high pressure injection of oil through 
+skin.
+  • Residual pressure in the brake system may 
+cause oil to be released under high pressure, even if the engine has stopped running for a period of time.
+  • Before performing any type of service on the 
+brake system, make sure to relieve the brake hydraulic pressure.
+Failure to follow this warn ing can result in serious 
+injury.
+0004893Figure 5-104
+4. Press and release the brake pedal 30 to 40 times to 
+relieve the pressure in the brake accumulator.
+5. Remove the fill/check plug (1 ) from the fr ont (or rear) 
+axle.
+6. Check the axle oil level.
+2
+1
+2
+1
+
+MAINTENANCE
+5-47 SW405K Wheel Loader OMMNOTE: The oil level should be level with the bottom of the 
+fill/check plug hole.
+7. Add oil as necessary. See “Industrial Gear 
+Oil/Temperature Data” on page 5-7.
+8. Install the fill/check plug.
+Change the Front and Rear Axle Oil
+NOTE: Change the drive axle oil after the initial 14 days 
+or 100 hours of service, then every 6 months or 
+1000 hours thereafter.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Chock the wheels.
+WARNING
+  • Risk of high pressure injection of oil through 
+skin.
+  • Residual pressure in the brake system may 
+cause oil to be released under high pressure, even if the engine has stopped running for a period of time.
+  • Before performing any type of service on the 
+brake system, make sure to relieve the brake hydraulic pressure.
+Failure to follow this warning can result in serious 
+injury.
+0004893Figure 5-105
+4. Press and release the brake pedal 30 to 40 times to 
+relieve the pressure in the brake accumulator.
+NOTE: For axle oil capacities, see “Location, Capacity, 
+and Type” on page 5-6.5. Place an appropriately sized container under the 
+drain plug (2) on the bottom of the axle, then remove the drain plug and the fill/check plug (1).
+NOTE: Inspect the drained oil for signs of metal particles 
+and foreign material. If any abnormality is found, collect an axle oil sample and send out for testing. See “Collect Front and Rear  Axle Oil Samples” on 
+page 5-51.
+NOTICE!
+Dispose of the used oil in compliance with all applicable environmental regulations. Failure to do so could damage the environment.
+6. Install the drain plug when all of the oil has drained.
+7. Add gear oil as needed th rough the fill/check plug (2) 
+hole until it reaches the bo ttom edge of the fill/check 
+plug hole.
+Replace the Brake Line Filter 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the key switch to ON, but do not start the 
+engine.
+WARNING
+  • Risk of high pressure injection of oil through 
+skin.
+  • Residual pressure in the brake system may 
+cause oil to be released under high pressure, even if the engine has stopped running for a period of time.
+  • Before performing any type of service on the 
+brake system, make sure to relieve the brake hydraulic pressure.
+Failure to follow this warn ing can result in serious 
+injury.
+3. Press and release the brake pedal 30 to 40 times to 
+relieve the pressure in the brake accumulator.
+4. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+1
+2
+
+5-48MAINTENANCE
+SW405K Wheel Loader OMM0004872Figure 5-106
+5. The brake line filter is inside the machine frame on 
+the left side near the fr ame articulation joint. 
+NOTICE!
+Dispose of hydraulic oil and filters in accordance 
+with all applicable en vironmental regulations.
+Failure to follow this notice could damage the 
+environment.
+6. Place an appropriately sized container under the 
+brake line filter housing (2) to catch any oil that may leak out.
+7. Remove the brake line filter housing.8. Remove the brake line filter element (3) from the 
+brake line filter head (1).
+9. Clean the inside of the brake line filter housing.10. Install a new brake line filt er element onto the filter 
+head.
+11. Install and tighten the brake line filter housing.12. Turn the battery disconnect switch to ON.13. Start the engine.14. Run the engine for 10 minutes.15. Shut down the engine and check for leaks.16. Check the hydraulic oil level. “Check the Hydraulic 
+Oil Level” on page 5-35.
+Check the Transmission and Engine 
+Mounting Fasteners
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Check for loose, worn, or damaged transmission and 
+engine mounting fasteners.
+NOTE: Contact a SANY dealer if service is required.Check the Transmission Oil Level
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Chock the wheels.3. Warm the transmission oil to operating temperature.
+0004905Figure 5-107
+NOTE: Transmission oil level should be checked with 
+the engine running at idle (600 rpm) at 
+180°F–200°F (82°C–93°C).
+4. Remove the dipstick (1) fr om the transmission filler 
+tube (2).
+0000924Figure 5-108
+5. Check the transmission oil level on the dipstick. The 
+level must be between the high (3) and low (4) marks.
+NOTICE!
+Do not overfill with tran smission oil so the oil 
+level is above the high mark on the dipstick. This could result in transmission damage and improper machine operation.
+6. Shut down the engine and add transmission oil as 
+needed through the filler tube. See “Location, 
+Capacity, and Type” on page 5-6.
+1
+2
+3
+21
+43
+
+MAINTENANCE
+5-49 SW405K Wheel Loader OMM7. If transmission oil has been added, wait 2 minutes 
+before restarting the e ngine and checking the 
+transmission oil level.
+Change the Transmission Oil and Filter
+NOTE: Replace the transmission oil after the initial 
+14 days or 100 hours of service, then every 6 months or 1000 hours thereafter.
+NOTE: Collect a sample of oil fo r testing. Se e “Collect 
+Transmission Oil Sample” on page 5-52.
+WARNING
+Do not perform this task when the engine is hot. Wait for the engine to cool before proceeding. Failure to do so could result in burns or other serious injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+0004890Figure 5-109
+NOTE: For the transmission oil capacity of the 
+transmission, see “Location, Capacity, and Type” on page 5-6.
+3. Place an appropriately sized container under the 
+transmission drain plug (1).
+4. Remove the transmission drain plug.5. Install the transmission drain plug when all of the 
+transmission oil has drained.0004861Figure 5-110
+NOTICE!
+Dispose of transmission oil and filters in accordance with all applicable environmental regulations. Failure to follow this notice could damage the environment.
+NOTE: Remove all gasket residue from the mating 
+surface of the filter head. Failure to do so may result in transmission oil leakage.
+6. Place an appropriately sized container under the 
+transmission o il filter (2).
+7. Remove the transm ission oil filter.
+8. Clean the transmission oil filter mounting surface.9. Apply a thin film of transmission oil to the gasket of 
+the new transmission oil filter.
+10. Install the new transmission oil filter until the filter 
+gasket makes contact with the transmission filter mount, then tighten the transmission oil filter 3/4 of a turn.
+1
+2
+
+5-50MAINTENANCE
+SW405K Wheel Loader OMM0004905Figure 5-111
+11. Remove the dipstick (3) from the transmission filler 
+tube (4).
+12. Add the appropriate amount of transmission oil 
+through the filler tube. See “Location, Capacity, and 
+Type” on page 5-6.
+NOTICE!
+Do not overfill with tran smission oil so the oil 
+level is above the high mark on the dipstick. This could result in transmission damage and improper machine operation.
+0000924Figure 5-112
+13. Run the engine at 500–600 rpm until the 
+transmission temperature reaches 180°F–200°F (82°C–90°C). See “Transmission Information Screens” on page 3-33.
+14. Check the transmission oil level on the dipstick. The 
+level must be between the high (5) and low (6) marks.
+15. Adjust transmission oil as needed.
+Collect Oil Samples
+1. Obtain an oil analysis sample kit from a SANY dealer.2. Operate the machine unt il the lubricant in the 
+compartment being tested is up to normal operating temperature.
+CAUTION
+To make sure of the validity of the oil sample, it is critical that all the material used to collect the sample are absolutely clean.  Failure to follow this 
+caution can cause equipment damage and contaminate the sample.
+3. Send the samples for testing in accordance with the 
+instructions packaged with the sample kit.
+Collect Engine Oil Sample
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004901Figure 5-113
+4. Clean the area around the engine oil dipstick (1).5. Remove the engine oil dipstick.6. Insert the oil samp le tube into the engine oil dipstick 
+tube.
+7. Collect a sample of engine oil.8. Remove the oil sample tube.9. Replace the engine oil dipstick.
+43
+65
+1
+
+MAINTENANCE
+5-51 SW405K Wheel Loader OMMCollect Front and Rear Axle Oil Samples
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Chock the wheels.
+0004893Figure 5-114
+4. Remove the axle check/fill plug (1).5. Insert the oil sample tube  into the fill plug hole.
+6. Collect a sample of axle oil.7. Remove the oil sample tube.8. Replace the O-ring on the check/fill plug.9. Install the axle check/fill plug.10. Repeat the procedure for the other axle.
+Collect Hydraulic Oil Sample
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Relieve the hydraulic system pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.0002515Figure 5-115
+4. Remove four fasteners (3) and remove the access 
+panel (4).
+0002714Figure 5-116
+NOTE: The hydraulic tank  filler cover may move up while 
+the fasteners are loosened due to the action of an internal spring.
+5. Slowly remove the fasteners (6) while pressing down 
+on the hydraulic ta nk filler cover (5).
+NOTICE!
+Block the filler opening whenever the cover is 
+removed to prevent dirt and debris from entering the hydraulic tank.
+6. Remove the hydraulic  tank filler cover.
+1
+43
+3
+5
+6
+6
+
+5-52MAINTENANCE
+SW405K Wheel Loader OMM0002715Figure 5-117
+7. Insert the oil sample tube into the hydraulic oil tank.8. Collect a sample of hydraulic oil.9. Remove the oil sample tube.10. Remove and install a new O-ring (7). 11. Install the hydraulic tank filler cover.12. Install the access panel.
+Collect Transmission Oil Sample
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+0000897Figure 5-118
+3. Remove the transmission oil dipstick (1) from the 
+filler tube (2).
+4. Insert the oil sample tu be into the dipstick tube.
+5. Collect a sample of transmission oil.
+6. Remove the oil sample tube.7. Replace the transmission oil dipstick.
+7
+1
+2
+
+MAINTENANCE
+5-53 SW405K Wheel Loader OMMLubricate the Machine
+0004889Figure 5-119
+Apply grease to the fittings on the driveshaft, articulating 
+joint, and the work equipment according to the lubrication chart on the machine.
+NOTICE!
+Always use clean EP (extreme pressure) grease when lubricating the machine. Avoid using 
+low-viscosity greases. SANY recommends greases designed for:
+  • Heavy-duty bearings and general lubrication.
+  • Heavy-duty plain and rolling element bearings 
+operating under severe conditions, including shock loading in wet environments.1) Bucket cylinder grease fitting – base end 9) Lift cylinder grease fitting – base end (both sides)
+2) Steering cylinders grease fitting – rod end (both sides) 10) Center link-to-link arm grease fitting3) Steering cylinders grease fitting – base end 11) Boom-to-bucket grease fitting
+4) Rear axle pivot bearing grease fitting – front 12) Boom-to-bucket grease fitting
+5) Rear axle pivot bearing grease fitting – rear 13) Lift cylinder-to-lift arm grease fitting (both sides)6) Upper articulation joint grease fitting 14) Bell crank link grease fitting
+7) Driveshaft grease fittings 15) Bucket cylinder grease fitting – rod end
+8) Lower articulation joint grease fitting 16) Boom-to-frame grease fitting (both sides)15
+14
+13
+12
+112 3
+971
+1016
+64
+85
+
+5-54MAINTENANCE
+SW405K Wheel Loader OMMCab
+Check the Windshield Wiper and Rear 
+Window Wiper Operation
+0004695Figure 5-120
+1. Inspect the condition of the windshield wiper blade 
+(1) and replace as necessary.
+0004700Figure 5-121
+2. Inspect the condition of the rear window wiper blade 
+(2) and replace as necessary.
+3. Check the operation of the front windshield and rear 
+window wipers.Check Windshield Washer Fluid Level
+0004861Figure 5-122
+The windshield washer fluid tank (1) is on the left side at 
+the articulation joint. Add washer fluid as needed.
+Check the Escape Tool
+0004834Figure 5-123
+Make sure the escape tool (1) is in the bracket mounted 
+on the back wall of the cab. Replace the escape tool if it is missing or damaged.
+1
+2
+1
+1
+
+MAINTENANCE
+5-55 SW405K Wheel Loader OMMCheck the Fire Extinguisher
+0004835Figure 5-124
+NOTICE!
+  • Always keep the fire extinguisher in the cab.
+  • Read the instructions on the fire extinguisher 
+carefully and know how to use it in an emergency.
+  • Inspect the condition of the fire extinguisher 
+daily. Replace it immediately if damaged.
+  • Make sure the fire extinguisher is within the 
+listed inspection period. Re place it immediately if 
+it has reached its expiration date.
+The fire extinguisher (1) is to the right of the operator 
+seat.
+The fire extinguisher must be at least a 2.5 lb. Class ABC 
+rated fire extinguisher (National Fire Protection Association [NFPA] 10 Standard for Portable Fire Extinguishers).
+Check Machine Exterior
+Check Safety Decals
+All safety and warning deca ls must be in place, 
+undamaged, and visible. When replacing decals, make sure they are placed in the proper locations.
+Contact a SANY dealer for replacement decals or for 
+questions about their meaning and placement.
+Check Sheet Metal
+Check for loose sheet metal panels and covers, loose connections, or missing fasteners.
+Repair or replace sheet metal parts as needed using 
+SANY-approved parts.Check for Fluid Leaks
+WARNING
+Never use hands to check or feel for fluid leaks. Always wear safety glasses and protective gloves and use a piece of wood or cardboard to check for leaks. Failure to follow this warning could cause 
+death or serious injury.
+Starting at the cab, walk ar ound the machine checking for 
+fluid leak(s). If leak(s) are found, repair as necessary. Contact a SANY dealer if any abnormalities are found.
+Work Equipment
+Check the Work Equipment Mounting 
+Fasteners
+0005076Figure 5-125
+NOTE: Image shows right side of work equipment, 
+left side is similar.
+1. Check the work equipment for loose, worn, or 
+damaged mounting fasteners (1).
+2. Contact a SANY dealer if service is required.
+1
+1
+1
+

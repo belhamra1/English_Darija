@@ -1,0 +1,167 @@
+MACHINE OPERATION
+4-5 SW405K Wheel Loader OMMStarting the Engine
+WARNING
+  • Confirm that the surrounding area is clear of 
+personnel and obstructions, and sound the horn before starting the engine.
+  • Always start the engine from the operator seat. 
+Never start the engine by shorting the starter solenoid or starter relay.
+  • Never use ether starting fluid to start the engine. 
+Ether is highly flammable and can cause a fire or an explosion.
+  • Exhaust gas contains carbon monoxide. Carbon 
+monoxide is an invisible and odorless gas, and is toxic. Provide adequate ventilation when starting 
+the engine in a confined space.
+Failure to follow these warnings could result in 
+death or serious injury.
+NOTICE!
+Never crank the engine for more than 15 seconds. If the engine fails to start after 15 seconds, stop and allow the starter motor to cool for at least 2 minutes before attempting another start. If the engine fails to start after five attempts, contact a SANY dealer.
+Failure to follow this notice could damage the machine or 
+cause it to operate improperly. 
+0004620Figure 4-5
+1. Make sure all daily maintenance check have been 
+completed. See “Daily or Every 10 Hours” on page 5-9 for required daily maintenance check items.2. Turn the battery disconnect switch to ON. See 
+“Battery Disconnect Switch” on page 3-8.
+3. When in the operator seat, buckle the seat belt. See 
+“Seat Belt” on page 3-18.
+4. Make sure that the joystick (2) and joystick 
+Forward-Neutral-Reverse (F-N-R) rocker switch (1) are in N (neutral position).
+NOTE: The joystick should move fr eely and return to the 
+neutral position when released.
+0004618Figure 4-6
+5. Move the transmission control lever (3) to the N 
+(neutral) position.
+0000962Figure 4-7
+6. Turn the key switch (4) to ON. See “Key Switch” on 
+page 3-16.
+7. Turn the key switch to START. When the engine 
+starts, immediately release the key and it will return 
+to the ON position.
+NOTICE!
+Never crank the engine for more than 15 seconds. If the engine fails to start after 15 seconds, stop and allow the starter motor to cool for at least 2 minutes before attempting another start. If the engine fails to start after five attempts, contact a SANY dealer. Failure to follow this notice could damage the machine or cause it to operate improperly.
+21
+3
+4
+
+4-6MACHINE OPERATION
+SW405K Wheel Loader OMM8. After the engine starts, immediately check for black 
+exhaust smoke, very loud noise, or excessive vibration.
+NOTE: Shutdown the engine immediately by turning the 
+key switch to OFF or by pressing the emergency stop switch on the right control console, if any of these items are observed and contact a SANY dealer.
+9. Check the monitor for any failure codes.
+NOTE: Shutdown the engine immediat ely if a failure code 
+is shown on the display screen and contact a SANY dealer.
+Jump-Start the Engine
+WARNING
+Before proceeding with any battery maintenance procedure, observe the following precautions:
+  • Battery gases are explosive. Never smoke 
+around batteries or expose them to sparks or open flames. Work in a well-ventilated area.
+  • Wear personal protective equipment (PPE) when 
+working with batteries.
+  • When working with any live electrical power 
+circuit, make sure to remove any metal objects 
+(rings, watches, jewelry, etc.) that could come in contact with electrical circuits and cause a short-circuit.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+NOTICE!
+  • The starting system voltage and the battery 
+voltage in the boosting machine should be no more than 24V. Never use a welder or equipment with a higher voltage system to jump-start the machine. Using higher volt age to jump-start the 
+engine may damage the electrical system or cause an unexpected explosion or fire. Always jump-start the engine with equal voltages.
+  • The jumper cables and their clamps must be 
+undamaged, free of corrosion, suitable for the battery amperage, and securely attached.
+  • All machine controls mu st be set in their neutral 
+position.
+  • Use caution when disconnecting jumper cables 
+after both engines are running. Never allow the jumper cable clamps to touch each other.
+Failure to follow this notice could damage the 
+machine or cause it to operate improperly.1. Make sure the key switch is in the OFF position on 
+both machines.
+2. Clamp one end of a jumper cable to the positive (+) 
+terminal of the drained battery.
+3. Clamp the other end of the same jumper cable to the 
+positive (+) terminal of the charged battery.
+4. Clamp one end of a second jumper cable to the 
+ground (-) terminal of the charged battery.
+5. Clamp the other end of the second jumper cable to 
+the negative (-) terminal or an unpainted part of the structure of the machine with the drained battery.
+6. Start the engine of the machine with the charged 
+battery and run it at medium speed. See “Starting the Engine” on page 4-5.
+7. Attempt to start the engine of the machine with the 
+drained battery. Retry every 3 minutes if the engine will not start.
+NOTE: Contact a SANY dealer if the engine will not start 
+after five attempts.
+8. Disconnect the jumper cables from the machine that 
+had the drained battery in reverse of how they were installed.
+9. Disconnect the jumper cables from the machine with 
+the charged battery in the same way.
+Warm-Up Operation
+WARNING
+  • In case of emergency, irregular engine operation, 
+or other faults, turn the key switch to OFF or press the emergency stop switch to stop the engine.
+  • Do not operate the machine immediately after 
+starting the engine. Insufficient warm-up of the machine and hydraulic oil may cause slow control response or ab rupt movement during 
+operation, resulting in serious accidents. Warm-up is especially ne cessary in cold areas.
+Failure to follow these warnings could result in 
+death or serious injury.
+NOTICE!
+Never over-rev the engine during the warm-up period, which could result in damage to the engine bearings, pistons, and valves. Failure to follow this notice could damage the engine or cause it to operate improperly.
+1. Start the engine. See “Starting the Engine” on 
+page 4-5.
+2. Check for black exhaust smoke, very loud noise, or 
+excessive vibration.
+
+MACHINE OPERATION
+4-7 SW405K Wheel Loader OMMNOTE: If these conditions are observed, shutdown the 
+engine immediately and contact a SANY dealer.
+3. Run the engine at low idle for approximately 
+5 minutes.
+4. Operate all control levers in sequence to verify 
+proper function and operation.
+5. If the hydraulic system responds slowly, continue to 
+run the engine at low idle for a longer warm-up period.
+6. With the machine running, observe the various 
+gauges and displays. Continue the warm-up until engine temperature reaches 140°F (60°C), the coolant temperature reaches 176°F–212°F 
+(80°C–100°C), and hydraulic oil reaches normal operating temperature of 122°F–158°F 
+(50°C–70°C) before beginning operation.
+7. Proceed with normal operations.
+Idle the Engine
+Idling the engine for long periods wastes fuel, and causes 
+carbon formation, oil dilution, formation of lacquer or gummy deposits on the valves , pistons, and rings, and 
+rapid accumulation of sludge in the engine.
+Allow the engine to run at low idle until the engine coolant 
+temperature reaches 140°F (60°C) before beginning operation.
+New Machine Break-In
+NOTE: The machine has been thoroughly tested and 
+adjusted before shipme nt. However, initial 
+operation of the machine under severe conditions can adversely affect the performance of the new machine or shorten the machine life. SANY recommends a break-in period of 100 service 
+hours for a new machine. Properly breaking-in a 
+new machine is crucial fo r long service life by 
+allowing time for internal engine parts to break-in. Make sure the machine is in normal working condition before proceeding with the break-in.
+1. Start and run the engine at low idle until it reaches 
+proper operating temperatures. Do not move the controls.
+2. Avoid operating the machine under heavy loads or at 
+high speeds during the break-in period. Operate as much as possible in the 1/2 to 3/4 throttle or load range. Do not operate this machine with a full load during the break-in period.
+3. Avoid sudden starts, movements, or stops except in 
+an emergency.
+4. Monitor the instruments frequently – especially the 
+engine oil pressure and engine coolant temperature. Shutdown the machine at the first indication of an abnormal reading.5. Avoid running the engine at low idle for long periods 
+of time.
+6. Manage engine power to allow acceleration to 
+governed speed when conditions require more power. Do not over-rev the engine.
+7. Always allow the engine to cool before shutting it 
+down.
+8. After shutting down the engine, check all fluid levels.
+Engine Shutdown
+NOTICE!
+  • Stopping the engine before it cools can 
+accelerate engine component wear. Never abruptly shutdown the engine, except in an emergency.
+  • Never stop the engine suddenly when it is 
+overheated. Run the engine at low idle to allow the engine to cool down gradually before shutting down the engine.
+Failure to follow this notice could damage the 
+machine or cause it to operate improperly.
+1. Park the machine on a flat, level, and stable surface.
+2. Lower the bucket to the ground.
+0004620Figure 4-8
+3. Move the joystick (1) to the neutral position.
+NOTE: The joystick should move fr eely and return to the 
+neutral position when released.
+1
+

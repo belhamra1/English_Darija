@@ -1,0 +1,78 @@
+Q: What is the maximum allowable water depth for operating the machine in water?
+A: 2 ft. (0.6 m)
+
+Q: What should be done before operating the machine in water?
+A: Make sure the foundation of the work site is strong enough to properly support the machine.
+
+Q: What should be done after operating the machine in water?
+A: Lubricate all lubrication points below the water line and check that no water enters the transmission or axles.
+
+Q: What is the recommended procedure for loading loose material?
+A: Use the general purpose bucket loading method as described in the manual.
+
+Q: What is the recommended procedure for loading hard materials or materials with greater density?
+A: Use the multipurpose bucket loading method as described in the manual.
+
+Q: How should the bucket be positioned for carrying material?
+A: The bucket should be 20 in. (508 mm) above the ground with the bucket rolled back to allow the loader to move smoothly and avoid spillage.
+
+Q: What should be done if the loader gets stuck in mud or soft ground?
+A: Attempt to free it by reversing the direction of travel and turning the steering wheel back and forth to its limit while the machine is reversing.
+
+Q: What is the recommended procedure for dumping material into a truck or hopper?
+A: Use the dumping procedure as described in the manual.
+
+Q: What should be done after daily operation to prevent moisture in the fuel tank from condensing at low temperatures?
+A: Fill the fuel tank to its maximum level.
+
+Q: What should be done to remove mud and water from the machine after daily operation?
+A: Remove mud and water from the machine and park the machine on a firm, dry surface.
+
+Q: What is the recommended procedure for storing the machine for a long period of time?
+A: Follow the long-term storage preparation and during storage procedures as described in the manual.
+
+Q: What should be done before transporting the machine?
+A: Confirm the length, width, height, and weight capacity of the trailer before loading and investigate the road conditions in advance.
+
+Q: What should be done to secure the machine during transportation?
+A: Lower the radio antenna and position the rearview mirror inward towards the cab, secure any removed parts to the trailer, and secure chains and wire ropes to the machine frame.
+
+Q: What should be done when unloading the machine?
+A: Follow the unloading procedure as described in the manual.
+
+Q: What should be done if the engine fails to start after 15 seconds?
+A: Stop and allow the starter motor to cool for at least 2 minutes before attempting another start. If the engine fails to start after five attempts, contact a SANY dealer.
+
+Q: How long should the machine be run at low idle after starting the engine in cold weather?
+A: 7-10 minutes.
+
+Q: What should be done if the machine is parked on an incline and the cab door is open?
+A: The cab door should be closed and secured in either the open or closed position to prevent it from opening or closing unexpectedly.
+
+Q: What should be done to prevent the machine from tipping over when traveling on a slope?
+A: Always check the firmness of the inclined surface before attempting to travel on it, and avoid turning on an incline or making sudden stops.
+
+Q: What should be done if the engine stalls on a slope?
+A: Lower the bucket to the ground and restart the engine.
+
+Q: What should be done before operating the machine in cold weather?
+A: Follow the cold weather operation procedures as described in the manual, including using the correct grade of oil and diesel fuel, and performing the warm-up procedure.
+
+Q: What should be done to keep the battery charged and in a warm area in cold climates?
+A: Keep the battery charged near 100% and in a warm area if possible.
+
+Q: What should be done if a failure code is shown on the display screen after starting the engine?
+A: Shutdown the engine immediately and contact a SANY dealer.
+
+Q: What should be done if black exhaust smoke, very loud noise, or excessive vibration is observed after starting the engine?
+A: Shutdown the engine immediately and contact a SANY dealer.
+
+Q: What should be done to break in a new machine?
+A: Follow the break-in procedure as described in the manual.
+
+Q: What should be done to prevent the machine from operating improperly due to cold weather?
+A: Follow the cold weather operation procedures as described in the manual.
+
+Q: What should be done to prevent damage to the hydraulic system in ambient temperatures below 32°F (0°C)?
+A: Perform the warm-up procedure as described in the manual.
+

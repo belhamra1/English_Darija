@@ -1,0 +1,777 @@
+3-4MACHINE CONTROLS
+SW405K Wheel Loader OMMComponent Location 
+0000855Figure 3-1
+1) Bell crank 11) Diesel exhaust fluid (DEF) tank (right side of the machine)
+2) Boom 12) Counterweight3) Boom cylinders 13) Battery compartment
+4) Bucket cylinder 14) Fuel tank filler cap (right side of the machine)
+5) Headlights, turn signals, and horn 15) Rear tire and wheel6) Front frame 16) Rear frame
+7) Cab 17) Steps
+8) Hydraulic oil tank 18) Articulation joint9) Engine compartment 19) Front tire and wheel
+10) Backup camera (back of the machine) 20) Bucket12458
+9
+12
+13
+15
+201967
+1617 18113
+1410
+
+MACHINE CONTROLS
+3-5 SW405K Wheel Loader OMMDoors and Access Covers
+NOTE: Inspect all door seals for signs of wear or damage. 
+Replace door seals as needed.
+Cab Door   
+0002501Figure 3-2
+NOTE: The cab door can be secured in the open position.
+To secure the door in the open position, press the door handle button (1), swing the door open, and firmly seat the door catch (2) into the door latch (3).
+0004850Figure 3-3
+Inspect the cab door seal (4) for signs of wear or damage. Replace the seal as needed. To close the door, 
+push the latch (5) down to release the door, and swing the door until it engages the door latch.0004851Figure 3-4
+To open the door from inside the cab, pull the door latch handle (6) back.
+Electrical Compartm ent Access Door 
+1
+0004852Figure 3-5
+1. Unlock and press the door handle button (1) to swing 
+the door open.
+0004853Figure 3-6
+2
+13
+54
+6
+2
+
+3-6MACHINE CONTROLS
+SW405K Wheel Loader OMM2. Place the support rod (2) into the bracket to prevent 
+the door from closing unexpectedly.
+0004853Figure 3-7
+3. Inspect the electrical compartment door seal (3) for 
+signs of wear or damage. Replace the seal as needed.
+4. Release the support rod. Close and lock the handle 
+before operating the machine.
+Engine Compartment Access Doors 
+0004854
+Figure 3-8:  Right side shown
+NOTE: The upper engine compartment door is supported 
+by pneumatic cylinders (not shown). The right side is shown, the left side is the same.
+1. Unlock and pull the latch (1) to open the upper 
+engine compartment door.0004855
+Figure 3-9:  Right side shown
+NOTE: The upper engine compartment door must be 
+opened, as shown, before opening the lower engine compartment door. The right side is shown, the left side is the same.
+2. Inspect the electrical compartment door seal (2) for 
+signs of wear or damage. Replace the seal as needed. Unlock and pull the latch (3) to open the lower engine compartment door.
+Diesel Exhaust Fluid (DEF) Tank 
+Access Door 
+)
+0004856Figure 3-10
+Unlock and lift the handle to open the DEF tank access 
+door (1).
+3
+1
+3
+2
+1
+
+MACHINE CONTROLS
+3-7 SW405K Wheel Loader OMMRadiator and Oil Cooler Access Door
+0004657Figure 3-11
+1. Unlock and pull the latch (1) to open the radiator and 
+oil cooler access door.
+0004857Figure 3-12
+NOTE: The radiator and oil cooler access door is 
+supported by two pneumatic cylinders (2).
+2. To access the radiator, oil cooler, and intake air 
+cooler, release the latch (4) and swing the air conditioning condenser (3) open.Battery Compartment Cover 
+0004858Figure 3-13
+1. Lift the battery compartment cover (1). NOTE: To secure the battery compartment cover, install a 
+lock through the brackets (2).
+0004859Figure 3-14
+2. Lift the battery compartment cover until the support 
+rod (3) is seated in the locked position in the bracket (4).
+1
+422
+3
+21
+34
+
+3-8MACHINE CONTROLS
+SW405K Wheel Loader OMMBattery Disconnect Switch 
+The machine is equipped with a battery disconnect 
+switch. When the switch is placed in the OFF position, 
+electrical power is disconne cted from the electrical 
+systems. Turn the power off when securing the machine 
+for the day, or as needed when performing service.
+NOTICE!
+Do not turn the battery disconnect switch off while the engine is running. This can damage the electrical system or cause the machine to operate improperly.
+To disconnect battery power from the machine:
+1. Turn the key switch to OFF.
+2. Open the battery compartment door. See “Battery 
+Compartment Cover” on page 3-7.
+0004860Figure 3-15
+3. Turn the battery disconnect switch (1) to the OFF 
+position.
+NOTE: If needed, the battery switch can be locked in the 
+OFF position by insta lling a lock through the 
+switch tab and bracket (2).
+4. Close the battery compartment door.
+1
+2
+
+MACHINE CONTROLS
+3-9 SW405K Wheel Loader OMMCab 
+0004661Figure 3-16
+1) Front control console 10) Joystick controller
+2) Steering wheel 11) Steering column tilt lock lever
+3) Lower front switch panel 12) Neutral lock lever
+4) Upper switch panel 13) Accelerator pedal5) Lower rear switch panel 14) Right brake pedal
+6) Key switch/transmission shift selector dial panel 15) Transmission control lever
+7) Climate control panel 16) Left brake pedal8) Seat 17) Differential lock switch
+9) Armrest
+128
+74
+63
+13
+14
+17910
+1511
+12
+165
+
+3-10MACHINE CONTROLS
+SW405K Wheel Loader OMMAccelerator Pedal
+1
+0004846Figure 3-17
+The accelerator pedal (1) is used to adjust engine speed.
+Press the accelerator pedal to increase engine speed, 
+and release the accelerator pedal to decrease engine speed.
+Front Differential Lock Switch 
+0004847Figure 3-18
+The front differential lock switch (1) is on the far left on the floor of the cab.
+When added traction is needed for off-road operations, 
+such as operating on gravel, mud, or snow, the front differential lock can be engaged.
+Press and hold the switch to engage the front differential 
+lock and release the switch to disengage it.Right and Left Brake Pedals 
+0004664Figure 3-19
+Press the left or right service brake pedals (1) to apply the service brakes to slow or stop the machine. The pedals are coupled, and either pedal can be used to slow or stop the machine.
+In the case of engine failure, the accumulator can provide 
+a limited supply of pressurized hydraulic oil for emergency braking.
+Front Console
+0004848Figure 3-20
+The front console houses the monitor (1), which displays 
+various machine operational parameters and the operating system menu screens.
+1
+1
+1
+
+MACHINE CONTROLS
+3-11 SW405K Wheel Loader OMMSteering Wheel 
+0004668Figure 3-21
+The steering wheel (1) controls  the machine’s direction of 
+travel. A steering knob (2) is mounted on the steering wheel to provide one-hand operation when needed. 
+NOTE: The machine is equipped with an emergency 
+steering feature that allo ws steering for a limited 
+amount of time after the engine has stopped, to safely control and stop the machine.
+Steering Column Tilt Lock
+0004618Figure 3-22
+The steering column tilt lock (1) is on the right side of the 
+steering column behind the steering wheel. Press the steering column tilt lock down to position the steering wheel for operator comfort. Release the steering column tilt lock to secure the st eering column in the desired 
+position.Transmission Control Lever 
+ 
+0004618Figure 3-23
+The transmission control lever (1) is on the left side of the 
+steering column behind the steering wheel.
+The transmission control lever can be locked in the 
+neutral position by the neutral lock (2).
+Move the transmission control lever up to select forward 
+travel, down for reverse travel , or to the middle for the 
+neutral position:
+• Forward – The machine will move forward with the 
+transmission control lever at the F (forward) position and the engine running.
+• Reverse – The machine will move backward with the 
+transmission control lever at  the R (reverse) position 
+and the engine running.
+• Neutral – The machine remains stationary with 
+transmission control lever at the N (neutral) position and the engine running.
+NOTE: The engine can be started only when both the 
+transmission control leve r and the joystick F-N-R 
+rocker switch are in the neutral position.
+1
+2
+1
+1
+2
+
+3-12MACHINE CONTROLS
+SW405K Wheel Loader OMMTransmission Gear Selection 
+0004618Figure 3-24
+Shift gears by rotating the transmission control lever (1) 
+until the arrow on the lever points to the desired gear 
+(1, 2, 3, or 4).
+Forced Downshifting 
+0004618
+Figure 3-25
+The forced downshifting function is operated by the 
+kickdown (KD) button (1), located on the end of the transmission control lever.
+When the transmission is set to either the second forward 
+(F2) or second reverse (R2) position, pressing the KD button downshifts the transmissi on to first forward (F1) or 
+first reverse (R1).
+The combined use of the KD button function and the 
+direction downshifting function makes shifting operation much easier during bucket loading operation.NOTES:
+•  As an example, with the loader approaching the 
+material pile in F2 (second forward) speed, pressing the KD button downshifts the transmission to F1.
+•With the bucket fully load ed and the control in F2, 
+moving the transmission control lever down to the R position changes the transmission to the R2 speed automatically.
+•This allows the loader to reverse at R2 speed and 
+improve operational efficiency.
+0004694
+Figure 3-26
+The KD button (2) on the joystick can also be used to 
+select forced downsh ifting, if desired.
+1
+1
+2
+
+MACHINE CONTROLS
+3-13 SW405K Wheel Loader OMMJoystick  
+0005090, 0000872, 0004694Figure 3-27
+Joystick F-N-R Rocker Switch
+NOTES:
+•  Machine direction can always be controlled by the 
+transmission control lever on the left side of the steering column. The transmission control lever overrides the joystick F-N-R switch.
+•When overridden, the joystick switch must be 
+moved to neutral before selecting the required direction of operation.
+Use the joystick forward/reverse enable switch, located 
+on the lower rear switch panel (not shown), to enable or disable the joystick F-N-R rocker switch (1). See “Joystick Forward/Reverse Enable/Disable Switch” on page 3-16.
+• The Joystick F-N-R rocker switch is disabled when 
+the switch LED above F on the joystick forward/reverse enable/di sable switch illuminates.• The Joystick F-N-R rocker switch is enabled when 
+the switch LED above R on the joystick forward/reverse enable/di sable switch illuminates.
+NOTE: The adjustable armrest (4) is provided for the 
+comfort of the operator.
+Horn Button
+The horn button (2) is on top of the joystick. Press the horn button to sound the horn. 
+Kickdown (KD) Button
+The KD button (3) is on top of the joystick. Press the KD button to select the forced  downshifting function. See 
+“Forced Downshifting” on page 3-12.
+KDForward
+ReverseNeutral2
+1
+3
+4
+
+3-14MACHINE CONTROLS
+SW405K Wheel Loader OMMRight Console 
+0000874Figure 3-28
+The right console includes t he upper switch panel (1), 
+lower front switch panel (2), lower rear switch panel (3), 
+transmission shift selector dial  (4), key switch (5), and 
+climate control panel (6).
+Upper Switch Panel
+0004621Figure 3-29
+Cigarette Lighter
+NOTICE!
+The cigarette lighter socket provides 24V current. Do not use the cigarette lighter socket to run or charge 12-volt devices. Failure to follow this notice could result in equipment damage.
+Press in the cigarette lighter (1) to activate the lighter. 
+The lighter will pop out when it is ready to be used.
+Park Brake Switch 
+The park brake switch rocker switch (2) has two positions 
+to enable or disable the park brake. Press and hold the yellow unlock button down to move the park brake switch to the enable position.Quick Coupler Switch
+The quick coupler rocker switch (3) engages and disengages the quick coupler,  if equipped. Contact a 
+SANY dealer for additional information.
+Engine Diagnostic Switch
+When pressed, the engine diagnostic rocker switch (4) momentarily displays current engine faults (if any are present).
+Emergency Stop Switch
+If an emergency stop and quick shutdown is required, or the engine cannot be stopped normally, use the emergency stop rocker switch (5). Press and hold the yellow unlock button down to move the engine stop switch, shutting the engine down.
+Auxiliary Power Supply Socket (12V) 
+The auxiliary power supply socket  (6) is used to charge 
+or operate 12V electronic devices.
+Lower Front Switch Panel
+0004849Figure 3-30
+Battery Discharge Indicator Lamp
+The battery discharge indica tor lamp (1) illuminates if 
+there is a fault in the charging system.
+Right Turn Signal Switch
+Press the right turn signal swit ch (2) to activate the right 
+front and rear turn signals.  The switch LED illuminates 
+while the turn signal is activated.
+NOTE: Pressing the right turn si gnal switch automatically 
+deactivates the left turn signals if on.
+Cab Mounted Front/Rear Work Light Switch
+The front/rear work light switch (3) will operate the front 
+and rear work lights:
+1
+2 456
+3
+1 2 4 5 3 6
+1
+92 3 4 5
+8 7 6 10
+
+MACHINE CONTROLS
+3-15 SW405K Wheel Loader OMM• When the front/rear work light switch is pressed, the 
+left switch LED illuminates,  and only the front work 
+lights turn on.
+• When the front/rear work light switch is pressed 
+again, the left and right switch LEDs illuminate and 
+the front and rear work lights turn on.
+NOTE: Pressing the front/ rear work lights switch again will 
+toggle between front and rear work lights.
+• Press and hold the front/rear work light switch to turn 
+the front/rear work lights off.
+Windshield Washer Switch
+The windshield washer switch  (4) will spray windshield 
+washer fluid onto the windshield.
+• Press and hold the windshield washer fluid switch to 
+spray washer fluid onto the windshield. When the windshield washer switch is pressed, the switch LED illuminates.
+• Release the windshield wa sher switch. The switch 
+LED turns off and the windshield washer fluid spray stops.
+Rear Window Washer Switch
+The rear window was her switch (5) will spray windshield 
+washer fluid onto the rear window.
+• Press and hold the rear window washer fluid switch 
+to spray washer fluid onto the rear window. When the rear window washer switch is pressed, the switch LED illuminates.
+• Release the rear window wa sher switch. The switch 
+LED turns off and the rear window washer fluid spray stops.
+Rear Window Wiper Switch
+The rear window wiper switch  (6) will operate the rear 
+window wiper.
+• When the rear window wiper switch is pressed, the 
+left switch LED illuminate s and the rear window 
+wiper operates at slow speed.
+• When the rear window wiper switch is pressed 
+again, the center switch  LED illuminates and the 
+rear window wiper operates at high speed.
+• When the rear window wiper switch is pressed three 
+times, the left switch LE D illuminates and the rear 
+window wiper operates at low speed.
+• Press and hold the rear window wiper switch. The 
+rear window wiper stops to the right side of rear window, and the right switch LED illuminates.Windshield Wiper Switch
+The windshield wiper swit ch (7) will operate the 
+windshield wiper.
+• When the windshield wiper switch is pressed, the 
+left switch LED illuminates and the windshield wiper 
+operates at slow speed.
+• When the windshield wiper switch is pressed again, 
+the center switch LE D illuminates and the 
+windshield wiper operates at high speed.
+• When the windshield wiper switch is pressed three 
+times, the left switch LE D illuminates and the wiper 
+operates at slow speed.
+• Press and hold the windshield wiper switch. The 
+windshield wiper stops to the right side of windshield, and the righ t switch LED illuminates.
+Headlight/Taillight Switch
+The headlight/taillight switch (8 ) will operate the headlight 
+and rear taillights.
+• When the headlight /taillight switch is pressed, the 
+left switch LED illuminates and  only the fr ont marker 
+lights and taillights turn on.
+• When the headlight/taillight s witch is pressed again, 
+the left and cent er switch LEDs illuminate and the 
+headlights turn on.
+• When the headlight /taillight switch is pressed three 
+times, the left and right switch LEDs illuminate and 
+the headlights change to high-beam mode.
+• When the headlight /taillight switch is pressed four 
+times, the left and center switch LEDs illuminate and 
+the headlights change to low-beam mode.
+• Press and hold the head light/taillight switch. The 
+switch LEDs, headlights,  and taillights turn off.
+Left Turn Signal Switch
+Press the left turn signal swit ch (9) to activate the left 
+front and rear turn signals.  The switch LED illuminates 
+while the turn signal is activated.
+NOTE: Pressing the left turn sig nal switch deactivates the 
+right turn signals if on.
+Warning Indicator Light
+The warning indicator light (1 0) illuminates red when the 
+engine or transmission detects a serious condition that requires immediate attention. Shut down the engine immediately. Contact a SANY dealer for additional information.
+
+3-16MACHINE CONTROLS
+SW405K Wheel Loader OMMLower Rear Switch Panel
+0000980Figure 3-31
+Hydraulic System Lockout Switch
+The hydraulic system lockout switch (1) enables and 
+disables the boom and bucket functions controlled by the joystick.
+NOTE: The joystick F-N-R rocker switch and buttons are 
+not affected by this switch.
+Beacon Light Switch 
+The beacon light switch (2 ) will operate the flashing 
+beacon light mounted on the cab roof.
+• When the beacon light swit ch is pressed once, the 
+beacon light and s witch LED illuminate.
+• When the beacon light switch is pressed again, the 
+beacon light and switch LED turn off.
+Return-to-Dig Enable Switch
+The return-to-dig enable swit ch (3) will enable or disable 
+the loader bucket and boom back to the dig position. Enabling this switch will allo w the bucket and boom to 
+automatically return to a se t position. See “Bucket Down 
+to Horizontal Screen” on page 3-41 for return-to-dig calibration steps.
+Clutch Cutoff Switch 
+The clutch cutoff switch (4) will automatically shift the transmission to neutral when either brake pedal is pressed.
+Ride Control Enable Switch
+Press and release the ride control enable switch (5) to enable or disable ride control while traveling over rough terrain by damping boom movement. When enabled, the switch LED illuminates.
+See “Ride Control System Screen” on page 3-41 for ride 
+control system operation.Bucket Height St op Enable Switch
+Use the bucket height stop enable switch (6) to enable or 
+disable the bucket height st op. Enabling this switch will 
+limit the bucket height to a set position. See “Position 
+Limit Calibration Screen” on page 3-40 for calibration steps.
+Hazard Light Switch   
+The hazard light s witch (7) will operate the front and rear 
+flashing warning lights. The switch LED flashes while the hazard lights are on.
+Joystick Forward/Reverse Enable/Disable Switch
+NOTE: The machine direction can always be controlled 
+by the transmission control lever on the left side of the steering column. The transmission control lever overrides the jo ystick forward/reverse 
+enable/disable switch function selected.
+Use the joystick forward/reverse enable switch (8) to 
+enable or disable the joystick F-N-R rocker switch.
+• When the joystick F-N-R rocker switch is disabled, 
+the switch LED above F is on.
+• When the joystick F-N-R rocker switch is enabled, 
+the switch LED above R is on.
+Key Switch   
+0000962Figure 3-32
+The key switch (1) ha s four key positions:
+• OFF – This position shuts down the engine and the 
+electrical current. The key can be inserted or removed in this position.
+• HEAT – Hold the key in this position to preheat the 
+engine for cold-weather starting as required. The key returns to OFF when released.
+• ON – This position allo ws the engine to remain 
+running (if already started)  and provides electrical 
+current to the va rious electrical system switches.
+• START – Hold the key at th is position to start the 
+engine. Immediately release it after the engine has started. The key returns to ON.
+1 2 3 4
+5 6 7 8
+1
+2
+
+MACHINE CONTROLS
+3-17 SW405K Wheel Loader OMMTransmission Shif t Selector Dial 
+Use the transmission shift selector dial (2) to select one 
+of four transmission functions:
+• Manual• Auto (automatic shifting)•L  ( L o w )• H (High)
+Climate Control Panel 
+0000877Figure 3-33
+Fan Speed Control
+The fan speed control rotary s witch (1) controls the four 
+fan speeds:
+•O f f  –  c i r c l e• Slow – smallest white dot• Medium – medium white dot• Fast – largest white dot
+Heater On/Off Control
+The heater on/off control switch (2) is a two-position 
+rotary switch that operates the cab heater.
+•O f f  –  O• Heater on – The LED unde r the rising air icon (3) will 
+illuminate red.
+Temperature Control
+The temperature control dial (4) adjusts the air temperature inside the cab.
+•O f f  –  O• Cooled air – The LED under the snowflake icon (5) 
+will illuminate green as the dial is rotated clockwise from the O position. The incoming air gets colder as the dial indicator is moved from O to COOL.Recirculated/Fresh-Air Control
+The recirculated/fresh-air co ntrol switch (6) will control 
+airflow from outside air into the cab or recirculate the existing air inside the cab.
+• Outside air – Turn the recirculated/fresh air control 
+switch clockwise (the LED will illuminate yellow) and allow outside air to flow into the cab.
+• Cab air – Turn the recirculated/fresh-air control 
+switch counterclockwise (the LED will shut off) and recirculate air inside the cab.
+Seat
+0004667Figure 3-34
+NOTE: The armrest can be raised to allow easier access 
+to the seat.
+Adjust the seat so the operator can comfortably operate 
+all controls while seated:
+• Armrest angle adjustment: Turn the dial (1) to adjust 
+the angle of the armrest angle up or down.
+NOTE: Do not allow the backrest to rest against the cab 
+rear window.
+• Backrest angle adjustment: Pull the backrest 
+adjustment lever (2) up and move the backrest to the desired position. Release the lever to lock the backrest in position.
+• Seat and armrest cons ole forward/backward 
+adjustment: Pull the lever (3) up, then slide the seat (with armrest) forward or backward as needed and release the lever to lock it in position.
+1 2 4 63 5
+341
+2
+567
+
+3-18MACHINE CONTROLS
+SW405K Wheel Loader OMM• Suspension adjustment: Turn the suspension 
+control lever (4) until the desired level is attained.
+• Seat forward/backward adjustment: Pull the lever 
+(5) up and slide the seat (without armrest) forward or backward as needed. Release the lever to lock the seat in position.
+• Seat base forward/backward adjustment: Lift up on 
+the bottom forward and backward lever (6) to move the seat base forward or backward. Release the lever to lock the seat base in position
+• Seat bottom tilt adjustment: Lift up on the bottom tilt 
+lever (7) to adjust the angle of the seat bottom.
+Seat Belt
+WARNING
+  • Inspect the seat belt. Replace the seat belt 
+immediately if the webbing is frayed or cut, if the buckle is damaged or malfunctions, or if the mounting hardware is loose. Replace the seat belt according to the manufacturer's instructions.
+  • Make sure the seat belt is always fastened during 
+machine operation. Never twist the seat belt when fastening it.
+  • Position the seat belt as low as possible on the 
+hips for a snug fit.
+  • Avoid excess slack that could significantly 
+reduce protection in an accident.
+Failure to follow these wa rnings could result in 
+death or serious injury. 
+Seat belt assemblies are maintenance-free. However, 
+they should be inspected every 500 hours to make sure they are not damaged and are in proper operating condition, especially if they have been subjected to severe stress.Buckle the Seat Belt
+0004906Figure 3-35
+NOTE: A recoil assembly (3) is attached to the seat belt. 
+It removes slack from the seat belt and locks to 
+restrain the operator. It al so retracts the seat belt 
+when not in use.
+1. Grasp the latch plate (2), pu ll the seat belt out of the 
+recoil assembly, and insert the latch plate into the 
+buckle (1) until it locks into place. Pull on the latch plate end of the seat belt to make sure the seat belt is 
+securely fastened.
+Unbuckle the Seat Belt
+0004906Figure 3-36
+Press the red button (1) to release the latch plate from 
+the buckle (2).
+WARNING
+Contact a SANY dealer if the seat belt fails any of these checks or fails to fasten or unfasten.
+Failure to follow this warning could result in death 
+or serious injury.
+1
+23
+1
+2
+
+MACHINE CONTROLS
+3-19 SW405K Wheel Loader OMMRadio
+Radio Control Panel
+0004619Figure 3-37
+Radio Operation
+NOTE: The battery disconnect switch and the key switch 
+must be ON for the radio to operate.
+USB Input
+Use the USB input (1) to insert a USB device (memory and other electronics) to be read/played in the device.
+When a USB device is plugged into the USB input, press 
+the SRC button (4) to toggle between the USB port and the radio.
+Auto Scan/Preset St ation (AS/PS) button
+Use the AS/PS button (2) to begin the automatic scan 
+(AS) feature through the preset stations (PS), or to automatically load the preset station buttons.
+Press and release the AS/PS button once to begin the 
+auto scan feature. Each pr eset station will play for 10 
+seconds with the station fr equency blinking on the 
+display screen (6). Press the AS/PS button once more to remain on the current station.
+Press and hold the AS/PS button for 2 seconds to 
+activate the auto programming feature. In auto programming, the six radio stations with the strongest signals are stored in the six preset buttons (1-6).AM/FM Selector Button
+Press the AM/FM selector (3) button to toggle between AM and FM bands.
+Source/Sound (SRC) Mode Button
+Press and release the SRC button (4) to toggle between the USB input and the radio.
+Press and hold the SRC button to access the bass level 
+adjustment.
+Press the button again to access the treble adjustment.Press the button once more to adjust the balance 
+(between the in-cab speakers).
+When a sound mode setting is selected, use the VOL + 
+and – buttons (8) to adjust the level for the selected setting.
+NOTE: The current radio station frequency displays if the 
+button is not pressed within 5 seconds.
+Time Button
+Press the TIME button (5) to display the local time for 5 seconds. The display reverts to the current station after 5 seconds. Set the current time by holding the button and using the tuning buttons to change the displayed time.1) USB input 6) Liquid crystal display (LCD)
+2) AS/PS button 7) Power button
+3) AM/FM selector button 8) Volume (VOL) + and – control buttons4) Source/sound (SRC) mode button 9) TUNING ◄ and ► buttons
+5) TIME display button 10) Preset station buttons
+71
+10 92 3 4 5 6
+8
+
+3-20MACHINE CONTROLS
+SW405K Wheel Loader OMMLiquid Crystal Display (LCD)
+The radio band (AM or FM), the currently tuned radio 
+station frequency, the pres et station number, and the 
+current time are shown on the LCD (6) screen.
+Power Button
+Press and release the power button (7) to turn the radio on. Press and hold it to turn the radio off. Press and release the button when the radio is on to mute the volume.
+The time of day will display on  the LCD when the radio is 
+turned off and the key switch is ON. The radio band and station number will be displa yed when the radio is on.
+Volume Control Buttons
+Press the plus (+) or minus (–) buttons (8) to set the 
+volume.
+Tuning Buttons
+Press the left ◄ or right ► TUNING buttons (9) to search 
+for the next available radio station frequency.
+Preset Station Buttons
+Press and hold any of the six PRESET STATION buttons 
+(10) to assign the current radio station to that button. Afterwards, press and release any of the buttons to select its preselected station.
+Antenna
+0005099Figure 3-38
+If the radio signal received is weak or noisy, raise the 
+antenna (1) on the rear of the cab.
+When transporting or parking the machine, loosen the 
+wing nut (2) and lower the antenna to prevent damage.Backup Camera and Monitor 
+0000881Figure 3-39
+The backup camera monitor (1) is mounted to the right 
+side of the cab roof. When on, the monitor displays the backup camera view.
+0004636Figure 3-40
+The backup camera (2) is mounted at the top center of 
+the engine compartment.
+A proximity alarm system is built into the camera. When 
+backing the machine,  an alert will sound if there is an 
+object within 9.8 ft. (3 m).
+21
+1
+2
+
+MACHINE CONTROLS
+3-21 SW405K Wheel Loader OMMMonitor Controls
+0002524Figure 3-41
+With the key switch on, pres s the POWER button (2) to 
+turn the camera system on or off.
+NOTE: If no action is taken after 5 seconds, all menu 
+screens will automatically shut off.
+To access the menu screen, pr ess the MENU button (5). 
+See “Menu Screen” on page 3-22.
+To access the display contra st adjustment, press the 
+MODE button (3). See “Mode Screen” on page 3-21.
+Reverse Display
+0002534Figure 3-42The reverse display has graduations of distance from the 
+back of the machine. This display is activated when the machine is placed into reverse mode.
+NOTE: A proximity alarm system is  built into the camera. 
+When backing the machine, an alert sounds if there is an object within 9.8 ft. (3 m).
+Mode Screen
+NOTE: The mode screen can be accessed by pressing 
+the MODE button, or through the menu screen/option screen.
+0002645Figure 3-43
+Press the MODE button (1) to display the mode 
+adjustment. The mode adjustments are displayed in the upper-right corner of the screen. Select the mode displayed (2): SOFT, VIVID,  LIGHT, or STANDARD. To 
+changed the displayed mode, use the + button or – button.
+Cam Screen
+0002646Figure 3-44
+NOTE: This machine uses only one camera.1) Display screen 5) MENU Button
+2) POWER Button 6) Plus (+) Button
+3) MODE Button 7) Minus (–) Button 4) CAM ButtonPOWER MODE CAM MENU + –
+7 6 5 43 21
+POWER MODE CAM MENU + –V 
+
+(6(6(6
+(6
+1 2 3POWER MODE CAM MENU + –VIVID
+2
+1
+POWER MODE CAM MENU + –AV1
+2
+1
+
+3-22MACHINE CONTROLS
+SW405K Wheel Loader OMMThe CAM button (1) allows the operator to switch 
+between two cameras (if equipped). The choices will appear as AV1 (2) or AV2 (not shown).
+Menu Screen
+0002525Figure 3-45
+1. Press the – (1) or + (2) buttons to scroll to the desired 
+menu option.
+2. Press the MENU button (3) to accept the selection. 
+See the appropriate screen description for further information.
+Picture Screen
+0002527Figure 3-46
+1. Press the – (1) or + (2) buttons to scroll to the desired 
+menu option:
+•B R I G H T N E S S
+• CONTRAST• COLOUR (color) • RESET• RETURN—Selecting the return option will return to 
+the MAIN MENU screen.
+• EXIT—Selecting the EXIT option returns to the 
+Home screen.
+2. Press the MENU button (3) to accept the selection.
+Brightness Adjustment Screen
+Press the - (1) or + (2) button to adjust the screen 
+brightness level.
+Press the MODE button (4) to return to the previous 
+mode screen.
+Contrast Adjustment Screen
+Press the - (1) or + (2) button to adjust the screen contrast.
+Press the MODE button (4) to return to the previous 
+mode screen.
+Color Adjustment Screen
+Press the - (1) or + (2) button to adjust the color.
+Press the MODE button (4) to return to the previous 
+mode screen.
+Volume Adjustment Screen
+NOTE: When the volume option is selected, a bar graph 
+will appear at the bottom of the screen.
+1. Press the - (1) or + (2) button to increase or decrease 
+the volume to the desired level.
+2. Press the MODE button (4) to return to the previous 
+mode screen.POWER MODE CAM MENU + –MAIN MENU
+PICTUREVOLUMELANGUAGEMIRRORINGVIDEOOPTIONIMPERIAL  [ FT ]PARK SETUPINTERVAL CONFIGCAM DELAYEXIT
+1 2 3
+POWER MODE CAM MENU + –PICTURE
+BRIGHTNESSCONTRASTCOLOURRESETRETURNEXIT
+2 1 3 4
+
+MACHINE CONTROLS
+3-23 SW405K Wheel Loader OMMLanguage Selection Screen
+0002526Figure 3-47
+1. Press the - (1) or + (2) buttons to scroll to the desired 
+language option.
+2. Press the MENU button (3) to enter the choice.3. Press the MODE button (4) to return to the previous 
+mode screen.
+Mirroring Screen
+0002528Figure 3-48
+1. Press the – (1) or + (2) buttons to select the desired 
+camera.
+2. Press the MENU button (3) and the image will invert 
+(rotated 180°).
+3. Press the MENU button ag ain and the image will be 
+inverted and flipped.
+4. Press the MENU button ag ain and the image will be 
+flipped.
+5. Press the MENU button again and the image will 
+return to the starting view.6. Press the MODE button (4) to return to the previous 
+mode screen.
+Video Option Screen
+0002529Figure 3-49
+The video screen allows the operator to change the video 
+output to match the format used in various areas of the world. This option is only for camera feeds that are being recorded.
+Option Screen
+0002530Figure 3-50
+The OPTION screen will allo w the operator to choose 
+how the image is displayed.
+Press the – (1) or + (2) buttons to select the desired 
+menu option:
+• The MODE option (3) allows the operator to choose 
+the desired display mode – SOFT, VIVID, LIGHT, or 
+STANDARD. – the same adjustments as when pressing the MODE button. See “Mode Screen” on page 3-21.POWER MODE CAM MENU + –LANGUAGE
+ENGLISHFRENCHGERMANSPANISHPORTUGUESEITALIANDUTCHSWEDISHSCHINESERETURNEXIT
+2 1 3 4
+POWER MODE CAM MENU + –MIRRORING
+CAMERA 1   [ H ]
+CAMERA 2   [OFF]RETURNEXIT
+1 2 3 4POWER MODE CAM MENU + –VIDEO
+PALNTSCAUTORETURNEXIT
+POWER MODE CAM MENU + –OPTION
+MODEZOOMRETURNEXIT
+1 23
+4
+5
+6
+
+3-24MACHINE CONTROLS
+SW405K Wheel Loader OMM• The ZOOM option (4) allows the operator to select 
+the screen display format. Choose one of the following display formats:
+• 4:3 ratio – the image will be a square displayed in 
+the center of the monitor.
+• 16:9 ratio – the image will  fill the entire screen.
+• The RETURN option (5) will return to the MAIN 
+MENU screen.
+• The EXIT option (6) returns to the Home screen.
+Measurement Units Selection
+0002525Figure 3-51
+To change the unit of measure:
+1. Access the MAIN MENU screen.
+2. Press the – (1) or + (2) buttons and scroll to select 
+the units (3) IMPERIAL option.
+3. Press the MENU button (4) to  select Feet (FT) or 
+Meters (M).
+4. Press the – (1) or + (2) butt ons to scroll to select the 
+EXIT (5) menu option.Park Setup Screen
+0002531Figure 3-52
+NOTE: Contact a SANY dealer for additional information.
+Interval Configuration Screen
+NOTE: Contact a SANY dealer for additional information.
+Camera Delay Screen
+NOTE: Contact a SANY dealer for additional information.POWER MODE CAM MENU + –MAIN MENU
+PICTUREVOLUMELANGUAGEMIRRORINGVIDEOOPTIONIMPERIAL  [ FT ]PARK SETUPINTERVAL CONFIGCAM DELAYEXIT
+1 2 43
+5POWER MODE CAM MENU + –PARK SETUP
+LINE1 SETUPLINE2 SETUPLINE1    ONLINE2    ONLINE NUMBERRETURNEXIT
+2 3 1
+

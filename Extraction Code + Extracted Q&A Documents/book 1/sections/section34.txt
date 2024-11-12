@@ -1,0 +1,178 @@
+5-22MAINTENANCE
+SW405K Wheel Loader OMMNOTICE!
+Use low-pressure compressed air and do not 
+point the nozzle directly at the radiator fins to avoid damaging the fins or causing other engine damage.
+7. Start the engine and blow or  wash dirt and debris out 
+of the cooler fins using low-pressure air or water.
+0004658Figure 5-34
+8. Allow the engine to run until the air flowing out of the 
+intake air cooler (10), air conditioner condenser (11), hydraulic oil cooler (12), transmission oil cooler (13), and the coolant radiator (14) is clear of dust or debris.
+9. Shut down the engine and blow remaining dirt or 
+debris away using low-pressure air.
+NOTE: The machine automatically returns the fan 
+direction to clockwise once the engine is shut off.Fuel System
+Fill the Fuel Tank
+WARNING
+  • Fuel or fuel vapors that come into contact with 
+hot surfaces or electrical components can cause a fire.
+  • Never service the fuel system near an open flame 
+or while smoking. Clean up spilled fuel immediately.
+  • Do not top off when filling the fuel tank.
+Failure to follow these warnings could result in 
+death or serious injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+0002463Figure 5-35
+NOTE: Cover the fuel tank filler tube whenever the cap is 
+removed to prevent dirt and debris from entering the fuel tank.
+NOTE: For the fuel tank capacity, see “Location, Capacity, 
+and Type” on page 5-6.
+3. Unlock and remove the fuel  tank filler cap (1) from 
+the fuel tank filler tube on  the right rear of the 
+machine.
+0000894Figure 5-36
+1211 10
+14
+13
+1
+23
+
+MAINTENANCE
+5-23 SW405K Wheel Loader OMM4. Inspect the vent hole (2) in  the filler cap. Pressure in 
+the fuel tank may drop if the vent hole in the cap is blocked. This may hinder the flow of fuel. Clean the vent as needed.
+5. Inspect the O-ring seal (3) in  the fuel filler cap. Debris 
+could damage the seal and prevent it from functioning correctly. Replace the seal as needed.
+6. Add fuel as needed.7. Install and lock the fuel ta nk filler cap after refueling.
+Drain the Primary Fuel Filter/Water 
+Separator
+WARNING
+Never maintain the fuel  system near an open 
+flame or while smoking. Failure to follow this warning could result in death or serious injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004901Figure 5-37
+4. Locate the primary fuel filter (1).5. Place an appropriately sized container under the 
+primary fuel filter/water separator.
+6. Open the drain valve (2) to drain water.7. Close the drain valve.
+NOTICE!
+Dispose of contaminated fuel in compliance with 
+all applicable environmental regulations. Failure to do so could damage the environment.
+NOTE: SANY recommends fully draining and refilling the 
+fuel tank if an excessive amount of water or contaminants is found while draining the 
+fuel/water separator
+Replace the Primary and Secondary Fuel 
+Filters 
+WARNING
+Never maintain the fuel system near an open 
+flame or while smoking. Failure to follow this rule will result in deat h or serious injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004901Figure 5-38
+4. Disconnect the water sensor wiring harness 
+connector (1).
+5. Place an appropriately sized container under the 
+primary fuel filter/water separator.
+6. Open the drain valve (2).7. Turn the primary fuel filter/water separator 
+counterclockwise to remove.
+NOTICE!
+Dispose of contaminated fuel in compliance with all applicable environmental regulations. Failure to do so could damage the environment.
+8. Apply a thin film of clean engine oil to the O-ring on 
+the new primary fuel filter/water separator.
+9. To install, turn the prim ary fuel filter clockwise.
+10. Connect the water sensor wiring harness connector.
+21
+1
+2
+
+5-24MAINTENANCE
+SW405K Wheel Loader OMM0000904Figure 5-39
+11. Remove the secondary fuel filter cover (3) from the 
+secondary fuel filter housing (4).
+12. Remove the secondary fuel filter element.13. Clean the secondary fuel filter mounting surface.14. Install a new secondary fuel filter element.15. Replace the O-ring seal between the secondary fuel 
+filter cover and secondary fuel filter housing.
+16. Install the secondary fuel filter cover and tighten 
+securely.
+17. Turn the battery disconnect switch to ON. See 
+“Battery Disconnect Switch” on page 3-8.
+18. Turn the key switch to ON to prime each filter with 
+fuel before starting the engine.
+Drain the Fuel Tank
+WARNING
+  • Fuel or fuel vapors that  come into contact with 
+hot surfaces or electrical components can cause a fire.
+  • Never service the fuel system near an open flame 
+or while smoking. Clean up spilled fuel immediately.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+NOTE: Perform this procedure only if an excessive 
+amount of water or cont aminants is found while 
+draining the fuel/water separator.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.0002463Figure 5-40
+3. Unlock and remove the fuel tank filler cap (1).
+0002496Figure 5-41
+NOTE: For the capacity of the fuel tank, see “Location, 
+Capacity, and Type” on page 5-6.
+4. Place a suitable container under the fuel tank drain 
+plug (2).
+NOTICE!
+Dispose of the drained fuel in accordance with local environmental regulations. Failure to do so could damage the environment.
+5. Remove the drain plug to completely drain sediment, 
+water, and fuel from the fuel tank.
+6. Install the drain plug when the tank is empty.7. Add fuel through the fuel tank filler as  needed. See 
+“Fill the Fuel Tank” on page 5-22.
+8. Install and lock the fuel ta nk filler cap after refueling.
+43
+1
+2
+
+MAINTENANCE
+5-25 SW405K Wheel Loader OMMCheck the Fuel Tank Strainer
+WARNING
+  • Fuel or fuel vapors that  come into contact with 
+hot surfaces or electrical components can cause a fire.
+  • Never service the fuel system near an open flame 
+or while smoking. Clean up spilled fuel immediately.
+Failure to follow these warnings could result in 
+death or serious injury.
+0002463Figure 5-42
+1. Unlock and remove the fuel tank filler cap (1).
+0002465Figure 5-43
+2. Inspect the fuel tank strainer (2) for debris or 
+damage. Clean or replace the screen as needed.
+3. Install and lock the fuel ta nk filler cap after refueling.Electrical System
+Inspect the Fuses
+NOTICE!
+Before replacing a fuse, make sure the key switch 
+is in the OFF position and the batteries are disconnected.
+Always replace a fuse with one of the same 
+capacity. Never replace a fuse with one of a higher capacity.
+Replace corroded or loose fuses in the fuse block.Failure to observe and follow these notices can 
+damage the machine or cause it to operate improperly.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the electrical compartment access door. See 
+“Electrical Compartment Access Door” on page 3-5.
+NOTE: Inspect the condition of the seal on the fuse 
+block. If moisture is present, replace the seal.
+4. Inspect the electrical system, beginning with the 
+fuses.
+NOTE: If a fuse is corroded, or if a white powder can 
+be seen on it, treat the area for corrosion and replace the fuse.
+1
+2
+

@@ -1,0 +1,93 @@
+MACHINE OPERATION
+4-15 SW405K Wheel Loader OMM0004697Figure 4-16
+7. Set the frame lock bar (1) in the locked position.8. Set the park brake when the loader is properly 
+positioned on the trailer. See “Park Brake Switch” on page 3-14.
+9. Set the transmission to neutral.10. Place a support block on the trailer under the bucket.11. Lower the bucket onto the support block.12. Shutdown the engine. See “Engine Shutdown” on 
+page 4-7.
+13. Close the cab windows.14. Place wheel chocks at all four wheels.
+NOTICE!
+When performing a battery disconnect, wait for at 
+least 1 minute before disconnecting the battery so the machine’s electronic control module (ECM) can complete its updating procedures. Failure to follow this notice can cause damage to the machine or cause the machine to operate improperly.
+15. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+0004696Figure 4-17
+16. Position the mirrors (2) inward toward the cab.0004698Figure 4-18
+17. Make sure the following are closed and locked:
+• Electrical access door (3).
+• Right side engine access doors (4).• Fuel filler cap (5).• Diesel exhaust fluid (DEF) filler access door (6).
+0004700Figure 4-19
+• Cab door (7).
+• Left side engine access doors (8).• Battery access door (9).
+1
+22
+3
+56
+4
+7
+8
+9
+
+4-16MACHINE OPERATION
+SW405K Wheel Loader OMM0004699Figure 4-20
+18. Cover the exhaust opening (10).
+NOTICE!
+To avoid damage to the machine during 
+transportation:
+  • Lower the radio antenna and position the 
+rearview mirror inwa rd towards the cab.
+  • Secure any removed parts to the trailer.  • Put a wood block between the bucket cylinder 
+and the trailer floor to help prevent damage to the bucket cylinder.
+  • Secure chains and wire ropes to the machine 
+frame.
+  • Prevent chains and wire ropes from crossing or 
+pressing against the hydraulic lines or hoses that could result in damage and leaks.
+Failure to follow this notice could damage the 
+machine or cause it to operate improperly.
+19. Secure the machine firmly in place with chains or 
+wire ropes to prevent any movement in accordance with all applicable laws and regulations.
+Unloading the Machine
+1. Unload the machine on firm, level ground and keep 
+the machine a safe distance away from roads.
+2. Park the trailer properly and place chocks behind the 
+trailer wheels.
+3. Secure two access ramps of equal length parallel to 
+the trailer.
+NOTE: The two ramps should be equally spaced from the 
+centerline of the trailer and the mounting angle must not exceed 15°.0004699Figure 4-21
+4. Remove the cover from the exhaust opening (1).5. Remove cab protection, if installed.
+0004701Figure 4-22
+6. Position the mirrors (2) outward and adjust for normal 
+operation.
+7. Remove the machine tie downs.8. Turn the battery disconnect switch to ON. See 
+“Battery Disconnect Switch” on page 3-8.
+0004702Figure 4-23
+9. Set the frame lock bar (3) in the unlocked position.10. Start the engine.11. Raise the bucket high enough to clear the access 
+ramps and trailer during the unloading process.
+12. Release the park brake.
+13. Slowly drive the loader off the trailer and ramps until 
+it is free and clear of the ramps and trailer.
+10
+ 1
+22
+3
+
+MACHINE OPERATION
+4-17 SW405K Wheel Loader OMMLifting the Machine
+WARNING
+  • Make sure all lifting devices are in safe operating 
+condition and with sufficient capacity rating to safely support the intended load.
+  • Never lift the machine with a person inside the 
+cab.
+  • Allow no one to stand close to or under a lifted 
+machine.
+  • To prevent unexpected movement of the 
+machine, make sure the machine engine is shut down and the battery disconnect switch is set to the OFF position before beginning the lifting procedure.
+  • Keep the machine level during lifting.
+  • Always lift with the longitudinal centerlines of the 
+upper structure and undercarriage parallel to each other.
+Failure to follow these warnings could result in 
+death or serious injury.
+Use the lift/tie down points i dentified on the sides of the 
+machine as well as the center of gravity point on both sides of the machine to assi st with rigging placement. 
+Contact a SANY dealer for assistance in rigging and lifting the machine.
+

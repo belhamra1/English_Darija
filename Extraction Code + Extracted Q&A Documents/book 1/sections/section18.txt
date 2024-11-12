@@ -1,0 +1,387 @@
+MACHINE CONTROLS
+3-31 SW405K Wheel Loader OMMPress the minus (-) button (1) to lower the highlighted 
+setting.
+Fuel Level Gauge
+0000976Figure 3-75
+The fuel level gauge (1) displays the current level of fuel 
+in the tank as a percentage of the full fuel tank:
+• Needle in white area = fuel level is greater than 
+10 percent of a full tank.
+• Needle in yellow area = Icon flashes, fuel level is 
+10 percent of a full tank or less.
+System Information Screens    
+0004895Figure 3-76
+Press the F1 function button (1) on the Home screen to 
+access the System Information screens.0004950Figure 3-77
+NOTE: The six System Informati on screens are accessed 
+by pressing the function buttons on the right side of the monitor.
+1. Press the function button ne xt to the up arrow icon 
+(2) or the down arrow icon (3), as needed, to select the desired information screens.
+2. Press the function button next to the check mark icon 
+(4) to accept the selection. 
+3. Press the function button next to the return arrow 
+icon (5) to return to the previous screen.
+Engine Information Screen 
+0004950Figure 3-78
+Two screens are accessible through the Engine 
+Information option. Press the fu nction button next to the 
+check mark icon (1) to display the first screen.1
+1Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information2
+3
+4
+5
+Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information1
+
+3-32MACHINE CONTROLS
+SW405K Wheel Loader OMM0004949Figure 3-79
+The first engine information screen includes:
+• Engine Speed• Engine Speed Setpoint (Set Point)• Foot Pedal Position (accelerator pedal)• Instant Fuel Consumption•F u e l  L e v e l
+Press the function button next to the down arrow icon (2) 
+to access the second screen.
+0004948Figure 3-80
+The second engine information screen includes:
+• Torque Output• Ambient Temperature• Coolant Temp (Temperature)• Coolant Level• Oil Pressure• Charging Voltage
+Press the function button next to the return arrow icon (3) 
+to return to the previous screen.Exhaust After Treatment (EAT) Information Screens 
+0004947Figure 3-81
+The following three screens are accessible through the 
+Exhaust After Treatment (EAT) screens. Press the function button next to the ch eck mark icon (1) to accept 
+the highlighted selection.
+0004946Figure 3-82
+The first EAT information screen includes:
+• DEF Level
+• Temperature At Mixing Pipe
+• DEF Temperature
+Press the function button next to the down arrow icon (2) 
+to access the second EAT information screen.
+0004945Figure 3-83
+The second EAT information screen includes:2Engine Speed: 0 rpm
+0r p m Engine Speed Setpoint:
+0% Foot Pedal Position:
+0.0 L/h Instant Fuel Consumption:
+0% Fuel Level:Engine Information
+3Torque Output:
+Ambient Temperature:
+Coolant Temp:
+Coolant Level:
+Oil Pressure:
+Charging Voltage:Engine Information1Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information
+2DEF Level:
+Temp.At Mixing Pipe:
+DEF Temperature:EAT Information
+*Warning Tips (Warning info in the next page):
+Level 1 means requiredLevel 2 means WarningLevel 3 means machine needed shutoffLevel 4 means machine needed remove filter
+3EAT Information
+DEF Level Warning:
+DEF Quality Warning:
+Anti Tampering:
+Hardware Failure:
+Crystallization Detection:Level1 Level2 Level3
+
+MACHINE CONTROLS
+3-33 SW405K Wheel Loader OMM• DEF Level Warning
+• DEF Quality Warning• Anti Tampering• Hardware Failure• Crystallization Detection
+Press the function button next to the down arrow icon (3) 
+to access the third EA T information screen.
+0004944Figure 3-84
+The third EAT information screen includes:
+• Warning for DPF-Load• Warning for Ash-Load• Oil-Service• Standstill Service
+Press the function button next to the return arrow icon (4) 
+to return to the previous screen.
+Transmission Information Screens 
+0004943Figure 3-85
+The following two screens are accessible through the 
+Transmission Information screens. Press the function button next to the check mark icon (1) to accept the highlighted selection.0004942Figure 3-86
+The first transmission information screen includes:
+• Vehicle Speed• Engine Speed• Transmission Fluid (Oil) Temp (Temperature)• Converter Oil Outlet Temp (Temperature)
+Press the function button next to the down arrow icon (2) 
+to access the seco nd transmission information screen.
+0004941Figure 3-87
+The second Transmission Information screen includes:
+• Power Output Cut Off• FNR Information• Gear Information
+Press the function button next to the return arrow icon (3) 
+to return to the previous screen.4EAT Information
+Level1 Level2 Level3 Level4
+Warning For DPF-Load:
+Warning For Ash-Load:
+Oil-Service:
+Standstill Service:
+1Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information2Vechicle Speed:
+Engine Speed:
+Transmission Fluid Temp:
+Convertor Oil Outlet Temp:km/h
+rpmTransmission Information
+3Power Output Cut Off:
+FNR Information:
+Gear Information:Transmission Information
+N
+
+3-34MACHINE CONTROLS
+SW405K Wheel Loader OMMHydraulic Information Screens 
+0004940Figure 3-88
+The following two screens are accessible through the 
+Hydraulic Information screens. Press the function button next to the check mark icon (1) to accept the highlighted selection.
+0004937Figure 3-89
+The first hydraulic information screen includes:
+• Joystick Position Info (Information)
+• Joystick Button Info (Information)
+• Hydraulic Oil Temp (Temperature)• Fan Direction: Clockwise or Counter-Clockwise
+Press the function button next to the down arrow icon (2) 
+to access the second Hydr aulic Information screen.
+The second Hydraulic Information screen is a password 
+input screen.
+NOTE: This is provided for information only and can be 
+updated only by qualified SANY technicians.
+Press the function button next to the return arrow icon (3) 
+to return to the previous screen.Control Port Information Screens
+0004936Figure 3-90
+The following five screens are accessible through the 
+Control Port Information screens. Press the function button next to the check mark icon (1) to accept the highlighted selection.
+0004935Figure 3-91
+The first control port information screen includes:
+• Front Light (ePower 6-A)
+• Rear Light (ePower 6-B)
+• High Beam Headlight (ePower 6-C)• Low Beam Headlight (ePower 6-D)• Position Light (ePower 6-E)• Head Windscreen (Windshield) Washer (ePower 
+6-F)
+• Buzzer Hummer (ePower 6-H)• Quick Change Power (ePower 6-J)
+Press the function button next to the down arrow icon (2) 
+to access the ne xt control port information screen.1Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information
+2Hydraulic Information
+Joystick Position Info:
+Joystick Button Info:
+Hydraulic Oil Temp:
+Fan Direction:Horn KDN
+Clockwise
+Counte r-Clockwise
+31Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information
+2Control Port information (1/5)
+Front Light(ePower 6-A)
+Rear Light(ePower 6-B)
+High Beam Headlight(ePower 6-C)
+ Low Beam Headlight(ePower 6-D)
+Position Light(ePower 6-E)
+Head Windscreen Washer(ePower 6-F)
+Buzzer Hummer(ePower 6-H)
+Quick Change Power(ePower 6-J)
+
+MACHINE CONTROLS
+3-35 SW405K Wheel Loader OMM0004934Figure 3-92
+The Control Port Information screen (2/5) includes:
+• Left Turn Signal Light (ePower 6-K)• Right Turn Signal Light (ePower 6-L)• Behind Wind Screen (Windshield) Washer (ePower 
+6-M)
+• Warning Lamp (Light) (ePower 5-A)• Reversing Light (ePower 5-B)• Horn (ePower 5-D)• Braking Light (ePower 5-E)• Delay Power Off (ePower 5-F)
+Press the function button next to the down arrow icon to 
+access the next screen.
+0004933Figure 3-93
+The Control Port Information screen (3/5) includes:
+• Service Brake Output Signal (ePower 2-C)• Neutral Position Input Signal (ePower 2-E)• Emergency Steering (eMini B-2)• Steering Pressure Input Signal (eMini B-2)• Parking Brake Output Signal (eMod B-11)• The Differential Input  Signal (eMod B-12)
+• Ahead Wiper Reset Signal (eMod B-8)• Behind Wiper Reset Signal (eMod B-9)
+Press the function button next to the down arrow icon to 
+access the next screen.
+0004932Figure 3-94
+The Control Port Information screen (4/5) includes:
+• Parking Brake Output Signal (eMod B-3)• The Differential Output Signal (eMod B-4)• Driving Vibration Absorb Output Signal (eMod B-5)• The Differential Output Signal (eMod B-6)• Ahead Screen Wiper Output Signal (eMod B-1)• Behind Screen Wiper Output Signal (eMod B-2)• Start Signal (eMini B-2)
+Press the function button next to the return arrow icon (3) 
+to return to the previous screen.
+0004931Figure 3-95
+Control Port Information scr een (5/5) information is 
+unavailable at this time.
+Press the function button next to the return arrow icon to 
+return to the previous screen.Control Port Information (2/5)
+Left Turn Signal Light(ePower 6-K)
+ 
+Right Turn Signal Light(ePower 6-L)
+Behind Wind Screen Washer(ePower 6-M)
+Warning Lamp(ePower 5-A)
+Resersing Light(ePower 5-B)
+Horn(ePower 5-D)
+Braking Light(ePower 5-E)
+Delay Power Off(ePower 5-F)
+Control Port information(3/5)
+Service Brake Output Signal (ePower 2-C)
+Neutral Position Input Signal (ePower 2-E)
+Emergency Steeering (eMini B-2)
+ Steering Pressure Input Signal (eMini B-2)
+Parking Brake Output Signal(eMod B-11)
+The Differential Input Signal( eMod B-12)
+Ahead Wiper Reset Signal( eMod B-8)
+Behind Wiper Reset Signal (eMod B-9)3Control Port Information(4/5)
+Parking Brake Output Signal
+The Differential Output Signal
+Driving Vibration Absorb Output Signal
+ (eMod B-3)
+(eMod B-4)
+(eMod B-5)
+The Differential Output Signal (eMod B-6)
+Ahead Screen Wiper Output Signal (eMod B-1)
+Behind Screen Wiper Output Signal (eMod B-2 )
+Start Signal (eMini B-2)
+Control Port Information(5/5)
+
+3-36MACHINE CONTROLS
+SW405K Wheel Loader OMMMaintenance Information Screens 
+0004930Figure 3-96
+NOTE: There are seven screens accessible through the 
+Maintenance Informatio n Screens. From the 
+Maintenance Information screen, press the function button next to the check mark icon (1) to display the first of these screens.
+0004929Figure 3-97
+The first maintenance information screen includes 
+projects:
+• Oil Filter• Fuel Filter (Primary)• Fuel Prefilter (Secondary)
+Press the function button next to the down arrow icon (2) 
+to select the next screen.0004928Figure 3-98
+The second maintenance screen includes projects:
+• SCR (selective catalytic reduction) Tank Breather 
+Filter (DEF tank)
+• SCR Tank Filling (DEF tank)• SCR Pump (DEF tank)
+Press the function button next to the down arrow icon to 
+select the next screen.
+0004927Figure 3-99
+The third maintenance information screen includes 
+projects:
+• Primary (Main) Air Filter• Secondary (Safe) Air Filter• Pilot Filter
+Press the function button next to the down arrow icon to 
+select the next screen.1Engine Information
+EAT Information
+Transmission Information
+Hydraulic Information
+Control Port Information
+Maintenance Information
+2Maintenance Info(1/7)
+Project Coding Period
+Oil Filter
+Fuel Filter60342824
+60342818
+60342821500 0
+0
+0 Fuel Prefilter1000
+1000
+Please click on after maintenanceHours since
+last maintenanceMaintenance Info(2/7)
+Project Coding Period
+SCR Tank
+Breather Filter
+SCR Tank Filling
+SCR Pump60342822
+60342823
+60342825Check 0
+0
+0Check
+500
+Please click on after maintenanceHours since
+last maintenance
+Maintenance Info(3/7)
+Project Coding Period
+Main 
+Air Filter
+Safe Air60207265
+60207264
+A2221000001191000 0
+0
+03000
+500
+Please click on after maintenanceFilter
+Pilot FilterHours since
+last maintenance
+
+MACHINE CONTROLS
+3-37 SW405K Wheel Loader OMM0004926Figure 3-100
+The fourth maintenance information screen includes 
+projects:
+• Brake Filter• Oil Suction Filter• Return Oil Filter
+Press the function button next to the down arrow icon to 
+select the next screen.
+0004925Figure 3-101
+The fifth maintenance information screen includes 
+projects:
+• Crankcase Breather Filter• Transmission Oil Filter•E n g i n e  O i l
+Press the function button next to the down arrow icon to 
+select the next screen.0004924Figure 3-102
+The sixth maintenance information screen includes 
+projects:
+• Hydraulic Oil• Transmission Oil• Drive Axle Oil
+Press the function button next to the down arrow icon to 
+select the next screen.
+0004923Figure 3-103
+The seventh maintenance information screen includes 
+projects:
+• A/C (air conditioner compressor) Belt• Coolant Pump Belt
+Press the function button next to the return arrow icon (3) 
+to return to the previous screen.Maintenance Info(4/7)
+Project Coding Period
+60247816
+60200363
+60200365500 0
+0
+0Return Oil 
+Filter1000
+1000
+Please click on after maintenanceBrake Filter
+Oil Suction
+ FilterHours since
+last maintenance
+Maintenance Info(5/7)
+Project Coding Period
+Crankcase
+Breather Filter60186788
+60077980
+60072347500 0
+0
+0100
+100
+Please click on after maintenanceTransmision
+Oil Filter
+Engine OilHours since
+last maintenanceMaintenance Info(6/7)
+Project Coding Period
+Hydraulic 
+Oil60272634
+60067522
+603111524000 0
+0
+0100
+100
+Please click on after maintenanceTransmision
+Oil 
+Drive Axle OilHours since
+last maintenance
+3Maintenance Info(7/7)
+Project Coding PeriodHours since
+last maintenance
+A/C Compresor 
+V-Belt60342819
+603428201000 0
+0 1000
+Please click on after maintenanceCoolant Pump
+V-Belt 
+

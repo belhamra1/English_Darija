@@ -1,0 +1,120 @@
+Q: What is the purpose of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: The purpose of the manual is to provide operation and maintenance information for the SW405K wheel loader.
+
+Q: What are the potential consequences of unsafe operation and maintenance of the SW405K wheel loader?
+A: Unsafe operation and maintenance of this machine could result in death or serious injury.
+
+Q: Who should operate and maintain the SW405K wheel loader?
+A: The SW405K wheel loader must be operated and maintained by trained and experienced personnel.
+
+Q: What should be done before beginning any operation or service of the SW405K wheel loader?
+A: It is important to read and understand the operation and maintenance manual before beginning any operation or service.
+
+Q: What are the benefits of reading and understanding the SW405K wheel loader Operation and Maintenance Manual?
+A: Understanding the controls and operation of the machine, pointing out possible hazardous situations, increasing machine efficiency, prolonging the service life of the machine, and reducing maintenance costs.
+
+Q: Who should the SW405K Wheel Loader Operation and Maintenance Manual be used with?
+A: The documentation applies only to this machine and should not be used with any other machine.
+
+Q: What information can be found in the Machine Controls section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: An overview of controls and the operating systems.
+
+Q: What kind of maintenance procedures can be found in the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Routine maintenance procedures and fluid specifications.
+
+Q: What are the general dimensions and weight of the SW405K wheel loader?
+A: The Specifications section includes general dimensions and weight of the machine, and systems/components performance information.
+
+Q: What is the SW405K wheel loader typically used for?
+A: The SW405K is a versatile construction machine used primarily for transferring and loading material. It can be used for digging, leveling, carrying heavy loads, and to remove ice and snow from road surfaces.
+
+Q: What optional equipment can be adapted to a SW405K wheel loader?
+A: The wheel loader can be adapted with optional equipment such as forks, scrapers, or different bucket types.
+
+Q: Who assumes no responsibility for any consequence caused by use outside the specified range of the SW405K wheel loader?
+A: SANY assumes no responsibilty for any consequence caused by use outside this specified range.
+
+Q: Where can the machine identification plate of the SW405K wheel loader be found?
+A: The machine identification plate is on the front left of the frame.
+
+Q: Where can the engine identification plate of the SW405K wheel loader be found?
+A: The engine identification plate is on the lower left side of the engine.
+
+Q: Where can the transmission identification plate of the SW405K wheel loader be found?
+A: The transmission identification plate is on the front left of the transmission.
+
+Q: Where can the axle identification plate of the SW405K wheel loader be found?
+A: The axle identification plate is on the front left of the axle housing.
+
+Q: What information should be recorded in the Record of Serial Number and Dealer Information table of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Machine Serial No., Engine Serial No., Front Axle Serial No., Rear Axle Serial No., Transmission Serial No., Hydraulic Pump Serial No., Dealer Name, Address, and Phone Numbers.
+
+Q: Where to find a SANY dealer?
+A: Find a dealer, go to [www.sanyamerica.com/find-a-dealer](http://www.sanyamerica.com/find-a-dealer)
+
+Q: Who to contact for correction request for the SW405K Wheel Loader Operation and Maintenance Manual?
+A: SANY contact information can be found in the manual - SANY, 318 Cooper Circle, Peachtree City, GA 30269, [www.sanyamerica.com](http://www.sanyamerica.com), Phone: 470-552-SANY (7269)
+
+Q: What is ANSI stand for?
+A: American National Standards Institute
+
+Q: What is CCTV stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Closed-Circuit Television
+
+Q: What is DEF stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Diesel Exhaust Fluid
+
+Q: What is DPF stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Diesel Particulate Filter
+
+Q: What is DVR stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Digital Video Recorder
+
+Q: What is EAT stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Exhaust After Treatment
+
+Q: What is ECM stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Engine Control Module
+
+Q: What is GPS stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Global Positioning System
+
+Q: What is HEST stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: High Exhaust System Temperatures
+
+Q: What is ISO stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: International Organization for Standardization
+
+Q: What is KD stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Kickdown
+
+Q: What is LCD stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Liquid Crystal Display
+
+Q: What is OEM stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Original Equipment Manufacturer
+
+Q: What is OSHA stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Occupational Safety and Health Administration
+
+Q: What is PPE stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Personal Protective Equipment
+
+Q: What is ROPS stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Rollover Protective Structure
+
+Q: What is SAE stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Society of Automotive Engineers
+
+Q: What is SCA stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Supplemental Coolant Additive
+
+Q: What is SCR stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Selective Catalytic Reduction
+
+Q: What is SDS stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Safety Data Sheet
+
+Q: What is WPS stand for in the Glossary of Acronyms section of the SW405K Wheel Loader Operation and Maintenance Manual?
+A: Weld Procedure Specification
+

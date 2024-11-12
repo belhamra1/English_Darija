@@ -1,0 +1,150 @@
+Q: Where should the fire extinguisher be kept?
+A: In the cab.
+
+Q: What should be done with the fire extinguisher if it is damaged?
+A: Replace it immediately.
+
+Q: What is the minimum rating required for the fire extinguisher?
+A: 2.5 lb. Class ABC rated.
+
+Q: What is the purpose of the escape tool?
+A: To break the rear window to provide an alternate exit if the cab door or windshield cannot be opened during an emergency.
+
+Q: Can the escape tool be used for any other purpose?
+A: Yes, it can also be used to cut the seat belt if the seat belt buckle cannot be released.
+
+Q: How is the dome light controlled?
+A: By a slide switch.
+
+Q: What happens when the slide switch is moved to the right?
+A: The dome light turns on.
+
+Q: What happens when the slide switch is moved to the left?
+A: The dome light turns off.
+
+Q: What should be done if a fuse is corroded or loose?
+A: Replace it.
+
+Q: What should be done before replacing a fuse?
+A: Make sure the key switch is in the OFF position and the batteries are disconnected.
+
+Q: What type of fuse should be used to replace a fuse?
+A: One of the same amperage.
+
+Q: What is displayed on the main menu screen?
+A: The home screen.
+
+Q: What is displayed on the home screen?
+A: Various icons and information, including the work lights status, engine tachometer, transmission setting, park brake icon, speedometer, hour meter, and more.
+
+Q: How are the headlights and taillights controlled?
+A: By a switch on the right console switch panel.
+
+Q: What is displayed on the icon for the headlights and taillights?
+A: The on/off status of the headlights and taillights.
+
+Q: How are the turn signals controlled?
+A: By switches on the right console switch panel.
+
+Q: What is displayed on the icon for the turn signals?
+A: The on/off status of the turn signals.
+
+Q: What is displayed on the engine tachometer?
+A: The engine rotation speed in hundreds of revolutions per minute (rpm).
+
+Q: What happens if the engine rpm reaches the red area?
+A: The engine may be damaged if it is not shut down immediately.
+
+Q: What is displayed on the transmission setting icon?
+A: The current transmission setting, either manual (MANU) or automatic (AUTO).
+
+Q: What is displayed on the park brake icon?
+A: Whether the park brake is engaged or if the brake pressure is low.
+
+Q: What happens if the park brake icon illuminates red?
+A: The park brake is engaged.
+
+Q: What happens if the park brake icon illuminates and flashes red?
+A: The brake pressure is low.
+
+Q: What is displayed on the speedometer?
+A: The current speed in miles per hour (mph) or kilometers per hour (km/h).
+
+Q: What happens if the speed reaches the red area?
+A: The engine may be damaged if the speed is not reduced.
+
+Q: What is displayed on the hour meter?
+A: The total hours of service the machine has accumulated, down to tenths of an hour.
+
+Q: What is displayed on the engine coolant temperature gauge?
+A: The coolant temperature in degrees Celsius.
+
+Q: What happens if the needle enters the red area?
+A: The engine should be shut down immediately.
+
+Q: What happens when the plus button is pressed?
+A: The highlighted setting is raised.
+
+Q: What is displayed on the travel gear indicator?
+A: The current travel gear setting.
+
+Q: What happens when the home button is pressed?
+A: The machine returns to the home screen.
+
+Q: What is displayed on the DEF level indicator?
+A: The level of fluid in the DEF tank.
+
+Q: What happens when the minus button is pressed?
+A: The highlighted setting is lowered.
+
+Q: What is displayed on the fuel level gauge?
+A: The current level of fuel in the tank as a percentage of the full fuel tank.
+
+Q: How are the system information screens accessed?
+A: By pressing the F1 function button on the home screen.
+
+Q: What information is displayed on the system information screens?
+A: Various information, including engine information, EAT information, transmission information, hydraulic information, control port information, and maintenance information.
+
+Q: What information is displayed on the engine information screen?
+A: Various information, including engine speed, engine speed setpoint, foot pedal position, instant fuel consumption, and fuel level.
+
+Q: What information is displayed on the EAT information screens?
+A: Various information, including DEF level, temperature at mixing pipe, DEF temperature, and more.
+
+Q: What information is displayed on the transmission information screens?
+A: Various information, including vehicle speed, engine speed, transmission fluid temperature, and more.
+
+Q: What information is displayed on the hydraulic information screens?
+A: Various information, including joystick position info, joystick button info, hydraulic oil temperature, and more.
+
+Q: What information is displayed on the control port information screens?
+A: Various information, including front light, rear light, high beam headlight, low beam headlight, and more.
+
+Q: What information is displayed on the maintenance information screens?
+A: Various information, including oil filter, fuel filter, SCR tank breather filter, and more.
+
+Q: How are the language change screens accessed?
+A: By pressing the F2 function button on the home screen.
+
+Q: What languages are available on the language change screens?
+A: Chinese and English.
+
+Q: How are the fault information screens accessed?
+A: By pressing the F3 function button on the home screen.
+
+Q: What information is displayed on the fault information screens?
+A: Various information, including vehicle faults, engine faults, transmission faults, and more.
+
+Q: How are the calibration screens accessed?
+A: By pressing the F4 function button on the home screen.
+
+Q: What options are available on the calibration screens?
+A: Various options, including position limit calibration, foot pedal calibration, bucket down to horizontal, transmission calibration, and ride control system.
+
+Q: How are the operation screens accessed?
+A: By pressing the F4 function button on the home screen.
+
+Q: What options are available on the operation screens?
+A: Various options, including change fan direction, standstill regeneration, quick change power, and mode P/E.
+

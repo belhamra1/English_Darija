@@ -1,0 +1,4577 @@
+Q: What is the purpose of this manual?
+A: This manual provides operation and maintenance information for the SW405K wheel loader.
+
+Q: What is the warning about operating and maintaining this machine?
+A: Unsafe operation and maintenance of this machine could result in death or serious injury.
+
+Q: Who should operate and maintain this machine?
+A: Trained and experienced personnel.
+
+Q: Why is it important to read and understand this manual?
+A: To remain knowledgeable on its operation and service, and to prevent unsafe operation and maintenance.
+
+Q: What are some of the things that this manual is designed to help with?
+A: Understanding the controls and operation of the machine, pointing out possible hazardous situations, increasing machine efficiency, prolonging service life, and reducing maintenance costs.
+
+Q: Where can I get the latest information on the machine or answer questions about the manual?
+A: Contact a SANY dealer.
+
+Q: What is included in the documentation package for this machine?
+A: Operation and Maintenance Manual, Parts Manual, and Maintenance Log.
+
+Q: Where should a copy of the Operation and Maintenance Manual be stored?
+A: In the machine or be accessible to the operator at all times.
+
+Q: What should be done with the Operation and Maintenance Manual if the machine is sold?
+A: A copy of the manual must be provided to the new owner.
+
+Q: Why should a copy of the operation and maintenance manual be made available to maintenance personnel?
+A: When servicing the machine.
+
+Q: What is the purpose of the Parts Manual?
+A: For ordering spare parts as needed.
+
+Q: What is the purpose of the Maintenance Log?
+A: To list regularly scheduled maintenance that should be performed by the operator or service personnel.
+
+Q: What type of information is provided in this manual? 
+A: This manual provides operation and maintenance information for the SW405K wheel loader.
+
+Q: Who should operate and maintain this machine?
+A: This machine must be operated and maintained by trained and experienced personnel. 
+
+Q: What are the benefits of reading this manual?
+A: Reading and understanding this manual can help the operator or service personnel understand the controls and operation of the machine, point out possible hazardous situations, increase machine efficiency, prolong the service life of the machine, and reduce maintenance costs.
+
+Q: What should be done if design changes occur to the machine?
+A: Contact a SANY dealer for the latest available information on the machine or to answer any questions regarding information in this manual. 
+
+Q: Which documentation package items apply specifically to the SW405K wheel loader?
+A: This documentation applies only to the SW405K wheel loader and should not be used with any other machine.
+
+Q: What must happen to a copy of the Operation and Maintenance Manual when the machine is sold?
+A: If the machine is sold, a copy of this manual must be provided to the new owner.
+
+Q: Where should a copy of the Operation and Maintenance Manual be kept?
+A: A copy of the manual must be stored in the machine or be accessible to the operator at all times.
+
+Q: Whom should have access to the Parts Manual?
+A: The parts manual must be made available to all service personnel.
+
+
+Q: What is the purpose of the Maintenance Log?
+A: The maintenance log lists regularly scheduled maintenance that should be performed by the operator or service personnel. 
+
+Q:  What information should be recorded in the Maintenance Log? 
+A: All maintenance performed on the machine must be recorded in the maintenance log.
+
+Q: What is the purpose of the "Introduction" section in this manual?
+A: The "Introduction" section contains an overview of this manual, serial number information, and SANY contact information.
+
+Q: What type of information is provided in the "Safety" section of this manual?
+A: The "Safety" section explains hazard alerts used throughout the manual and provides general and product-specific safety information.
+
+Q: What is covered in the "Machine Controls" section?
+A: The "Machine Controls" section provides an overview of controls and the operating systems.
+
+Q: What topics are covered in the "Machine Operation" section?
+A: The "Machine Operation" section covers detailed prestart checks, operating procedures, end-of-day checks, general operating instructions, and storage information.
+
+Q: What information is provided in the "Maintenance" section?
+A: The "Maintenance" section covers routine maintenance procedures and fluid specifications.
+
+Q: What type of information can be found in the "Specifications" section?
+A: The "Specifications" section provides general dimensions and weight of the machine, and systems/components performance information.
+
+Q: What is the primary use of the SW405K Wheel Loader?
+A: The SW405K Wheel Loader is primarily used for transferring and loading material.
+
+Q: What are some other uses of the SW405K Wheel Loader?
+A: The SW405K Wheel Loader can be used for digging, leveling, carrying heavy loads, and removing ice and snow from road surfaces.
+
+Q: Can the SW405K Wheel Loader be adapted with optional equipment?
+A: Yes, the SW405K Wheel Loader can be adapted with optional equipment such as forks, scrapers, or different bucket types.
+
+Q: Does SANY assume responsibility for consequences caused by using the machine outside its specified range?
+A: No, SANY assumes no responsibility for any consequence caused by use outside this specified range.
+
+Q: How are directions referred to in this manual?
+A: In this manual, the front, right, back, and left directions indicate the moving direction when viewed from the operator seat.
+
+Q: What information does the Introduction section of this manual contain?
+A: The Introduction contains an overview of the manual, serial number information, and SANY contact information.
+
+Q: What kind of hazard alerts are used in this manual?
+A: The manual uses hazard alerts that are explained in the Safety section. 
+
+Q: What is covered in the Machine Controls section?
+A: This section provides an overview of the controls and the operating systems.
+
+Q: What information is included in the Machine Operation section?
+A: This section covers prestart checks, operating procedures, end-of-day checks, general operating instructions, and storage information.
+
+Q: What topics are addressed in the Maintenance section?
+A: Routine maintenance procedures and fluid specifications are detailed in the Maintenance section.
+
+Q: What kind of information is provided in the Specifications section?
+A: The Specifications section lists general dimensions and weight of the machine, as well as performance information for systems and components.
+
+Q: What is the primary use of the SW405K Wheel Loader?
+A: The SW405K is primarily used for transferring and loading material.
+
+Q: What are some other tasks the SW405K can be used for?
+A: Besides loading and transferring material, it can be used for digging, leveling, carrying heavy loads, and removing ice and snow.
+
+Q: Can the SW405K be used with optional equipment?
+A: Yes, it can be adapted with optional equipment such as forks, scrapers, or different bucket types.
+
+Q: What does SANY assume regarding use of the SW405K outside its specified range?
+A: SANY assumes no responsibility for any consequences caused by using the SW405K outside its specified range.
+
+Q: How are front, right, back, and left directions defined in this manual?
+A: These directions indicate the moving direction when viewed from the operator seat. 
+
+Q: Where are the product identification plates located on the wheel loader?
+A: The product identification plates are located in various places on the wheel loader.
+
+Q: What information do the product identification plates list?
+A: The product identification plates list model and serial numbers.
+
+Q: Why are the model and serial numbers needed by a SANY dealer?
+A: The model and serial numbers are needed by a SANY dealer when ordering replacement parts or providing assistance with the machine.
+
+Q: Where is the machine identification plate located on the wheel loader?
+A: The machine identification plate is located on the front left of the frame.
+
+Q: Where is the engine identification plate located on the wheel loader?
+A: The engine identification plate is located on the lower left side of the engine.
+
+Q: Where is the transmission identification plate located on the wheel loader?
+A: The transmission identification plate is located on the front left of the transmission.
+
+Q: Where is the axle identification plate located on the wheel loader?
+A: The axle identification plate is located on the front left of the axle housing.
+
+Q: Where is the machine identification plate located?
+A: On the front left of the frame.
+
+Q: Where is the engine identification plate located?
+A: On the lower left side of the engine.
+
+Q: Where is the transmission identification plate located?
+A: On the front left of the transmission.
+
+Q: Where is the axle identification plate located?
+A: On the front left of the axle housing. 
+
+Q: What information is listed on the identification plates?
+A: Model and serial numbers.
+
+Q: Why are the serial numbers needed?
+A: When ordering replacement parts or providing assistance with the machine.
+
+Q: What is the address of SANY?
+A: 318 Cooper Circle, Peachtree City, GA 30269
+
+Q: What is the phone number of SANY?
+A: 470-552-SANY (7269)
+
+Q: Where can I find a dealer for SANY products?
+A: www.sanyamerica.com/find-a-dealer
+
+Q: What is the purpose of the table in the text?
+A: To record the product information related to this machine.
+
+Q: What information should be recorded in the table?
+A: Machine Serial No., Engine Serial No., Front Axle Serial No., Rear Axle Serial No., Transmission Serial No., Hydraulic Pump Serial No., Dealer Name, Address, and Phone Numbers.
+
+Q: What is the website of SANY America?
+A: www.sanyamerica.com
+
+Q: Who is the manufacturer of the SW405K Wheel Loader?
+A: SANY
+
+Q: What is the address of SANY's contact information?
+A: 318 Cooper Circle, Peachtree City, GA 30269 
+
+Q: Where can you find a SANY dealer?
+A: www.sanyamerica.com/find-a-dealer
+
+Q: What is the phone number for SANY?
+A: 470-552-SANY (7269)
+
+Q: What is the purpose of the table provided?
+A: To record the product information related to the machine, such as serial numbers and dealer information. 
+
+Q: What information should be recorded in the "Dealer Name" field?
+A: The name of the dealer who sold you the machine.
+
+Q: What should you do if you find a problem with the manual?
+A: Make a copy of this page, complete the form below, and send it to SANY.
+
+Q: What is the name of the form to be completed?
+A: Correction Request Form
+
+Q: What information should be provided in the Correction Request Form?
+A: Date of This Notification, Your Name, Company Name, Department, Street Address, City, State, and ZIP/Postal Code, Phone, E-mail, Machine Model and Serial No., Description of Problem, and Corrective Action Taken (if any).
+
+Q: Who should the completed form be sent to?
+A: SANY.
+
+Q: What type of problem should be reported in the Description of Problem section?
+A: Wrong information, unclear or erroneous procedure, etc.
+
+Q: Is it necessary to provide information about any corrective action taken?
+A: Yes, if any.
+
+Q: What is the purpose of the Correction Request Form?
+A: To report problems with the manual.
+
+Q: What is the purpose of this form?
+A: To report problems found in the 1-7 SW405K Wheel Loader OMM.
+
+Q: Who should complete this form?
+A: Anyone who finds a problem with the manual.
+
+Q: What should be done with the completed form?
+A:  Make a copy of this page, complete the form below, and send it to SANY.
+
+Q: What information is required on the form?
+A: Date of This Notification, Your Name, Company Name, Department, Street Address, City, State, and ZIP/Postal Code, Phone, E-mail, Machine Model and Serial No., Description of Problem, and Corrective Action Taken (if any).
+
+Q: What type of problems can be reported using this form?
+A: Wrong information, unclear or erroneous procedure.
+
+Q: What should the description of the problem include?
+A: Details about the specific issue found in the manual.
+
+Q:  Is it necessary to take corrective action before submitting the form?
+A: No, the form asks for corrective action taken if any, implying it's optional. 
+
+Q: What does ANSI stand for?
+A: American National Standards Institute
+
+Q: What does CCTV stand for?
+A: Closed-Circuit Television
+
+Q: What does DEF stand for?
+A: Diesel Exhaust Fluid
+
+Q: What does DPF stand for?
+A: Diesel Particulate Filter
+
+Q: What does DVR stand for?
+A: Digital Video Recorder
+
+Q: What does EAT stand for?
+A: Exhaust After Treatment
+
+Q: What does ECM stand for?
+A: Engine Control Module
+
+Q: What does GPS stand for?
+A: Global Positioning System
+
+Q: What does HEST stand for?
+A: High Exhaust System Temperatures
+
+Q: What does ISO stand for?
+A: International Organization for Standardization
+
+Q: What does KD stand for?
+A: Kickdown
+
+Q: What does LCD stand for?
+A: Liquid Crystal Display
+
+Q: What does OEM stand for?
+A: Original Equipment Manufacturer
+
+Q: What does OSHA stand for?
+A: Occupational Safety and Health Administration
+
+Q: What does PPE stand for?
+A: Personal Protective Equipment
+
+Q: What does PQR stand for?
+A: Procedure Qualification Report
+
+Q: What does ROPS stand for?
+A: Rollover Protective Structure
+
+Q: What does SAE stand for?
+A: Society of Automotive Engineers
+
+Q: What does SCA stand for?
+A: Supplemental Coolant Additive
+
+Q: What does SCR stand for?
+A: Selective Catalytic Reduction
+
+Q: What does SDS stand for?
+A: Safety Data Sheet
+
+Q: What does WPS stand for?
+A: Weld Procedure Specification
+
+Q: What is the purpose of the safety section in the manual?
+A: To provide detailed information on basic safety precautions and preventive measures that should be followed during the operation and maintenance of the machine.
+
+Q: What are hazard alerts used for in this manual?
+A: To alert operators, job supervisors, maintenance staff, and jobsite workers to hazardous operating practices and maintenance procedures.
+
+Q: What does the DANGER signal word indicate?
+A: A hazardous situation which, if not avoided, will result in death or serious injury.
+
+Q: What does the WARNING signal word indicate?
+A: A hazardous situation which, if not avoided, could result in death or serious injury.
+
+Q: What does the CAUTION signal word indicate?
+A: A hazardous situation which, if not avoided, could result in injury.
+
+Q: What does the NOTICE signal word indicate?
+A: Practices not related to personal injury.
+
+Q: Who is permitted to operate and/or work on this machine?
+A: Only qualified personnel who have been specifically trained on this machine.
+
+Q: What must the operator wear at all times?
+A: The seat belt.
+
+Q: What is the purpose of operator aids such as warning lights, horns, or buzzers?
+A: To alert the operator to potential problems.
+
+Q: How often should the operator aids be inspected?
+A: Daily.
+
+Q: What should be done if an operator aid is not working properly?
+A: Stop all work immediately and report the fault to a SANY dealer.
+
+Q: What is the basis of all accident prevention guidelines and operating instructions?
+A: The intended usage of the machine.
+
+Q: What must the operator do before operating the machine?
+A: Read and understand this manual and any accompanying manuals.
+
+Q: Where must this manual be kept while the machine is in use?
+A: In the cab.
+
+Q: Who should be familiar with the safe operating practices stated in this manual?
+A: All personnel in the working area around the machine.
+
+Q: What should be reviewed before operating the machine or performing maintenance?
+A: Local, state, and federal regulations and standards regarding this machine and its operation.
+
+Q: What should be inspected before the start of each workday shift?
+A: The maintenance log.
+
+Q: What should be done if routine maintenance has not been performed as stated in the manual?
+A: Do not operate the machine.
+
+Q: Who should be on the machine while it is in operation?
+A: Only the operator.
+
+Q: What should be done with the bucket or work equipment when not in use?
+A: Lowered to the ground.
+
+Q: What should be done before excavating?
+A: Make sure all underground utilities have been marked.
+
+Q: What kind of hazards are highlighted in this manual?
+A:  This manual uses hazard alerts to highlight hazardous operating practices and maintenance procedures. 
+
+Q: How are the levels of hazard identified in this manual? 
+A: The manual uses ANSI/ISO signal words like DANGER, WARNING, CAUTION, and NOTICE to indicate the potential severity of the hazard. 
+
+Q: What does the signal word "DANGER" indicate?
+A:  "DANGER" indicates a hazardous situation that could result in death or serious injury if not avoided.
+
+Q: What does the signal word "CAUTION" indicate?
+A: "CAUTION" indicates a hazardous situation that could result in injury if not avoided.
+
+Q:  Who is allowed to operate this machine?
+A:  Only qualified personnel who have been specifically trained on this machine are allowed to operate and/or work on it.
+
+Q:  What should the operator do with their seat belt?
+A:  The operator must wear the seat belt at all times.
+
+Q:  What should the operator do with the work equipment when not in use?
+A: The operator should lower the bucket or work equipment to the ground when not in use.
+
+Q: What should the operator do before excavating?
+A: The operator should ensure that all underground utilities have been marked before excavating.
+
+Q: What should the operator do with the manual while operating the machine? 
+A: The manual must be readily available to the operator at all times and must remain in the cab while the machine is in use. 
+
+Q: What hazards exist when mounting or dismounting the machine?
+A: Jumping on or off the machine, exiting or entering the cab by any other means than the provided grab handles and steps, not facing the machine, not maintaining three-point contact with the grab handles, steps, and deck, and not wearing safety shoes with slip-resistant soles.
+
+Q: What should be done before entering or exiting the machine?
+A: Make sure the machine is at a complete stop, work equipment is lowered to the ground, and the engine is shut down.
+
+Q: How should you exit or enter the cab?
+A: Only by using the provided grab handles and steps.
+
+Q: What kind of shoes should be worn when operating the machine?
+A: Safety shoes with slip-resistant soles.
+
+Q: What should be done to keep walking and working surfaces of the machine clean?
+A: Keep them clean, dry, and slip-resistant.
+
+Q: What is the primary use of the SW405K machine?
+A: Digging or loading, and it can also be used to remove ice and snow from road surfaces and work on slopes and ditching.
+
+Q: What is not allowed when using the machine?
+A: Transporting people on the machine or in the cab, overloading the machine beyond its capacity, and unauthorized machine modifications.
+
+Q: What should be inspected periodically?
+A: The escape tool.
+
+Q: What should be done with the escape tool if it appears damaged or unable to break the cab window?
+A: Replace it.
+
+Q: What should be done daily to ensure fire safety?
+A: Check the machine for debris buildup, keep open flames, airborne sparks, and burning embers away from the machine, and shut down the engine when refueling or servicing the machine.
+
+Q: What should be done when refueling or servicing the machine?
+A: Add oil, fuel, or engine coolant in a well-ventilated area and clean up any spilled fluids immediately.
+
+Q: What can cause electrical fires?
+A: Short circuits, damaged wiring, or overcharging batteries.
+
+Q: What should be done to prevent electrical fires?
+A: Check the wiring on the machine for damage when doing a prestart check, repair or replace any damaged wiring, and make sure the battery is operating in its recommended range.
+
+Q: Where should the fire extinguisher be kept?
+A: In the cab, located to the right of the operator seat.
+
+Q: How often should the fire extinguisher be inspected?
+A: Daily.
+
+Q: What should be done if the fire extinguisher is damaged?
+A: Replace it immediately.
+
+Q: What is the minimum rating required for the fire extinguisher?
+A: A 2.5 lb. Class ABC rated fire extinguisher (National Fire Protection Association [NFPA] 10 Standard for Portable Fire Extinguishers).
+
+Q: What should be done in case of a fire on the machine?
+A: Immediately press the emergency stop to shut down the machine, get clear of the machine and call for help, exit the area and remain clear of the machine until the fire response team gives permission to come near the machine, and use a fire extinguisher if possible, aiming the nozzle at the base of the fire.
+
+Q: What is a crushing hazard to watch out for?
+A: Keeping arms, hands, and body inside the windows and door during operation or travel, and keeping all guards in place on the machine.
+
+Q: What warning does the California Proposition 65 provide?
+A: Diesel engine exhaust and some of its constituents are known to the State of California to cause cancer, birth defects, and other reproductive harm.
+
+Q: What should be done when replacing decals?
+A: Make sure they are placed in the proper locations and contact a SANY dealer if you have any questions about their meaning and placement.
+
+Q: What should you do before entering or exiting the machine?
+A: Make sure the machine is at a complete stop, work equipment is lowered to the ground, and the engine is shut down. 
+
+Q: How should you exit or enter the cab?
+A: Use the provided grab handles and steps.
+
+Q: What is the recommended three-point contact when mounting or dismounting?
+A: Use both feet and one hand, or one foot and both hands.
+
+Q: What type of shoes should you wear when operating the machine? 
+A: Safety shoes with slip-resistant soles.
+
+Q: What should you do if the slip-resistant material on the machine is missing or worn?
+A: Do not walk on that surface.
+
+Q: What should you keep grab handles, steps, and walkway areas free of?
+A: Mud, oil, grease, or similar debris.
+
+Q: What should you do if grab handles, steps, or walkway areas are damaged?
+A: Have them repaired or replaced immediately.
+
+Q: What is the SW405K Wheel Loader primarily used for?
+A: Digging or loading.
+
+Q: What could happen if the machine is used outside of its specified range?
+A: SANY assumes no responsibility for any consequences caused by such use.
+
+Q: What is considered unauthorized use of the machine?
+A: Transporting people on the machine or in the cab, overloading the machine.
+
+Q: What should you not do to the machine?
+A: Perform any unauthorized machine modifications.
+
+Q: What should you do with the escape tool periodically?
+A: Inspect it.
+
+Q: What should you do if the escape tool appears damaged?
+A: Replace it.
+
+Q: Where should you keep an escape tool?
+A: In the cab.
+
+Q: Why might fuel, oil, and some engine coolants be a hazard?
+A: They are flammable.
+
+Q: Where should you add oil, fuel, or engine coolant?
+A: In a well-ventilated area.
+
+Q: What should you do if there is a spill of any fluids?
+A: Clean it up immediately.
+
+Q: What can cause electrical fires?
+A: Short circuits, damaged wiring, or overcharging batteries.
+
+Q: What should you check for when doing a prestart check?
+A: Damage to the wiring.
+
+Q: What should you always do before installing aftermarket electrical equipment?
+A: Obtain approval from a SANY dealer.
+
+Q: Where is the fire extinguisher located?
+A: To the right of the operator seat.
+
+Q: What type of fire extinguisher should be on the machine?
+A: At least a 2.5 lb. Class ABC rated fire extinguisher.
+
+Q:  What are the steps to take if a fire occurs on the machine?
+A: 1. Press the emergency stop. 2. Get clear of the machine and call for help. 3. Exit the area and remain clear until the fire response team gives permission. 4. If using a fire extinguisher, aim at the base of the fire.
+
+Q: What is important to keep inside the windows and door of the machine while operating or traveling?
+A: Your arms, hands, and body.
+
+Q: What should you do with the side window of the machine if it becomes damaged?
+A: Replace it immediately.
+
+Q: Why are warning decals on the machine important?
+A: They provide important instructions and warnings.
+
+Q: Where can you get replacement decals if needed?
+A: From a SANY dealer.
+
+Q: What should you do when unsure about the safety of a procedure?
+A: Contact a SANY dealer.
+
+Q: What personal protective equipment (PPE) should you wear when performing maintenance or repairs?
+A: Safety shoes, a hard hat, gloves, and goggles.
+
+Q: What should you do before carrying out any repair?
+A: Read all the safety messages on the machine associated with the procedure.
+
+Q: Why is it important to park the machine on a hard, level surface?
+A: To prevent the machine from moving before performing any maintenance or repairs.
+
+Q: What should you do before servicing the machine?
+A: Always perform the lockout/tagout procedure.
+
+Q: What should you do when checking the machine with the engine running?
+A: Take extreme care to avoid rotating or moving parts.
+
+Q: What should you do when removing hoses or lines?
+A: Close all openings using caps and plugs, and clean up immediately if any fuel, oil, or fluids leak.
+
+Q: How should you install high-pressure hoses?
+A: Make sure they are not twisted, and correctly installed and tightened.
+
+Q: What should you do when assembling or installing parts?
+A: Always tighten them to the specified torque.
+
+Q: What should you use to clean the machine?
+A: Hot water and mild, nonflammable, grease-cutting soaps or cleaning agents.
+
+Q: What should you never use to clean the machine?
+A: Flammable or caustic cleaning agents, and high-pressure steam cleaners.
+
+Q: What should you do after cleaning the machine?
+A: Lubricate the machine thoroughly to remove any water or soap residue.
+
+Q: What should you check for in high-pressure fluid lines?
+A: Cracks in the lines or hoses, and swelling in the hoses.
+
+Q: What should you do if you find leaks, swelling, or cracking in high-pressure fluid lines?
+A: Replace lines and hoses immediately.
+
+Q: What should you not do to the accumulator?
+A: Disassemble it, expose it to temperatures over 140°F (60°C) or to open flames, or weld on it.
+
+Q: How should you clean the electrical system?
+A: Use industry-approved electrical cleaners.
+
+Q: What should you never use to clean the electrical system?
+A: Caustic soaps, high-pressure water, or steam cleaners.
+
+Q: What precautions should you take when working with batteries?
+A: Work in a well-ventilated area, wear personal protective equipment (PPE), and avoid smoking, sparks, or open flames.
+
+Q: What should you do before carrying out any repair?
+A: Read all the safety messages on the machine associated with the procedure.
+
+Q: What personal protective equipment (PPE) should you wear when performing maintenance or repairs?
+A: Safety shoes, a hard hat, gloves, and goggles.
+
+Q: What should you do when working with two or more workers?
+A: Always agree on the operating procedure before starting.
+
+Q:  What should you do to the machine before performing any maintenance or repairs?
+A: Park the machine on a hard, level surface, lower the work equipment, shut down the engine, and block the wheels to prevent the machine from moving.
+
+Q: What is the first step to take before servicing the machine?
+A: Always perform the lockout/tagout procedure.
+
+Q: What should you do with fellow workers before starting any step of the operation?
+A: Always inform them.
+
+Q: What should you do with tools before starting any procedure?
+A: Thoroughly check them.  
+
+Q: Before disconnecting or removing components of the hydraulic system, what should you do?
+A: Relieve the system pressure to prevent fluids from spraying out.
+
+Q: What may be hot even after the engine is stopped?
+A: The coolant and oil in the machine.
+
+Q: What should you do when checking the machine with the engine running?
+A: Take extreme care to avoid rotating or moving parts.
+
+Q: What should you do with the battery disconnect switch unless electrical power is required for the procedure?
+A: Turn it off.
+
+Q: What should you do when removing hoses or lines?
+A: Close all openings using caps and plugs. 
+
+Q: What should you do if any fuel, oil, or fluids leak?
+A: Clean it up immediately.
+
+Q: What should you do when installing high-pressure hoses?
+A: Make sure they are not twisted.
+
+Q:  What should you do when installing high-pressure hoses?
+A:  Make sure fittings are correctly installed and tightened.
+
+Q: When assembling or installing parts, what should you do?
+A: Always tighten them to the specified torque.
+
+Q: When installing protective parts, what should you do?
+A: Make sure they are installed correctly.
+
+Q: What should you use to clean the machine?
+A: Hot water and mild, nonflammable, grease-cutting soaps or cleaning agents.
+
+Q:  What should you never use to clean the machine?
+A: Flammable or caustic cleaning agents.
+
+Q:  What should you never use to clean the machine?
+A: High-pressure steam cleaners.
+
+Q: What should you do to the machine after cleaning it? 
+A: Lubricate it thoroughly.
+
+Q: What parts of the machine should you keep clean?
+A: The cab, windows, mirrors, and lights.
+
+Q: When checking or adding fluids to the machine, what should you be aware of?
+A: Fluid systems may be under pressure and hot.
+
+Q: What should you do when adding fuel?
+A: Shut down the machine before removing the fuel tank cap.
+
+Q: What is a hazard if fuel spills are not cleaned up immediately? 
+A: They present a hazard.
+
+Q: Where should you refuel the machine?
+A: In a well-ventilated area.
+
+Q: What should you never do or allow near the machine while refueling?
+A: Smoke or allow open flames.
+
+
+Q: What should you avoid doing when refueling the machine?
+A: Topping off the fuel tank.
+ 
+Q: What should you never do to items while any system is under pressure? 
+A: Perform repairs.
+
+Q: What should you never use to check or feel for leaks?
+A: Your hands. 
+Q: What should you always wear when checking for leaks?
+A: Safety glasses and leather gloves
+
+Q: What should you do if high-pressure fluids penetrate your skin?
+A: Seek medical attention immediately.
+
+Q: What should you check high-pressure fluid lines for?
+A: Cracks in the lines or hoses and swelling in the hoses.
+
+Q: What should you do if there is leakage from a line or hose?
+A: Replace lines and hoses immediately if leaks, swelling, or cracking is found.
+
+Q: What is your machine equipped with?
+A: An accumulator charged with high-pressure nitrogen gas.
+
+Q:  What should you not do to the accumulator?
+A: Disassemble it.
+
+Q: What temperatures should you never expose the accumulator to?
+A: Over 140°F (60°C) or to open flames.
+
+Q: What should you not do to the accumulator?
+A: Weld on it.
+ 
+Q: What should you not do to the accumulator?
+A: Strike it.
+
+Q: If the accumulator needs maintenance, who should you contact? 
+A: A SANY dealer.
+
+Q: What should you use to clean the electrical system?
+A: Industry approved electrical cleaners.
+
+ 
+Q: What should you avoid using to clean the electrical system? 
+A: Caustic soaps, high-pressure water, or steam cleaners.
+
+Q: Where should you work when working with batteries? 
+A: A well-ventilated area.
+
+Q: What are some basic precautions for working around batteries?
+A: Always wear personal protective equipment (PPE). Never allow smoking, sparks, or open flames around the battery.
+
+Q: What could happen if you smoke, spark, or have open flames near a battery?
+A:  There is a risk of an explosion because battery gases are extremely explosive.
+
+Q: What should you do when opening a battery compartment?
+A: Always allow ample time for battery gases to escape.
+
+Q: What should you do if the battery is corroded?
+A: Clean it with a mixture of warm water and baking soda.
+
+Q:  What should you do if battery acid gets on the skin or in the eyes?
+A: Flush the area immediately with fresh water and seek medical attention.
+
+Q: What should you use to check the battery’s condition only with?
+A: Proper test equipment.
+
+Q: When disconnecting the battery, what order should you disconnect the cables in?
+A: Negative (-) cable first, then the positive (+) cable.
+
+Q: What may not completely interrupt the electrical system?
+A: Disconnecting the jumper cable between the batteries.
+
+Q: Who is responsible for replacing damaged or missing safety decals on the machine?
+A: The owner/operator.
+
+Q: What should you do before exiting the machine?
+A: Shut down the engine.
+
+Q: Why should you make sure all personnel are at a safe distance from the machine?
+A: Because it's a safety precaution before starting any work operations, travel, or maintenance procedures.
+
+Q: What should you do when working with another person on a jobsite?
+A: Make sure all personnel involved understand all industry-standard hand signals.
+
+Q: What should the operator respond to while operating the machine?
+A: Operating signals from the proper signal person, and stop signals at any time from anyone.
+
+Q: What should you do if visibility becomes blocked while operating the machine?
+A: Stop operation immediately.
+
+Q: What is required by OSHA when operating the machine with operator aids?
+A: The operator aids must be used.
+
+Q: What should you check before using Personal Protective Equipment (PPE)?
+A: Make sure it is in good working condition.
+
+Q: Why is hearing protection important?
+A: To protect against loud noise that can cause impairment or loss of hearing.
+
+Q: What should you confirm before operating the machine?
+A: The relative positions of the frame and operator.
+
+Q: How should you travel with the machine?
+A: In a safe, controlled manner, and remain alert at all times.
+
+Q: What should you avoid when traveling with the machine?
+A: Traveling over obstacles or raised areas, and rapid movements on snow or frozen surfaces.
+
+Q: What should you do before crossing bridges or roadways with the machine?
+A: Check to make sure the area will support the weight of the machine.
+
+Q: What should you do when traveling or operating in shallow water?
+A: Be aware of its depth and current.
+
+Q: What precautions should you take when traveling on an incline?
+A: Check the firmness of the surface, travel straight up or down, avoid turning, and sudden stops.
+
+Q: What should you avoid when operating on snow or frozen surfaces?
+A: Rapid movements, acceleration, or quick stopping.
+
+Q: Why should you keep windows, mirrors, cameras, and lights clean and in good condition?
+A: To avoid backover accidents.
+
+Q: What should you do before moving the machine?
+A: Make sure all bystanders are clear of the intended path, and warn others with the horn.
+
+Q: What should you use when the view is obstructed when backing up?
+A: A signalman.
+
+Q: Why is it important to use approved personal protective equipment (PPE) and follow environmental safety regulations?
+A: To prevent hazardous dust or chemicals from being released or mishandled.
+
+Q: What should you consult for guidelines on PPE, handling, and cleanup of hazardous materials?
+A: The Safety Data Sheet (SDS).
+
+Q: Why is it important to recycle used oil, coolant, and filters?
+A: To conserve natural resources and reduce pollution.
+
+Q: What should you avoid when disposing of harmful items?
+A: Disposing of them in a way that can contaminate soil, groundwater, streams, and rivers.
+
+Q: What should you avoid when operating near overhead power lines?
+A: Direct contact with high-voltage power lines, as it can cause equipment damage, death, or serious injury.
+
+Q: How should you treat overhead power lines?
+A: As if they are energized and not insulated.
+
+Q: What should you do before excavating?
+A: Make sure all underground utilities have been marked.
+
+Q: What should the owner/operator do if safety decals on the machine are damaged or missing?
+A: Replace them.
+
+Q: When leaving the machine unattended, what should be done?
+A: Never leave the machine running.
+
+Q: How should the machine be parked?
+A: In a safe, level area, lower any work equipment, lock the controls, and secure it to prevent tampering.
+
+Q: Before starting work, travel, or maintenance, what should be ensured regarding personnel?
+A: All personnel should be at a safe distance from all points of the machine.
+
+Q: Who is responsible for conducting periodic safety training and familiarizing personnel with emergency procedures?
+A: The operator's employer.
+
+Q: What should be done when pedestrians are in the area?
+A: Sound the horn and proceed slowly.
+
+Q: When working with another person, what is important to understand?
+A: All personnel involved should understand all industry-standard hand signals.
+
+Q: What should the operator do regarding operating signals?
+A: Respond to the signal person, but obey a stop signal from anyone.
+
+Q: When is a signalman required?
+A: When the operator cannot see the work location.
+
+Q: What should be done if visibility becomes blocked?
+A: Stop operation immediately.
+
+Q:  What does OSHA require regarding operator aids?
+A:  They must be used when operating the machine.
+
+Q: What should be done before using PPE?
+A: Make sure it is in good working condition.
+
+Q: Why is hearing protection  important?
+A: Prolonged exposure to loud noises can cause impairment or hearing loss.
+
+Q: What should be confirmed before operating the machine?
+A: The relative positions of the frame and operator.
+
+Q: What is important to remember when traveling with the machine?
+A: Travel in a safe, controlled manner and remain alert.
+
+Q: What to do when traveling over rough ground?
+A: Travel at low speed and steer carefully; avoid obstacles and raised areas.
+
+Q: What should be checked before traveling across bridges and roadways?
+A: Whether they can support the machine's weight.
+
+Q: What should be done before traveling in public areas?
+A: Gain approval from local authorities and follow their instructions.
+
+
+Q: What should the work equipment height be when traveling?
+A: 8 inches to 12 inches above the ground.
+
+Q: What should be considered when traveling or operating in shallow water?
+A: Its depth and current.
+
+Q: Who is at risk and what can they do to better avoid back-over accidents
+A:  People. Remain clear of the intended path, be warned with the horn,   
+
+Q: What precautions should be taken when operating in dust or chemical hazards?
+A: Wear PPE and follow environmental safety regulations.
+
+Q: What document should be consulted for guidelines on dust and chemical hazards?
+A: Safety Data Sheet (SDS).
+
+Q: What can happen if oil and coolant are poured improperly?
+A: Soil and water can be contaminated.
+
+
+Q: What helps conserve natural resources and is good for the environment?
+A: Recycling used oil, coolant, and filters. 
+
+Q: How should potentially harmful items be disposed of?
+A: Obey all regulations.
+
+
+Q: What danger do overhead power lines pose?
+A: High-voltage electricity can discharge to the ground through the machine, even without direct contact.
+
+Q: What should be done when operating near overhead power lines?
+A: Stay clear. Treat all overhead power lines as if they are energized and not insulated.
+
+Q: What should be done before excavating?
+A: Ensure all underground utilities have been marked.
+
+Q: What is the component labeled as number 1 in Figure 3-1?
+A: Bell crank
+
+Q: Where is the diesel exhaust fluid (DEF) tank located on the machine?
+A: Right side of the machine
+
+Q: What is the component labeled as number 3 in Figure 3-1?
+A: Boom cylinders
+
+Q: What is the component labeled as number 4 in Figure 3-1?
+A: Bucket cylinder
+
+Q: What is the component labeled as number 5 in Figure 3-1?
+A: Headlights, turn signals, and horn
+
+Q: Where is the fuel tank filler cap located on the machine?
+A: Right side of the machine
+
+Q: What is the component labeled as number 7 in Figure 3-1?
+A: Cab
+
+Q: Where is the backup camera located on the machine?
+A: Back of the machine
+
+Q: What is the component labeled as number 10 in Figure 3-1?
+A: Backup camera
+
+Q: What is the component labeled as number 12 in Figure 3-1?
+A: Counterweight
+
+Q: What is the component labeled as number 13 in Figure 3-1?
+A: Battery compartment
+
+Q: What is the component labeled as number 15 in Figure 3-1?
+A: Fuel tank filler cap
+
+Q: Where is the fuel tank filler cap located?
+A: On the right side of the machine.
+
+Q:  What is located on the right side of the machine?
+A: The diesel exhaust fluid (DEF) tank and the fuel tank filler cap.
+
+Q: What is the function of the bell crank?
+A:  The text doesn't specify the function of the bell crank.
+
+Q: Where is the battery compartment located?
+A: On the machine .
+
+Q: Where is the backup camera located?
+A: On the back of the machine. 
+
+Q: What is part number 5 on the diagram?
+A:  Headlights, turn signals, and horn. 
+
+Q: What should you inspect on the cab door?
+A: The cab door seal for signs of wear or damage.
+
+Q: How do you secure the cab door in the open position?
+A: Press the door handle button, swing the door open, and firmly seat the door catch into the door latch.
+
+Q: How do you close the cab door?
+A: Push the latch down to release the door, and swing the door until it engages the door latch.
+
+Q: How do you open the cab door from inside the cab?
+A: Pull the door latch handle back.
+
+Q: What should you do to prevent the electrical compartment access door from closing unexpectedly?
+A: Place the support rod into the bracket.
+
+Q: How do you open the electrical compartment access door?
+A: Unlock and press the door handle button, then swing the door open.
+
+Q: What should you inspect on the electrical compartment door?
+A: The electrical compartment door seal for signs of wear or damage.
+
+Q: How do you open the upper engine compartment door?
+A: Unlock and pull the latch.
+
+Q: What must you do before opening the lower engine compartment door?
+A: Open the upper engine compartment door.
+
+Q: How do you open the lower engine compartment door?
+A: Unlock and pull the latch.
+
+Q: How do you open the DEF tank access door?
+A: Unlock and lift the handle.
+
+Q: How do you open the radiator and oil cooler access door?
+A: Unlock and pull the latch.
+
+Q: What supports the radiator and oil cooler access door?
+A: Two pneumatic cylinders.
+
+Q: How do you access the radiator, oil cooler, and intake air cooler?
+A: Release the latch and swing the air conditioning condenser open.
+
+Q: How do you secure the battery compartment cover?
+A: Install a lock through the brackets.
+
+Q: What is the purpose of the battery disconnect switch?
+A: To disconnect electrical power from the electrical systems.
+
+Q: When should you turn the battery disconnect switch off?
+A: When securing the machine for the day, or as needed when performing service.
+
+Q: What should you not do with the battery disconnect switch?
+A: Turn it off while the engine is running.
+
+Q: How do you disconnect battery power from the machine?
+A: Turn the key switch to OFF, open the battery compartment door, turn the battery disconnect switch to the OFF position, and close the battery compartment door.
+
+Q: What should you inspect on the cab door? 
+A: You should inspect the cab door seal for signs of wear or damage. 
+
+Q: How do you secure the cab door in the open position? 
+A:  Press the door handle button, swing the door open, and firmly seat the door catch into the door latch.
+
+Q: How do you close the cab door? 
+A: Push the latch down to release the door, then swing it until it engages the door latch.
+
+Q: How do you open the cab door from inside? 
+A: Pull the door latch handle.
+
+Q: How do you prevent the electrical compartment door from closing unexpectedly? 
+A: Place the support rod into the bracket. 
+
+Q: What should you inspect on the electrical compartment door? 
+A: Inspect the electrical compartment door seal for signs of wear or damage.
+
+Q: How is the upper engine compartment door supported? 
+A:  It is supported by pneumatic cylinders.
+
+Q: What should you do before opening the lower engine compartment door? 
+A: Open the upper engine compartment door.
+
+Q:  What two compartments can you access through the radiator and oil cooler access door? 
+A: The radiator and oil cooler.  
+
+Q: How do you secure the battery compartment cover? 
+A:  Install a lock through the brackets.
+
+Q: What happens when you turn the battery disconnect switch to the OFF position?
+A: Electrical power is disconnected from the electrical systems.
+
+Q: What caution should be taken when using the battery disconnect switch?
+A: Do not turn the switch off while the engine is running.
+
+Q: What is the function of the accelerator pedal?
+A: To adjust engine speed.
+
+Q: How do you increase engine speed using the accelerator pedal?
+A: Press the accelerator pedal.
+
+Q: How do you decrease engine speed using the accelerator pedal?
+A: Release the accelerator pedal.
+
+Q: Where is the front differential lock switch located?
+A: On the far left on the floor of the cab.
+
+Q: When is the front differential lock used?
+A: When added traction is needed for off-road operations, such as operating on gravel, mud, or snow.
+
+Q: How do you engage the front differential lock?
+A: Press and hold the switch to engage the front differential lock.
+
+Q: How do you disengage the front differential lock?
+A: Release the switch to disengage the front differential lock.
+
+Q: What are the left and right brake pedals used for?
+A: To apply the service brakes to slow or stop the machine.
+
+Q: Can either pedal be used to slow or stop the machine?
+A: Yes.
+
+Q: What happens in the case of engine failure?
+A: The accumulator can provide a limited supply of pressurized hydraulic oil for emergency braking.
+
+Q: What is displayed on the monitor on the front console?
+A: Various machine operational parameters and operating system menu screens.
+
+Q: What is the function of the steering wheel?
+A: To control the machine's direction of travel.
+
+Q: What is the steering knob used for?
+A: To provide one-hand operation when needed.
+
+Q: What is the emergency steering feature used for?
+A: To safely control and stop the machine after the engine has stopped.
+
+Q: Where is the steering column tilt lock located?
+A: On the right side of the steering column behind the steering wheel.
+
+Q: How do you position the steering wheel for operator comfort?
+A: Press the steering column tilt lock down.
+
+Q: How do you secure the steering column in the desired position?
+A: Release the steering column tilt lock.
+
+Q: Where is the transmission control lever located?
+A: On the left side of the steering column behind the steering wheel.
+
+Q: What is the transmission control lever used for?
+A: To select forward, reverse, or neutral travel.
+
+Q: How do you lock the transmission control lever in the neutral position?
+A: Using the neutral lock.
+
+Q: What happens when the transmission control lever is in the F (forward) position and the engine is running?
+A: The machine will move forward.
+
+Q: What happens when the transmission control lever is in the R (reverse) position and the engine is running?
+A: The machine will move backward.
+
+Q: What happens when the transmission control lever is in the N (neutral) position and the engine is running?
+A: The machine remains stationary.
+
+Q: Can the engine be started when the transmission control lever is not in the neutral position?
+A: No, the engine can only be started when both the transmission control lever and the joystick F-N-R rocker switch are in the neutral position.
+
+Q: How do you shift gears?
+A: By rotating the transmission control lever until the arrow on the lever points to the desired gear (1, 2, 3, or 4).
+
+Q: What is the forced downshifting function used for?
+A: To downshift the transmission to first forward or first reverse.
+
+Q: How do you operate the forced downshifting function?
+A: By pressing the kickdown (KD) button on the end of the transmission control lever or on the joystick.
+
+Q: What is the function of the accelerator pedal?
+A: The accelerator pedal is used to adjust engine speed.
+
+Q: How do you engage the front differential lock?
+A: Press and hold the front differential lock switch.
+
+Q: What happens when you press either the left or right brake pedal?
+A: Pressing the left or right service brake pedals applies the service brakes to slow or stop the machine.
+
+Q: What information does the monitor on the front console display?
+A: The monitor displays various machine operational parameters and the operating system menu screens.
+
+Q: What is the purpose of the steering knob on the steering wheel?
+A: The steering knob provides one-hand operation when needed.
+
+Q: What is the function of the steering column tilt lock?
+A: The steering column tilt lock allows you to adjust the steering wheel for operator comfort.
+
+Q: In what direction does the machine move when the transmission control lever is moved up?
+A: The machine moves forward.
+
+Q: What happens when you move the transmission control lever down?
+A: The machine moves in reverse.
+
+Q: What needs to be true for the engine to start?
+A: Both the transmission control lever and the joystick F-N-R rocker switch need to be in the neutral position.
+
+Q: How do you shift gears?
+A: Rotate the transmission control lever until the arrow points to the desired gear.
+
+Q: What is the function of the kickdown (KD) button?
+A: The KD button downshifts the transmission to first forward (F1) or first reverse (R1).
+
+Q: Besides the transmission control lever, where else can you find the KD button?
+A: The KD button is also located on the joystick.
+
+Q: What is the function of the transmission control lever on the left side of the steering column?
+A: Machine direction can always be controlled by the transmission control lever, which overrides the joystick F-N-R switch.
+
+Q: What is the purpose of the joystick forward/reverse enable switch?
+A: The switch enables or disables the joystick F-N-R rocker switch.
+
+Q: How do you sound the horn?
+A: Press the horn button on top of the joystick.
+
+Q: What is the function of the kickdown (KD) button?
+A: The KD button selects the forced downshifting function.
+
+Q: What are the components of the right console?
+A: The right console includes the upper switch panel, lower front switch panel, lower rear switch panel, transmission shift selector dial, key switch, and climate control panel.
+
+Q: What is the function of the park brake switch?
+A: The park brake switch enables or disables the park brake.
+
+Q: What is the function of the engine diagnostic switch?
+A: When pressed, the engine diagnostic switch momentarily displays current engine faults (if any are present).
+
+Q: What is the function of the emergency stop switch?
+A: The emergency stop switch is used to stop the engine in an emergency or if the engine cannot be stopped normally.
+
+Q: What is the function of the cigarette lighter socket?
+A: The cigarette lighter socket provides 24V current.
+
+Q: What is the function of the quick coupler switch?
+A: The quick coupler switch engages and disengages the quick coupler, if equipped.
+
+Q: What is the function of the battery discharge indicator lamp?
+A: The battery discharge indicator lamp illuminates if there is a fault in the charging system.
+
+Q: How do you operate the right turn signal switch?
+A: Press the right turn signal switch to activate the right front and rear turn signals.
+
+Q: What is the function of the hydraulic system lockout switch?
+A: The hydraulic system lockout switch enables and disables the boom and bucket functions controlled by the joystick.
+
+Q: What is the function of the beacon light switch?
+A: The beacon light switch operates the flashing beacon light mounted on the cab roof.
+
+Q: How do you enable or disable the joystick F-N-R rocker switch?
+A: Use the joystick forward/reverse enable switch to enable or disable the joystick F-N-R rocker switch.
+
+Q: What are the positions of the key switch?
+A: The key switch has four positions: OFF, HEAT, ON, and START.
+
+Q: What is the function of the transmission shift selector dial?
+A: The transmission shift selector dial selects one of four transmission functions: Manual, Auto, L (Low), and H (High).
+
+Q: What is the function of the fan speed control rotary switch?
+A: The fan speed control rotary switch controls the four fan speeds.
+
+Q: How do you operate the heater on/off control switch?
+A: The heater on/off control switch is a two-position rotary switch that operates the cab heater.
+
+Q: How do you adjust the armrest angle?
+A: Turn the dial to adjust the armrest angle up or down.
+
+Q: How do you adjust the backrest angle?
+A: Pull the backrest adjustment lever up and move the backrest to the desired position, then release the lever to lock it in position.
+
+Q: What should you do to the seat belt during machine operation?
+A: Make sure the seat belt is always fastened during machine operation.
+
+Q: How often should the seat belt assemblies be inspected?
+A: Every 500 hours.
+
+Q: What does the cigarette lighter socket provide?
+A: 24V current. 
+
+Q:  What color indicates when there is a fault in the charging system on the SW405K Wheel Loader?
+A: Yellow
+
+Q: How do you activate the front and rear work lights on the SW405K Wheel Loader?
+A: Pressing the front/rear work light switch once will illuminate the left switch LED and only turn on the front work lights. Pressing it again will illuminate both the left and right switch LEDs and turn on both the front and rear work lights.
+
+Q: What does the warning indicator light look like?
+A: Red
+
+Q: How do you activate the buzzer sound on the SW405K Wheel Loader?
+A: Press the horn button on top of the joystick.
+
+Q: What is the function of the quick coupler switch?
+A: It engages and disengages the quick coupler, if equipped. Contact a SANY dealer for additional information.
+
+Q: What controls the airflow from outside air into the cab or recirculates the existing air inside the cab? 
+A: The recirculated/fresh-air control switch.
+
+Q: How many speeds does the fan have?
+A: Four
+
+Q: How do you adjust the angle of the seat bottom?
+A: Lift up on the bottom tilt lever.
+
+Q: What holds the seat belt in place when not in use and retracts it when needed?
+A: A recoil assembly.
+
+Q: Where can you adjust the armrest angle on the seat?
+A: Turn the dial.
+
+Q: What kind of switch is the heater on/off control?
+A: A two-position rotary switch.
+
+Q: How do you adjust the backrest angle on the seat?
+A: Pull the backrest adjustment lever up and move the backrest to the desired position. Release the lever to lock the backrest in place.
+
+Q: What do you do if the seat belt webbing is frayed, the buckle is damaged, or the mounting hardware is loose?
+A:  Replace the seat belt immediately.
+
+Q: What must be turned ON for the radio to operate?
+A: The battery disconnect switch and the key switch.
+
+Q: What is the function of the AS/PS button?
+A: To begin the automatic scan feature through the preset stations, or to automatically load the preset station buttons.
+
+Q: How long will each preset station play during the auto scan feature?
+A: 10 seconds.
+
+Q: How do you access the bass level adjustment?
+A: Press and hold the SRC button.
+
+Q: What function does the TIME button serve?
+A: To display the local time for 5 seconds.
+
+Q: What is displayed on the LCD screen?
+A: The radio band (AM or FM), the currently tuned radio station frequency, the preset station number, and the current time.
+
+Q: How do you turn the radio on or off?
+A: Press and release the power button to turn it on, and press and hold it to turn it off.
+
+Q: What happens when you press and release the power button when the radio is on?
+A: The volume is muted.
+
+Q: How do you set the volume?
+A: Press the plus (+) or minus (–) buttons.
+
+Q: What is the function of the tuning buttons?
+A: To search for the next available radio station frequency.
+
+Q: How do you assign a current radio station to a preset station button?
+A: Press and hold any of the six preset station buttons.
+
+Q: What should you do if the radio signal received is weak or noisy?
+A: Raise the antenna on the rear of the cab.
+
+Q: What is the function of the backup camera and monitor?
+A: To display the backup camera view when on.
+
+Q: What is the proximity alarm system built into the camera?
+A: An alert will sound if there is an object within 9.8 ft (3 m) when backing the machine.
+
+Q: How do you access the menu screen on the backup camera monitor?
+A: Press the MENU button.
+
+Q: What is the function of the MODE button on the backup camera monitor?
+A: To display the mode adjustment.
+
+Q: How do you change the display mode on the backup camera monitor?
+A: Use the + button or – button.
+
+Q: What is the function of the CAM button on the backup camera monitor?
+A: To switch between two cameras (if equipped).
+
+Q: How do you access the picture screen on the backup camera monitor?
+A: Press the – button or + button, then press the MENU button.
+
+Q: What is the function of the MENU button on the picture screen?
+A: To accept the selection.
+
+Q: How do you adjust the screen brightness level on the picture screen?
+A: Press the – button or + button, then press the MODE button to return to the previous mode screen.
+
+Q: What is the function of the LANGUAGE selection screen?
+A: To select the desired language option.
+
+Q: How do you access the MIRRORING screen?
+A: Through the menu screen/option screen.
+
+Q: What is the function of the VIDEO OPTION screen?
+A: To change the video output to match the format used in various areas of the world.
+
+Q: What is the function of the OPTION screen?
+A: To choose how the image is displayed.
+
+Q: What is the purpose of the MEASUREMENT UNITS SELECTION screen?
+A: To change the unit of measure.
+
+Q: How do you access the PARK SETUP screen?
+A: Through the MAIN MENU screen.
+
+Q: What is the purpose of the INTERVAL CONFIGURATION screen?
+A: Contact a SANY dealer for additional information.
+
+Q: How do you turn the radio on or off?
+A: Press and release the power button to turn the radio on. Press and hold the power button to turn the radio off.
+
+Q: How do you change the volume of the radio?
+A: Press the plus (+) or minus (–) buttons to set the volume.
+
+Q: How do you scan radio stations?
+A: Press the AS/PS button once to begin the auto scan feature.
+
+Q: How do you store a radio station as a preset?
+A: Press and hold any of the six preset station buttons to assign the current station.
+
+Q: What happens when you press and hold the AS/PS button for 2 seconds?
+A:  It activates the auto programming feature, storing the six stations with the strongest signals in the preset buttons.
+
+Q:  How do you toggle between AM and FM bands?
+A: Press the AM/FM selector button.
+
+Q: How do you access sound settings like bass, treble, and balance?
+A: Press and hold the SRC button.
+
+Q: What is the purpose of the USB input on the radio?
+A: Use the USB input to insert a USB device for reading and playing music or other data.
+
+Q: How do you display the local time on the radio?
+A: Press the TIME button.
+
+Q:  How do you adjust the time on the radio?
+A: Hold the TIME button and use the tuning buttons to change the displayed time. 
+
+Q: How do you adjust the display contrast?
+A: Press the MODE button to access the contrast adjustment.
+
+Q: How do you access the menus on the backup camera monitor?
+A: Press the MENU button.
+
+Q: What are the three main modes you can choose on the backup camera monitor?
+A: SOFT, VIVID, LIGHT, or STANDARD.
+
+Q: How do you change the language on the camera monitor?
+A:  Access the LANGUAGE menu and use the - and + buttons to select the desired language.
+
+Q: What is the function of the CAM button on the camera monitor?
+A: The CAM button allows the operator to switch between two cameras if the machine is equipped with them.
+
+Q: How do you change the display units of measurement on the camera monitor?
+A: Access the MAIN MENU, choose IMPERIAL, and then select either FEET (FT) or METERS (M).
+
+Q: Where should the fire extinguisher be kept?
+A: In the cab.
+
+Q: What should be done with the fire extinguisher in an emergency?
+A: Read the instructions on the fire extinguisher carefully and know how to use it.
+
+Q: How often should the condition of the fire extinguisher be inspected?
+A: Daily.
+
+Q: What should be done if the fire extinguisher is damaged?
+A: Replace it immediately.
+
+Q: What should be done if the fire extinguisher has reached its expiration date?
+A: Replace it immediately.
+
+Q: Where is the fire extinguisher located in the cab?
+A: To the right of the operator seat.
+
+Q: What is the minimum rating required for the fire extinguisher?
+A: 2.5 lb. Class ABC rated fire extinguisher (National Fire Protection Association [NFPA] 10 Standard for Portable Fire Extinguishers).
+
+Q: What is the warning related to breaking the rear window with the escape tool?
+A: Be extremely careful of shards of glass.
+
+Q: What can the escape tool be used for besides breaking the rear window?
+A: Cutting the seat belt if the seat belt buckle cannot be released.
+
+Q: What is the purpose of the dome light?
+A: It is a roof-mounted light inside the cab.
+
+Q: How is the dome light controlled?
+A: By the slide switch.
+
+Q: What happens when the slide switch is moved right?
+A: The dome light turns ON.
+
+Q: What happens when the slide switch is moved left?
+A: The dome light turns OFF.
+
+Q: What should be done with a corroded or loose fuse?
+A: Replace it.
+
+Q: What should be done before replacing a fuse?
+A: Make sure the key switch is in the OFF position and the batteries are disconnected.
+
+Q: What should be used to replace a fuse?
+A: A fuse with the same amperage.
+
+Q: What should not be used to replace a fuse?
+A: A fuse with a higher amperage.
+
+Q: Where are the ePower module fuse block and Vehicle Electrical Center (VEC) fuse block located?
+A: In the electrical compartment.
+
+Q: Where is the battery compartment fuse block located?
+A: Inside the battery compartment.
+
+Q: Where can information on fuse locations, circuits, and amperages be found?
+A: On page 5-25.
+
+Q: Where is the fire extinguisher located?
+A: The fire extinguisher is located to the right of the operator seat.
+
+Q: What type of fire extinguisher is required?
+A: The fire extinguisher must be at least a 2.5 lb. Class ABC rated fire extinguisher.
+
+Q: What should you do if a window is broken?
+A: Be extremely careful of shards of glass.
+
+Q: What is the escape tool used for?
+A: The escape tool can be used to break the rear window and cut the seat belt.
+
+Q: How do you control the dome light?
+A: The roof-mounted dome light is controlled by a slide switch. Slide it right to turn it ON or left to turn it OFF.
+
+Q: How do you access the ePower module fuse block and the Vehicle Electrical Center (VEC) fuse block?
+A: They are located in the electrical compartment. See “Electrical Compartment Access Door” on page 3-5 for access. 
+
+Q: How do you access the battery compartment fuse block?
+A: It is located inside the battery compartment. See “Battery Compartment Cover” on page 3-7 for access.
+
+Q: What should you do if a fuse is corroded or becomes loose?
+A: Replace it.
+
+Q: What should you do before replacing a fuse?
+A: Ensure the key switch is in the OFF position and the batteries are disconnected.
+
+Q: What amperage fuse should you use to replace a blown fuse?
+A: Always replace a fuse with one of the same amperage. Never use one of a higher amperage.
+
+Q: What is displayed on the main menu screen during normal operation?
+A: The home screen.
+
+Q: What does the icon display in the work lights section?
+A: The on/off status of the work lights.
+
+Q: How many work lights are controlled by the icon?
+A: Six (four back and two front cab) work lights.
+
+Q: What happens when all six work lights are on?
+A: The icon illuminates green.
+
+Q: What happens when the work lights are off or only the front cab work lights are on?
+A: The icon is illuminated white.
+
+Q: Where are the work lights turned on and off from?
+A: The right console switch panel.
+
+Q: What is shown on the engine tachometer?
+A: The engine rotation speed in hundreds of revolutions per minute (rpm).
+
+Q: What happens if the rpm reaches the red area on the engine tachometer?
+A: Failure to immediately shut down the engine may result in engine damage.
+
+Q: What does the transmission setting show?
+A: The current transmission setting manual (MANU) or automatic (AUTO).
+
+Q: What happens when the park brake is engaged?
+A: The park brake icon illuminates red.
+
+Q: What happens when the brake pressure is low?
+A: The icon illuminates and flashes red with an alarm buzzer.
+
+Q: What does the speedometer display?
+A: The current speed in miles per hour (mph) or kilometers per hour (km/h).
+
+Q: What happens if the travel speed reaches the red area on the speedometer?
+A: Failure to brake may result in engine damage.
+
+Q: What does the hour meter display?
+A: The total hours of service the machine has accumulated, down to tenths of an hour.
+
+Q: What does the engine coolant temperature gauge display?
+A: The coolant temperature in degrees Celsius.
+
+Q: What happens if the needle enters the red area on the engine coolant temperature gauge?
+A: Shut down the engine immediately and inspect the machine before returning to operation.
+
+Q: What does the plus button do?
+A: Raises the highlighted setting.
+
+Q: What does the travel gear indicator display?
+A: The current travel gear setting.
+
+Q: What happens when the transmission is set for either forward or reverse direction?
+A: A number for the current gear appears.
+
+Q: What does the home button do?
+A: Returns to the Home screen.
+
+Q: What does the DEF level indicator show?
+A: The level of fluid in the DEF tank.
+
+Q: What does the green icon on the Home screen indicate?
+A: The green icon indicates that all six work lights are on.  
+
+Q: What color does the work lights icon illuminate when the work lights are off?
+A: The work lights icon illuminates white when the work lights are off or only the front cab lights are on.
+
+Q: Where is the switch for turning the work lights on and off located?
+A: The work lights are turned on and off from the right console switch panel.
+
+Q:  What is displayed on the engine tachometer?
+A: The engine tachometer displays the engine rotation speed in hundreds of revolutions per minute (rpm).
+
+Q: What happens if the engine RPM reaches the red section of the tachometer?
+A:  You must immediately shut down the engine. Failure to do so could result in engine damage.
+
+Q: What does the transmission setting icon indicate?
+A: The transmission setting icon shows if the transmission is in manual (MANU) or automatic (AUTO) mode.
+
+Q: What does the flashing red park brake icon alert you to?
+A:  A flashing red park brake icon with an alarm buzzer indicates low brake pressure.
+
+Q: What does the speedometer display?
+A: The speedometer displays the current speed in either miles per hour (mph) or kilometers per hour (km/h).
+
+Q: What does the red section on the speedometer indicate?
+A: The red section indicates that the travel speed has severely exceeded the rated travel speed. You must immediately reduce travel speed.
+
+Q: What does the hour meter display?
+A: The hour meter displays the total hours of service the machine has accumulated, down to tenths of an hour.
+
+Q: What does the engine coolant temperature gauge display?
+A:  The engine coolant temperature gauge displays the coolant temperature in degrees Celsius.
+
+Q: What is the color of the needle on the engine coolant temperature gauge when the coolant temperature is within the normal range?
+A: The needle is in the white area when the coolant temperature is within the normal range.
+
+Q: What action should be taken if the needle on the engine coolant temperature gauge enters the red area?
+A: You must immediately shut down the engine. Inspect the machine and repair the problem before returning the machine to operation.
+
+Q: What does the plus (+) button do?
+A: Press the plus (+) button to raise the highlighted setting.
+
+Q: What does the travel gear indicator display?
+A: The travel gear indicator displays the current travel gear setting. A number for the current gear appears when the transmission is set for either forward or reverse direction.
+
+Q: What does the Home button do?
+A:  Press the home button to return to the Home screen. 
+
+Q: What does the DEF level indicator show?
+A: The DEF level indicator shows the level of fluid in the DEF tank.
+
+Q: What does the fuel level gauge display?
+A: The fuel level gauge displays the current level of fuel in the tank as a percentage of the full fuel tank.
+
+Q: What happens when the needle in the fuel level gauge is in the yellow area?
+A: When the needle is in the yellow area, the icon flashes, and the fuel level is 10 percent of a full tank or less.
+
+Q: How do you access the System Information screens?
+A: Press the F1 function button on the Home screen to access the System Information screens.
+
+Q: What are the two screens accessible through the Engine Information option?
+A: The two screens accessible through the Engine Information option display engine speed, engine speed setpoint, foot pedal position, instant fuel consumption, and fuel level, as well as torque output, ambient temperature, coolant temp, coolant level, oil pressure, and charging voltage.
+
+Q: What does the Exhaust After Treatment (EAT) Information screen display?
+A: The EAT Information screen displays DEF level, temperature at mixing pipe, DEF temperature, DEF level warning, DEF quality warning, anti-tampering, hardware failure, and crystallization detection.
+
+Q: What are the warning levels for the EAT Information screen?
+A: The warning levels for the EAT Information screen are Level 1, Level 2, Level 3, and Level 4.
+
+Q: What does the Transmission Information screen display?
+A: The Transmission Information screen displays vehicle speed, engine speed, transmission fluid temp, converter oil outlet temp, power output cut off, FNR information, and gear information.
+
+Q: What does the Hydraulic Information screen display?
+A: The Hydraulic Information screen displays joystick position info, joystick button info, hydraulic oil temp, and fan direction.
+
+Q: What does the Control Port Information screen display?
+A: The Control Port Information screen displays various control port information, such as front light, rear light, high beam headlight, low beam headlight, position light, head windscreen washer, buzzer hummer, and quick change power.
+
+Q: What does the Maintenance Information screen display?
+A: The Maintenance Information screen displays various maintenance projects, such as oil filter, fuel filter, SCR tank breather filter, and other maintenance-related information.
+
+Q: What are the possible warnings shown on the the EAT information screen?
+A:  The possible warnings shown on the EAT information screen are DEF Level Warning, DEF Quality Warning, Anti Tampering, Hardware Failure, and Crystallization Detection.
+
+Q: How many maintenance information screens are there?
+A: There are seven maintenance information screens. 
+
+Q: What are the items shown on the first engine information screen?
+A: The first engine information screen includes Engine Speed, Engine Speed Setpoint, Foot Pedal Position, Instant Fuel Consumption, and Fuel Level.
+
+Q: What is displayed on the fuel level gauge?
+A: The fuel level gauge displays the current level of fuel in the tank as a percentage of a full tank. A needle in the white area means the fuel level is greater than 10 percent, and a needle in the yellow area with a flashing icon indicates the fuel level is 10 percent or less. 
+
+
+
+
+Here are the questions and answers based on the text:
+
+Q: What is the function button to press to access the Language Change screen options?
+A: F2 function button
+
+Q: How many options are on the Language Change Screen?
+A: Six options
+
+Q: How do you access the options on the Language Change Screen?
+A: By pressing the function buttons on the right side of the monitor
+
+Q: What is the function of the function button next to the down arrow icon?
+A: To select the desired option as needed
+
+Q: What is the function of the function button next to the check mark icon?
+A: To accept the Language Change option selected
+
+Q: What is the function of the function button next to the return arrow icon?
+A: To return to the previous screen
+
+Q: What languages are displayed on the Language Change screen?
+A: Chinese and English
+
+Q: How do you select a desired language on the Language Change screen?
+A: Use the function buttons next to the up arrow icon or down arrow icon
+
+Q: What type of screen is the Program Version screen?
+A: Password protected and for use by authorized SANY technicians
+
+Q: What type of screen is the Current Characteristic screen?
+A: Password protected and for use by authorized SANY technicians
+
+Q: What type of screen is the Emergency Steering screen?
+A: Password protected and for use by authorized SANY technicians
+
+Q: What type of screen is the Boom (Arm) Height Setting screen?
+A: Password protected and for use by authorized SANY technicians
+
+Q: What type of screen is the Control Handle Select screen?
+A: Password protected and for use by authorized SANY technicians
+
+Q: What function button do you press to access the fault information screens?
+A: F3 function button
+
+Q: How many options are on the Fault Information screen?
+A: Four options
+
+Q: How do you access the options on the Fault Information screen?
+A: By pressing the function buttons on the right side of the monitor
+
+Q: What is displayed on the Vehicle Fault Info screen?
+A: A list of current vehicle faults
+
+Q: What happens if there are no faults present on the Vehicle Fault Info screen?
+A: No faults will be displayed
+
+Q: How do you return to the previous screen from the Vehicle Fault Info screen?
+A: Press the function button next to the return arrow icon
+
+Q: What is displayed on the Engine Fault Code screen?
+A: A list of current engine faults
+
+Q: What happens if there are no faults present on the Engine Fault Code screen?
+A: No faults will be displayed
+
+Q: How do you return to the previous screen from the Engine Fault Code screen?
+A: Press the function button next to the return arrow icon
+
+Q: What is displayed on the Transmission Fault Info screen?
+A: A list of current transmission faults
+
+Q: What happens if there are no faults present on the Transmission Fault Info screen?
+A: No faults will be displayed
+
+Q: How do you return to the previous screen from the Transmission Fault Info screen?
+A: Press the function button next to the return arrow icon
+
+Q: What type of screen is the Diagnostic Info screen?
+A: Password protected and for use by authorized SANY technicians
+
+Q: How do you access the Language Change screen options?
+A: Press the F2 function button on the Home screen. 
+
+Q: What do the six options on the Language Change Screen allow you to do?
+A: They allow you to select the desired language.
+
+Q: Which function buttons do you use to navigate the Language Change screen?
+A: The function buttons on the right side of the monitor.
+
+Q: What languages are displayed on the Language Change screen?
+A: Chinese and English.
+
+Q: How do you accept the selected language on the Language Change screen?
+A: Press the function button next to the check mark icon.
+
+Q: What is the purpose of the Program Version screen?
+A: It is a password-protected screen for use by authorized SANY technicians.
+
+Q:  What is the purpose of the Current Characteristic screen?
+A: It is a password-protected screen for use by authorized SANY technicians.
+
+Q: What is the purpose of the Emergency Steering screen?
+A: It is a password-protected screen for use by authorized SANY technicians.
+
+Q: What is the purpose of the Boom (Arm) Height Setting screen?
+A: It is a password-protected screen for use by authorized SANY technicians.
+
+Q: What is the purpose of the Control Handle Select screen?
+A: It is a password-protected screen for use by authorized SANY technicians.
+
+Q: How do you access the fault information screens?
+A: Press the F3 function button on the Home screen.
+
+Q: How do you navigate the options on the Fault Information screen?
+A: Use the function button next to the down arrow.
+
+Q: What does the Vehicle Fault Info screen display?
+A: It displays a list of current vehicle faults.
+
+Q: What does the Engine Fault Code screen display?
+A: It displays a list of current engine faults.
+
+Q: What does the Transmission Fault Info screen display?
+A: It displays a list of current transmission faults.
+
+Q: What is the purpose of the Diagnostic Info screen? 
+A: It displays a password input screen for use by authorized SANY technicians. 
+
+
+
+
+
+
+Here are the questions and answers generated from the text:
+
+Q: How do you access the Calibration Screen?
+A: Press the F4 function button on the Home screen.
+
+Q: What are the five options on the Calibration Screen?
+A: Position Limit Calibration, Accelerator Pedal (Foot Pedal) Calibration, Bucket Down to Horizontal, Transmission Calibration, and Ride Control System.
+
+Q: How do you select an option on the Calibration Screen?
+A: Press the function button next to the up arrow icon or the down arrow icon to scroll through the options, and then press the function button next to the check mark icon to accept the selected option.
+
+Q: How do you return to the previous screen from the Calibration Screen?
+A: Press the function button next to the return arrow icon.
+
+Q: What is the Accelerator Pedal (Foot Pedal) Calibration screen used for?
+A: It is password protected and should only be updated by qualified SANY technicians.
+
+Q: How do you access the Position Limit Calibration Screen?
+A: Press the function buttons next to the up arrow icon and down arrow icon to select the Position Limit Calibration option, and then press the function button next to the check mark icon to select the Position Limit Calibration screen option.
+
+Q: What do you need to do on the Position Limit Calibration screen?
+A: Follow the steps on the screen to set the limits.
+
+Q: How do you return to the previous screen from the Position Limit Calibration screen?
+A: Press the function button next to the return arrow icon.
+
+Q: How do you access the Bucket Down to Horizontal Screen?
+A: Press the function buttons next to the up arrow icon and down arrow icon to select the Bucket Down to Horizontal option, and then press the function button next to the check mark icon to access the Bucket Level Calibration screen.
+
+Q: What do you need to do on the Bucket Level Calibration screen?
+A: Follow the steps on the screen to set the position.
+
+Q: How do you return to the previous screen from the Bucket Level Calibration screen?
+A: Press the function button next to the return arrow icon.
+
+Q: How do you access the Transmission Calibration Screen?
+A: Press the function buttons next to the up arrow icon and down arrow icon to select the Transmission Calibration option, and then press the function button next to the check mark icon to accept the Transmission Calibration screen option.
+
+Q: What do you need to do on the Transmission Calibration screen?
+A: Follow the steps on the screen to start the calibration.
+
+Q: How do you return to the previous screen from the Transmission Calibration screen?
+A: Press the function button next to the return arrow icon.
+
+Q: How do you access the Ride Control System Screen?
+A: Press the F4 function button on the monitor home screen to access the Ride Control System screen.
+
+Q: What do you need to do on the Ride Control System screen?
+A: Use the function buttons to select the variable to set, change the value, and save the settings.
+
+Q: How do you return to the previous screen from the Ride Control System screen?
+A: Press the function button next to the return arrow icon.
+
+Q: What are the options on the Operation Screen?
+A: Ride Control System, Change Fan Direction, Standstill Regeneration, Quick Change Power, and Mode P/E.
+
+Q: How do you access the Operation Screen?
+A: Press the F4 function button on the monitor home screen to access the Operation Screen options.
+
+Q: How do you change the fan direction?
+A: Press the function button next to the up arrow icon or down arrow icon to highlight and select the desired direction, and then press the function button next to the return arrow icon to return to the previous screen.
+
+Q: What is the Standstill Regeneration Release Screen used for?
+A: It is used to release the standstill regeneration, and the engine must be stopped before performing this function.
+
+Q: How do you access the Quick Change Power Screen?
+A: Press the function buttons next to the up arrow icon and down arrow icon to select the Quick Change Power option, and then press the function button next to the check mark icon to accept the selected option.
+
+Q: What is the Power/Economy (Mode P/E) Screen used for?
+A: It is used to toggle between Mode E (Economy) and Mode P (Power).
+
+Q: How do you toggle between modes on the Power/Economy Screen?
+A: Press the function button next to the check mark icon to toggle between modes.
+
+Here are some Q&A pairs based on the provided text:
+
+Q: How do you access the Calibration Screen?
+A: Press the F4 function button on the Home screen.
+
+Q: What are the five options on the Calibration Screen?
+A: Position Limit Calibration, Foot Pedal Calibration, Bucket Down to Horizontal, Transmission Calibration, and Ride Control System.
+
+Q: How do you select an option on the Calibration Screen?
+A: Use the function buttons next to the up and down arrow icons.
+
+Q: How do you confirm your selection on a Calibration Screen option?
+A: Press the function button next to the check mark icon.
+
+Q: How do you return to the previous screen on a Calibration Screen?
+A: Press the function button next to the return arrow icon.
+
+Q: What is password protected on this machine?
+A: The Accelerator Pedal (Foot Pedal) Calibration screen.
+
+Q: What is the purpose of the Bucket Down to Horizontal Screen?
+A: To set the position of the bucket when it is level.
+
+Q: How do you start the Transmission Calibration?
+A: Press the function button next to the check mark icon after selecting the Start Calibration option.
+
+Q:  How do you save changes made to the Ride Control System?
+A:  Press the function button next to the check mark icon after selecting the desired setting.
+
+Q: How do you access the Operation Screen?
+A: Press the F4 function button on the Home screen.
+
+Q: What are the four options on the Operation Screen?
+A: Change Fan Direction, Standstill Regeneration, Quick Change Power, and Power/Economy (Mode P/E). 
+
+Q: What should be done before changing the fan direction?
+A: The engine must be stopped. 
+
+Let me know if you'd like more questions and answers generated! 
+
+
+
+
+Here are the questions and answers based on the provided text:
+
+Q: What is the warning regarding the machine operation?
+A: Do not move the machine onto a surface or area that has not been approved for the machine.
+
+Q: Why is it important to follow the warning regarding the machine operation?
+A: Failure to follow this warning could result in death or serious injury.
+
+Q: What is the operator's responsibility regarding the machine load?
+A: The operator must never leave the machine while a load is on the machine.
+
+Q: What could happen if the operator leaves the machine while a load is on it?
+A: Failure to follow this warning could result in death, serious injury, or equipment damage.
+
+Q: What should the operator do if there are doubts regarding safety at the job site?
+A: Reject the job site.
+
+Q: What should the operator do before beginning work?
+A: Become familiar with the work area and surroundings.
+
+Q: What should the operator do before operating the machine?
+A: Read and completely understand the instructions in this manual.
+
+Q: What are the operator's responsibilities regarding safety precautions and protective devices?
+A: Know and use the required safety precautions and protective devices.
+
+Q: What should the operator do when finding defects that endanger safety?
+A: Stop machine operations immediately.
+
+Q: What should the operator do before supplying power to the drive components?
+A: Make sure all control devices are set to the neutral or idle position.
+
+Q: What should the operator do before leaving the cab?
+A: Make sure all control devices are set to the neutral or low idle position and that the engine is shut down.
+
+Q: What is the importance of wearing personal protective equipment (PPE)?
+A: Wear all the necessary personal protective equipment (PPE).
+
+Q: What is the caution regarding prestart checks?
+A: Perform all prestart checks and resolve any issues before operation.
+
+Q: What could happen if the prestart checks are not performed?
+A: Failure to follow this precaution could result in injury or damage to the machine.
+
+Q: What checks should be completed before starting the engine each day?
+A: Check the maintenance log, the machine for loose hardware, fluid leaks, and any other signs of damage, and more (see text for complete list).
+
+Q: Why should the engine compartment be inspected?
+A: To inspect for combustible debris that may come in contact with hot engine components.
+
+Q: What should be done to the debris found in the engine compartment?
+A: Clear all debris from the engine and engine compartment.
+
+Q: What are the required checks for the engine?
+A: Check the engine coolant level, engine oil level, fuel level, transmission oil level, diesel exhaust fluid (DEF) level, and hydraulic oil level.
+
+Q: What else should be inspected during the prestart checks?
+A: The air conditioner compressor belt, electrical system, work lights and warning devices, tire pressure, windshield and rear window wiper operation, windshield and rear window washer operation, fire extinguisher, and escape tool.
+
+Q: What is the warning regarding the machine's operating surface?
+A: Do not move the machine onto a surface or area that has not been approved for the machine. The machine is heavy and could possibly break through surfaces that are not strong enough to support it.
+
+Q: What could happen if the warning about the operating surface is ignored?
+A: Failure to follow this warning could result in death or serious injury.
+
+Q: Where can you find additional information about job safety?
+A: See “Job Safety” on page 2-7.
+
+Q: What should the operator do if they have doubts regarding safety at the job site?
+A: The operator must reject the job site.
+
+Q: What does the operator need to do before beginning work?
+A: Become familiar with the work area and surroundings. 
+
+Q: What needs to be read and understood before operating the machine? 
+A: The instructions in this manual.
+
+Q: What should the operator know and obey besides the instructions in the manual?
+A: All operating procedures, relevant laws, regulations, and requirements for safe operation.
+
+Q: Who should the operator communicate with using hand signals? 
+A: A signalman.
+
+Q: What should the operator do if they find any defects endangering safety?
+A: Stop machine operations immediately.
+
+Q: Where should the control devices be set before supplying power to the drive components?
+A: Neutral or idle position.
+
+Q: What should the operator do before leaving the cab?
+A: Make sure all control devices are set to the neutral or low idle position and that the engine is shutdown.
+
+Q: What should the operator wear?
+A: All the necessary personal protective equipment (PPE).
+
+
+Q: What should be done before starting the engine each day?
+A: Complete all prestart checks and resolve any issues.
+
+Q: What should be checked in the maintenance log before operating the machine?
+A: Verify that all required maintenance checks have been performed.
+
+Q: What should be checked for during the pre-operation inspection of the machine?
+A: Loose hardware, fluid leaks, and any other signs of damage. 
+
+Q: What should be checked in the engine compartment before starting the engine?
+A:  Combustible debris that may come in contact with hot engine components.
+
+Q: What maintenance checks are listed as needing to be done before operating the machine?
+A: 
+* Engine coolant level.
+* Engine oil level. 
+* Fuel level.
+* Transmission oil level.
+* Diesel exhaust fluid (DEF) level.
+* Hydraulic oil level.
+* Air conditioner compressor belt.
+* Electrical system.
+* All work lights and warning devices.
+* Tire pressure.
+* Windshield and rear window wiper operation.
+* Windshield and rear window washer operation.
+* Fire extinguisher.
+* Escape tool.  
+
+
+
+
+
+Here are the questions and answers based on the provided text:
+
+Q: What items should be cleaned before operating the machine?
+A: Mirrors, Windows, Grab handles, and Steps.
+
+Q: Why should trash be removed from inside the cab?
+A: To avoid interference with operation of the machine.
+
+Q: How many times should the monitor settings procedure be performed?
+A: Only one time before initial operation.
+
+Q: What happens when the key switch is turned to ON?
+A: The home screen will appear in the display.
+
+Q: What button should be pressed to select the Language Change screen?
+A: The function button (1).
+
+Q: What icon should be pressed to accept the option selected?
+A: The check mark icon (4).
+
+Q: What is displayed on the monitor after pressing the function button next to the check mark icon?
+A: The Language Change screen.
+
+Q: How do you select the desired language to be displayed on the monitor?
+A: By pressing the function button next to the up or down arrow icons.
+
+Q: What icon should be pressed to return to the main menu?
+A: The return arrow icon (5).
+
+Let me know if you'd like me to generate more!
+
+Q: What should be cleaned before operating a SW405K Wheel Loader?
+A:  Mirrors, windows, grab handles, and steps.
+
+
+Q: What should be removed from inside the cab of the SW405K?
+A: All trash.
+
+Q: How often should the Language Setting procedure be performed? 
+A: Only before initial operation.
+
+Q: What is displayed when the key switch is turned to ON?
+A: The home screen.
+
+Q: How do you access the Language Change screen?
+A: Press the function button.
+
+Q: What icons are used to select and confirm changes in the Language Change screen?
+A: Up arrow, down arrow, and check mark icons.
+
+Q:  How do you return to the main menu after changing the language setting?
+A: Press the function button next to the return arrow icon.
+
+
+
+Q: What are the languages available on the SW405K?
+A:  The text mentions Chinese and English systems. 
+
+
+Here are the questions and answers based on the text:
+
+Starting the Engine
+
+Q: What should you do before starting the engine?
+A: Confirm that the surrounding area is clear of personnel and obstructions, and sound the horn.
+
+Q: Where should you start the engine from?
+A: From the operator seat.
+
+Q: Can you start the engine by shorting the starter solenoid or starter relay?
+A: No.
+
+Q: Can you use ether starting fluid to start the engine?
+A: No.
+
+Warning
+
+Q: What is in exhaust gas?
+A: Carbon monoxide.
+
+Q: What can happen if you don't follow the warnings?
+A: Death or serious injury.
+
+Notice!
+
+Q: How long can you crank the engine?
+A: No more than 15 seconds.
+
+Q: What should you do if the engine fails to start after 15 seconds?
+A: Stop and allow the starter motor to cool for at least 2 minutes before attempting another start.
+
+Q: What should you do if the engine fails to start after five attempts?
+A: Contact a SANY dealer.
+
+Starting Procedure
+
+Q: What is the first step in starting the engine?
+A: Make sure all daily maintenance checks have been completed.
+
+Q: What should you do in step 2?
+A: Turn the battery disconnect switch to ON.
+
+Q: What should you do in step 3?
+A: Buckle the seat belt.
+
+Q: What should you do in step 4?
+A: Make sure the joystick and joystick Forward-Neutral-Reverse (F-N-R) rocker switch are in N (neutral position).
+
+Jump-Start the Engine
+
+Q: What precautions should you observe before jump-starting the engine?
+A: Battery gases are explosive, wear personal protective equipment, and work in a well-ventilated area.
+
+Q: What should the starting system voltage and battery voltage in the boosting machine be?
+A: No more than 24V.
+
+Q: How should you connect the jumper cables?
+A: According to the procedure outlined in steps 1-5.
+
+Warm-Up Operation
+
+Q: What should you do in case of emergency or irregular engine operation?
+A: Turn the key switch to OFF or press the emergency stop switch.
+
+Q: Why is warm-up operation necessary?
+A: To prevent slow control response or abrupt movement during operation, which can cause serious accidents.
+
+Idle the Engine
+
+Q: What happens if you idle the engine for long periods?
+A: Fuel is wasted, and carbon formation, oil dilution, lacquer or gummy deposits, and rapid accumulation of sludge in the engine occur.
+
+New Machine Break-In
+
+Q: How many service hours are recommended for a new machine?
+A: 100 service hours.
+
+Q: What should you avoid during the break-in period?
+A: Operating the machine under heavy loads or at high speeds.
+
+Engine Shutdown
+
+Q: What should you do before shutting down the engine?
+A: Allow the engine to cool.
+
+Q: What should you check after shutting down the engine?
+A: All fluid levels.
+
+Q: What should you do before starting the engine?
+A:  Confirm that the surrounding area is clear of personnel and obstructions, and sound the horn.
+
+Q: Where should you start the engine from?
+A: The operator seat.
+
+Q: What should you avoid using to start the engine?
+A: Ether starting fluid.
+
+Q: What is the risk of carbon monoxide?
+A: It is toxic and invisible and odorless. 
+
+Q: What should you do if the engine fails to start after 15 seconds?
+A: Stop and allow the starter motor to cool for at least 2 minutes before attempting another start.
+
+Q: What should you do if the engine fails to start after 5 attempts?
+A: Contact a SANY dealer.
+
+Q: What maintenance should be completed before starting the engine?
+A: All daily maintenance checks.
+
+Q: Where is the battery disconnect switch located?
+A:  See "Battery Disconnect Switch" on page 3-8.
+
+Q: What should you do when in the operator seat?
+A: Buckle the seat belt.
+
+Q: What position should the joystick and  Forward-Neutral-Reverse (F-N-R) rocker switch be in?
+A: Neutral position (N). 
+
+Q: What position should the transmission control lever be in? 
+A: Neutral (N)
+
+Q: What position should the key switch be in to start the engine?
+A: START
+
+Q: What should you check immediately after the engine starts?
+A: Black exhaust smoke, very loud noise, or excessive vibration.
+
+
+ 
+Q: What should you do if you observe black exhaust smoke, very loud noise, or excessive vibration?
+A: Shutdown the engine immediately by turning the key switch to OFF or by pressing the emergency stop switch and contact a SANY dealer.
+
+Q:  What should you check after the engine starts?
+A: The monitor for any failure codes. 
+
+Q: What should you do if a failure code is shown on the display screen?
+A: Shutdown the engine immediately and contact a SANY dealer.
+
+Q: What precautions should be taken before battery maintenance?
+A: Work in a well-ventilated area, wear PPE, and remove metal objects from your body.
+
+Q: What is the maximum voltage for the starting system and the battery during jump-starting?
+A: 24V
+
+Q: What could happen if you use a higher voltage to jump-start the engine?
+A: Damage the electrical system or cause an unexpected explosion or fire.
+
+Q: What should the jumper cables and clamps be like?
+A: Undamaged, free of corrosion, suitable for the battery amperage, and securely attached.
+
+
+
+Q: What must all machine controls be in before jump-starting? 
+A: Neutral position.
+
+Q: What should you do with the jumper cables after both engines are running?
+A: Use caution when disconnecting them. Never allow the jumper cable clamps to touch each other.
+
+Q: What is the minimum warm-up time for the machine?
+A: 5 minutes.
+
+
+Q: What should you check after the engine runs for 5 minutes?
+A: Black exhaust smoke, very loud noise, or excessive vibration.
+
+Q: What temperature should the engine coolant reach before beginning operation?
+A: 176°F–212°F (80°C–100°C)
+
+Q:  What temperature should the hydraulic oil reach before beginning operation?
+A:  122°F–158°F (50°C–70°C)
+
+Q: What should you avoid during the break-in period?
+A: Operating the machine under heavy loads or at high speeds.
+
+
+
+Q:  What should you avoid doing during the break-in period except in an emergency?
+A: Sudden starts, movements, or stops.
+
+
+Q:  How long should the break-in period last?
+A: 100 service hours.
+
+
+Q: What should you do before shutting down the engine?
+
+A: Park the machine on a flat, level, and stable surface.
+
+
+
+
+ 
+
+
+Here are the questions and answers based on the provided text:
+
+Machine Operation
+
+Q: What should you do before moving the transmission control lever?
+A: Move the transmission control lever to N (neutral position) and move the neutral lock lever from drive (D) to the neutral (N) position to lock the transmission control lever in neutral and prevent unintended movement.
+
+Q: Why is it important to engage the park brake?
+A: To hold the machine in position and prevent unexpected machine movement.
+
+Q: What should you do after running the engine at low idle for about 5 minutes?
+A: Wait for the diesel exhaust fluid (DEF) pump to stop.
+
+Q: What should you do to the window and cab door after exiting the cab?
+A: Close and lock them.
+
+Cold Weather Operation
+
+Q: What should you do to the engine before operating the machine in cold weather?
+A: Preheat the engine using the key switch.
+
+Q: What type of oil should you use in the crankcase in cold weather?
+A: The correct grade of oil for the current temperature range.
+
+Q: What should you do to the hydraulic system in ambient temperatures below 32°F (0°C)?
+A: Start the engine and run it at low idle for 7-10 minutes, then increase the engine speed to 1000-1200 rpm and perform only no-load traveling for at least 30 minutes, or until the hydraulic oil temperature is at least 68°F (20°C).
+
+Battery in Cold Weather
+
+Q: What precautions should you take when servicing the batteries in cold weather?
+A: Wear personal protective equipment (PPE), keep the top of the battery clean, avoid smoking or exposing batteries to sparks or open flames, and avoid acid spills.
+
+After Daily Operation
+
+Q: Why should you fill the fuel tank to its maximum level after operation?
+A: To prevent moisture in the fuel tank from condensing at low temperatures, which could result in fuel-line freeze.
+
+Q: What should you do to the undercarriage after daily operation?
+A: Remove mud and water, park the machine on a firm, dry surface, and open the drain valve of the fuel water separator daily.
+
+Park the Machine
+
+Q: What should you do before shutting down the engine?
+A: Move the machine to a solid, level surface, lower the bucket to the ground, and shutdown the engine.
+
+Travel Operations
+
+Q: What warning should you observe when operating the machine?
+A: Never allow personnel to be in the work area while the machine is being operated, be aware of crush points, and respond to operating signals from the signalman.
+
+Q: What should you do before traveling?
+A: Adjust the steering wheel, make sure all sides of the machine are clear, sound the horn, adjust the bucket height, press the brake pedal, and unlock the transmission control lever.
+
+Slopes
+
+Q: What rules should you follow when traveling on an incline?
+A: Always check the firmness of the inclined surface, travel straight up or down an incline, avoid turning on an incline, and avoid sudden stops.
+
+Q: What should you do if the engine stops on a slope?
+A: Lower the bucket to the ground and restart the engine.
+
+Operations in Water
+
+Q: What is the maximum allowable water depth for machine operation?
+A: 2 ft. (0.6 m).
+
+Q: What should you do after operating the machine in water?
+A: Lubricate all lubrication points below the water line and check that no water enters the transmission or axles.
+
+I hope this helps! Let me know if you have any further questions.
+
+Q: What should you do with the neutral lock lever before moving the transmission control lever to neutral? 
+A: You must move the transmission control lever to the neutral position before moving the neutral lock lever to neutral.
+
+Q: What should you do in cold weather situations when operating a SANY machine?
+A: You will need to operate the machine's engine at low idle with a 7-10 minute warm-up. Then increase the engine speed to 1000-1200 rpm and perform no-load traveling for at least 30 minutes or until the hydraulic oil temperature is at least 68°F (20°C). You should use appropriate hydraulic oil, lubricants, and auxiliary items needed for below-freezing temperature operations.
+
+Q: What should be done to prevent damage to the hydraulic system in cold weather?
+A: Follow the warm-up procedure described above. This includes running the engine at low idle for 7-10 minutes, then increasing the engine speed and traveling for at least 30 minutes, or until the hydraulic oil temperature reaches 68°F (20°C).
+
+Q: How should you dispose of trash or debris found in the cab after daily operation?
+A:  You should collect it and deposit it into a proper disposal container.
+
+Q:  What should you do before traveling with the machine?
+A: You need to adjust your steering wheel, ensure all sides of the machine are clear, sound the horn, adjust the bucket height, and press either brake pedal. 
+
+
+
+
+
+Here are the generated questions and answers based on the provided text:
+
+Q: What is the warning when operating work equipment while the machine is traveling?
+A: Use caution when operating work equipment while the machine is traveling.
+
+Q: What should you avoid when operating the machine?
+A: Avoid any working conditions that may cause the machine to tip over.
+
+Q: Can you lift a person with the loader?
+A: No, do not lift any person with the loader.
+
+Q: What is the warning when scraping or digging with the hydraulic cylinder fully extended?
+A: Do not attempt work operations such as scraping or digging with the hydraulic cylinder fully extended.
+
+Q: What should you do when traveling downhill?
+A: Do not stop the engine or place the transmission in neutral when traveling downhill.
+
+Q: Who should you contact before digging?
+A: Contact the foreman before any digging to make sure that all underground hazards have been located.
+
+Q: What should you avoid when moving the transmission control lever?
+A: Avoid moving the transmission control lever to abruptly change the direction of the machine without stopping the machine.
+
+Q: What should you do when lowering the boom?
+A: Avoid sudden stops when lowering the boom to prevent hydraulic shock.
+
+Q: Where can you find more information on technical specifications, general safety, and machine safety?
+A: Refer to pages 6-4, 2-2, and 2-3 for more information on technical specifications, general safety, and machine safety.
+
+Q: How should you hold the steering wheel when operating the joystick?
+A: Hold the steering wheel with the left hand and use the right hand to operate the joystick.
+
+Q: What is the method for loose material loading?
+A: Follow the steps outlined in Figure 4-12 for loose material loading.
+
+Q: How should you back away from the material pile?
+A: Move the joystick left to curl the bucket, release the joystick to allow it to return to neutral, move the joystick backward to raise the boom, and then back away from the material pile.
+
+Q: What should you do during material hauling?
+A: Keep the bucket in the carry position, select a speed according to the distance and road condition, and slow down while passing over a ditch or bump on the road.
+
+Q: How should you dump the load into a truck or hopper?
+A: Press the kickdown button to downshift the transmission, move the joystick backward to raise the boom and bucket, use the service brake pedal to slow and stop travel, and then move the joystick right to uncurl the bucket and dump the load.
+
+Q: What is the warning when lifting a machine?
+A: Make sure all lifting devices are in safe operating condition and with sufficient capacity rating to safely support the intended load.
+
+Q: How should you prepare the machine for long-term storage?
+A: Clean the machine, change the engine oil, lubricate the machine, apply grease to exposed hydraulic cylinder rods, disconnect the negative battery terminal, and close and lock all doors.
+
+Q: What should you do during indoor storage?
+A: Open the windows and doors to provide proper ventilation and avoid gas poisoning.
+
+Q: How often should you start and run the engine during storage?
+A: Start and run the engine at low idle once a month to warm up the machine and lubricate the compressor and related parts.
+
+Q: What should you do before transporting the machine?
+A: Observe applicable laws and regulations, confirm the length, width, height, and weight capacity of the trailer, and investigate the road conditions in advance.
+
+Q: How should you load the machine onto a trailer?
+A: Load the machine on firm, level ground, chock the trailer wheels, secure two access ramps of equal length parallel to the trailer, and drive slowly up the ramps and onto the trailer.
+
+Q: What should you do before digging?
+A: Contact the foreman to make sure all underground hazards have been located.
+
+Q: What should you do when the machine is traveling downhill?
+A: Do not stop the engine or place the transmission in neutral.
+
+Q: How do you load loose material with the machine?
+A: 1. Hold the steering wheel with the left hand and use the right hand to operate the joystick. 2. Drive toward the material with the machine in 2nd gear and the center of the bucket facing the material pile. 3. Use the joystick to lower the bucket to approximately 20 in. (508 mm) above the ground. 4. With the loader approximately 3 ft. (1 m) away from the material pile, lower the bucket until the bucket engages the ground. 5. Press the kickdown (KD) button on the transmission control lever to downshift the machine from 2nd gear to 1st gear. 6. Press the accelerator pedal as needed to push the bucket into the material. When the material stalls the forward motion, release the accelerator pedal and move the joystick left to curl the bucket. 7. Release the joystick to return to the neutral position when the bucket is loaded.
+
+Q: How do you load hard materials or materials with greater density?
+A:  1. Hold the steering wheel with the left hand and use the right hand to operate the joystick. 2. Drive toward the material with the center of the bucket facing the material pile and the machine in 2nd gear. 3. Use the joystick to lower the bucket to approximately 20 in. (508 mm) above the ground. 4. With the loader approximately 3 ft. (1 m) away from the material pile, lower the bucket until the bucket engages the ground. 5. Press the kickdown (KD) button on the transmission control lever to downshift the machine from 2nd gear to 1st gear. 6. Press the accelerator pedal as needed to push the bucket into the material. When the material stalls forward motion, release the accelerator pedal. 7. Move the joystick left to curl the bucket and shift the material into the bucket. 8. Move the joystick right as needed to return the bucket to the previous position. 9. Press the accelerator pedal as needed to push the bucket into the material. When the material stalls forward motion or the bucket is loaded, release the accelerator pedal and move the joystick left to curl the bucket. 10. Release the joystick to return to the neutral position when the bucket is loaded. NOTE: Repeat these steps as necessary until the desired amount of material is loaded within the bucket capacity
+
+Q: What should you do to prepare a machine for long-term storage (over 30 days)?
+A:  1. Clean the machine. 2. Change the engine oil. See "Change the Engine Oil and Filter" on page 5-12. 3. Lubricate the machine. See "Recommended Lubricants, Fuel, and Engine Coolant" on page 5-6. 4. Apply grease to any exposed hydraulic cylinder rods. 5. Disconnect the negative (–) battery terminal or remove the batteries and store them in a separate location. See "Replace a Battery" on page 5-28. 6. Close and lock all doors.
+
+Q: What should you do once a month during long-term storage?
+A: 1. Start and run the engine at low idle. 2. Warm-up the machine to reach normal operating temperatures. 3. Drive the machine a short distance. 4. Cycle each cylinder a few times. 5. Lubricate all exposed hydraulic cylinder rods with grease. 6. Turn on the air conditioner and allow it to run for 3 to 5 minutes to lubricate the compressor and related parts. 7. Return the machine to the proper storage location and condition. 8. Shutdown the engine.
+
+
+
+
+Here are the questions and answers based on the text:
+
+Q: What is the first step in preparing the machine for transportation?
+A: Set the frame lock bar in the locked position.
+
+Q: What should be done to the park brake when the loader is properly positioned on the trailer?
+A: Set the park brake.
+
+Q: What is the purpose of placing a support block on the trailer under the bucket?
+A: To lower the bucket onto the support block.
+
+Q: What should be done to the transmission before shutting down the engine?
+A: Set the transmission to neutral.
+
+Q: Why is it important to wait at least 1 minute before disconnecting the battery?
+A: To allow the machine's electronic control module (ECM) to complete its updating procedures.
+
+Q: What should be done to the mirrors before transporting the machine?
+A: Position the mirrors inward toward the cab.
+
+Q: What doors should be closed and locked before transporting the machine?
+A: Electrical access door, right side engine access doors, fuel filler cap, diesel exhaust fluid (DEF) filler access door, cab door, left side engine access doors, and battery access door.
+
+Q: Why should the exhaust opening be covered during transportation?
+A: To prevent damage to the machine.
+
+Q: How should the machine be secured in place during transportation?
+A: With chains or wire ropes to prevent any movement in accordance with all applicable laws and regulations.
+
+Q: What should be done before unloading the machine from the trailer?
+A: Unload the machine on firm, level ground and keep the machine a safe distance away from roads.
+
+Q: How should the access ramps be positioned during unloading?
+A: Parallel to the trailer, equally spaced from the centerline of the trailer, and with a mounting angle not exceeding 15°.
+
+Q: What should be done to the mirrors after unloading the machine?
+A: Position the mirrors outward and adjust for normal operation.
+
+Q: What is the first step in starting the machine after unloading?
+A: Turn the battery disconnect switch to ON.
+
+Q: What warning should be followed when lifting the machine?
+A: Make sure all lifting devices are in safe operating condition and with sufficient capacity rating to safely support the intended load.
+
+Q: Why should no one stand close to or under a lifted machine?
+A: To prevent death or serious injury.
+
+Q: What is the first step in securing a SW405K Wheel Loader for transport?
+A: Set frame lock bar (1) in the locked position. 
+
+Q:  What should be done with the transmission before turning off the engine?
+A: Set the transmission to neutral.
+
+Q: Where should a support block be placed when securing the loader for transport?
+A: Under the bucket on the trailer.
+
+Q: What should be done before disconnecting the battery?
+A: Wait for at least one minute for the machine's ECM to complete its updating procedures.
+
+Q: What should be done with the mirrors before securing the machine for transport?
+A: Position the mirrors inward toward the cab.
+
+Q: What should be closed and locked when securing the machine for transport?
+A: The electrical access door, right side engine access doors, fuel filler cap, DEF filler access door, cab door, left side engine access doors, and battery access door.
+ 
+Q: What should be done with the exhaust opening when securing the machine for transport?
+A: Cover it.
+
+Q: What type of block should be placed between the bucket cylinder and the trailer floor?
+A: A wood block
+
+Q: How should chains and wire ropes be secured when moving the machine?
+A: Secure them to the machine frame and prevent them from crossing or pressing against hydraulic lines or hoses. 
+
+Q: How should the machine be unloaded?
+A: Unload it on firm, level ground, away from roads.
+
+Q: What should be done with the access ramps after the machine is unloaded?
+A:  Remove the cover from the exhaust opening and remove cab protection, if installed.
+
+Q: What position should the frame lock bar be in when the machine is unloaded?
+A: The unlocked position. 
+
+
+
+
+Here are the questions and answers based on the text:
+
+Q: What should you do before performing any maintenance and/or repairs?
+A: Read and understand the Safety section of this manual before proceeding with any inspection or maintenance procedures.
+
+Q: Who should you contact if you are unable to perform the procedures listed in this manual?
+A: A SANY dealer.
+
+Q: What should you review before performing maintenance?
+A: The Maintenance Log.
+
+Q: What should you avoid doing while performing maintenance?
+A: Working on the machine while the engine is running unless required to do so in the procedure.
+
+Q: What should you do after starting the machine after maintenance or repairs?
+A: Verify the following: if necessary, have a coworker inspect the work for correct and proper completion; complete the Maintenance Log; check for leaks in the system; verify there are no abnormal sounds coming from the engine or hydraulic system; check for any loose fasteners or abnormal movement in the system; and check for any overheating in the system.
+
+Q: What should you do after performing maintenance or repairs to the machine?
+A: Take time to inventory tools, parts used, and fasteners to be sure none of these items were left on or inside the machine.
+
+Q: Why should you use genuine SANY replacement parts?
+A: To avoid premature system or part failure.
+
+Q: What should you use when repairing or replacing machine components?
+A: SANY-approved lubricants and coolants.
+
+Q: What should you avoid mixing when using lubricants?
+A: Different lubricant brands or viscosities.
+
+Q: What should you do if the machine will be operated in below-freezing temperatures?
+A: Contact a SANY dealer for assistance.
+
+Q: What should you inspect after changing the engine or hydraulic oil or filters?
+A: The oil and filters for contamination.
+
+Q: What should you do if contamination is found in the oil or filters?
+A: Send a sample of the oil for testing to help determine the cause and consult a SANY dealer before operating the machine.
+
+Q: What should you do before performing any welding repairs?
+A: Contact a SANY dealer.
+
+Q: Who should perform welding repairs on the machine?
+A: Personnel who are qualified and certified to perform repairs that require welding.
+
+Q: What should you avoid doing when cleaning the machine?
+A: Using caustic chemicals or steam cleaners.
+
+Q: How should you clean the machine?
+A: With mild soaps and a pressure washer.
+
+Q: What should you protect when cleaning the machine?
+A: Electrical parts.
+
+Q: What should you do when servicing the machine with the covers open?
+A: Make sure they are properly supported in place and close tightly and latch securely in place.
+
+Q: What should you do in adverse environments such as mud, rain, or snow conditions?
+A: Inspect each connector for looseness before operating the machine, and clean the machine and inspect for missing or loose fasteners after operating the machine.
+
+Q: What should you do in dusty environments?
+A: Clean the engine air filter, radiator, fuel equipment, and fresh-air and recirculation filters frequently.
+
+Q: What should you do in cold environments?
+A: Lubricate only with recommended oils shown in "Engine Oil Viscosity/Temperature Data" on page 5-7.
+
+##  Questions and Answers from SW405K Wheel Loader OMM
+
+Q:  What should you do before performing any maintenance or repairs?
+A: Review the Maintenance Log and ensure you understand the Safety section of the manual. Contact a SANY dealer if you are unsure about any procedures.
+
+Q:  Is it safe to work on the machine while the engine is running?
+A: Avoid working on the machine while the engine is running unless the procedure specifically requires it. If the engine must run, always have a person in the cab who can operate the machine correctly and maintain clear communication.
+
+Q: What should you do after performing maintenance or repairs?
+A: 
+    * Have a coworker inspect the work for completion.
+    * Record the maintenance information in the Maintenance Log
+    * Check for leaks in the system you worked on.
+    * Verify there are no abnormal sounds from the engine or hydraulic system. 
+    * Inspect for any loose fasteners or abnormal movements. 
+    * Check for overheating in the serviced system.
+    * Inventory all tools, parts used, and fasteners to ensure none are left inside the machine.
+
+Q: What should you do with the hour meter reading?
+A: Record the hour meter reading daily and compare it to the required maintenance intervals listed in the manual. The manual will indicate when a service is due. 
+
+Q: What type of replacement parts should you use?
+A: Always use genuine SANY replacement parts. 
+
+Q: What type of lubricants should you use?
+A:  Always use SANY-approved lubricants and coolants, and never mix different brands or viscosities. 
+
+Q:  Can I use commercially available lubricants?
+A: NO!  Use only the lubricants recommended in this manual.  Using other lubricants can damage the machine.
+
+Q: What should you do if you need to weld on the machine?
+A: Contact a SANY dealer before welding and ensure the repair is performed by qualified and certified personnel.
+
+Q: What safety precaution should be taken before welding?
+A: 
+   * Wait 2 minutes after turning the key switch to OFF before disconnecting the battery. 
+   * Disconnect the battery and all electrical control modules.
+   * Connect the welding ground cable within 3.3 ft (1m) of the welding area directly to the part being welded. 
+   * Do not ground to bearings, hydraulic cylinder pins or work equipment pins.
+
+Q:  How should you clean the machine?
+A: Avoid using caustic chemicals or steam cleaners. Use mild soaps and a pressure washer. Protect electrical parts and never flood or pressure-wash the inside of the cab. Never use flammable liquids for cleaning. 
+
+
+Q: What should you do with access covers and compartment doors?
+A: Ensure they are properly supported when open, close tightly and latch securely. If a lock is present, engage it properly. 
+
+Q: What inspections should be performed in adverse environments?
+A: 
+   * Adverse Environments: Inspect and clean electrical components to prevent corrosion. 
+   * Extreme Heat: Check and clean areas like the exhaust system, manifold, and turbocharger.  
+   * Heavy-load: Grease work equipment pins before operation. Cycle all working parts several times before use.
+
+Q:  What Inspections should be made before operating in mud, rain, or snow conditions?
+A: Inspect each connector for looseness.
+
+Q: What inspections are needed after operating in mud, rain or snow?
+A: Clean the machine and inspect for missing or loose fasteners. Add oil and grease as needed.
+
+
+Q: What inspections are needed before operating near ocean (salt air)?
+A: Inspect for any signs of corrosion. Apply grease where rust is found. 
+
+
+Q:  What inspections are needed after operating in a dusty environment?
+A: Thoroughly wash away salt residue, apply grease where rust is found, and carefully perform maintenance on electrical components to prevent corrosion. 
+
+Q: What components should be cleaned in a dusty environment?
+A:
+  * Engine air filter 
+  * Radiator
+  * Fuel equipment
+  * Fresh-air and recirculation filters
+
+Q: What should you use for lubricants in cold environments?
+A: Use only the recommended oils shown in "Engine Oil Viscosity/Temperature Data" on page 5-7 and the fuels identified in "Recommended Lubricants, Fuel, and Engine Coolant" on page 5-6.
+
+
+
+
+
+Here are the generated questions and answers based on the provided text:
+
+Q: What type of lubricants, coolants, and filters should be used in the SW405K Wheel Loader?
+A: SANY-approved lubricants, coolants, and filters.
+
+Q: What is the recommended fuel for normal operations in the SW405K Wheel Loader?
+A: No. 2 ultra-low sulfur diesel (ULSD) fuel.
+
+Q: Can No. 1 diesel fuel be used in the SW405K Wheel Loader?
+A: Yes, in a blend with No. 2 diesel fuel in cold weather environments when temperatures are below 32°F (0°C).
+
+Q: What is the minimum cetane level recommended by Deutz?
+A: 40.
+
+Q: What should be done if fuel waxing or bacteria occur in the fuel system?
+A: Have the fuel system professionally serviced.
+
+Q: What precautions should be taken to prevent fuel contamination during refueling?
+A: Take appropriate precautions.
+
+Q: What happens if fuels are diluted?
+A: Damage to the injection system can result, causing the machine to operate improperly.
+
+Q: What is the approximate capacity of the engine oil in the SW405K Wheel Loader?
+A: 6.08 gal. (23 L).
+
+Q: What type of grease is recommended for lubricating the machine?
+A: NGLI No. 2 molybdenum disulfide lithium-based grease.
+
+Q: What type of hydraulic oil is recommended for temperate climates?
+A: ISO VG 46 anti-wear hydraulic oil.
+
+Q: What type of hydraulic oil is recommended for areas where ambient temperatures can reach -22°F (-30°C) during operation?
+A: ISO VG 32 low-temperature anti-wear hydraulic oil.
+
+Q: What type of diesel exhaust fluid (DEF) is recommended?
+A: Any DEF meeting ISO 22241-1.
+
+Q: What type of engine coolant is recommended?
+A: Any brand meeting the Deutz classification TR 0199-99-1115/5 EN.
+
+Q: What type of windshield washer fluid should be used?
+A: Clean automotive windshield washer fluid with a low temperature rating in cold weather areas.
+
+## Q&A from SW405K Wheel Loader OMM
+
+Q: What type of fuel is recommended for the SW405K Wheel Loader?
+A: Deutz® recommends using No. 2 ultra-low sulfur diesel (ULSD) fuel.  A blend of No. 2 diesel and No. 1 diesel fuel is permitted in cold weather environments below 32°F (0°C).
+
+Q:  What are the engine oil viscosity options for the SW405K Wheel Loader?
+A:  The recommended engine oil viscosities are SAE 10W-40, SAE 10W-30, SAE 5W-30, SAE 5W-40, SAE 15W-30, SAE 15W-40, and SAE 20W-50.
+
+Q:  Why is SAE 5W-40 engine oil recommended?
+A: SAE 5W-40 is recommended due to its better lubricating characteristics, including improved engine oil consumption, operation in frigid climates, and continued lubrication in high temperatures.
+
+Q: Is it safe to use other types of fuels besides No.2 diesel in this machine?
+A: No, do not use gasoline, kerosene, or any unapproved fuels. 
+
+Q: How should the fuel system be handled?
+A: Exercise extreme caution when handling fuel. Fuel or fuel vapors encountering hot surfaces or electrical components can cause fire. Never service the fuel system near an open flame or while smoking.  Clean up any spilled fuel immediately.
+
+Q: What type of hydraulic oil is recommended for the SW405K Wheel Loader?
+A:  ISO VG 46 anti-wear hydraulic oil for temperate climates.  
+ISO VG 32 low-temperature anti-wear hydraulic oil (pour point is -43.6°F [-42°C]) for areas where ambient temperatures can reach -22°F (-30°C) during operation.
+
+Q: What brand of diesel exhaust fluid (DEF) should be used? 
+A:  Any DEF meeting ISO 22241-1 is acceptable.
+
+Q: What kind of engine coolant is acceptable?
+A:  Any brand meeting the Deutz® classification TR 0199-99-1115/5 EN.
+
+Q: What type of grease should be used for lubricating the machine?
+A:  Always use clean EP (extreme pressure) grease when greasing the machine. Avoid using low-viscosity greases. Use greases designed for heavy-duty bearings and general industrial lubrication, and heavy-duty plain and rolling element bearings operating under severe conditions, including shock loading in wet environments.
+
+
+
+Let me know if you'd like me to generate more questions and answers.
+
+
+Here are the questions and answers based on the text:
+
+Q: What is the maintenance schedule for the SW405K Wheel Loader?
+A: The maintenance schedule includes daily, 50-hour, 100-hour, 250-hour, 500-hour, 1000-hour, 2000-hour, 3000-hour, and 4000-hour maintenance tasks.
+
+Q: What is the first step in securing the machine for maintenance?
+A: Obtain the Maintenance Log for this machine and complete it at the close of all maintenance procedures.
+
+Q: Why is it important to read and understand all tasks listed in the maintenance section?
+A: Failure to perform the following procedures when and as directed can damage the machine and cause it to operate improperly.
+
+Q: What is the purpose of the lockout/tagout procedure?
+A: To secure the machine in accordance with company policy.
+
+Q: What daily maintenance tasks should be performed on the engine?
+A: Check the engine oil level, check/add engine coolant, inspect the engine air filters, check the engine exhaust system, and check the engine serpentine belt.
+
+Q: What should be done every 50 hours or weekly?
+A: Check battery terminals, check the air conditioner operation, check the driveshaft fasteners, and lubricate the machine.
+
+Q: When should the engine oil and filter be changed?
+A: After the first 50 hours, and every 500 hours or as required.
+
+Q: What should be done every 250 hours or monthly?
+A: Check the engine serpentine belt tension, check the engine and transmission mounting fasteners, check the wheel mounting fasteners, and check the work equipment mounting fasteners.
+
+Q: When should the transmission oil and filter be changed?
+A: Every 100 hours, and every 1000 hours or as required.
+
+Q: What should be done every 500 hours or every 3 months?
+A: Clean radiator cooling fins, change engine oil and filter, check transmission oil level, replace primary and secondary fuel filters, perform a standstill regeneration, and replace hydraulic system breather filter.
+
+Q: When should the hydraulic oil be changed?
+A: Every 4000 hours or as required.
+
+Q: What should be done every 2000 hours or annually?
+A: Check the alternator, change the engine coolant, check the engine valve clearance, and replace the air conditioner compressor belt.
+
+Q: When should the secondary (safe) air filter be replaced?
+A: Every 3000 hours or as required.
+
+Q: When should the diesel exhaust fluid (DEF) filter be replaced?
+A: Every 4500 hours or as required.
+
+Q: What should you do before performing any maintenance on a SW405K Wheel Loader?
+A:  Obtain the Maintenance Log for this machine and complete it at the close of all maintenance procedures. Read and understand all of the tasks listed in this section. Perform the lockout/tagout procedure on the machine in accordance with company policy.
+
+Q: How often should you check the engine oil level on a SW405K Wheel Loader?
+A: Daily or every 10 hours.
+
+Q: What should you check the engine air filters for?
+A: Inspect the engine air filters.
+
+Q: What should you check the hydraulic oil level for?
+A:  Daily or every 10 hours.
+
+Q: When should you perform the first change of the engine oil and filter?
+A: After the first 50 hours. 
+
+Q:  How often should you check the battery terminals?
+A: Weekly or every 50 hours.
+
+Q: When should you replace the primary and secondary fuel filters?
+A: After the first 500 hours, and every 1000 hours. 
+
+Q: What should you do every 6 months or 1000 hours?
+A: Replace the primary and secondary fuel filters. Check the fuel tank strainer. Replace the primary (main) air filter. Check the engine exhaust system. Check the alternator. Replace the hydraulic oil return filter. Replace the hydraulic suction filter. Change front and rear axle oil. Replace the air conditioner compressor belt.  Replace the engine serpentine belt.
+
+Q:  What should you do every 3000 hours?
+A: Replace the secondary (safe) air filter. 
+
+Q:  What should you do every 4000 hours?
+A:  Change the hydraulic oil.
+
+Q:  What should you do every 4500 hours?
+A: Change the diesel exhaust fluid (DEF) filter.
+
+
+
+
+
+Here are the questions and answers based on the text:
+
+Q: What is the purpose of the section "Lights and Warning Devices" in the maintenance manual?
+A: To check if the lights and warning devices on the wheel loader are functioning properly.
+
+Q: What are the items to be checked at the front of the machine?
+A: Front work lights, headlights, turn signals/hazard lights, and marker lights.
+
+Q: Where can you find the switch locations and functions for the front lights?
+A: In the "Right Console" section on page 3-14.
+
+Q: How do you check the horn?
+A: With the key switch ON, check the horn for proper operation.
+
+Q: Where can you find the location of the horn buttons?
+A: In the "Cab" section on page 3-9.
+
+Q: What items should you check at the rear of the machine?
+A: Rear work lights, beacon light, backup lights, brake lights/taillights, and turn signals/hazard lights.
+
+Q: Where can you find the switch locations and functions for the rear lights?
+A: In the "Right Console" section on page 3-14.
+
+Let me know if you need anything else!
+
+Q: What are the items that should be checked at the front of the machine?
+A:  Front work lights, headlights, turn signals/hazard lights, and marker lights. 
+
+
+Q: Where can you find information about the locations and functions of the switches for the front lights?
+A: "Right Console" on page 3-14
+
+
+Q: How should you check the horn?
+A: With the key switch ON, check that the horn operates properly.
+
+
+Q: Where is the horn located?
+A: See "Cab" on page 3-9
+
+
+Q: What items should be checked at the rear of the machine?
+A: Rear work lights, beacon light, backup lights, brake lights/taillights, and turn signals/hazard lights.
+
+
+Q: Where can you find information about the locations and functions of the switches for the rear lights?
+A: "Right Console" on page 3-14 
+
+
+Here are the questions and answers based on the provided text:
+
+Engine Oil
+
+Q: What should you do before checking the engine oil level?
+A: Prepare the machine for service and turn the battery disconnect switch to OFF.
+
+Q: How do you check the engine oil level?
+A: Remove the engine oil dipstick, wipe it clean, insert it into the dipstick tube, wait 10 seconds, and remove it to check the oil level.
+
+Q: What should the engine oil level be between?
+A: The high and low marks on the dipstick.
+
+Q: What happens if you overfill the engine with oil?
+A: It could result in engine damage and improper machine operation.
+
+Q: When should you change the engine oil and filter?
+A: When the engine is cool, not when it's hot.
+
+Engine Oil Filter
+
+Q: What should you do with the used engine oil filter?
+A: Dispose of it in accordance with all applicable environmental regulations.
+
+Q: How do you replace the engine oil filter element?
+A: Remove the engine oil filter housing cap, remove the old filter element, place a new one in the engine housing, and replace the O-ring and thread the cap into place.
+
+Engine Serpentine Belt
+
+Q: How do you inspect the engine serpentine belt?
+A: Look for signs of abrasion, chunk-out, pulling, uneven rib wear, improper installation, cracking, misalignment, and gravel penetration.
+
+Q: What should you do if the serpentine belt is damaged?
+A: Replace it.
+
+Q: How do you check the engine serpentine belt tension?
+A: Check the belt deflection between the idler and crankshaft pulley, which should be between 0.28 in. – 0.30 in. (7 mm – 10 mm).
+
+Air Conditioner Compressor Belt
+
+Q: How do you inspect the air conditioner compressor belt?
+A: Look for signs of abrasion, chunk-out, pulling, uneven rib wear, improper installation, cracking, misalignment, and gravel penetration.
+
+Q: What should you do if the air conditioner compressor belt is damaged?
+A: Replace it.
+
+Q: What should you do if the engine oil level is above the high mark on the dipstick?
+A: Do not overfill with engine oil so the oil level is above the high mark on the dipstick. This could result in engine damage and improper machine operation. 
+
+Q: What oil viscosity should be used?
+A: Refer to “Engine Oil Viscosity/Temperature Data” on page 5-7 for the recommended engine oil viscosity.
+
+Q: What should you do before performing engine maintenance?
+A: CAUTION: Do not perform engine maintenance when the engine is hot. Hot engine oil or engine components may cause severe burns. 
+
+Q: Where is the engine oil drain plug located?
+A:  Place an appropriately sized container under the engine drain plug (2), then remove the drain plug.
+
+Q: What should be done with the used engine oil and filters? 
+A: NOTICE! 
+Dispose of used engine oil and oil filters in compliance with all applicable environmental regulations. Failure to do so could damage the environment.
+
+Q: What is the proper engine oil level on the dipstick?
+A: The level must be between the high (5) and low (6) marks.
+
+
+Q: What should you check the engine serpentine belt for?
+A: •Abrasion:  The serpentine belt appears shiny, glazed, or fabric is exposed.  This is a sign that the serpentine belt is in contact with an object such as a flange or fastener.
+•Chunk-out:  Chunks of rubber material have broken off from the serpentine belt. At this stage, the serpentine belt can fail at any moment. Heat, age, and stress are the primary contributors.
+•Pulling:  Serpentine belt material is sheared off from the ribs. Lack of tension, misalignment, worn pulleys, or a combination of these are factors.
+•Uneven rib wear:  Serpentine belt shows damage to the side with the possibility of breaks in the tensile cord or jagged-edged ribs. A thumping/grinding noise may also be heard when running.
+•Improper installation:  The serpentine belt ribs may begin to separate, causing the belt to unravel.
+•Cracking: Small cracks develop along the length of a serpentine belt rib or ribs. With continuous exposure to high temperatures, the stress of bending around the pulley leads to cracking.
+•Misalignment: Sidewalls of the belt may appear glazed, or the edge-cord may become frayed. A noticeable noise may result.
+•Gravel penetration: Small pinholes are visible on the back side of the belt. Bumps may be visible, and fabric around the holes can be frayed, indicating damage from foreign objects such as dirt, gravel, or similar debris.
+
+
+Q: What is the proper serpetine belt deflection?
+A: The belt deflection should be between 0.28 in.–0.30 in. (7 mm–10 mm).
+
+Q: What should you do with the air conditioner compressor belt if it is damaged? 
+A: Replace the belt if damaged.
+
+
+
+
+
+
+Here are the questions and answers based on the text:
+
+Check Air Conditioner Compressor Belt Tension
+
+Q: What is the first step in checking the air conditioner compressor belt tension?
+A: Prepare the machine for service.
+
+Q: What is the position of the battery disconnect switch during this procedure?
+A: OFF
+
+Q: Where is the air conditioner compressor belt located?
+A: Between the air conditioner compressor and the crankshaft pulley.
+
+Q: What is the specified belt deflection?
+A: Between 0.28 in.–0.30 in (7 mm–10 mm).
+
+Q: What should be done if the belt deflection is not within the specified range?
+A: Replace the belt.
+
+Inspect the Engine Air Filters
+
+Q: What is the first step in inspecting the engine air filters?
+A: Prepare the machine for service.
+
+Q: Where are the engine air filters located?
+A: In the left side engine compartment.
+
+Q: How do you access the engine air filters?
+A: By releasing three latches and removing the engine air filter housing cover.
+
+Q: What should be done with the primary air filter if signs of damage, wear, or blockage are found?
+A: Replace the air filter.
+
+Q: Can the air filter elements be cleaned?
+A: No.
+
+Replace the Primary Engine Air Filter
+
+Q: What is the first step in replacing the primary engine air filter?
+A: Prepare the machine for service.
+
+Q: How do you access the primary engine air filter?
+A: By releasing three latches and removing the air filter housing cover.
+
+Q: What should be done with the air filter housing before installing a new primary filter?
+A: Clean the inside of the air filter housing.
+
+Q: How should the new primary filter be installed?
+A: It should be seated firmly over the secondary filter.
+
+Replace the Secondary Engine Air Filter
+
+Q: What is the first step in replacing the secondary engine air filter?
+A: Prepare the machine for service.
+
+Q: How do you access the secondary engine air filter?
+A: By releasing three latches and removing the air filter cover.
+
+Q: What should be done with the air filter housing before removing the secondary filter element?
+A: Clean the inside of the air filter housing.
+
+Q: How should the new secondary filter be installed?
+A: It should be seated firmly on the base.
+
+Check Engine Valve Clearance
+
+Q: Who should be contacted regarding this procedure?
+A: A SANY dealer.
+
+Replace the Engine Crankcase Breather
+
+Q: What is the first step in replacing the engine crankcase breather?
+A: Prepare the machine for service.
+
+Q: Where is the engine crankcase breather located?
+A: In the left side engine compartment.
+
+Q: What is the position of the battery disconnect switch during this procedure?
+A: OFF.
+
+Here are some questions and answers based on the provided text:
+
+Q: What is the first step to check the air conditioner compressor belt tension?
+A: Prepare the machine for service.
+
+Q: Where should you check the air conditioner compressor belt deflection?
+A: Between the air conditioner compressor and the crankshaft pulley.
+
+Q: What is the acceptable range for air conditioner compressor belt deflection?
+ A: Between 0.28 in.–0.30 in (7 mm–10 mm).
+
+Q: What should you do if the air conditioner compressor belt deflection is outside the specified range?
+A: Replace the belt first. If the deflection is not resolved, replace the tensioner.
+
+Q: Where are the engine air filters located?
+A: In the left side engine compartment.
+
+Q: How many latches must you release to remove the engine air filter housing cover?
+A: Three.
+
+Q: What should you do if the primary air filter is damaged, worn, or blocked?
+A: Replace the air filter.
+
+Q: Can you clean the air filter elements?
+A: No, do not attempt to clean the air filter elements.
+
+Q: What direction should the dust valve be pointing when installing the air filter housing cover? 
+A: Downward.
+
+Q: Is it safe to attempt a check on engine valve clearance yourself?
+A: No, contact a SANY dealer regarding this procedure. 
+
+
+
+Let me know if you'd like me to generate more questions and answers!
+
+
+Here are the questions and answers based on the text:
+
+Q: What is the first step to remove the crankcase breather?
+A: Remove two fasteners and pull the crankcase breather away from the engine.
+
+Q: How do you remove the breather hose from the crankcase breather?
+A: Use a pliers to squeeze hose clamp tabs and remove the breather hose.
+
+Q: What should you do before checking the engine coolant level?
+A: Prepare the machine for service, turn the battery disconnect switch to the OFF position, and open the left side engine compartment access doors.
+
+Q: Where is the coolant expansion tank located?
+A: On top of the radiator.
+
+Q: What should you do if the engine coolant level is low?
+A: Add coolant through the expansion tank filler, then install the expansion tank filler cap.
+
+Q: Why should you not remove the expansion tank filler cap while the engine is hot?
+A: Because engine coolant may be under pressure when the engine is hot, and it can cause serious injury or death.
+
+Q: What should you do with the used engine coolant?
+A: Dispose of it in accordance with all applicable environmental regulations.
+
+Q: How do you clean the radiator and oil cooler fins?
+A: Using compressed air, but follow the warnings and guidelines to avoid serious injury or damage to the machine.
+
+Q: What should you do before performing the cleaning procedure?
+A: Shut down the engine and prepare the machine for service.
+
+Q: What is the purpose of changing the fan direction?
+A: To clean the radiator during maintenance.
+
+Q: What is the first step to remove the crankcase breather?
+A: Remove two fasteners (1) and pull crankcase breather (2) away from the engine. 
+Q: What tool should be used to remove the breather hose?
+A: Use a pliers 
+Q: Where should the new gasket be installed?
+A:  Install the new gasket (5) onto the new crankcase breather. 
+Q: How should you prepare the machine for checking/adding engine coolant?
+A: Prepare the machine for service. See “Maintenance Safety” on page 2-5.
+Q: What safety warning is given regarding engine coolant?
+A: Engine coolant is toxic. Avoid inhaling or ingesting engine coolant. If eyes or skin are contaminated by engine coolant, wash the affected area with plenty of water and seek medical treatment immediately.
+Q: Where is the coolant expansion tank located?
+A:  On top of the radiator. 
+Q: What should you do before adding coolant to the expansion tank?
+A: If additional engine coolant is required, slowly open the expansion tank filler cap (2) to release any pressure from the expansion tank.
+Q: What is the recommended procedure for checking the engine coolant level?
+A: Start and run the engine at low idle until it reaches normal operating temperature.
+Q: Before draining the engine coolant, what should be done to release pressure from the system?
+A: Slowly open  the expansion tank filler cap (1) to release cooling system pressure from the expansion tank.
+
+
+
+
+Here are the questions and answers based on the provided text:
+
+Cooling System
+
+Q: What should you use to clean the cooler fins?
+A: Low-pressure compressed air or water.
+
+Q: Why should you not point the nozzle directly at the radiator fins?
+A: To avoid damaging the fins or causing other engine damage.
+
+Q: What should you do after starting the engine?
+A: Blow or wash dirt and debris out of the cooler fins using low-pressure air or water.
+
+Q: What should you check after allowing the engine to run?
+A: That the air flowing out of the intake air cooler, air conditioner condenser, hydraulic oil cooler, transmission oil cooler, and the coolant radiator is clear of dust or debris.
+
+Fuel System
+
+Q: What should you do before filling the fuel tank?
+A: Prepare the machine for service and turn the battery disconnect switch to the OFF position.
+
+Q: Why should you not top off the fuel tank?
+A: Because fuel or fuel vapors that come into contact with hot surfaces or electrical components can cause a fire.
+
+Q: What should you inspect after removing the fuel tank filler cap?
+A: The vent hole in the filler cap and the O-ring seal in the fuel filler cap.
+
+Q: Why should you clean the vent hole in the filler cap?
+A: Because pressure in the fuel tank may drop if the vent hole in the cap is blocked, which may hinder the flow of fuel.
+
+Drain the Primary Fuel Filter/Water Separator
+
+Q: What should you do before draining the primary fuel filter/water separator?
+A: Prepare the machine for service and turn the battery disconnect switch to the OFF position.
+
+Q: What should you use to drain water from the primary fuel filter/water separator?
+A: An appropriately sized container under the primary fuel filter/water separator.
+
+Replace the Primary and Secondary Fuel Filters
+
+Q: Why should you never maintain the fuel system near an open flame or while smoking?
+A: Because fuel or fuel vapors that come into contact with hot surfaces or electrical components can cause a fire.
+
+Q: What should you apply to the O-ring on the new primary fuel filter/water separator?
+A: A thin film of clean engine oil.
+
+Drain the Fuel Tank
+
+Q: Why should you drain the fuel tank?
+A: Only if an excessive amount of water or contaminants is found while draining the fuel/water separator.
+
+Q: What should you do before draining the fuel tank?
+A: Prepare the machine for service and turn the battery disconnect switch to the OFF position.
+
+Check the Fuel Tank Strainer
+
+Q: Why should you inspect the fuel tank strainer?
+A: To check for debris or damage.
+
+Q: What should you do after inspecting the fuel tank strainer?
+A: Install and lock the fuel tank filler cap after refueling.
+
+Electrical System
+
+Q: What should you do before replacing a fuse?
+A: Make sure the key switch is in the OFF position and the batteries are disconnected.
+
+Q: What should you replace a fuse with?
+A: One of the same capacity.
+
+Q: Why should you inspect the condition of the seal on the fuse block?
+A: To check for moisture, and replace the seal if necessary.
+
+Here are some questions and answers based on the provided text:
+
+Q: What should you do when cleaning the radiator fins?
+A: Use low-pressure compressed air and do not point the nozzle directly at the fins.
+
+Q: What should you do after cleaning the coolers and radiators?
+A: Allow the engine to run until the air flowing out of the intake air cooler, air conditioner condenser, hydraulic oil cooler, transmission oil cooler, and the coolant radiator is clear of dust or debris.
+
+Q: What safety precaution should be taken before refueling the machine?
+A: Turn the battery disconnect switch to the OFF position.
+
+Q: What should you do with the fuel tank filler tube whenever the cap is removed?
+A: Cover the fuel tank filler tube to prevent dirt and debris from entering.
+
+Q: What part of the fuel tank filler cap should you inspect for debris or damage?
+A: You should inspect both the vent hole and the O-ring seal.
+
+Q: What should you do if an excessive amount of water or contaminants are found while draining the fuel/water separator?
+A: SANY recommends fully draining and refilling the fuel tank.
+
+Q: What type of container should be placed under the primary fuel filter/water separator before draining?
+A: An appropriately sized container.
+
+
+Let me know if you'd like me to generate more questions and answers! 
+
+
+Here are the questions and answers based on the text:
+
+Q: Where is the ePower fuse block located?
+A: Inside the electrical cabinet on the right side of the cab.
+
+Q: How do you access the fuses in the ePower fuse block?
+A: Remove the four fasteners and cover.
+
+Q: Where is the Vehicle Electrical Center (VEC) fuse block located?
+A: Inside the electrical cabinet on the right side of the cab.
+
+Q: How do you access the fuses in the VEC fuse block?
+A: Open the hinged fuse box cover.
+
+Q: Where is the Battery Compartment Fuse Block located?
+A: Inside the battery compartment at the left rear side of the machine.
+
+Q: How do you access the fuses in the Battery Compartment Fuse Block?
+A: Remove the fuse block cover.
+
+Q: What is the purpose of checking the alternator?
+A: To check for loose mounting bolts, worn or loose drive belt, worn alternator bearings, case and internal corrosion, and tightness of electrical connectors.
+
+Q: How often should you check the alternator?
+A: Every 1000 hours of service.
+
+Q: What precautions should you take when working with batteries?
+A: Battery gases are explosive, wear personal protective equipment, work in a well-ventilated area, and follow proper disconnection procedures.
+
+Q: How many 12V batteries are connected in series to provide 24V to the electrical system?
+A: Two.
+
+Q: What should you do before servicing the batteries?
+A: Allow several minutes for any accumulated battery gases to clear.
+
+Q: What should you check on the top surfaces of the batteries?
+A: Signs of corrosion or dirt buildup.
+
+Q: How do you clean corrosion from the battery connections?
+A: Use a clean rag and a battery corrosion cleaning compound.
+
+Q: What should you do with the battery cables when replacing a battery?
+A: Disconnect the black, ground (-) cables first, then disconnect the red, positive (+) cables.
+
+Q: How should you dispose of used batteries?
+A: In accordance with all applicable environmental regulations.
+
+Q: What should you do after installing new batteries?
+A: Connect the red, positive (+) cables first, then connect the black, ground (-) cables.
+
+Q: How do you check the battery terminals?
+A: Check for signs of corrosion or dirt buildup, clean the area with a mix of baking soda and warm water if necessary, and coat the terminals with battery corrosion preventative.
+
+Q: Where is the ePower fuse block located?
+A: Inside the electrical cabinet on the right side of the cab.
+
+Q: How do you access the fuses in the ePower fuse block?
+A: Remove the four fasteners and cover.
+
+Q: What is the location of the Vehicle Electrical Center (VEC) fuse block?
+A: Inside the electrical cabinet on the right side of the cab.
+
+Q: How do you access the fuses in the VEC fuse block?
+A: Open the hinged fuse box cover.
+
+Q: Where is the battery compartment fuse block located?
+A: Inside the battery compartment at the left rear side of the machine.
+
+Q: How often should you check the alternator?
+A: Every 1000 hours of service.
+
+Q: What are some things to check on the alternator?
+A: Loose mounting bolts, worn or loose drive belt, worn alternator bearings, case and internal corrosion, and the tightness of electrical connectors.
+
+Q: What is a safety precaution to remember before working on batteries?
+A: Battery gases are explosive, so never smoke around batteries or expose them to sparks or open flames.
+
+Q: What should you do if battery acid contacts your skin or eyes?
+A: Flush the area immediately with fresh water and seek medical attention.
+
+Q: What is important to remember when disconnecting a battery?
+A: Wait for at least 2 minutes after engine shutdown so the engine control module (ECM) can complete its shutdown procedure.
+
+Q: How many 12V batteries are in the machine's electrical system?
+A: Two.
+
+Q: What should you do before servicing the batteries?
+A: Allow several minutes for any accumulated battery gases to clear.
+
+Q: What should you check for on the top surfaces and battery connections?
+A: Signs of corrosion or dirt buildup.
+
+Q: What should you do with the old batteries?
+A: Dispose of them in accordance with all applicable environmental regulations.
+
+Q: How do you connect the batteries?
+A: Connect them in series.
+
+
+
+
+Here are the questions and answers based on the provided text:
+
+Q: How do you check the air conditioner filters in the SW405K Wheel Loader?
+A: Release latches and remove the panel behind the cab seat, remove wing nuts and bracket, remove the cab filter and clean or replace as necessary, and install in reverse order of removal.
+
+Q: What is the purpose of the fresh-air filter in the SW405K Wheel Loader?
+A: The fresh-air filter is part of the climate control system and needs to be removed and replaced as necessary.
+
+Q: How do you check the air conditioning operation in the SW405K Wheel Loader?
+A: With the engine running, adjust the fan speed control dial to each setting, check the fan speed control and airflow, turn the heater on/off control switch to the right and check if heat is present, turn the temperature control dial to the right and check if the air temperature changes from warm to cool, and check the recirculated-air/fresh-air control switch function.
+
+Q: What precaution should be taken when checking the engine exhaust system?
+A: Make sure the engine is shut down and the exhaust has cooled to a point where it can be touched without burning.
+
+Q: What is standstill regeneration in the context of the SW405K Wheel Loader?
+A: Standstill regeneration is a process that needs to be done in a well-ventilated area, away from highly combustible materials, with the transmission control lever in neutral position, and the hydraulic system locked out.
+
+Q: How do you activate standstill regeneration?
+A: Through the monitor screen, press the function button to access the Calibration and Operation screens, highlight the Operation Screen option, press the function button next to the check mark icon to access the Operation Screen, highlight the Standstill regeneration release option, and press the function button next to the check mark icon to choose the option.
+
+Q: What happens during standstill regeneration?
+A: The monitor will display "regen. ongoing" and the machine cannot be operated until the regeneration is complete.
+
+Q: How do you add diesel exhaust fluid (DEF) to the SW405K Wheel Loader?
+A: Prepare the machine for service, unlock and open the DEF tank compartment door, remove the DEF tank filler cap, add DEF as needed, and install the DEF tank filler cap.
+
+Q: How do you replace the diesel exhaust fluid (DEF) suction filter?
+A: Prepare the machine for service, remove the fasteners and DEF compartment cover, press the buttons and disconnect the two coolant hoses, disconnect the backflow hose and DEF hose, loosen the hose clamp, remove the DEF unit from the tank, replace the DEF suction filter, and install the DEF suction filter by reversing steps 1 through 8.
+
+Q: How do you replace the diesel exhaust fluid (DEF) pump filter?
+A: Prepare the machine for service, remove the fasteners and DEF compartment cover, remove the access panel, remove the fastener and pivot the brace clear of the DEF pump filter cover, remove the DEF pump filter cover, remove the filter seal and filter element, install a new filter element and install the seal and DEF pump filter cover, swing the brace back into position and install the screw and washer, and install the access panel and the DEF compartment cover.
+
+Let me know if you need more!
+
+## Q&A from the provided SW405K Wheel Loader OMM text: 
+
+Climate Control System:
+
+Q: How do you remove the cab filter?
+A: 1. Release latches (1) and remove the panel (2) from behind the cab seat. 2. Remove wing nuts (3), bracket (4). 3. Remove the cab filter (5) from the bracket and clean or replace as necessary.
+
+Q: How do you check the function of the recirculated-air/fresh-air control switch?
+A:  Check the recirculated-air/fresh-air control switch (4) function. See “Climate Control Panel” on page 3-17 for climate control panel operational information.
+
+Q: How do you check if the heater is working?
+A: Turn the heater on/off control switch (2) to the right and check if heat is present.
+
+Q: How do you check if the air temperature changes from warm to cool?
+A: Turn the temperature control dial (3) to the right and check if the air temperature changes from warm to cool.
+
+Exhaust System:
+
+Q: What should you do before inspecting the exhaust system?
+A: Ensure the engine is shut down, the exhaust has cooled, and wear gloves.
+
+Q: What is the purpose of a standstill regeneration?
+A:  The diesel particulate filter (DPF) regenerates automatically when required. During this regeneration process, it burns off accumulated soot, helping to keep the engine clean and efficient. Standstill regeneration is initiated from the touch screen when the machine is stationary.
+
+Q: How do you initiate standstill regeneration ?
+A: 1. Prepare the machine for service. 2. Start and run the engine at idle. 3. On the Home screen, press the function button (1) at the bottom right to access the Calibration and Operation screens. 4. Press the function button up (2) or down (3) arrow icons to highlight the Operation Screen (5) option. Press the function button (4) next to the check mark icon to access the Operation Screen. 5. Press the up or down arrow icons to highlight the Standstill regeneration release (6) option. Press the function button next to the check mark icon to choose the option. 6. Place the transmission control lever in the neutral position. 7. Lock out the hydraulic system. 8. Use the function button next to the down arrow icon to highlight the Release option. 9. Press the function button next to the check mark icon to confirm the selection and activate the standstill regeneration.
+
+
+Q: What should you do while the standstill regeneration is active? 
+A: Do not operate any controls.
+
+
+Q: How do you know when standstill regeneration is complete?
+A:  When the "regen. ongoing" message is no longer displayed, standstill regeneration is complete and the machine can be operated normally.
+
+Q: Where is the DEF tank filler cap located?
+A: Locate the DEF tank filler cap (1) and add DEF as needed.
+
+ DEF Suction Filter Replacement:
+ Q: What should you do before replacing the DEF suction filter?
+A: Prepare the machine, turn off the battery, and remove the DEF compartment cover.
+
+Q: How do you remove the DEF suction filter?
+
+A:  Disconnect both the coolant hoses and the DEF hose, remove the DEF unit from the tank and replace the DEF suction filter
+
+ DEF Pump Filter Replacement:
+
+Q: What steps should you take to replace the DEF pump filter?
+A: Follow the steps outlined in the text, including turning off the battery, removing necessary covers,  uninstalling the old filter, installing a new filter, and reassembling the system.
+
+
+
+
+These are just a few examples. You can create many more questions and answers by carefully reading through the provided text. 
+
+
+
+
+Here are the questions and answers based on the text:
+
+Q: What is the first step in checking the hydraulic oil level?
+A: Prepare the machine for service. See “Maintenance Safety” on page 2-5.
+
+Q: Where is the sight glass located to check the hydraulic oil level?
+A: On the left side of the machine behind the cab.
+
+Q: What are the two level marks on the sight glass?
+A: High (2) and low (3) level marks.
+
+Q: What should you do if the oil level is below the low mark on the hydraulic tank sight glass?
+A: Add hydraulic oil.
+
+Q: What should you not do when adding hydraulic oil?
+A: Do not add hydraulic oil to a level above the high level mark on the hydraulic tank sight glass.
+
+Q: What is the first step in adding hydraulic oil?
+A: Prepare the machine for service. See “Maintenance Safety” on page 2-5.
+
+Q: How do you relieve the hydraulic system pressure?
+A: See “Relieve Hydraulic System Pressure” on page 5-36.
+
+Q: What should you inspect before adding hydraulic oil?
+A: The O-ring. Replace if missing or damaged.
+
+Q: How often should you check for leaks after adding hydraulic oil?
+A: After 10 minutes of running the engine.
+
+Q: What should you do after checking the hydraulic oil level?
+A: Install the hydraulic tank filler cover and access panel.
+
+Q: What is the purpose of checking hydraulic connections?
+A: To inspect for cracks, damage, or abnormal wear.
+
+Q: What should you do if you find damaged or defective fittings?
+A: Replace them.
+
+Q: What warning should you be aware of when relieving hydraulic system pressure?
+A: Allow the hydraulic system to cool before servicing. Hot oil may cause burns or other serious injury.
+
+Q: How do you relieve pressure from the hydraulic tank?
+A: Press the vent button to relieve pressure from the hydraulic tank.
+
+Q: What should you do before changing the hydraulic oil?
+A: Relieve the hydraulic system pressure. See “Relieve Hydraulic System Pressure” on page 5-36.
+
+Q: Where is the hydraulic tank drain block located?
+A: On the left side of the machine on the inside of the rear frame.
+
+Q: What should you do with used hydraulic oil?
+A: Dispose of it in compliance with all applicable environmental regulations.
+
+Q: How often should you recheck the hydraulic oil level after adding new oil?
+A: After 10 minutes of running the engine.
+
+Q: What should you replace when replacing the hydraulic oil return filter?
+A: The filter cover.
+
+## Maintenance Question and Answer:
+
+Q:  What is the procedure for checking the hydraulic oil level on a SW405K Wheel Loader?
+A: 1. Prepare the machine for service and turn the battery disconnect switch to OFF. 2. Check the oil level in the sight glass located on the left side of the machine behind the cab. The sight glass has high and low level marks. Add oil if the level is below the low mark.  
+
+
+Q: What should you do if the hydraulic oil level is above the high level mark in the sight glass?
+A: Do not add more hydraulic oil. Adding oil above the high level mark could damage the machine and cause improper operation. 
+
+
+Q: What is the first step in adding hydraulic oil to a SW405K Wheel Loader?
+A: The first step is to prepare the machine for service and turn the battery disconnect switch to OFF.
+
+
+Q: What happens to the hydraulic tank filler cover while loosening the fasteners?
+A: The hydraulic tank filler cover may move up due to the action of an internal spring.
+
+Q: Where is the hydraulic tank filler cover located?
+
+
+A:  The hydraulic tank filler cover is located behind the access panel on the left side of the machine.
+
+
+Q: What should you inspect when removing the hydraulic tank filler cover?
+A: Inspect the O-ring for damage or missing parts.
+
+
+Q: Where can you find the capacity for the hydraulic tank?
+A: The capacity for the hydraulic tank can be found in the "Location, Capacity, and Type" section. 
+
+
+Q: What should you do with used hydraulic oil?
+A: Dispose of used hydraulic oil in compliance with all applicable environmental regulations.
+
+
+Q: Describe the process for relieving pressure from the hydraulic system on a SW405K Wheel Loader
+A: 1. Park the machine on a level surface and lower all equipment to the ground. 2. Shut down the engine and turn the key switch to ON. 3. Fully cycle all hydraulic controls two to three times within 15 seconds to release pressure in the system. 4. Turn the key switch to OFF. 5. Remove the wing nut from the breather valve and press the vent button to release pressure from the hydraulic tank. 6. Reinstall the wing nut.
+
+Q: What warning is given before replacing the hydraulic oil return filter?
+
+A: Allow the hydraulic system to cool before servicing. Hot hydraulic oil may cause burns or other serious injury. The tank may be under pressure, and hydraulic oil may be present at the filler cap. Relieve hydraulic system pressure to prevent injury.
+
+
+
+
+This is a small sample of the questions and answers that can be generated from the text. You can continue to ask questions about specific details or procedures described in the document. 
+
+
+Here are the questions and answers based on the provided text:
+
+Replacing the Hydraulic Oil Return Filter
+
+Q: What is the first step in replacing the hydraulic oil return filter?
+A: Remove the spring (9).
+
+Q: What should be disposed of in compliance with all applicable environmental regulations?
+A: Used hydraulic oil and filters.
+
+Q: What should be installed in step 12?
+A: A new hydraulic oil return filter and filter cover (10).
+
+Q: What should be positioned on top of the hydraulic oil return filter cover in step 13?
+A: The spring.
+
+Replacing the Hydraulic Suction Filter
+
+Q: What should be done before servicing the hydraulic system?
+A: Prepare the machine for service and relieve hydraulic system pressure.
+
+Q: What should be removed in step 5?
+A: Four fasteners (1) and the access panel (2).
+
+Q: What should be pressed down while removing the four fasteners in step 6?
+A: The hydraulic tank filler cover (3).
+
+Q: What should be installed in step 10?
+A: A new hydraulic suction filter element on the filter rod.
+
+Replacing the Hydraulic Pilot Filter
+
+Q: What should be done to support the boom before accessing the hydraulic pilot filter?
+A: Raise and support the boom with an appropriate supporting device.
+
+Q: What should be shut down before servicing the hydraulic system?
+A: The engine.
+
+Q: What should be relieved before servicing the hydraulic system?
+A: The hydraulic system pressure.
+
+Q: What should be removed in step 6?
+A: The fasteners (1) and the front frame access panel (2).
+
+Q: Where is the hydraulic pilot filter located?
+A: Inside the front frame.
+
+Replacing the Hydraulic System Breather Filter
+
+Q: How often should the breather filter be replaced?
+A: Every 500 hours, or more frequently depending on the work environment and degree of contamination.
+
+Q: What should be done before servicing the hydraulic system?
+A: Prepare the machine for service, turn the battery disconnect switch to OFF, and relieve hydraulic system pressure.
+
+Q: What should be removed in step 4?
+A: The wing nut (1) from the breather valve.
+
+Q: What should you do with used hydraulic oil and filters?
+A: Dispose of used hydraulic oil and filters in compliance with all applicable environmental regulations. 
+
+Q: What is the purpose of the spring (9) when replacing the hydraulic oil return filter?
+A: The spring (9) is positioned on top of the hydraulic oil return filter cover.
+
+Q: How do you know when the hydraulic suction filter element is correctly installed?
+A: When properly installed, the end of the filter rod is flush with the inside of the hydraulic suction filter element.
+
+Q: What should you do before servicing the hydraulic system? 
+A: Allow the hydraulic system to cool before servicing.
+
+Q: What warning is given regarding supporting the boom when replacing the Hydraulic Pilot Filter?
+A: Use an appropriate supporting device to support the boom. Failure to follow this warning will result in death or serious injury. 
+
+Q: What is the recommended interval for replacing the hydraulic system breather filter?
+A: Depending on the work environment and the degree of contamination, the filter may need to be replaced more frequently than every 500 hours.
+
+Q: What should you do if the hydraulic tank filler cover moves up while loosening the fasteners?
+A: This is normal due to the action of an internal spring.
+
+
+Q: What should you do if the hydraulic system is under pressure beforereplacing a filter?
+A: Relieve hydraulic system pressure.
+
+
+
+
+
+
+Here are the questions and answers based on the text:
+
+Hydraulic System Breather Filter
+
+Q: What should you do to release pressure in the hydraulic system?
+A: Press the vent button.
+
+Q: What should you do after removing the hydraulic system breather filter element cover?
+A: Pull up to remove the hydraulic system breather filter from the valve body.
+
+Drivetrain
+
+Q: What should you do before inspecting the driveshaft fasteners?
+A: Prepare the machine for service, turn the battery disconnect switch to the OFF position, and chock the wheels.
+
+Q: What should you check for on the driveshafts?
+A: Loose, missing, or damaged fasteners.
+
+Wheel Mounting Fasteners
+
+Q: What should you do before checking the wheel mounting fasteners?
+A: Prepare the machine for service and turn the battery disconnect switch to the OFF position.
+
+Q: What is the torque value for wheel mounting fasteners?
+A: 553 lb-ft–590 lb-ft (750 N•m–800 N•m).
+
+Tires
+
+Q: When should you replace a tire?
+A: When it reaches its maximum wear limit.
+
+Q: What should you check for on the tires before starting the machine?
+A: Uneven or accelerated tire wear, wheel rim cracks, corrosion, or damage, and debris on the tires.
+
+Q: What should you do if a tire has deflated?
+A: Dismount the tire and inspect the wheel rim for damage.
+
+Tire Pressure
+
+Q: What should you do to check tire pressure?
+A: Contact a SANY dealer for the recommended tire inflation pressure.
+
+Q: What should you do to inflate a tire?
+A: Follow the guidelines for inflating tires to avoid accidents, such as inflating the tire on a machine or in a protective device that can absorb or dissipate a shock wave.
+
+Service Brakes
+
+Q: What should you do before performing any service on the brake system?
+A: Relieve the brake hydraulic pressure.
+
+Q: How many times should you press and release the brake pedal to relieve the pressure in the brake accumulator?
+A: 30 to 40 times.
+
+Q: What should you do to inspect the service brakes?
+A: Remove the inspection port plugs and measure the clearance between the outer flanges of the two friction plates.
+
+Park Brake Pad Thickness and Clearance
+
+Q: How thick should the park brake pads be?
+A: At least 0.125 in. (3.2 mm).
+
+Q: What should you do to check the park brake pad to disc clearance?
+A: Inspect the clearance between the park brake disc and the brake pad after the first week or 50 service hours, then monthly or every 250 service hours.
+
+Front and Rear Axle Oil Level
+
+Q: What should you do before checking the axle oil level?
+A: Prepare the machine for service, turn the battery disconnect switch to the OFF position, and chock the wheels.
+
+Q: How many times should you press and release the brake pedal to relieve the pressure in the brake accumulator before checking the axle oil level?
+A: 30 to 40 times.
+
+Q: What should you do before checking the hydraulic system breather filter?
+A: Press the vent button to release pressure in the hydraulic system.
+
+Q: What notice should you be aware of when disposing of hydraulic oil and filters?
+A: Dispose of hydraulic oil and filters in accordance with all applicable environmental regulations.
+
+Q: What is the torque specification for wheel mounting fasteners?
+A: The wheel mounting fastener torque value is 553 lb-ft–590 lb-ft (750 N•m–800 N•m).
+
+Q: When should you replace a tire?
+A: Replace a tire when it reaches its maximum wear limit.
+
+Q: What is the wear limit for tires?
+A: The tread at 1/4 in. from the tire edge should be worn to a depth of 0.08 in.–0.19 in. (2 mm–5 mm).
+
+Q: What is the recommended tire pressure for the front tire of the SW405K Wheel Loader?
+A: 34 psi (2.37 bar)
+
+Q: What is the recommended tire pressure for the rear tire of the SW405K Wheel Loader?
+A: 40 psi (2.75 bar)
+
+Q: What should you do before performing any type of service on the brake system?
+A: Relieve the brake hydraulic pressure.
+
+Q: What is the minimum thickness for park brake pads before they need to be replaced?
+A: 0.125 in. (3.2 mm)
+
+Q: What is the acceptable range for park brake pad to disc clearance?
+A: 0.020 in. (0.5 mm) to 0.100 in. (2.54 mm).
+
+
+
+
+
+Here are the questions and answers based on the text:
+
+Q: Where should the oil level be when checking the oil level in the SW405K Wheel Loader?
+A: The oil level should be level with the bottom of the fill/check plug hole.
+
+Q: How often should the drive axle oil be changed?
+A: The drive axle oil should be changed after the initial 14 days or 100 hours of service, then every 6 months or 1000 hours thereafter.
+
+Q: What is the warning when performing service on the brake system?
+A: There is a risk of high pressure injection of oil through skin, and residual pressure in the brake system may cause oil to be released under high pressure, even if the engine has stopped running for a period of time.
+
+Q: How do you relieve the pressure in the brake accumulator?
+A: Press and release the brake pedal 30 to 40 times to relieve the pressure in the brake accumulator.
+
+Q: What should be inspected when draining the axle oil?
+A: Inspect the drained oil for signs of metal particles and foreign material.
+
+Q: What should be done with the used oil after changing the axle oil?
+A: Dispose of the used oil in compliance with all applicable environmental regulations.
+
+Q: How often should the brake line filter be replaced?
+A: The frequency of replacement is not specified in the text, but it should be replaced according to the manufacturer's instructions.
+
+Q: What is the warning when servicing the brake system?
+A: There is a risk of high pressure injection of oil through skin, and residual pressure in the brake system may cause oil to be released under high pressure, even if the engine has stopped running for a period of time.
+
+Q: What should be done with the hydraulic oil and filters after replacement?
+A: Dispose of hydraulic oil and filters in accordance with all applicable environmental regulations.
+
+Q: How do you check the transmission oil level?
+A: Check the transmission oil level with the engine running at idle (600 rpm) at 180°F-200°F (82°C-93°C).
+
+Q: What is the warning when checking the transmission oil level?
+A: Do not overfill with transmission oil so the oil level is above the high mark on the dipstick.
+
+Q: How often should the transmission oil be changed?
+A: The transmission oil should be changed after the initial 14 days or 100 hours of service, then every 6 months or 1000 hours thereafter.
+
+Q: What should be done before proceeding with changing the transmission oil?
+A: Wait for the engine to cool before proceeding. Failure to do so could result in burns or other serious injury.
+
+Q: What should be done with the transmission oil and filters after replacement?
+A: Dispose of transmission oil and filters in accordance with all applicable environmental regulations.
+
+Here are some questions and answers based on the text provided:
+
+Q: How often should you change the drive axle oil?
+A: Change the drive axle oil after the initial 14 days or 100 hours of service, then every 6 months or 1000 hours thereafter.
+
+Q: What should you do before performing any type of service on the brake system?
+A: Relieve the brake hydraulic pressure.
+
+Q: How many times should you press and release the brake pedal to relieve pressure in the brake accumulator?
+A: 30 to 40 times.
+
+Q: Where is the brake line filter located?
+A: Inside the machine frame on the left side near the frame articulation joint.
+
+Q: What should you do with the hydraulic oil and filters after replacing the brake line filter?
+A: Dispose of them in accordance with all applicable environmental regulations.
+
+Q: What is the recommended temperature to check the transmission oil level?
+A: 180°F–200°F (82°C–93°C).
+
+Q: How often should you change the transmission oil and filter?
+A: Replace the transmission oil after the initial 14 days or 100 hours of service, then every 6 months or 1000 hours thereafter.
+
+Q: What should you do before changing the transmission oil? 
+A: Wait for the engine to cool before proceeding. 
+
+Q: What should you do with the transmission oil and filters after changing them?
+A: Dispose of them in accordance with all applicable environmental regulations. 
+
+
+
+Let me know if you'd like me to generate more questions and answers!
+
+
+Here are the questions and answers based on the provided text:
+
+Q: What is the first step in adding transmission oil to the SW405K wheel loader?
+A: Remove the dipstick from the transmission filler tube.
+
+Q: What is the appropriate amount of transmission oil to add?
+A: See "Location, Capacity, and Type" on page 5-6.
+
+Q: Why should you not overfill the transmission with oil?
+A: It could result in transmission damage and improper machine operation.
+
+Q: At what RPM should the engine be run to reach the recommended transmission temperature?
+A: 500-600 rpm.
+
+Q: What is the recommended transmission temperature?
+A: 180°F-200°F (82°C-90°C).
+
+Q: How should the transmission oil level be checked?
+A: Using the dipstick, and the level must be between the high and low marks.
+
+Q: What is the purpose of collecting oil samples?
+A: Not mentioned in the text.
+
+Q: Where can an oil analysis sample kit be obtained?
+A: From a SANY dealer.
+
+Q: How should the machine be prepared before collecting oil samples?
+A: Operate the machine until the lubricant in the compartment being tested is up to normal operating temperature.
+
+Q: Why is it important to use clean material when collecting oil samples?
+A: To ensure the validity of the oil sample and prevent equipment damage and contamination.
+
+Q: How should the oil samples be sent for testing?
+A: According to the instructions packaged with the sample kit.
+
+Q: What is the first step in collecting an engine oil sample?
+A: Prepare the machine for service.
+
+Q: How should the area around the engine oil dipstick be prepared before collecting a sample?
+A: Clean the area around the engine oil dipstick.
+
+Q: What is the purpose of the oil sample tube?
+A: To collect a sample of engine oil.
+
+Q: How should the engine oil dipstick be replaced after collecting a sample?
+A: Replace the engine oil dipstick.
+
+Q: What is the first step in collecting front and rear axle oil samples?
+A: Prepare the machine for service.
+
+Q: How should the wheels be prepared before collecting axle oil samples?
+A: Chock the wheels.
+
+Q: What is the purpose of the axle check/fill plug?
+A: To collect a sample of axle oil.
+
+Q: How should the O-ring on the check/fill plug be replaced after collecting a sample?
+A: Replace the O-ring on the check/fill plug.
+
+Q: What is the first step in collecting a hydraulic oil sample?
+A: Prepare the machine for service.
+
+Q: How should the hydraulic system pressure be relieved before collecting a sample?
+A: See "Relieve Hydraulic System Pressure" on page 5-36.
+
+Q: What is the purpose of the hydraulic tank filler cover?
+A: To collect a sample of hydraulic oil.
+
+Q: Why is it important to block the filler opening whenever the cover is removed?
+A: To prevent dirt and debris from entering the hydraulic tank.
+
+Q: How should the hydraulic tank filler cover be installed after collecting a sample?
+A: Install the hydraulic tank filler cover.
+
+Q: What is the purpose of the access panel?
+A: To access the hydraulic tank filler cover.
+
+Q: What type of grease should be used to lubricate the machine?
+A: Clean EP (extreme pressure) grease.
+
+Q: What should be avoided when lubricating the machine?
+A: Using low-viscosity greases.
+
+Q: What is the recommended type of grease for heavy-duty plain and rolling element bearings operating under severe conditions?
+A: Heavy-duty plain and rolling element bearings operating under severe conditions, including shock loading in wet environments.
+
+Q: Where can the lubrication chart be found?
+A: On the machine.
+
+Q: What should you NOT do when adding transmission oil?
+A: Do not overfill with transmission oil so the oil level is above the high mark on the dipstick.
+
+Q: What temperature range should the transmission reach before checking the oil level?
+A: 180°F–200°F (82°C–90°C)
+
+Q:  Where can you find information about the correct location, capacity, and type of transmission oil?
+A: See “Location, Capacity, and Type” on page 5-6.
+
+Q: What is critical to ensure the validity of an oil sample?
+A: It is critical that all the material used to collect the sample are absolutely clean.  
+
+Q: What should you do before collecting an engine oil sample?
+A: Prepare the machine for service. 
+
+Q: What should you turn to OFF before collecting engine oil samples?
+A: The battery disconnect switch
+
+Q: How should you remove the hydraulic tank filler cover?
+A: Slowly remove the fasteners while pressing down on the hydraulic tank filler cover.
+
+Q: Where should you insert the oil sample tube when collecting a hydraulic oil sample?
+A:  The hydraulic oil tank.
+
+Q: What type of grease should you use when lubricating the machine?
+A: Clean EP (extreme pressure) grease.
+
+Q: Where are the grease fittings located for the bucket cylinder base end?
+A: 1) Bucket cylinder grease fitting – base end
+
+
+
+
+
+
+
+Here are the questions and answers based on the text:
+
+Q: What should you inspect and replace as necessary on the windshield wiper?
+A: The windshield wiper blade condition.
+
+Q: Where is the windshield washer fluid tank located?
+A: On the left side at the articulation joint.
+
+Q: What should you add to the windshield washer fluid tank?
+A: Washer fluid as needed.
+
+Q: Where is the escape tool located?
+A: In the bracket mounted on the back wall of the cab.
+
+Q: What should you do if the escape tool is missing or damaged?
+A: Replace it.
+
+Q: Where is the fire extinguisher located?
+A: To the right of the operator seat.
+
+Q: What type of fire extinguisher is required?
+A: A 2.5 lb. Class ABC rated fire extinguisher (National Fire Protection Association [NFPA] 10 Standard for Portable Fire Extinguishers).
+
+Q: How often should you inspect the fire extinguisher?
+A: Daily.
+
+Q: What should you do if the fire extinguisher is damaged?
+A: Replace it immediately.
+
+Q: What should you check on the machine exterior?
+A: Safety decals, sheet metal, and fluid leaks.
+
+Q: What should you do if safety decals are damaged or missing?
+A: Contact a SANY dealer for replacement decals.
+
+Q: How should you check for fluid leaks?
+A: Wear safety glasses and protective gloves and use a piece of wood or cardboard to check for leaks.
+
+Q: What should you do if you find a fluid leak?
+A: Repair as necessary.
+
+Q: Where should you start checking for fluid leaks?
+A: At the cab.
+
+Q: What should you check on the work equipment?
+A: The work equipment mounting fasteners.
+
+Q: What should you do if you find loose, worn, or damaged mounting fasteners on the work equipment?
+A: Contact a SANY dealer if service is required.
+
+Q: Where is the windshield washer fluid tank located?
+A: The windshield washer fluid tank is on the left side at the articulation joint.
+
+Q: What should you do if the escape tool is missing or damaged?
+A: Replace the escape tool.
+
+Q: Where is the fire extinguisher located?
+A: The fire extinguisher is to the right of the operator seat.
+
+Q: What type of fire extinguisher is required for the SW405K Wheel Loader?
+A: The fire extinguisher must be at least a 2.5 lb. Class ABC rated fire extinguisher.
+
+Q:  What should you do if you find loose sheet metal panels or covers?
+A: Repair or replace sheet metal parts as needed using SANY-approved parts.
+
+Q: What should you use to check for fluid leaks and why?
+A: You should use a piece of wood or cardboard to check for leaks. Never use your hands as this could cause death or serious injury.
+
+Q: What should you do if you find loose, worn, or damaged mounting fasteners on the work equipment?
+A: Contact a SANY dealer if service is required. 
+
+
+
+
+
+
+Here are the generated questions and answers based on the text:
+
+Q: What is the height to axle centerline of the SW405K Wheel Loader?
+A: 1 ft. 5 in. (440 mm)
+
+Q: What is the height to top of the cab of the SW405K Wheel Loader?
+A: 11 ft. 7 in. (3527 mm)
+
+Q: What is the distance from the centerline of the rear axle to the edge of the counterweight?
+A: 7 ft. 8 in. (2330 mm)
+
+Q: What is the wheelbase of the SW405K Wheel Loader?
+A: 10 ft. 6 in. (3200 mm)
+
+Q: What is the distance from the centerline of the front axle to the center pivot?
+A: 5 ft. 3 in. (1600 mm)
+
+Q: What is the shipping length of the SW405K Wheel Loader without attachments?
+A: 22 ft. 6 in. (6862 mm)
+
+Q: What is the shipping length of the SW405K Wheel Loader with a bucket?
+A: 26 ft. 8 in. (8142 mm)
+
+Q: What is the maximum dump height of the SW405K Wheel Loader?
+A: 17 ft. 10 in. (5441 mm)
+
+Q: What is the hinge pin height at maximum lift of the SW405K Wheel Loader?
+A: 13 ft. 6 in. (4133 mm)
+
+Q: What is the dump clearance at maximum lift of the SW405K Wheel Loader?
+A: 10 ft. 3 in. (3118 mm)
+
+Q: What is the dig depth of the SW405K Wheel Loader with a level bucket?
+A: 2.2 in. (56 mm)
+
+Q: What is the reach at maximum lift and 45º discharge of the SW405K Wheel Loader?
+A: 3 ft. 9 in. (1140 mm)
+
+Q: What is the roll back at maximum lift of the SW405K Wheel Loader?
+A: 58°
+
+Q: What is the dump angle at maximum lift and dump of the SW405K Wheel Loader?
+A: 45°
+
+Q: What is the roll back at carry height of the SW405K Wheel Loader?
+A: 51°
+
+Q: What is the roll back at ground of the SW405K Wheel Loader?
+A: 45°
+
+Q: What is the tail angle to the rear wheel of the SW405K Wheel Loader?
+A: 27°
+
+Q: What is the clearance circle to the outside of the tires of the SW405K Wheel Loader?
+A: 19 ft. (5800 mm)
+
+Q: What is the clearance circle to the counterweight of the SW405K Wheel Loader?
+A: 19 ft. 5 in. (5911 mm)
+
+Q: What is the maximum circle of the SW405K Wheel Loader?
+A: 21 ft. 2 in. (6456 mm)
+
+Q: What is the width of the bucket of the SW405K Wheel Loader?
+A: 9 ft. 10 in. (3000 mm)
+
+Q: What is the width of the SW405K Wheel Loader?
+A: 7 ft. 3 in. (2200 mm)
+
+Q: What is the articulation angle of the SW405K Wheel Loader?
+A: 40°
+
+Q: What is the height to the axle centerline of the SW405K Wheel Loader?
+A: 1 ft. 5 in. (440 mm)
+
+Q: What is the height to the top of the cab of the SW405K Wheel Loader?
+A: 11 ft. 7 in. (3527 mm)
+
+Q: What is the distance from the centerline of the rear axle to the edge of the counterweight?
+A: 7 ft. 8 in. (2330 mm)
+
+Q: What is the wheelbase of the SW405K Wheel Loader?
+A: 10 ft. 6 in. (3200 mm)
+
+Q: What is the distance from the centerline of the front axle to the center pivot?
+A: 5 ft. 3 in. (1600 mm)
+
+Q: What is the shipping length of the SW405K Wheel Loader without attachments?
+A: 22 ft. 6 in. (6862 mm)
+
+Q: What is the shipping length of the SW405K Wheel Loader with a bucket?
+A: 26 ft. 8 in. (8142 mm)
+
+Q: What is the maximum dump height of the SW405K Wheel Loader?
+A: 17 ft. 10 in. (5441 mm)
+
+Q: What is the hinge pin height at maximum lift?
+A: 13 ft. 6 in. (4133 mm)
+
+Q: What is the dump clearance at maximum lift?
+A: 10 ft. 3 in. (3118 mm)
+
+Q: What is the dig depth with a level bucket?
+A: 2.2 in. (56 mm)
+
+Q: What is the reach at maximum lift and 45º discharge?
+A: 3 ft. 9 in. (1140 mm)
+
+Q: What is the roll back at maximum lift?
+A: 58°
+
+Q: What is the dump angle at maximum lift and dump 45°?
+A: 45°
+
+Q: What is the roll back at carry height?
+A: 51°
+
+Q: What is the roll back at ground level?
+A: 45°
+
+Q: What is the tail angle to the rear wheel?
+A: 27°
+
+Q: What is the clearance circle to the outside of the tires?
+A: 19 ft. (5800 mm)
+
+Q: What is the clearance circle to the counterweight? 
+A: 19 ft. 5 in. (5911 mm)
+
+Q: What is the maximum circle of the SW405K Wheel Loader?
+A: 21 ft. 2 in. (6456 mm)
+
+Q: What is the width of the bucket?
+A: 9 ft. 10 in. (3000 mm)
+
+Q: What is the width of the SW405K Wheel Loader?
+A: 7 ft. 3 in. (2200 mm)
+
+Q: What is the articulation angle of the SW405K Wheel Loader?
+A: 40° 
+
+
+
+
+
+Here are the questions and answers based on the provided text:
+
+Q: What is the bucket capacity of the SW405K Wheel Loader?
+A: 4.2 cu yd (3.06 cu m)
+
+Q: What is the breakout force of the SW405K Wheel Loader?
+A: 39,683 lb. (18,000 kg)
+
+Q: What is the tipping load straight of the SW405K Wheel Loader?
+A: 31,967 lb. (14,500 kg)
+
+Q: What is the tipping load at full turn of the SW405K Wheel Loader?
+A: 28,881 lb. (13,100 kg)
+
+Q: What is the clearance at full lift 45° dump of the SW405K Wheel Loader?
+A: 10 ft. 2 in. (3099 mm)
+
+Q: What is the reach at full lift 45° dump of the SW405K Wheel Loader?
+A: 3 ft. 10 in. (1168 mm)
+
+Q: What is the rated bucket capacity of the SW405K Wheel Loader?
+A: 4.2 cu yd (3.06 cu m)
+
+Q: What is the rated load of the SW405K Wheel Loader?
+A: 11,023 lb. (5000 kg)
+
+Q: What is the boom lifting time (rated load) of the SW405K Wheel Loader?
+A: 6.5 seconds or more and 10.2 seconds or more
+
+Q: What is the maximum traction of the SW405K Wheel Loader?
+A: 7768 lb-ft (168 kN)
+
+Q: What is the maximum lifting force of the SW405K Wheel Loader?
+A: 38,668 lb-ft (172 kN)
+
+Q: What is the gradeability of the SW405K Wheel Loader?
+A: 28° or greater
+
+Q: What is the operating weight of the SW405K Wheel Loader?
+A: 40,786 lb. (13,100 kg)
+
+Q: What is the engine model of the SW405K Wheel Loader?
+A: Deutz TCD 7.8 L6
+
+Q: What is the maximum gross power of the SW405K Wheel Loader's engine?
+A: 262 hp (195 kW)
+
+Q: What is the net engine power of the SW405K Wheel Loader's engine?
+A: 252 hp (188 kW)
+
+Q: What is the maximum gross torque of the SW405K Wheel Loader's engine?
+A: 962 lb-ft (1304 N•m)
+
+Q: What is the displacement of the SW405K Wheel Loader's engine?
+A: 476 cu. in. (7.8 L)
+
+Q: What is the bore/stroke of the SW405K Wheel Loader's engine?
+A: 4.3 in./5.4 in. (110 mm /136 mm)
+
+Q: What is the minimum engine speed of the SW405K Wheel Loader's engine?
+A: 790 rpm–810 rpm
+
+Q: What is the maximum engine speed of the SW405K Wheel Loader's engine?
+A: 2250 rpm–2350 rpm
+
+Q: What is the specific fuel consumption of the SW405K Wheel Loader's engine?
+A: 20.32 lb/hph (192 g/kWh)
+
+Q: What is the engine weight of the SW405K Wheel Loader's engine?
+A: 1759 lb. (725 kg)
+
+Q: What is the system voltage of the SW405K Wheel Loader's electrical system?
+A: 24V
+
+Q: What is the battery voltage of the SW405K Wheel Loader's electrical system?
+A: 12V
+
+Q: What is the battery capacity of the SW405K Wheel Loader's electrical system?
+A: 120 Ah
+
+Q: What is the alternator power output of the SW405K Wheel Loader's electrical system?
+A: 1960W/70A
+
+Q: What is the starter motor power output of the SW405K Wheel Loader's electrical system?
+A: 10 hp (7.5 kW)
+
+Q: What is the transmission model of the SW405K Wheel Loader's transmission?
+A: Dana TZL 18
+
+Q: What is the type of transmission of the SW405K Wheel Loader's transmission?
+A: Rotary, electrically controlled shifting gear box
+
+Q: What is the shift mode of the SW405K Wheel Loader's transmission?
+A: Automatic, manual, kick down
+
+Q: What is the forward gear range of the SW405K Wheel Loader's transmission?
+A: 1-4, 4-25 mph (7–40 km/h)
+
+Q: What is the reverse gear range of the SW405K Wheel Loader's transmission?
+A: 1-4, 4-16 mph (7–25 km/h)
+
+Q: What is the service brake type of the SW405K Wheel Loader's hydraulic system?
+A: 4-wheel, wet-type, hydraulic brakes
+
+Q: What is the park brake type of the SW405K Wheel Loader's hydraulic system?
+A: Electronically controlled, hydraulic caliper disc brake
+
+Q: What is the maximum flow of the SW405K Wheel Loader's hydraulic system?
+A: 81 gpm (307 Lpm)
+
+Q: What is the maximum pressure of the SW405K Wheel Loader's hydraulic system?
+A: 3916 psi (27 mPa)
+
+Q: What is the raise time of the SW405K Wheel Loader's hydraulic system?
+A: 5.4 sec
+
+Q: What is the dump time of the SW405K Wheel Loader's hydraulic system?
+A: 1.9 sec
+
+Q: What is the float down time of the SW405K Wheel Loader's hydraulic system?
+A: 3.3 sec
+
+Q: What is the total cycle time of the SW405K Wheel Loader's hydraulic system?
+A: 10.6 sec
+
+Q: What is the operating weight of the SW405K Wheel Loader?
+A: 40,786 lb. (18,500 kg)
+
+Q: What is the engine weight of the SW405K Wheel Loader?
+A: 1759 lb. (725 kg)
+
+Q: What is the radiator assembly weight of the SW405K Wheel Loader?
+A: 397 lb. (180 kg)
+
+Q: What is the hydraulic oil tank assembly weight (without hydraulic oil) of the SW405K Wheel Loader?
+A: 388 lb. (176 kg)
+
+Q: What is the fuel tank assembly weight (without fuel) of the SW405K Wheel Loader?
+A: 569 lb. (258 kg)
+
+Q: What is the operator cab weight of the SW405K Wheel Loader?
+A: 1985 lb. (900 kg)
+
+Q: What is the seat weight of the SW405K Wheel Loader?
+A: 80 lb. (36 kg)
+
+Q: What is the counterweight (single) weight of the SW405K Wheel Loader?
+A: 1932 lb. (876 kg)
+
+Q: What is the hydraulic pump (working pump) weight of the SW405K Wheel Loader?
+A: 66.5 lb. (30 kg)
+
+Q: What is the hydraulic pump (double pumps) weight of the SW405K Wheel Loader?
+A: 99.5 lb. (45 kg)
+
+Q: What is the damping accumulator for boom weight of the SW405K Wheel Loader?
+A: 66.5 lb. (30 kg)
+
+Q: What is the tandem valve weight of the SW405K Wheel Loader?
+A: 232 lb. (105 kg)
+
+Q: What is the boom cylinder weight of the SW405K Wheel Loader?
+A: 356.5 lb. (161.6 kg)
+
+Q: What is the steering cylinder weight of the SW405K Wheel Loader?
+A: 377 lb. (171 kg)
+
+Q: What is the bucket cylinder weight of the SW405K Wheel Loader?
+A: 78 lb. (35 kg)
+
+Q: What is the connecting rod assembly weight of the SW405K Wheel Loader?
+A: 117 lb. (53 kg)
+
+Q: What is the rocker arm assembly weight of the SW405K Wheel Loader?
+A: 701 lb. (318 kg)
+
+Q: What is the bucket assembly weight of the SW405K Wheel Loader?
+A: 3340 lb. (1515 kg)
+
+Q: What is the boom assembly weight of the SW405K Wheel Loader?
+A: 2448 lb. (1110 kg)
+
+Q: What is the front axle assembly weight of the SW405K Wheel Loader?
+A: 1720 lb. (780 kg)
+
+Q: What is the rear axle assembly weight of the SW405K Wheel Loader?
+A: 1852 lb. (840 kg)
+
+Q: What is the transmission assembly weight of the SW405K Wheel Loader?
+A: 1433 lb. (650 kg)
+
+Q: What is the bucket capacity of the SW405K Wheel Loader?
+A: 4.2 cubic yards (3.06 cubic meters)
+
+Q: What is the breakout force of the SW405K Wheel Loader?
+A: 39,683 lb. (18,000 kg)
+
+Q: What is the tipping load straight for the SW405K Wheel Loader?
+A: 31,967 lb. (14,500 kg)
+
+Q: What is the clearance (full lift 45° dump) of the SW405K Wheel Loader?
+A: 10 ft. 2 in. (3099 mm)
+
+Q: What is the reach (full lift 45° dump) of the SW405K Wheel Loader?
+A: 3 ft. 10 in. (1168 mm)
+
+Q: What is the rated bucket capacity of the SW405K Wheel Loader?
+A: 4.2 cubic yards (3.06 cubic meters)
+
+Q: What is the rated load of the SW405K Wheel Loader?
+A: 11,023 lb. (5000 kg)
+
+Q: What is the boom lifting time (rate load) of the SW405K Wheel Loader?
+A: 6.5 seconds or more 
+
+Q: What is the maximum traction of the SW405K Wheel Loader?
+A: 7768 lb-ft (168 kN)
+
+Q: What is the maximum lifting force of the SW405K Wheel Loader?
+A: 38,668 lb-ft (172 kN)
+
+Q: What is the gradeability of the SW405K Wheel Loader?
+A: 28° or greater
+
+Q: What is the operating weight of the SW405K Wheel Loader?
+A: 40,786 lb. (13,100 kg)
+
+Q: What is the engine model of the SW405K Wheel Loader?
+A: Deutz TCD 7.8 L6
+
+Q: What is the maximum gross power of the engine? 
+A: 262 hp (195 kW)
+
+Q: What is the net engine power of the engine?
+A: 252 hp (188 kW)
+
+Q: What is the maximum gross torque of the engine?
+A: 962 lb-ft (1304 N•m)
+
+Q: What is the displacement of the engine?
+A: 476 cu. in. (7.8 L)
+
+Q: What is the bore/stroke of the engine?
+A: 4.3 in./5.4 in. (110 mm /136 mm)
+
+Q: What is the minimum engine speed of the engine?
+A: 790 rpm–810 rpm
+
+Q: What is the maximum engine speed of the engine?
+A: 2250 rpm–2350 rpm
+
+Q: What is the specific fuel consumption of the engine?
+A: 20.32 lb/hph (192 g/kWh)
+
+Q: What is the engine weight of the engine?
+A: 599 lb. (725 kg)
+
+
+Q: What is the system voltage of the electrical system?
+A: 24V
+
+Q: What is the number of batteries?
+A: 2
+
+Q: What is the voltage and capacity of each battery?
+A: 12V, 120 Ah
+
+Q: What is the power output of the alternator?
+A: 1960W/70A
+
+Q: What is the power output of the starter motor?
+A: 10 hp (7.5 kW)
+
+
+Q: What is the model and type of the transmission?
+A: Dana TZL 18, Rotary, electrically controlled shifting gear box
+
+Q: What are the shift modes of the transmission?
+A: Automatic, manual, kick down
+
+Q: What is the number of forward gears?
+A: 4
+
+Q: What is the number of reverse gears?
+A: 3
+
+Q: What is the type of shifting in the transmission?
+A: Semi-automatic
+
+Q: What are the speed ranges of the forward gears in mph (km/h)?
+A: 4th: 0–25 (0–40), 3rd: 0–16 (0–25), 2nd: 0–8 (0–13), 1st: 0–4 (0–7)
+
+Q: What are the speed ranges of the reverse gears in mph (km/h)?
+A: 1st: 0–4 (0–7), 2nd: 0–8 (0–13), 3rd: 0–16 (0–25)
+
+
+Q: What is the loaded tire pressure of the SW405K Wheel Loader?
+A: 75 psi (520 kPa)
+
+Q: What is the transportation tire pressure of the SW405K Wheel Loader?
+A: 76 psi (524 kPa)
+
+
+Q: What is the maximum flow of the hydraulic system?
+A: 81 gpm (307 Lpm)
+
+Q: What is the maximum pressure of the hydraulic system?
+A: 3916 psi (27 mPa)
+
+Q: How long does it take to raise the boom?
+A: 5.4 sec
+
+Q: How long does it take to dump the bucket?
+A: 1.9 sec 
+
+Q: How long does it take for the boom to float down?
+A: 3.3 sec
+
+Q: What is the total cycle time?
+A: 10.6 sec
+
+
+Q: Which manufacturer provides the hydraulic system for the SW405K Wheel Loader?
+A: Dana
+
+
+Q: What type is the front axle? 
+A: Fixed
+
+Q: What is the type of front axle traction aid?
+A: Manual differential lock
+
+Q: What is the model of the front drive axle?
+A: 37RF116
+
+Q: What type is the rear axle?
+A: Oscillating
+
+Q: What is the type of rear axle traction aid?
+A: Open differential
+
+Q: What is the model of the rear drive axle?
+
+
+A: 37RF116
+
+Q: What type are the service brakes?
+A: 4-wheel, wet-type, hydraulic brakes 
+
+Q: What type is the park brake?
+A: Electronically controlled, hydraulic caliper disc brake
+
+Q: What is the minimum thickness of the brake disc?
+A: 0.39 in. (10 mm)
+
+Q: What is the thickness of the new brake disc?
+A: 0.50 in. (12.6 mm)
+
+Q: What is the number of accumulators?
+A: 2
+
+Q: What is the capacity of each accumulator?
+A: 0.27 gal (1.02 L)
+
+
+Q: What is the weight of the SW405K machine?
+A: 40,786 lb. (18,500 kg)
+
+
+
+

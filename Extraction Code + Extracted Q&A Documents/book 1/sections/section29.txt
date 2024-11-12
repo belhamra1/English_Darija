@@ -1,0 +1,108 @@
+MAINTENANCE
+5-9 SW405K Wheel Loader OMMMaintenance Schedule
+NOTICE!
+Failure to perform the following procedures when 
+and as directed can damage the machine and cause it to operate improperly.
+NOTE: The lubricating interval s listed apply only to 
+normal operating conditions. In harsh environments, including those with dusty or corrosive air, extreme temperatures, heavy loads, frequent operating times, and long duty cycles, lubricating intervals should be shortened.
+Secure the Machine for Maintenance
+1. Obtain the Maintenance Log for this machine and 
+complete it at the cl ose of all maintenance 
+procedures.
+2. Read and understand all of the tasks listed in this 
+section.
+3. Perform the lockout/tagout procedure on the 
+machine in accordance with company policy.
+4. Perform procedures as follows:
+Daily or Every 10 Hours
+• Check the batteries. (See page 5-27.)
+• Check for fluid leaks. (See page 5-55.)• Check the engine exhaust system. (See page 5-31.)• Inspect the engine air f ilters. (See page 5-16.)
+• Check the engine oil level. (See page 5-12.)• Check/add engine coolant. (See page 5-19.)• Inspect the engine serpentine belt. (See page 5-14.)• Check/drain the primary fuel filter. (See page 5-23.)• Check the hydraulic oil level. (See page 5-35.)• Check hydraulic connections. (See page 5-36.)• Check the diesel exhaust fluid (DEF) level. (See 
+page 3-27.)
+• Fill the fuel tank. (See page 5-22.)• Check the tires. (See page 5-44.)• Inspect the electrical system. (See page 5-25.)• Check the transmission oil level. (See page 5-48.)• Lubricate the driveshafts, articulating joints, and work 
+equipment. (See page 5-53.)
+• Inspect the sheet metal. (See page 5-55.)• Make sure all safety decals are in place and are legible. 
+(See page 5-55.)• Make sure all work lights a nd indicators are working. 
+(See page 5-11.)
+• Check the escape tool. (See page 5-54.)• Check the fire extinguisher. (See page 5-55.)• Inspect the machine for loose or missing components.• Clean the cab.• Make sure safety equipment is in place and in 
+operating condition.
+• Check all controls for smooth operation and make sure 
+they return to the neutral position.
+• Check if a standstill regen eration is required. (See 
+page 3-32.)
+• Inspect the air conditioner compressor belt. (See 
+page 5-15.)
+• Check operation of the windshield wiper and washer. 
+(See page 5-54.)
+When Required
+• Collect oil samples every 500 hours or as required. 
+(See page 5-50.)
+• Clean the radiator and cooling fins. (See page 5-21.)• Drain the fuel tank. (See page 5-24.)• Replace the battery. (See page 5-28.)• Add hydraulic oil. (See page 5-35.)• Replace the hydraulic system breather filter. (See 
+page 5-42.)
+After the First 50 Hours
+• Initial change of the engine oil and filter. (See 
+page 5-12.)
+• Initial inspection of the park brake pads. (See 
+page 5-46.)
+Weekly or Every 50 Hours
+NOTE: Make sure all daily maintenance tasks have been 
+completed before proceeding with the 50-hour maintenance tasks.
+• Check battery terminals. (See page 5-29.)• Check the air conditioner operation. (See page 5-30.)• Check the driveshaft fasteners. (See page 5-43.)• Lubricate the machine. (See page 5-53.)
+
+5-10MAINTENANCE
+SW405K Wheel Loader OMMAfter the First 100 Hours
+NOTE: Make sure all daily and 50-hour maintenance 
+tasks have been completed before proceeding with the 100-hour maintenance tasks.
+• Initial change of the transmission oil and filter. (See 
+page 5-49.)
+• Initial change of the engine oil and filter. (See 
+page 5-12.)
+• Initial change of the front and rear axle oil. (See 
+page 5-47.)
+NOTE: Collect an oil sample for testing.
+Monthly or Every 250 Hours
+NOTE: Make sure all daily, 50-hour, and 100-hour 
+maintenance tasks have been completed before proceeding with the 250-hour maintenance tasks.
+• Check the engine serpentine belt tension. (See 
+page 5-15.)
+• Check the engine and transmission mounting 
+fasteners. (See page 5-48.)
+• Check the wheel mounting fasteners. (See page 5-44.)• Check the work equipment mounting fasteners. (See 
+page 5-55.)
+• Check the front and rear axle oil level. (See page 5-46.)• Check the service brakes. (See page 5-45.)• Check the park brake pad thickness and clearance. 
+(See page 5-46.)
+Every 3 Months or 500 Hours
+NOTE: Make sure all daily, 50-hour, 100-hour, and 
+250-hour maintenance tasks have been completed before proceeding with the 500-hour maintenance tasks.
+• Clean radiator cooling fins. (See page 5-21.)• Change engine oil and filter. (See page 5-12.)• Check transmission oil level. (See page 5-48.)• Replace the primary and secondary fuel filters. (See 
+page 5-23.)
+• Perform a standstill regene ration. (See page 5-31.)
+• Replace hydraulic system breather filter. (See 
+page 5-42.)
+• Replace the hydraulic pilot filter. (See page 5-41.)• Replace the brake line filter. (See page 5-47.)• Collect oil samples. (See page 5-50.)• Check the front and rear axle oil level. (See page 5-46.)• Replace the engine crankcase breather. (See 
+page 5-18.)
+Every 6 Months or 1000 Hours
+NOTE: Make sure all daily, 50-hour, 100-hour, 250-hour, 
+and 500-hour maintenance tasks have been completed before proceeding with the 1000-hour maintenance tasks.
+• Change the transmission oil and filter. (See page 5-49.)• Replace the primary and secondary fuel filters. (See 
+page 5-23.)
+• Check the fuel tank strainer. (See page 5-25.)• Replace the primary (main) air filter. (See page 5-17.)• Check the engine exhaust system. (See page 5-31.)• Check the alternator. (See page 5-27.)• Replace the hydraulic oil return filter. (See page 5-38.)• Replace the hydraulic suction filter. (See page 5-39.)• Change front and rear axle oil. (See page 5-47.)• Replace the air conditioner compressor belt. (Contact 
+a SANY dealer for service.)
+• Replace the engine serpentine belt. (Contact a SANY 
+dealer for service.)
+Annually or Every 2000 Hours
+NOTE: Make sure all daily, 50-hour, 100-hour, 250-hour, 
+500-hour, and 1000-hour maintenance tasks have been completed before proceeding with the 2000-hour maintenance tasks.
+• Check the alternator. (See page 5-27.)• Change the engine coolant. (See page 5-19.)
+• Check the engine valve clearance. (See page 5-18.)
+Every 3000 Hours
+NOTE: Make sure all daily, 50-hour, 100-hour, 250-hour, 
+500-hour, 1000-hour, and 2000-hour maintenance tasks have been completed before proceeding with the 3000-hour maintenance task.
+• Replace the secondary (safe) air filter. (See 
+page 5-18.)
+Every 4000 Hours
+• Change the hydraulic oil. (See page 5-37.)
+Every 4500 Hours
+• Change the diesel exhaust fluid (DEF) filter. (See 
+page 5-34.)
+

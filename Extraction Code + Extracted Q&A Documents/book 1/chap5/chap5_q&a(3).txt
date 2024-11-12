@@ -1,0 +1,75 @@
+Q: What is the first step to check the wheel mounting fasteners?
+A: Prepare the machine for service and turn the battery disconnect switch to the OFF position.
+
+Q: What is the torque value for the wheel mounting fasteners?
+A: 553 lb-ft–590 lb-ft (750 N•m–800 N•m).
+
+Q: Why is it important to replace a tire when it reaches its maximum wear limit?
+A: To prevent damage to the tire or rim, or an explosion that could result in death or serious injury.
+
+Q: What should be checked on the wheels before starting the machine?
+A: Tire wear, uneven or accelerated wear, mechanical problems, and debris such as glass or metal scraps.
+
+Q: What is the recommended tire inflation pressure?
+A: The recommended pressure should be obtained from a SANY dealer or the tire manufacturer's information.
+
+Q: What should be done before inflating a tire?
+A: The tire must be cooled, and the machine must be unloaded.
+
+Q: What should be avoided when inflating a tire?
+A: Overinflating, inflating with improper equipment, inflating a damaged or faulty tire, and not using care during inflation.
+
+Q: What should be done to relieve the brake hydraulic pressure?
+A: Press and release the brake pedal 30 to 40 times.
+
+Q: Why is it important to relieve the brake hydraulic pressure?
+A: To prevent high pressure injection of oil through the skin and serious injury.
+
+Q: What should be checked on the brake system?
+A: Clearance between the outer flanges of the friction plates, park brake pad thickness and clearance, and brake fluid level.
+
+Q: How often should the transmission oil be changed?
+A: After the initial 14 days or 100 hours of service, then every 6 months or 1000 hours thereafter.
+
+Q: What should be checked on the transmission oil level?
+A: The level must be between the high and low marks on the dipstick.
+
+Q: What should be done before changing the transmission oil?
+A: The engine should be turned off and the transmission should be cooled.
+
+Q: How often should the axle oil be changed?
+A: After the initial 14 days or 100 hours of service, then every 6 months or 1000 hours thereafter.
+
+Q: What should be checked on the axle oil level?
+A: The level should be level with the bottom of the fill/check plug hole.
+
+Q: What should be done to relieve the hydraulic system pressure?
+A: Refer to the instructions on page 5-36.
+
+Q: What should be checked on the hydraulic oil level?
+A: The level should be checked according to the instructions on page 5-35.
+
+Q: What type of grease should be used on the machine?
+A: Clean EP (extreme pressure) grease, specifically designed for heavy-duty bearings and general lubrication.
+
+Q: What should be lubricated on the machine?
+A: Fittings on the driveshaft, articulating joint, and the work equipment according to the lubrication chart.
+
+Q: What should be checked on the windshield wiper and rear window wiper operation?
+A: The condition of the wiper blades and their operation.
+
+Q: What should be checked on the windshield washer fluid level?
+A: The level should be checked and washer fluid should be added as needed.
+
+Q: What is the recommended fire extinguisher rating for the cab?
+A: A 2.5 lb. Class ABC rated fire extinguisher (National Fire Protection Association [NFPA] 10 Standard for Portable Fire Extinguishers).
+
+Q: What should be checked on the safety decals?
+A: All safety and warning decals must be in place, undamaged, and visible.
+
+Q: What should be done if fluid leaks are found on the machine?
+A: Repair as necessary, and contact a SANY dealer if any abnormalities are found.
+
+Q: What should be checked on the work equipment mounting fasteners?
+A: Loose, worn, or damaged mounting fasteners.
+

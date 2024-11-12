@@ -1,0 +1,266 @@
+Q: What is the height to axle centerline of the SW405K Wheel Loader?
+A: 1 ft. 5 in. (440 mm)
+
+Q: What is the height to top of cab of the SW405K Wheel Loader?
+A: 11 ft. 7 in. (3527 mm)
+
+Q: What is the centerline of rear axle to edge of counterweight of the SW405K Wheel Loader?
+A: 7 ft. 8 in. (2330 mm)
+
+Q: What is the wheelbase of the SW405K Wheel Loader?
+A: 10 ft. 6 in. (3200 mm)
+
+Q: What is the centerline of front axle to center pivot of the SW405K Wheel Loader?
+A: 5 ft. 3 in. (1600 mm)
+
+Q: What is the shipping length without attachments of the SW405K Wheel Loader?
+A: 22 ft. 6 in. (6862 mm)
+
+Q: What is the shipping length with bucket of the SW405K Wheel Loader?
+A: 26 ft. 8 in. (8142 mm)
+
+Q: What is the maximum dump height of the SW405K Wheel Loader?
+A: 17 ft. 10 in. (5441 mm)
+
+Q: What is the hinge pin height at maximum lift of the SW405K Wheel Loader?
+A: 13 ft. 6 in. (4133 mm)
+
+Q: What is the dump clearance at maximum lift of the SW405K Wheel Loader?
+A: 10 ft. 3 in. (3118 mm)
+
+Q: What is the dig depth, level bucket of the SW405K Wheel Loader?
+A: 2.2 in. (56 mm)
+
+Q: What is the reach at maximum lift and 45º discharge of the SW405K Wheel Loader?
+A: 3 ft. 9 in. (1140 mm)
+
+Q: What is the roll back at maximum lift of the SW405K Wheel Loader?
+A: 58°
+
+Q: What is the dump angle at maximum lift and dump of the SW405K Wheel Loader?
+A: 45°
+
+Q: What is the roll back at carry height of the SW405K Wheel Loader?
+A: 51°
+
+Q: What is the roll back at ground of the SW405K Wheel Loader?
+A: 45°
+
+Q: What is the tail angle to the rear wheel of the SW405K Wheel Loader?
+A: 27°
+
+Q: What is the clearance circle to outside of tires of the SW405K Wheel Loader?
+A: 19 ft. (5800 mm)
+
+Q: What is the clearance circle to counterweight of the SW405K Wheel Loader?
+A: 19 ft. 5 in. (5911 mm)
+
+Q: What is the maximum circle of the SW405K Wheel Loader?
+A: 21 ft. 2 in. (6456 mm)
+
+Q: What is the width of the bucket of the SW405K Wheel Loader?
+A: 9 ft. 10 in. (3000 mm)
+
+Q: What is the width of the SW405K Wheel Loader?
+A: 7 ft. 3 in. (2200 mm)
+
+Q: What is the articulation angle of the SW405K Wheel Loader?
+A: 40°
+
+Q: What is the bucket capacity of the SW405K Wheel Loader?
+A: 4.2 cu yd (3.06 cu m)
+
+Q: What is the breakout force of the SW405K Wheel Loader?
+A: 39,683 lb. (18,000 kg)
+
+Q: What is the tipping load straight of the SW405K Wheel Loader?
+A: 31,967 lb. (14,500 kg)
+
+Q: What is the tipping load at full turn of the SW405K Wheel Loader?
+A: 28,881 lb. (13,100 kg)
+
+Q: What is the clearance at full lift 45° dump of the SW405K Wheel Loader?
+A: 10 ft. 2 in. (3099 mm)
+
+Q: What is the reach at full lift 45° dump of the SW405K Wheel Loader?
+A: 3 ft. 10 in. (1168 mm)
+
+Q: What is the rated bucket capacity of the SW405K Wheel Loader?
+A: 4.2 cu yd (3.06 cu m)
+
+Q: What is the rated load of the SW405K Wheel Loader?
+A: 11,023 lb. (5000 kg)
+
+Q: What is the boom lifting time of the SW405K Wheel Loader?
+A: 6.5 seconds or more
+
+Q: What is the maximum traction of the SW405K Wheel Loader?
+A: 7768 lb-ft (168 kN)
+
+Q: What is the maximum lifting force of the SW405K Wheel Loader?
+A: 38,668 lb-ft (172 kN)
+
+Q: What is the gradeability of the SW405K Wheel Loader?
+A: 28° or greater
+
+Q: What is the operating weight of the SW405K Wheel Loader?
+A: 40,786 lb. (18,500 kg)
+
+Q: What is the engine model of the SW405K Wheel Loader?
+A: Deutz TCD 7.8 L6
+
+Q: What is the maximum gross power of the SW405K Wheel Loader?
+A: 262 hp (195 kW)
+
+Q: What is the net engine power of the SW405K Wheel Loader?
+A: 252 hp (188 kW)
+
+Q: What is the maximum gross torque of the SW405K Wheel Loader?
+A: 962 lb-ft (1304 N•m)
+
+Q: What is the displacement of the SW405K Wheel Loader?
+A: 476 cu. in. (7.8 L)
+
+Q: What is the bore/stroke of the SW405K Wheel Loader?
+A: 4.3 in./5.4 in. (110 mm /136 mm)
+
+Q: What is the minimum engine speed of the SW405K Wheel Loader?
+A: 790 rpm–810 rpm
+
+Q: What is the maximum engine speed of the SW405K Wheel Loader?
+A: 2250 rpm–2350 rpm
+
+Q: What is the specific fuel consumption of the SW405K Wheel Loader?
+A: 20.32 lb/hph (192 g/kWh)
+
+Q: What is the engine weight of the SW405K Wheel Loader?
+A: 3598 lb. (725 kg)
+
+Q: What is the electrical system voltage of the SW405K Wheel Loader?
+A: 24V
+
+Q: What is the battery voltage of the SW405K Wheel Loader?
+A: 12V
+
+Q: What is the battery capacity of the SW405K Wheel Loader?
+A: 120 Ah
+
+Q: What is the alternator power output of the SW405K Wheel Loader?
+A: 1960W/70A
+
+Q: What is the starter motor power output of the SW405K Wheel Loader?
+A: 10 hp (7.5 kW)
+
+Q: What is the transmission model of the SW405K Wheel Loader?
+A: Dana TZL 18
+
+Q: What is the transmission type of the SW405K Wheel Loader?
+A: Rotary, electrically controlled shifting gear box
+
+Q: What are the shift modes of the SW405K Wheel Loader?
+A: Automatic, manual, kick down
+
+Q: What is the number of gears of the SW405K Wheel Loader?
+A: 4 forward/3 reverse
+
+Q: What is the shifting type of the SW405K Wheel Loader?
+A: Semi-automatic
+
+Q: What is the front axle type of the SW405K Wheel Loader?
+A: Fixed
+
+Q: What is the front axle traction aid of the SW405K Wheel Loader?
+A: Manual differential lock
+
+Q: What is the rear axle type of the SW405K Wheel Loader?
+A: Oscillating
+
+Q: What is the rear axle traction aid of the SW405K Wheel Loader?
+A: Open differential
+
+Q: What is the service brake type of the SW405K Wheel Loader?
+A: 4-wheel, wet-type, hydraulic brakes
+
+Q: What is the park brake type of the SW405K Wheel Loader?
+A: Electronically controlled, hydraulic caliper disc brake
+
+Q: What is the maximum flow of the SW405K Wheel Loader?
+A: 81 gpm (307 Lpm)
+
+Q: What is the maximum pressure of the SW405K Wheel Loader?
+A: 3916 psi (27 mPa)
+
+Q: What is the raise time of the SW405K Wheel Loader?
+A: 5.4 sec
+
+Q: What is the dump time of the SW405K Wheel Loader?
+A: 1.9 sec
+
+Q: What is the float down time of the SW405K Wheel Loader?
+A: 3.3 sec
+
+Q: What is the total cycle time of the SW405K Wheel Loader?
+A: 10.6 sec
+
+Q: What is the operating weight of the SW405K Wheel Loader?
+A: 40,786 lb. (18,500 kg)
+
+Q: What is the engine weight of the SW405K Wheel Loader?
+A: 1599 lb. (725 kg)
+
+Q: What is the radiator assembly weight of the SW405K Wheel Loader?
+A: 397 lb. (180 kg)
+
+Q: What is the hydraulic oil tank assembly weight of the SW405K Wheel Loader?
+A: 388 lb. (176 kg)
+
+Q: What is the fuel tank assembly weight of the SW405K Wheel Loader?
+A: 569 lb. (258 kg)
+
+Q: What is the operator cab weight of the SW405K Wheel Loader?
+A: 1985 lb. (900 kg)
+
+Q: What is the seat weight of the SW405K Wheel Loader?
+A: 80 lb. (36 kg)
+
+Q: What is the counterweight weight of the SW405K Wheel Loader?
+A: 1932 lb. (876 kg)
+
+Q: What is the hydraulic pump weight of the SW405K Wheel Loader?
+A: 66.5 lb. (30 kg)
+
+Q: What is the damping accumulator weight of the SW405K Wheel Loader?
+A: 66.5 lb. (30 kg)
+
+Q: What is the tandem valve weight of the SW405K Wheel Loader?
+A: 232 lb. (105 kg)
+
+Q: What is the boom cylinder weight of the SW405K Wheel Loader?
+A: 356.5 lb. (161.6 kg)
+
+Q: What is the steering cylinder weight of the SW405K Wheel Loader?
+A: 377 lb. (171 kg)
+
+Q: What is the bucket cylinder weight of the SW405K Wheel Loader?
+A: 78 lb. (35 kg)
+
+Q: What is the connecting rod assembly weight of the SW405K Wheel Loader?
+A: 117 lb. (53 kg)
+
+Q: What is the rocker arm assembly weight of the SW405K Wheel Loader?
+A: 701 lb. (318 kg)
+
+Q: What is the bucket assembly weight of the SW405K Wheel Loader?
+A: 3340 lb. (1515 kg)
+
+Q: What is the boom assembly weight of the SW405K Wheel Loader?
+A: 2448 lb. (1110 kg)
+
+Q: What is the front axle assembly weight of the SW405K Wheel Loader?
+A: 1720 lb. (780 kg)
+
+Q: What is the rear axle assembly weight of the SW405K Wheel Loader?
+A: 1852 lb. (840 kg)
+
+Q: What is the transmission assembly weight of the SW405K Wheel Loader?
+A: 1433 lb. (650 kg)

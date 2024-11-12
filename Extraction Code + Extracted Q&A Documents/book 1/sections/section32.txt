@@ -1,0 +1,118 @@
+5-16MAINTENANCE
+SW405K Wheel Loader OMMCheck Air Conditioner Compressor Belt 
+Tension
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the engine compartment access doors. See 
+“Engine Compartment Access Doors” on page 3-6.
+0002467Figure 5-15
+NOTE: The air conditioner compressor belt is equipped 
+with an automatic belt tensioner (1). If the air conditioner compressor belt (3) deflection is more than specified, replace the belt first. If the deflection is not resolved, replace the tensioner.
+4. Check the air conditioner compressor belt between 
+the air conditioner compre ssor (2) and the crankshaft 
+pulley (4). The belt deflection should be between 0.28 in.–0.30 in (7 mm–10 mm).
+5. Inspect the belt for wear or damage. Replace the belt 
+if any damage is noted.
+Inspect the Engine Air Filters
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.00004843Figure 5-16
+4. Release three latches (1) and remove the engine air 
+filter housing cover (2).
+0004844Figure 5-17
+5. Remove the primary air filter (4) from the engine air 
+filter housing (5).
+6. Inspect the primary air filter for signs of damage, 
+wear, or blockage. Replace the air filter as needed.
+2
+31
+3
+4
+21
+1
+1
+3
+4
+5
+
+MAINTENANCE
+5-17 SW405K Wheel Loader OMM0004845Figure 5-18
+NOTE: Do not attempt to clean the air filter elements.
+7. Clean the inside of the air cleaner housing.
+8. Inspect the secondary air filter (6) for signs of 
+damage, wear, or blockage. Replace the air filter as needed.
+9. Install the primary air filter and air filter housing cover, 
+making sure the dust valve (3) is pointe d downward.
+Replace the Primary Engine Air Filter
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004843Figure 5-194. Release three latches (1) and remove the air filter 
+housing cover (2).
+0004844Figure 5-20
+5. Remove the primary air filter (4) from the air filter 
+housing (5).
+0004845Figure 5-21
+6. Clean the inside of the air filter housing (6).7. Install a new primary filter over the secondary filter 
+(6), making sure it seats firmly.
+8. Install the air filter housing end cover, making sure 
+that the dust valve (3 ) is pointed downward.
+6
+21
+1
+1
+3
+4
+5
+6
+
+5-18MAINTENANCE
+SW405K Wheel Loader OMMReplace the Secondary Engine Air Filter
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004843Figure 5-22
+4. Release three latches (1) and remove the air filter 
+cover (2).
+0004844Figure 5-23
+5. Remove the primary air filter (4) from the air filter 
+housing (5).0004845Figure 5-24
+6. Clean the inside of the air filter housing before 
+removing the secondary filter element (6).
+7. Remove the secondary engine air filter from the 
+housing.
+8. Install a new secondary engine air filter into the 
+engine air filter housing, making sure it is seated 
+firmly on the base.
+9. Install a new primary engine air filter, making sure it 
+seats firmly.
+10. Install the air filter housing cover, making sure that 
+the dust valve (3) is pointed downward.
+Check Engine Valve Clearance
+Contact a SANY dealer regarding this procedure.
+Replace the Engine Crankcase Breather
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+21
+1
+1
+3
+4
+5
+6
+

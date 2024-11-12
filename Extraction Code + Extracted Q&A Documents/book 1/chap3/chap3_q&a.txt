@@ -1,0 +1,177 @@
+Q: What is the purpose of the bell crank?
+A: Not specified in the text.
+
+Q: Where is the diesel exhaust fluid (DEF) tank located?
+A: On the right side of the machine.
+
+Q: What is the function of the boom cylinders?
+A: Not specified in the text.
+
+Q: Where is the battery compartment located?
+A: Not specified in the text.
+
+Q: What is the purpose of the backup camera?
+A: To provide a view of the area behind the machine.
+
+Q: How do you secure the cab door in the open position?
+A: Press the door handle button, swing the door open, and firmly seat the door catch into the door latch.
+
+Q: How do you close the cab door?
+A: Push the latch down to release the door, and swing the door until it engages the door latch.
+
+Q: How do you open the electrical compartment access door?
+A: Unlock and press the door handle button to swing the door open.
+
+Q: How do you prevent the electrical compartment access door from closing unexpectedly?
+A: Place the support rod into the bracket.
+
+Q: What is the function of the front control console?
+A: Not specified in the text.
+
+Q: What is the purpose of the joystick?
+A: To control the machine's direction of travel.
+
+Q: How do you adjust the seat?
+A: Adjust the armrest angle, backrest angle, seat and armrest console forward/backward, suspension, seat forward/backward, seat base forward/backward, and seat bottom tilt.
+
+Q: How do you increase engine speed?
+A: Press the accelerator pedal.
+
+Q: How do you decrease engine speed?
+A: Release the accelerator pedal.
+
+Q: How do you engage the front differential lock?
+A: Press and hold the switch.
+
+Q: How do you disengage the front differential lock?
+A: Release the switch.
+
+Q: How do you apply the service brakes?
+A: Press the left or right service brake pedals.
+
+Q: What is the function of the monitor?
+A: To display various machine operational parameters and the operating system menu screens.
+
+Q: How do you control the machine's direction of travel?
+A: Use the steering wheel.
+
+Q: What is the purpose of the steering knob?
+A: To provide one-hand operation when needed.
+
+Q: How do you adjust the steering column?
+A: Press the steering column tilt lock down to position the steering wheel for operator comfort.
+
+Q: How do you select forward travel?
+A: Move the transmission control lever up.
+
+Q: How do you select reverse travel?
+A: Move the transmission control lever down.
+
+Q: How do you select neutral?
+A: Move the transmission control lever to the middle.
+
+Q: How do you enable or disable the joystick F-N-R rocker switch?
+A: Use the joystick forward/reverse enable switch.
+
+Q: What is the function of the horn button?
+A: To sound the horn.
+
+Q: What is the function of the kickdown (KD) button?
+A: To select the forced downshifting function.
+
+Q: What is the function of the upper switch panel?
+A: Not specified in the text.
+
+Q: What is the function of the lower front switch panel?
+A: Not specified in the text.
+
+Q: What is the function of the lower rear switch panel?
+A: Not specified in the text.
+
+Q: What is the function of the transmission shift selector dial?
+A: To select one of four transmission functions.
+
+Q: What is the function of the key switch?
+A: To shut down the engine and electrical current, preheat the engine, allow the engine to remain running, and start the engine.
+
+Q: How do you control the fan speed?
+A: Use the fan speed control rotary switch.
+
+Q: How do you turn the heater on or off?
+A: Use the heater on/off control switch.
+
+Q: How do you adjust the temperature?
+A: Use the temperature control dial.
+
+Q: How do you control the airflow?
+A: Use the recirculated/fresh-air control switch.
+
+Q: How do you adjust the seat?
+A: Adjust the armrest angle, backrest angle, seat and armrest console forward/backward, suspension, seat forward/backward, seat base forward/backward, and seat bottom tilt.
+
+Q: How do you buckle the seat belt?
+A: Grasp the latch plate, pull the seat belt out of the recoil assembly, and insert the latch plate into the buckle.
+
+Q: How do you unbuckle the seat belt?
+A: Press the red button to release the latch plate from the buckle.
+
+Q: How do you turn the radio on or off?
+A: Press and release the power button.
+
+Q: How do you adjust the volume?
+A: Press the plus (+) or minus (–) buttons.
+
+Q: How do you tune to a radio station?
+A: Press the left ◄ or right ► TUNING buttons.
+
+Q: How do you turn the backup camera system on or off?
+A: Press the POWER button.
+
+Q: How do you access the menu screen?
+A: Press the MENU button.
+
+Q: How do you adjust the display contrast?
+A: Press the MODE button.
+
+Q: How do you access the picture screen?
+A: Press the – or + buttons to scroll to the desired menu option, and then press the MENU button.
+
+Q: How do you adjust the screen brightness?
+A: Press the - or + button to adjust the screen brightness level.
+
+Q: How do you adjust the screen contrast?
+A: Press the - or + button to adjust the screen contrast.
+
+Q: How do you adjust the color?
+A: Press the - or + button to adjust the color.
+
+Q: How do you adjust the volume?
+A: Press the - or + button to increase or decrease the volume to the desired level.
+
+Q: How do you select a language?
+A: Press the - or + buttons to scroll to the desired language option, and then press the MENU button.
+
+Q: How do you invert the camera image?
+A: Press the MENU button.
+
+Q: How do you change the video output?
+A: Press the - or + buttons to select the desired video output.
+
+Q: How do you select the display mode?
+A: Press the - or + buttons to select the desired display mode.
+
+Q: How do you select the screen display format?
+A: Press the - or + buttons to select the desired screen display format.
+
+Q: How do you change the unit of measure?
+A: Access the MAIN MENU screen, press the - or + buttons to scroll to select the units option, and then press the MENU button.
+
+Q: How do you access the park setup screen?
+A: Contact a SANY dealer for additional information.
+
+Q: How do you access the interval configuration screen?
+A: Contact a SANY dealer for additional information.
+
+Q: How do you access the camera delay screen?
+A: Contact a SANY dealer for additional information.
+

@@ -1,0 +1,144 @@
+MAINTENANCE
+5-47 SW405K Wheel Loader OMMNOTE: The oil level should be level with the bottom of the 
+fill/check plug hole.
+7. Add oil as necessary. See “Industrial Gear 
+Oil/Temperature Data” on page 5-7.
+8. Install the fill/check plug.
+Change the Front and Rear Axle Oil
+NOTE: Change the drive axle oil after the initial 14 days 
+or 100 hours of service, then every 6 months or 
+1000 hours thereafter.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Chock the wheels.
+WARNING
+  • Risk of high pressure injection of oil through 
+skin.
+  • Residual pressure in the brake system may 
+cause oil to be released under high pressure, even if the engine has stopped running for a period of time.
+  • Before performing any type of service on the 
+brake system, make sure to relieve the brake hydraulic pressure.
+Failure to follow this warning can result in serious 
+injury.
+0004893Figure 5-105
+4. Press and release the brake pedal 30 to 40 times to 
+relieve the pressure in the brake accumulator.
+NOTE: For axle oil capacities, see “Location, Capacity, 
+and Type” on page 5-6.5. Place an appropriately sized container under the 
+drain plug (2) on the bottom of the axle, then remove the drain plug and the fill/check plug (1).
+NOTE: Inspect the drained oil for signs of metal particles 
+and foreign material. If any abnormality is found, collect an axle oil sample and send out for testing. See “Collect Front and Rear  Axle Oil Samples” on 
+page 5-51.
+NOTICE!
+Dispose of the used oil in compliance with all applicable environmental regulations. Failure to do so could damage the environment.
+6. Install the drain plug when all of the oil has drained.
+7. Add gear oil as needed th rough the fill/check plug (2) 
+hole until it reaches the bo ttom edge of the fill/check 
+plug hole.
+Replace the Brake Line Filter 
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the key switch to ON, but do not start the 
+engine.
+WARNING
+  • Risk of high pressure injection of oil through 
+skin.
+  • Residual pressure in the brake system may 
+cause oil to be released under high pressure, even if the engine has stopped running for a period of time.
+  • Before performing any type of service on the 
+brake system, make sure to relieve the brake hydraulic pressure.
+Failure to follow this warn ing can result in serious 
+injury.
+3. Press and release the brake pedal 30 to 40 times to 
+relieve the pressure in the brake accumulator.
+4. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+1
+2
+
+5-48MAINTENANCE
+SW405K Wheel Loader OMM0004872Figure 5-106
+5. The brake line filter is inside the machine frame on 
+the left side near the fr ame articulation joint. 
+NOTICE!
+Dispose of hydraulic oil and filters in accordance 
+with all applicable en vironmental regulations.
+Failure to follow this notice could damage the 
+environment.
+6. Place an appropriately sized container under the 
+brake line filter housing (2) to catch any oil that may leak out.
+7. Remove the brake line filter housing.8. Remove the brake line filter element (3) from the 
+brake line filter head (1).
+9. Clean the inside of the brake line filter housing.10. Install a new brake line filt er element onto the filter 
+head.
+11. Install and tighten the brake line filter housing.12. Turn the battery disconnect switch to ON.13. Start the engine.14. Run the engine for 10 minutes.15. Shut down the engine and check for leaks.16. Check the hydraulic oil level. “Check the Hydraulic 
+Oil Level” on page 5-35.
+Check the Transmission and Engine 
+Mounting Fasteners
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Check for loose, worn, or damaged transmission and 
+engine mounting fasteners.
+NOTE: Contact a SANY dealer if service is required.Check the Transmission Oil Level
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Chock the wheels.3. Warm the transmission oil to operating temperature.
+0004905Figure 5-107
+NOTE: Transmission oil level should be checked with 
+the engine running at idle (600 rpm) at 
+180°F–200°F (82°C–93°C).
+4. Remove the dipstick (1) fr om the transmission filler 
+tube (2).
+0000924Figure 5-108
+5. Check the transmission oil level on the dipstick. The 
+level must be between the high (3) and low (4) marks.
+NOTICE!
+Do not overfill with tran smission oil so the oil 
+level is above the high mark on the dipstick. This could result in transmission damage and improper machine operation.
+6. Shut down the engine and add transmission oil as 
+needed through the filler tube. See “Location, 
+Capacity, and Type” on page 5-6.
+1
+2
+3
+21
+43
+
+MAINTENANCE
+5-49 SW405K Wheel Loader OMM7. If transmission oil has been added, wait 2 minutes 
+before restarting the e ngine and checking the 
+transmission oil level.
+Change the Transmission Oil and Filter
+NOTE: Replace the transmission oil after the initial 
+14 days or 100 hours of service, then every 6 months or 1000 hours thereafter.
+NOTE: Collect a sample of oil fo r testing. Se e “Collect 
+Transmission Oil Sample” on page 5-52.
+WARNING
+Do not perform this task when the engine is hot. Wait for the engine to cool before proceeding. Failure to do so could result in burns or other serious injury.
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+0004890Figure 5-109
+NOTE: For the transmission oil capacity of the 
+transmission, see “Location, Capacity, and Type” on page 5-6.
+3. Place an appropriately sized container under the 
+transmission drain plug (1).
+4. Remove the transmission drain plug.5. Install the transmission drain plug when all of the 
+transmission oil has drained.0004861Figure 5-110
+NOTICE!
+Dispose of transmission oil and filters in accordance with all applicable environmental regulations. Failure to follow this notice could damage the environment.
+NOTE: Remove all gasket residue from the mating 
+surface of the filter head. Failure to do so may result in transmission oil leakage.
+6. Place an appropriately sized container under the 
+transmission o il filter (2).
+7. Remove the transm ission oil filter.
+8. Clean the transmission oil filter mounting surface.9. Apply a thin film of transmission oil to the gasket of 
+the new transmission oil filter.
+10. Install the new transmission oil filter until the filter 
+gasket makes contact with the transmission filter mount, then tighten the transmission oil filter 3/4 of a turn.
+1
+2
+

@@ -1,0 +1,117 @@
+5-50MAINTENANCE
+SW405K Wheel Loader OMM0004905Figure 5-111
+11. Remove the dipstick (3) from the transmission filler 
+tube (4).
+12. Add the appropriate amount of transmission oil 
+through the filler tube. See “Location, Capacity, and 
+Type” on page 5-6.
+NOTICE!
+Do not overfill with tran smission oil so the oil 
+level is above the high mark on the dipstick. This could result in transmission damage and improper machine operation.
+0000924Figure 5-112
+13. Run the engine at 500–600 rpm until the 
+transmission temperature reaches 180°F–200°F (82°C–90°C). See “Transmission Information Screens” on page 3-33.
+14. Check the transmission oil level on the dipstick. The 
+level must be between the high (5) and low (6) marks.
+15. Adjust transmission oil as needed.
+Collect Oil Samples
+1. Obtain an oil analysis sample kit from a SANY dealer.2. Operate the machine unt il the lubricant in the 
+compartment being tested is up to normal operating temperature.
+CAUTION
+To make sure of the validity of the oil sample, it is critical that all the material used to collect the sample are absolutely clean.  Failure to follow this 
+caution can cause equipment damage and contaminate the sample.
+3. Send the samples for testing in accordance with the 
+instructions packaged with the sample kit.
+Collect Engine Oil Sample
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+3. Open the left side engine compartment access 
+doors. See “Engine Compartment Access Doors” on page 3-6.
+0004901Figure 5-113
+4. Clean the area around the engine oil dipstick (1).5. Remove the engine oil dipstick.6. Insert the oil samp le tube into the engine oil dipstick 
+tube.
+7. Collect a sample of engine oil.8. Remove the oil sample tube.9. Replace the engine oil dipstick.
+43
+65
+1
+
+MAINTENANCE
+5-51 SW405K Wheel Loader OMMCollect Front and Rear Axle Oil Samples
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Chock the wheels.
+0004893Figure 5-114
+4. Remove the axle check/fill plug (1).5. Insert the oil sample tube  into the fill plug hole.
+6. Collect a sample of axle oil.7. Remove the oil sample tube.8. Replace the O-ring on the check/fill plug.9. Install the axle check/fill plug.10. Repeat the procedure for the other axle.
+Collect Hydraulic Oil Sample
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to the OFF 
+position. See “Battery Disconnect Switch” on page 3-8.
+3. Relieve the hydraulic system pressure. See “Relieve 
+Hydraulic System Pressure” on page 5-36.0002515Figure 5-115
+4. Remove four fasteners (3) and remove the access 
+panel (4).
+0002714Figure 5-116
+NOTE: The hydraulic tank  filler cover may move up while 
+the fasteners are loosened due to the action of an internal spring.
+5. Slowly remove the fasteners (6) while pressing down 
+on the hydraulic ta nk filler cover (5).
+NOTICE!
+Block the filler opening whenever the cover is 
+removed to prevent dirt and debris from entering the hydraulic tank.
+6. Remove the hydraulic  tank filler cover.
+1
+43
+3
+5
+6
+6
+
+5-52MAINTENANCE
+SW405K Wheel Loader OMM0002715Figure 5-117
+7. Insert the oil sample tube into the hydraulic oil tank.8. Collect a sample of hydraulic oil.9. Remove the oil sample tube.10. Remove and install a new O-ring (7). 11. Install the hydraulic tank filler cover.12. Install the access panel.
+Collect Transmission Oil Sample
+1. Prepare the machine for service. See “Maintenance 
+Safety” on page 2-5.
+2. Turn the battery disconnect switch to OFF. See 
+“Battery Disconnect Switch” on page 3-8.
+0000897Figure 5-118
+3. Remove the transmission oil dipstick (1) from the 
+filler tube (2).
+4. Insert the oil sample tu be into the dipstick tube.
+5. Collect a sample of transmission oil.
+6. Remove the oil sample tube.7. Replace the transmission oil dipstick.
+7
+1
+2
+
+MAINTENANCE
+5-53 SW405K Wheel Loader OMMLubricate the Machine
+0004889Figure 5-119
+Apply grease to the fittings on the driveshaft, articulating 
+joint, and the work equipment according to the lubrication chart on the machine.
+NOTICE!
+Always use clean EP (extreme pressure) grease when lubricating the machine. Avoid using 
+low-viscosity greases. SANY recommends greases designed for:
+  • Heavy-duty bearings and general lubrication.
+  • Heavy-duty plain and rolling element bearings 
+operating under severe conditions, including shock loading in wet environments.1) Bucket cylinder grease fitting – base end 9) Lift cylinder grease fitting – base end (both sides)
+2) Steering cylinders grease fitting – rod end (both sides) 10) Center link-to-link arm grease fitting3) Steering cylinders grease fitting – base end 11) Boom-to-bucket grease fitting
+4) Rear axle pivot bearing grease fitting – front 12) Boom-to-bucket grease fitting
+5) Rear axle pivot bearing grease fitting – rear 13) Lift cylinder-to-lift arm grease fitting (both sides)6) Upper articulation joint grease fitting 14) Bell crank link grease fitting
+7) Driveshaft grease fittings 15) Bucket cylinder grease fitting – rod end
+8) Lower articulation joint grease fitting 16) Boom-to-frame grease fitting (both sides)15
+14
+13
+12
+112 3
+971
+1016
+64
+85
+

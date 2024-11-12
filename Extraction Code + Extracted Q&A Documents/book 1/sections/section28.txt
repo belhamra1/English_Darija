@@ -1,0 +1,124 @@
+5-6MAINTENANCE
+SW405K Wheel Loader OMMRecommended Lubricants, Fuel, 
+and Engine Coolant 
+Always use SANY-approved lubricants, coolants, and 
+filters. SANY is not responsible for damage caused by using unauthorized lubricants and coolants.NOTICE!
+Never mix fluids of different brands or viscosities (weights) and never overfill the system you are servicing. Failure to follow these standards can damage the machine or cause it to operate improperly.
+Location, Capacity, and Type 
+Fuel
+WARNING
+  • Fuel or fuel vapors that  come into contact with 
+hot surfaces or electrical components can cause a fire.
+  • Never service the fuel system near an open flame 
+or while smoking. Clean up spilled fuel immediately.
+Failure to follow these wa rnings could result in 
+death or serious injury.
+Deutz
+® recommends the use of No. 2 ultra-low sulfur 
+diesel (ULSD) fuel for all no rmal operations. Use of No. 1 
+diesel fuel in a blend with No. 2 diesel fuel is permitted in cold weather environments when temperatures are below 32°F (0°C).NOTES:
+•  Deutz® does not recommend the use of any diesel 
+fuel with a cetane level less than 40.
+•Do not use gasoline, kerosene, or any unapproved 
+fuels in the fuel system.
+•If fuel waxing or bacteria should occur in the fuel 
+system, have the fuel system professionally serviced.
+Make sure that there is no water or any foreign material 
+in the fuel.
+Take appropriate precautions to prevent fuel 
+contamination during refueling.
+NOTICE!
+Never dilute fuels. Damage to the injection system can result, which causes the machine to operate improperly.
+ LocationApproximate 
+Capacity*Lubricant/Coolant
+Engine 6.08 gal. (23 L) “Engine Oil Viscosity/Temperature Data” on page 5-7.
+Fuel tank 85 gal. (322 L)“Fuel” on page 5-6. Use No. 2 diesel fuel or a mixture of No. 2 
+diesel and No.1 diesel fuels in cold weather conditions.
+Cooling system 5.25 gal. (20 L) “Engine Coolant” on page 5-8.
+Front axle 5 gal. (19 L) “Industrial Gear Oil/Temperature Data” on page 5-7 for 
+additional information. Rear axle 5 gal. (19 L)
+Hydraulic system (including tank) 31 gal. (117 L)“Hydraulic Oil/Ambient Temperature Data” on page 5-8 for 
+additional data.
+Transmission 4.7 gal. (18 L) ATF Dextron III.
+Diesel exhaust fluid (DEF) 10.5 gal. (40 L) Any DEF meeting ISO 22241-1.Spray lubricant NA Any lithium grease-based spray lubricant.
+*Th
+e capacities in the above table are approximations. For exact capacities, use the inspection points, inspection 
+plugs, dipsticks, and sight glasses.
+
+MAINTENANCE
+5-7 SW405K Wheel Loader OMMEngine Oil Viscosity/Temperature Data 
+Lubricating Grease /Temperature Data
+Industrial Gear Oil/Temperature DataOil TypeTemperature °F (°C) 
+-22 
+(-30)-4
+(-20)5
+(-15)32
+(0)50
+(10)68
+(20)86
+(30)104
+(40)122
+(50)
+SAE 10W-40
+SAE 10W-30
+SAE 5W-30
+SAE 5W-40
+SAE 15W-30
+SAE 15W-40
+SAE 20W-50
+NOTE: Due to its comparatively better lubric ating characteristics (including improv ed engine oil consumption, engine 
+operation in frigid climat es, and continued lubricatio n in high temperatures), SAE 5W-40 is recommended for 
+a majority of climates. In some ci rcumstances, short-term use of low-viscosity engine oil in temperatures 
+below 23°F (-5°C) is acceptable. However, long-term use can reduce engine life. 
+Grease Type Summer Winter
+NGLI No. 2 molybdenum disulfide lithium-based grease
+NGLI No.1 molybdenum disulfide lithium-based grease
+NOTE: Always use clean EP (extreme pressure) grease when  greasing the machine. Avoid using low-viscosity 
+greases.
+Oil TypeTemperature °F (°C)
+-4
+(-20)14
+(-10)32
+(0)50
+(10)68
+(20)86
+(30)104
+(40)122
+(50)
+80W-90
+NOTE: Any brand meeting AGMA standard 9005-D94, ISO 3448 grade 220 is acceptable.
+
+5-8MAINTENANCE
+SW405K Wheel Loader OMMHydraulic Oil/Ambient Temperature Data
+Diesel Exhaust Fluid (DEF)
+SANY recommends using diesel exhaust fluid (DEF) that 
+meets ISO 22241-1.
+Engine Coolant
+Engine coolants used can be any brand meeting the Deutz
+® classification TR 0199-99-1115/5 EN.
+Grease
+Always use clean EP (extreme  pressure) grease when 
+greasing the machine. Avoid us ing low-viscosity greases. 
+Use greases designed for:
+• Heavy-duty bearings and gene ral industrial lubrication.
+• Heavy-duty plain and ro lling element bearings 
+operating under severe conditions, including shock loading in wet environments.
+Windshield Washer Fluid
+Only use clean automotive windshield washer fluid. Do not mix concentrates into th e washer fluid. In cold 
+weather areas, use washer fluid with a low temperature rating.Oil TypeTemperature °F (°C)
+-22
+(-30)-4
+(-20)14
+(-10)32
+(0)50
+(10)68
+(20)86
+(30)104
+(40)122
+(50)
+ISO VG 46 anti-wear hydraulic oil
+ISO VG 32 low-temperature anti-wear hydraulic oil
+NOTE: Selection of the proper hydrau lic oil is based on local oper ating climate and conditions.
+• Use ISO VG 46 anti-wear hydraulic oil in temperate climates.• Use ISO VG 32 low-temperature anti-wear hydraulic oil (pour point is -43.6°F [-42°C]) in areas where ambient 
+temperatures can reach -22°F (-30°C) during operation.
+

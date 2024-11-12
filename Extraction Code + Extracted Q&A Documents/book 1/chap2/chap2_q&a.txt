@@ -1,0 +1,99 @@
+Q: What is the purpose of the Hazard Alerts in this manual?
+A: To alert operators, job supervisors, maintenance staff, and jobsite workers to hazardous operating practices and maintenance procedures.
+
+Q: What do the signal words DANGER, WARNING, CAUTION, and NOTICE mean?
+A: DANGER indicates a hazardous situation that will result in death or serious injury if not avoided. WARNING indicates a hazardous situation that could result in death or serious injury if not avoided. CAUTION indicates a hazardous situation that could result in injury if not avoided. NOTICE is used to address practices not related to personal injury.
+
+Q: Who is permitted to operate and/or work on this machine?
+A: Only qualified personnel who have been specifically trained on this machine.
+
+Q: What is the importance of wearing a seat belt while operating the machine?
+A: The seat belt must be worn by the operator at all times.
+
+Q: What should be done with the machine before entering or exiting?
+A: The machine must be at a complete stop, work equipment must be lowered to the ground, and the engine must be shut down.
+
+Q: What should be done in case of a fire on the machine?
+A: Immediately press the emergency stop to shut down the machine, get clear of the machine, and call for help.
+
+Q: What should be done to prevent crushing hazards?
+A: Keep arms, hands, and body inside the windows and door during operation or travel, and keep all guards in place on the machine.
+
+Q: What should be done to prevent electrical fires?
+A: Check the wiring on the machine for damage, make sure the battery is operating in its recommended range, and never install aftermarket electrical equipment without approval from a SANY dealer.
+
+Q: What should be done when working with batteries?
+A: Always work in a well-ventilated area, wear personal protective equipment, and avoid smoking, sparks, or open flames.
+
+Q: What should be done to prevent accidents when traveling with the machine?
+A: Travel in a safe, controlled manner, remain alert at all times, and be sure the areas around the machine are clearly visible.
+
+Q: What should be done when operating the machine on inclined surfaces?
+A: Always check the firmness of the inclined surface before attempting to travel on it, travel straight up or straight down an incline, avoid turning on an incline, and avoid sudden stops.
+
+Q: What should be done to prevent backover accidents?
+A: Keep the windows, mirrors, cameras, and lights clean and in good condition, warn others with the horn before moving the machine, and use a signalman if the view is obstructed when backing up.
+
+Q: What should be done to prevent environmental pollution?
+A: Obey all regulations when disposing of harmful items, recycle used oil, coolant, and filters, and do not pour oil and coolant onto the ground or into bodies of water.
+
+Q: What should be done when operating the machine in high-voltage areas?
+A: Stay clear of overhead power lines, treat all overhead power lines as being energized and not insulated, and avoid direct contact with high-voltage power lines.
+
+Q: What should be done to prevent dust and chemical hazards?
+A: Use approved personal protective equipment, follow all environmental safety regulations, and consult the Safety Data Sheet (SDS) for guidelines on PPE, proper handling and clean up, and correct reporting agencies if needed.
+
+Q: What should be done to prevent accidents when working with hydraulic systems?
+A: Relieve the system pressure before disconnecting or removing components, and always use the correct tools and follow the proper procedures.
+
+Q: What should be done to prevent accidents when working with electrical systems?
+A: Clean the electrical system using industry-approved electrical cleaners, avoid using caustic soaps, high-pressure water, or steam cleaners, and always follow the proper procedures when working with electrical systems.
+
+Q: What should be done to prevent accidents when working with fluids?
+A: Always check the fluid levels and condition before starting the machine, use the correct type and amount of fluids, and always follow the proper procedures when working with fluids.
+
+Q: What should be done to prevent accidents when working with high-pressure fluid lines?
+A: Never perform repairs to items while any system is under pressure, never use hands to check or feel for leaks, and always wear safety glasses and leather gloves when working with high-pressure fluid lines.
+
+Q: What should be done to prevent accidents when working with accumulators?
+A: Never disassemble the accumulator, never expose the accumulator to temperatures over 140°F (60°C) or to open flames, and never weld on the accumulator.
+
+Q: What should be done to prevent accidents when working with batteries?
+A: Always work in a well-ventilated area, wear personal protective equipment, and avoid smoking, sparks, or open flames.
+
+Q: What should be done to prevent accidents when traveling with the machine?
+A: Travel in a safe, controlled manner, remain alert at all times, and be sure the areas around the machine are clearly visible.
+
+Q: What should be done to prevent accidents when operating the machine on inclined surfaces?
+A: Always check the firmness of the inclined surface before attempting to travel on it, travel straight up or straight down an incline, avoid turning on an incline, and avoid sudden stops.
+
+Q: What should be done to prevent backover accidents?
+A: Keep the windows, mirrors, cameras, and lights clean and in good condition, warn others with the horn before moving the machine, and use a signalman if the view is obstructed when backing up.
+
+Q: What should be done to prevent environmental pollution?
+A: Obey all regulations when disposing of harmful items, recycle used oil, coolant, and filters, and do not pour oil and coolant onto the ground or into bodies of water.
+
+Q: What should be done when operating the machine in high-voltage areas?
+A: Stay clear of overhead power lines, treat all overhead power lines as being energized and not insulated, and avoid direct contact with high-voltage power lines.
+
+Q: What should be done to prevent dust and chemical hazards?
+A: Use approved personal protective equipment, follow all environmental safety regulations, and consult the Safety Data Sheet (SDS) for guidelines on PPE, proper handling and clean up, and correct reporting agencies if needed.
+
+Q: What should be done to prevent accidents when working with hydraulic systems?
+A: Relieve the system pressure before disconnecting or removing components, and always use the correct tools and follow the proper procedures.
+
+Q: What should be done to prevent accidents when working with electrical systems?
+A: Clean the electrical system using industry-approved electrical cleaners, avoid using caustic soaps, high-pressure water, or steam cleaners, and always follow the proper procedures when working with electrical systems.
+
+Q: What should be done to prevent accidents when working with fluids?
+A: Always check the fluid levels and condition before starting the machine, use the correct type and amount of fluids, and always follow the proper procedures when working with fluids.
+
+Q: What should be done to prevent accidents when working with high-pressure fluid lines?
+A: Never perform repairs to items while any system is under pressure, never use hands to check or feel for leaks, and always wear safety glasses and leather gloves when working with high-pressure fluid lines.
+
+Q: What should be done to prevent accidents when working with accumulators?
+A: Never disassemble the accumulator, never expose the accumulator to temperatures over 140°F (60°C) or to open flames, and never weld on the accumulator.
+
+Q: What should be done to prevent accidents when working with batteries?
+A: Always work in a well-ventilated area, wear personal protective equipment, and avoid smoking, sparks, or open flames.
+
